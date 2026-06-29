@@ -49,7 +49,6 @@
   - [Nouns](#nouns-3)
   - [Adjectives](#adjectives-4)
   - [Special modifiers](#special-modifiers-3)
-  - [General rule](#general-rule)
 - [(Cases) Instrumental Case](#cases-instrumental-case)
   - [When to use (instrument)](#when-to-use-instrument)
   - [Nouns](#nouns-4)
@@ -60,6 +59,7 @@
   - [Indeclinable](#indeclinable)
 - [(Nouns) Grammatical Gender](#nouns-grammatical-gender)
   - [General endings](#general-endings)
+  - [Soft sign ending (-ь)](#soft-sign-ending--ь)
   - [Special cases](#special-cases)
 - [(Pronouns) Personal Pronouns](#pronouns-personal-pronouns)
   - [Cases](#cases)
@@ -75,13 +75,14 @@
   - [Definition](#definition)
   - [Endings](#endings)
 - [(Verbs) Infinitive](#verbs-infinitive)
+  - [Definition](#definition-1)
   - [When to use](#when-to-use)
-- [(Verbs) Conjugation](#verbs-conjugation)
+- [(Verbs) Conjugations](#verbs-conjugations)
   - [Е/ё conjugations](#её-conjugations)
   - [И conjugations](#и-conjugations)
   - [General conjugations](#general-conjugations)
 - [(Verbs) Reflexive verbs](#verbs-reflexive-verbs)
-  - [Definition](#definition-1)
+  - [Definition](#definition-2)
   - [Endings (-ся/-сь)](#endings--ся-сь)
   - [Usage](#usage)
   - [Reflexive pronoun (себя)](#reflexive-pronoun-себя)
@@ -541,11 +542,6 @@ Feminine
 | эт**у** | эт**ого**
 | одн**у** | одн**ого**
 
-## General rule  
-for all feminine singular nouns and adjectives:  
-а -> у  
-я -> ю 
-
 # (Cases) Instrumental Case
 ## When to use (instrument)
 **The tool or instrument (with something)**  
@@ -634,7 +630,24 @@ You can use the ending to identify which gender a word belongs to.
 | Hard ending | чемода**н** - ∅ | мест**о** | газет**а** 
 | Soft ending | музе**й**<br> слова**рь** | мор**е**<br> плать**е** | фамили**я**<br> крова**ть** 
 
-:exclamation: For a soft ending with soft sign, you can't identify it is either masculine or feminine, you have to remember!  
+## Soft sign ending (-ь)
+For a soft ending with soft sign, you can't identify it is either masculine or feminine.  
+
+However, there are some tricks for remembering which is masculine and which is feminine:  
+
+**Masculine**
+- Suffix **-арь**
+- Suffix **-тель**. Used to describe professions, people or mechanical tools, acting like **-er** in English.  
+- Months of the year.  
+
+**Feminine**  
+- Suffixes **-ость** or **-есть**. These suffixes create abstract nouns, acting like **-ness** or **-ity** in English.  
+- Hushing consonants (ж, ш, ч, щ) + ь.  
+- Labial consonants (б, в, п, м) + ь. Most of it are feminine with a few exceptions.  
+- Suffix **-знь**.  
+
+**No pattern**  
+- Suffixes **-нь, -ль, -рь or ть**
 
 ## Special cases
 1. Some nouns for people are masculine but take feminine endings, like папа and male nicknames likes Ваня, Толя.  
@@ -789,6 +802,8 @@ To resolve this, Russian inserts a "fill vowel" **(usually е or о)** into the 
 
 
 # (Verbs) Infinitive 
+
+## Definition
 The base class of an action. Always paired to the word "to".  
 
 ## When to use 
@@ -804,8 +819,7 @@ The base class of an action. Always paired to the word "to".
 Я хочу **спать**.  
 (I want to sleep)  
 
-
-# (Verbs) Conjugation  
+# (Verbs) Conjugations  
 ## Е/ё conjugations  
 **Stems ending in vowels**  
 | | Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
