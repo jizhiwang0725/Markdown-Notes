@@ -21,6 +21,9 @@
   - [The 7-letter spelling rule](#the-7-letter-spelling-rule)
   - [The 5-letter spelling rule](#the-5-letter-spelling-rule)
   - [The 8-letter spelling rule](#the-8-letter-spelling-rule)
+- [(Cases) General Ending Patterns](#cases-general-ending-patterns)
+  - [Nouns by genders and number](#nouns-by-genders-and-number)
+  - [Adjectives by genders and number](#adjectives-by-genders-and-number)
 - [(Cases) Nominative Case](#cases-nominative-case)
   - [When to use (subject)](#when-to-use-subject)
   - [Plurals](#plurals)
@@ -50,6 +53,8 @@
 - [(Cases) Instrumental Case](#cases-instrumental-case)
   - [When to use (instrument)](#when-to-use-instrument)
   - [Nouns](#nouns-4)
+  - [Adjective](#adjective)
+  - [Special modifiers](#special-modifiers-4)
 - [(Nouns) General Rules](#nouns-general-rules)
   - [Fleeting vowels](#fleeting-vowels)
   - [Indeclinable](#indeclinable)
@@ -107,7 +112,62 @@ After the letters **ш, щ, ж, ч and ц**, do NOT write **unstressed о**; wri
 After the letters **к, г, х, ж, ч, ш, щ and ц** change **ю to у** and **я to а** 
 
 Especially for И-conjugation verbs
-  
+
+# (Cases) General Ending Patterns
+
+## Nouns by genders and number
+
+**MASCULINE/NEUTER** nouns:  
+
+  | | Prepositional | Genitive<br> Accusative (ani.) | Dative | Instrumental
+  | :---: | :---: | :---: | :---: | :---: 
+  | Hard stem | -е | -а | -у | -ом
+  | Soft stem | -е | -я | -ю | -ем
+
+**FEMININE** nouns:
+
+  | | Prepositional<br> Dative | Genitive | Accusative | Instrumental  
+  | :---: | :---: | :---: | :---: | :---:
+  | Hard stem | -е | -ы | -у | -ой
+  | Soft stem | -е | -и | -ю | -ей
+
+**FEMININE -ь** nouns:
+
+  | Accusative | Instrumental | Other three 
+  | :---: | :---: | :---:
+  | No change | -ью | -и
+
+**PLURAL** nouns:
+
+  | | Prepositional | Dative | Instrumental | Genitive<br> Accusative (ani.)
+  | :---: | :---: | :---: | :---: | :---:
+  | Hard stem | -ах | -ам | -ами | Gender dependent
+  | Soft stem | -ях | -ям | -ями | Gender dependent
+
+## Adjectives by genders and number
+When describing **MASCULINE/NEUTER** nouns:   
+
+  | | Genitive<br> Accusative (ani.)  | Prepositional | Dative   | Instrumental
+  | :---: | :---: | :---: | :---: | :---: 
+  | Hard stem (-ый) | -ого | -ом | -ому  | -ым
+  | Soft stem (-ий) | -его | -ем | -ему  | -им
+
+When describing **FEMININE** nouns:   
+
+  | | Nominative | Accusative | Other four
+  | :---: | :---: | :---: | :---:
+  | Hard stem (-ый) | -ая | -ую | -ой
+  | Soft stem (-ий) | -яя | -юю | -ей 
+
+
+When describing **PLURAL** nouns:  
+
+  | | Nominative | Dative | Instrumental | Other three
+  | :---: | :---: | :---: | :---: | :---: 
+  | Hard stem (-ый) | -ые | -ым | -ыми | -ых 
+  | Soft stem (-ий) | -ие | -им | -ими | -их
+
+
 # (Cases) Nominative Case
 **The base form of the word**  
 
@@ -280,7 +340,7 @@ When ever specify **how much or how many** of something there is, the noun being
 | Ending | Nominative | Masculine<br> Neuter | Feminine 
 | :---: | :---: | :---: | :---: 
 | Hard | журнал<br> письмо<br> газета<br> | журнал**а**<br> письм**а**<br> -| -<br> -<br> газет**ы** | журнала
-| Soft | музея<br> словарь<br> платье<br> неделя<br> | музе**я**<br> словар**я**<br> плать**я** | недел**и**
+| Soft | музея<br> словарь<br> платье<br> неделя<br> | музе**я**<br> словар**я**<br> плать**я**<br> - | -<br> -<br> -<br> недел**и**
 | Fem. -ь | кровать| - | кроват**и**
 
 :warning: remember to apply the 7-letter spelling rule
@@ -308,11 +368,11 @@ Feminine and neuter
 
 ## Adjectives  
 
-| | Masculine<br> Neuter | Feminine 
-| :---: | :---: | :---: 
-| Hard stem (-ый) | нов**ого** | нов**ой** 
-| Soft stem (ий) | син**его** | син**ей** 
-| Spelling rules | хорош**его** (5) | хорош**ей** (5)
+| | Masculine<br> Neuter | Feminine | Plural 
+| :---: | :---: | :---: | :---: 
+| Hard stem (-ый) | нов**ого** | нов**ой** | нов**ых**
+| Soft stem (ий) | син**его** | син**ей** | син**их**
+| Spelling rules | хорош**его** (5) | хорош**ей** (5) | хорош**их** (7)
 
 ## Special modifiers
 
@@ -438,11 +498,11 @@ For singular and plural words:
 
 **Singular**  
 
-|| Nominative | Feminine | Masculine **(animate)**
+|| Nominative | Masculine **(animate)** | Feminine 
 | :---: | :---: | :---: | :---:
-| Hard stems | газета<br> брат | газет**у**<br> - | -<br> брат**а**
-| Soft stems | версия<br> герой<br> учитель| верси**ю**<br> -<br> -| -<br> геро**я**<br> учител**я**
-| Feminine -ь | тетрадь | тетрадь<br> (no change) | -
+| Hard stems  | газета<br> брат | -<br> брат**а** | газет**у**<br> - 
+| Soft stems | версия<br> герой<br> учитель | -<br> геро**я**<br> учител**я** | верси**ю**<br> -<br> -
+| Feminine -ь | тетрадь | - | тетрадь<br> (no change) 
 
 **Plural**   
 
@@ -532,12 +592,30 @@ When you want to say that something happens during a certain time of day or seas
 
 ## Nouns 
 
-| | Nominative | | Instrumental | | 
+| | Nominative | Masculine<br> Neuter | Feminine | Plural
 | :---: | :---: | :---: | :---: | :---: 
-| | | Masculine and Neuter | Feminine | Plural
 | Hard | журнал<br> письмо<br> школа  | журнал**ом**<br> письм**ом**<br> - | -<br> -<br> школ**ой** | журнал**ами**<br> письм**ами**<br> школ**ами** 
 | Soft | словарь<br> музей<br> платье<br> семь<br> кухня| словар**ём**<br> музе**ем**<br> плать**ем**<br> -<br> - | -<br> -<br> -<br> семь**ёй**<br> кухн**ей** | словар**ями**<br> музе**ями**<br> плать**ями**<br> -<br> кухн**ями**  
 | Feminine -ь | тетрадь | - | тетрадь**ю** | тетрад**ями**
+
+## Adjective 
+| | Masculine<br> Neuter | Feminine | Plural
+| :---: | :---: | :---: | :---:
+| Hard stems (-ый) | нов**ым** | нов**ой** | нов**ыми** 
+| Soft stems (ий) | син**им** | син**ей** | син**ими**
+| Spelling rules | хорош**им**(7) | хорош**ей**(5) | хорош**ими**(7) 
+
+## Special modifiers
+| Masculine<br> Neuter | Feminine | Plural
+| :---: | :---: | :---: 
+| чь**им** | чь**ей** | чь**ими**
+| мо**им** | мо**ей** | мо**ими** 
+| тво**им** | тво**ей** | тво**ими**
+| наш**им** | наш**ей** | наш**ими**
+| ваш**им** | ваш**ей** | ваш**ими** 
+| эт**им** | эт**ой** | эт**ими**
+| одн**им** | одн**ой** | одн**ими**
+
 
 # (Nouns) General Rules
 ## Fleeting vowels 
@@ -547,7 +625,6 @@ Most masculine nouns ending in -ок or -ец lose the last vowel when an ending
 Foreign words ending in -о, -и, у are **indeclinable**: they cannot change endings in any formats.  
 
 E.g. радио, такси, метро.  
-
 
 # (Nouns) Grammatical Gender 
 ## General endings 
