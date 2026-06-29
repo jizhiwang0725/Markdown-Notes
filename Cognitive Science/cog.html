@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cog.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<link rel="stylesheet" href="../style.css">
+<div class="toc-sidebar">
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#brain">Brain</a>
+<ul>
+<li><a href="#basic-anatomy">Basic anatomy</a></li>
+<li><a href="#brain-structure">Brain structure</a></li>
+<li><a href="#the-cortex">The cortex</a></li>
+<li><a href="#brain-connectivity-and-damage">Brain connectivity and damage</a></li>
+</ul>
+</li>
+<li><a href="#modelling-the-brain">Modelling the Brain</a>
+<ul>
+<li><a href="#history">History</a></li>
+<li><a href="#questions-raise-viewing-brain-as-a-computer">Questions raise viewing brain as a computer</a></li>
+<li><a href="#david-marrs-three-levels-of-analysis">David Marr's three levels of analysis</a></li>
+<li><a href="#500-million-synapse-model">500-million synapse model</a></li>
+</ul>
+</li>
+<li><a href="#neuron">Neuron</a>
+<ul>
+<li><a href="#action-potential">Action potential</a></li>
+<li><a href="#anatomy">Anatomy</a></li>
+<li><a href="#synapse">Synapse</a></li>
+</ul>
+</li>
+<li><a href="#neuron-models">Neuron Models</a>
+<ul>
+<li><a href="#mcculloch-pitts-neuron">McCulloch-Pitts neuron</a></li>
+<li><a href="#integrate-and-fire-neuron">Integrate and fire neuron</a></li>
+</ul>
+</li>
+<li><a href="#neuron-network">Neuron network</a>
+<ul>
+<li><a href="#perceptrons">Perceptrons</a></li>
+</ul>
+</li>
+<li><a href="#measuring-brain-activity">Measuring brain activity</a>
+<ul>
+<li><a href="#electrical-recordings">Electrical recordings</a></li>
+<li><a href="#magnetic-recordings">Magnetic recordings</a></li>
+<li><a href="#optical-recordings">Optical recordings</a></li>
+<li><a href="#size-resolution-highest-to-lowest">Size resolution (highest to lowest)</a></li>
+<li><a href="#time-resolution-shortest-to-longest">Time resolution (shortest to longest)</a></li>
+</ul>
+</li>
+<li><a href="#vision">Vision</a>
+<ul>
+<li><a href="#active-interpretation-visual-illusions">Active interpretation (visual illusions)</a></li>
+<li><a href="#gibsonian-ecological-perspective">Gibsonian ecological perspective</a></li>
+<li><a href="#main-visual-pathway">Main visual pathway</a></li>
+<li><a href="#what-and-where-pathways">&quot;What&quot; and &quot;Where&quot; pathways</a></li>
+<li><a href="#marr-and-poggios-vision-theory">Marr and Poggio's vision theory</a></li>
+</ul>
+</li>
+<li><a href="#vision-retina">(Vision) Retina</a>
+<ul>
+<li><a href="#photoreceptors">Photoreceptors</a></li>
+<li><a href="#bipolar-cells-and-ganglion-cells-center-surround-cells">Bipolar cells and ganglion cells (center surround cells)</a></li>
+<li><a href="#visual-illusions-with-respect-of-lateral-inhibition">Visual illusions with respect of lateral inhibition</a></li>
+<li><a href="#difference-of-gaussians-dog-receptive-field">Difference of Gaussians (DoG) receptive field</a></li>
+</ul>
+</li>
+<li><a href="#vision-v1">(Vision) V1</a>
+<ul>
+<li><a href="#retinotopical--pinwheel">Retinotopical &amp; pinwheel</a></li>
+<li><a href="#simple-cells">Simple cells</a></li>
+<li><a href="#mathematical-model-of-a-simple-cell-gabors">Mathematical model of a simple cell (Gabor's)</a></li>
+<li><a href="#complex-cells">Complex cells</a></li>
+<li><a href="#convolution">Convolution</a></li>
+</ul>
+</li>
+<li><a href="#vision-ventral-pathway---object-recognition">(Vision) Ventral Pathway - Object Recognition</a>
+<ul>
+<li><a href="#v2">V2</a></li>
+<li><a href="#v3-ventral">V3 ventral</a></li>
+<li><a href="#v4">V4</a></li>
+<li><a href="#inferotemporal-cortex-it">Inferotemporal cortex (IT)</a></li>
+<li><a href="#hmax-model">HMAX model</a></li>
+<li><a href="#concept-cells">Concept cells</a></li>
+</ul>
+</li>
+<li><a href="#categories">Categories</a>
+<ul>
+<li><a href="#why-do-we-need-categories">Why do we need categories?</a></li>
+<li><a href="#rules-based">Rules-based</a></li>
+<li><a href="#prototype-based">Prototype-based</a></li>
+<li><a href="#exemplar-based">Exemplar-based</a></li>
+<li><a href="#qualia-based">Qualia-based</a></li>
+<li><a href="#schema-based">Schema-based</a></li>
+<li><a href="#ad-hoc">Ad Hoc</a></li>
+<li><a href="#interactions">Interactions</a></li>
+<li><a href="#differences-and-similarities">Differences and similarities</a></li>
+</ul>
+</li>
+<li><a href="#social-cognition">Social Cognition</a></li>
+<li><a href="#sc-interaction-mechanisms">(SC) Interaction mechanisms</a>
+<ul>
+<li><a href="#joint-attention">Joint attention</a></li>
+<li><a href="#theory-of-mind-tom">Theory of mind (ToM)</a></li>
+<li><a href="#mirror-neurons">Mirror Neurons</a></li>
+</ul>
+</li>
+<li><a href="#sc-theories-of-intelligence-and-human-uniqueness">(SC) Theories of Intelligence and Human Uniqueness</a>
+<ul>
+<li><a href="#the-cultural-ratchet-effect">The cultural ratchet effect</a></li>
+<li><a href="#bumblebee-study">Bumblebee study</a></li>
+<li><a href="#social-intelligence-hypothesis">Social intelligence hypothesis</a></li>
+</ul>
+</li>
+<li><a href="#sc-linguistic-relativity">(SC) Linguistic Relativity</a>
+<ul>
+<li><a href="#sapir-whorf-hypothesis">Sapir-Whorf hypothesis</a></li>
+</ul>
+</li>
+<li><a href="#language">Language</a>
+<ul>
+<li><a href="#what-are-words">What are words?</a></li>
+<li><a href="#grounding-problem">Grounding problem</a></li>
+<li><a href="#mental-lexicon">Mental lexicon</a></li>
+<li><a href="#expressive-power-of-language-rules">Expressive power of language rules</a></li>
+<li><a href="#terminology">Terminology</a></li>
+</ul>
+</li>
+<li><a href="#language-past-tense">(Language) Past tense</a>
+<ul>
+<li><a href="#rumelhart-and-mcclelland-pdp-neural-network">Rumelhart and McClelland PDP neural network</a></li>
+<li><a href="#argument">Argument</a></li>
+<li><a href="#3-stages-u-shaped-curve">3-stages (U-shaped curve)</a></li>
+<li><a href="#criticisms">Criticisms</a></li>
+</ul>
+</li>
+<li><a href="#learning-and-memory">Learning and Memory</a>
+<ul>
+<li><a href="#short-termworking-memory-stm">Short-term/Working memory (STM)</a></li>
+<li><a href="#long-term-memory-ltm">Long-term Memory (LTM)</a></li>
+<li><a href="#consolidation">Consolidation</a></li>
+<li><a href="#information-retrieval">Information retrieval</a></li>
+<li><a href="#hopfield-network">Hopfield network</a></li>
+</ul>
+</li>
+<li><a href="#large-language-models-llm">Large Language Models (LLM)</a>
+<ul>
+<li><a href="#training-pipeline">Training pipeline</a></li>
+</ul>
+</li>
+<li><a href="#llm-vector-semantics">(LLM) Vector Semantics</a>
+<ul>
+<li><a href="#john-searles-chinese-room-argument">John Searle's Chinese room argument</a></li>
+<li><a href="#co-occurrence-matrix">Co-occurrence matrix</a></li>
+<li><a href="#measuring-semantic-similarity">Measuring semantic similarity</a></li>
+<li><a href="#limitations">Limitations</a></li>
+</ul>
+</li>
+<li><a href="#llm-learned-embeddings">(LLM) Learned Embeddings</a>
+<ul>
+<li><a href="#the-skip-gram-model">The Skip-Gram model</a></li>
+</ul>
+</li>
+<li><a href="#llm-morden-llms">(LLM) Morden LLMs</a>
+<ul>
+<li><a href="#googles-transformer">Google's transformer</a></li>
+<li><a href="#gpt-3-2020">GPT-3 (2020)</a></li>
+</ul>
+</li>
+<li><a href="#reinforcement-learning">Reinforcement Learning</a>
+<ul>
+<li><a href="#classic-conditioning">Classic conditioning</a></li>
+<li><a href="#operant-conditioning">Operant conditioning</a></li>
+<li><a href="#agent-environment-loop">Agent-environment loop</a></li>
+</ul>
+</li>
+<li><a href="#rl-rescorla-wagner-rule-delta-rule">(RL) Rescorla-Wagner rule (Delta-rule)</a>
+<ul>
+<li><a href="#advantages">Advantages</a></li>
+<li><a href="#limitations-1">Limitations</a></li>
+</ul>
+</li>
+<li><a href="#rl-temporal-difference">(RL) Temporal Difference</a>
+<ul>
+<li><a href="#target">Target</a></li>
+<li><a href="#steering-wheel">Steering wheel</a></li>
+<li><a href="#goal">Goal</a></li>
+<li><a href="#td-learning-stimuli-to-states">TD-learning (Stimuli to states)</a></li>
+<li><a href="#q-learning-states-to-action-multiple-paths">Q-learning (States to action, multiple paths)</a></li>
+<li><a href="#limitations-2">Limitations</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="main-content">
+<h1 id="brain">Brain</h1>
+<h2 id="basic-anatomy">Basic anatomy</h2>
+<h2 id="brain-structure">Brain structure</h2>
+<p><strong>Sub-cortical structure</strong><br>
+Cerebellum - movement and timing<br>
+Thalamus - sensory relay<br>
+Brainstem - autonomous functions</p>
+<p><strong>Grey and White matter</strong>
+Grey - neuron cell bodies
+White - axonal fibres that wire different cells together</p>
+<p><strong>Hemispheres</strong><br>
+Connected by corpus callosum<br>
+Left - Analytical tasks and language processing<br>
+Right - Spatial awareness, map reading, and information retrieval</p>
+<p><strong>Lobes</strong><br>
+Frontal - front<br>
+Temporal - lower<br>
+Parietal - upper<br>
+Occipital - back</p>
+<h2 id="the-cortex">The cortex</h2>
+<p><strong>Structure</strong><br>
+Highly convoluted outer layer of the brain - increase surface area</p>
+<p><strong>Cytoarchitecture</strong><br>
+6-layers of types of cells - This suggests the cortex may implement a general purpose organisation for cognition and action.</p>
+<p><strong>Brodmann's area</strong><br>
+52 distinct areas based on their cellular variations</p>
+<h2 id="brain-connectivity-and-damage">Brain connectivity and damage</h2>
+<p><strong>Frontal cortex</strong><br>
+Highly interconnected, responsible for &quot;executive function&quot; like planning, monitoring behaviour, adapting to rule changes, and social cognition</p>
+<p><strong>Sensory cortices</strong><br>
+Distinct cortical regions process sensory inputs:<br>
+Occipital lobe - vision<br>
+Temporal - auditory and olfactory<br>
+Parietal - somatosensory information like touch, temperature, and pain</p>
+<p><strong>Motor system</strong><br>
+Motor cortex uses a topological map (the &quot;motor homunculus&quot;), where the amount of brain tissue dedicated to a body part corresponds to its need for fine control</p>
+<p><strong>Plasticity</strong><br>
+The brain exhibits remarkable plasticity - Phineas Gage (railway worker)</p>
+<h1 id="modelling-the-brain">Modelling the Brain</h1>
+<h2 id="history">History</h2>
+<p><strong>The ancient Greeks &amp; Descartes</strong><br>
+Hydraulics, suggesting the brian pumped fluid through pipes to move the body</p>
+<p><strong>The 1790s</strong><br>
+Use electricity/telegraphs after discovering electrical currents make frog muscles twitch</p>
+<p><strong>The 1800s</strong><br>
+Used mechanical calculators (clockworks and gears)</p>
+<p><strong>The 1930 to present</strong><br>
+Computer. Alan Turing suggested that by attempting to build a &quot;think machine&quot;, we would inadvertently figure out how human thinking actually works</p>
+<h2 id="questions-raise-viewing-brain-as-a-computer">Questions raise viewing brain as a computer</h2>
+<p><strong>Hardware vs. software</strong><br>
+Is mind just a &quot;software&quot; that can run on any hardware, or it is a system that can only be implemented on the biology of real neurons?</p>
+<p><strong>General principle vs. patchwork</strong><br>
+Does the brain function purely based on just by a few basic, generalized algorithmic principles, or a massive amount of specialised modules?</p>
+<p><strong>The Cartesian Error</strong><br>
+Does this analogy accidentally separate the &quot;mind&quot; from the &quot;body&quot; too much, ignoring how deeply interconnected they are?</p>
+<h2 id="david-marrs-three-levels-of-analysis">David Marr's three levels of analysis</h2>
+<ol>
+<li><strong>Computational level</strong><br>
+What specific problem the system is trying to solve and why</li>
+<li><strong>Algorithmic level</strong><br>
+Looks for mathematical rules, representations or formulas used to solve the problem</li>
+<li><strong>Implementation level</strong><br>
+Physical hardware. How is the algorithmic solution physically built into the real world</li>
+</ol>
+<p>Marr's suggested you can understand a system form an algorithmic level without understanding its implementation level.</p>
+<h2 id="500-million-synapse-model">500-million synapse model</h2>
+<p>Build from the &quot;Implementation&quot; level up to see what happens</p>
+<p>Used brain-scanning technology to map the actual &quot;white matter&quot; wiring of a real human brain.<br>
+They built a <strong>virtual model</strong> of one entire brain hemisphere containing 500 million synapses</p>
+<p>They didn't program the brain, but the network spontaneously generated rhythmic firing and propagating &quot;waves&quot; of electrical activity.</p>
+<h1 id="neuron">Neuron</h1>
+<h2 id="action-potential">Action potential</h2>
+<p>If a neuron receives enough positive current to cross a specific voltage threshold, it fires an &quot;action potential&quot;. This is an all-or-nothing event that lasts about 1 ms.</p>
+<img src="./Diagrams/action_potential.png">
+<p><strong>Refractoriness</strong><br>
+After firing, the neuron's voltage dips below its resting state (hyperpolarization). During this &quot;refractory period&quot;, it is impossible for the neuron to fire again.</p>
+<h2 id="anatomy">Anatomy</h2>
+<p>Dendrites - collects input<br>
+Axons - Transmitting signals<br>
+Myelin Sheath - patty insulator allows spikes to travel at fast speed</p>
+<h2 id="synapse">Synapse</h2>
+<p><strong>Chemical conversion</strong><br>
+The electrical spike forces &quot;vesicles&quot; to fuse with the cell membrane, dumping chemical neurotransmitters into the cleft. These chemicals bind to receptors on the receiving cell, opening ion channels and converting the signal back into an electrical current</p>
+<p><strong>Biological noise</strong><br>
+Two identical spikes will never release the exact same amount of neurotransmitters</p>
+<p><strong>Dale's principle</strong><br>
+Generally, a single neuron can only form one type of synapses - it either excites all its targets or it inhibits all its targets</p>
+<h1 id="neuron-models">Neuron Models</h1>
+<p><strong>Limitations</strong><br>
+Linear summation vs. Non-linear biology
+Deterministic vs Stochastic nature</p>
+<h2 id="mcculloch-pitts-neuron">McCulloch-Pitts neuron</h2>
+<p>$$
+\begin{aligned}
+n_i(t+1)   &amp;= \Theta (\sum_j W_{ij} n_j(t) - \mu_i) \
+\Theta (x) &amp;= \begin{cases}
+1 &amp; x \le 0 \
+0 &amp; \text{otherwise}
+\end{cases} \\</p>
+<p>\mu_i &amp;- \text{Threshold}</p>
+<p>\end{aligned}
+$$</p>
+<p><strong>Limitations</strong><br>
+No memory over time<br>
+Violates Dal's principle<br>
+Unrealistic &quot;Step-like&quot; changes</p>
+<h2 id="integrate-and-fire-neuron">Integrate and fire neuron</h2>
+<p>$$
+\begin{aligned}
+\text{Leak: }      V(t) &amp;\leftarrow V(t-1) + \frac{\Delta}{\tau}[-V(t-1)] \
+\text{Add input: } V(t) &amp;\leftarrow V(t) + \frac{\Delta}{\tau}I_{ext}(t) \</p>
+<p>V(t)                    &amp;= V(t-1) + \frac{\Delta}{\tau} [-V_m(t-1) + I_{ext}(t)] \
+\text{if } V(t)         &amp;&gt; V_{thr} \text{ then spike and } V(t+1) = V_{reset} \\</p>
+<p>I(t)      &amp;- \text{External input form synapses} \
+V(t)      &amp;- \text{Without input tends towards zero (resting potential)} \
+\tau      &amp;- \text{Membrane time constant, determines how fast to potential changes} \
+V_{reset} &amp;- \text{Reset potential after a spike} \
+\Delta    &amp;- \text{Parameter that determines the simulation time step} \
+I_{ext}(t)&amp;- \text{Noise (irregular spiking)}
+\end{aligned}
+$$</p>
+<img src="./Diagrams/integrate_and_fire.png">
+<p><strong>Limitations</strong><br>
+It doesn't model the spike<br>
+Simplified Integration<br>
+Deterministic rather Stochastic.</p>
+<h1 id="neuron-network">Neuron network</h1>
+<h2 id="perceptrons">Perceptrons</h2>
+<h1 id="measuring-brain-activity">Measuring brain activity</h1>
+<h2 id="electrical-recordings">Electrical recordings</h2>
+<ul>
+<li>
+<p><strong>Single/Multi-Electrodes</strong></p>
+<ul>
+<li>Intracellular electrodes<br>
+Measure internal membrane voltage.</li>
+<li>Extracellular electrodes<br>
+Measure the spiking activity of neurons</li>
+</ul>
+</li>
+<li>
+<p><strong>Implantable Arrays</strong><br>
+A tiny grid-like device made up of dozens or hundreds of microscopic wires, each with a recording contact at the very tip. A small piece of the skull is temporarily removed (invasive), and the grid is pushed directly into the tissue of the brain.</p>
+</li>
+<li>
+<p><strong>Neuropixels Probe</strong><br>
+A single, thin needle packed with microscopic recording contacts from top to bottom.<br>
+Records activities across layers - for investigating how different layers interact.</p>
+</li>
+<li>
+<p><strong>Electrocorticography (ECoG)</strong><br>
+Measures electrical population responses using a grid of electrodes placed directly <strong>on the surface of the brain (invasive)</strong></p>
+</li>
+<li>
+<p><strong>Electroencephalography (EEG)</strong><br>
+Measures the electrical activity of large populations of neurons via sensors <strong>on the scalp</strong>.<br>
+Captures brain wave patterns in real-time.</p>
+<p><strong>Electroencephalogram: Event Related Potentials (ERPs)</strong><br>
+Average over many stimulus repetitions. The random noise mathematically cancels itself out.</p>
+</li>
+</ul>
+<h2 id="magnetic-recordings">Magnetic recordings</h2>
+<p><strong>Magnetic field</strong></p>
+<ul>
+<li><strong>Magnetoencephalography (MEG)</strong><br>
+Measures the minute magnetic fields produced by the electrical activity of neural populations.</li>
+</ul>
+<p><strong>Blood-oxygen-level dependent contrast</strong></p>
+<ul>
+<li><strong>Functional Magnetic Resonance Imaging (fMRI)</strong><br>
+Measures blood-oxygen level dependent (BOLD) contrast. Because active neurons consume more oxygen, this metabolic change serves as a proxy for neural and synaptic activity.</li>
+</ul>
+<h2 id="optical-recordings">Optical recordings</h2>
+<ul>
+<li><strong>Fluorescence imaging</strong><br>
+Uses fluorescent calcium indicators that light up to measure neural activity visually</li>
+</ul>
+<h2 id="size-resolution-highest-to-lowest">Size resolution (highest to lowest)</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Type</th>
+<th style="text-align:left">Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Intracellular Electrodes</td>
+<td style="text-align:left">Individual cells</td>
+</tr>
+<tr>
+<td style="text-align:center">Extracellular</td>
+<td style="text-align:left">Individual cells</td>
+</tr>
+<tr>
+<td style="text-align:center">Optical</td>
+<td style="text-align:left">100 - 10000 individual neurons<br> (3D volumes)</td>
+</tr>
+<tr>
+<td style="text-align:center">ECoG</td>
+<td style="text-align:left">Patches of cortex</td>
+</tr>
+<tr>
+<td style="text-align:center">fMRI</td>
+<td style="text-align:left">Up tp millions of neurons<br> (3D volumes - voxels)</td>
+</tr>
+<tr>
+<td style="text-align:center">EEG &amp; MEG</td>
+<td style="text-align:left">Millions of neurons<br> (Distorted by skull)</td>
+</tr>
+<tr>
+<td style="text-align:center">Lesions</td>
+<td style="text-align:left">Affecting entire anatomical regions</td>
+</tr>
+</tbody>
+</table>
+<h2 id="time-resolution-shortest-to-longest">Time resolution (shortest to longest)</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Type</th>
+<th style="text-align:left">Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Electrodes<br> (intra/extracellular &amp; ECoG)</td>
+<td style="text-align:left">30000 samples per second</td>
+</tr>
+<tr>
+<td style="text-align:center">Magnetic<br> (EEG/ERP &amp; MEG)</td>
+<td style="text-align:left">Milliseconds - directly measuring the field</td>
+</tr>
+<tr>
+<td style="text-align:center">Optical</td>
+<td style="text-align:left">Seconds - limited by camera frame rates<br> and the chemical reaction</td>
+</tr>
+<tr>
+<td style="text-align:center">fMRI</td>
+<td style="text-align:left">1 sample every 1 to 2 seconds<br> Measures the metabolic blood flow changes that<br> happens after the spike</td>
+</tr>
+<tr>
+<td style="text-align:center">PET scans</td>
+<td style="text-align:left">Slow, radioactive tracers</td>
+</tr>
+<tr>
+<td style="text-align:center">Lesion</td>
+<td style="text-align:left">Over months, years - evaluating behavioural changes</td>
+</tr>
+</tbody>
+</table>
+<h1 id="vision">Vision</h1>
+<h2 id="active-interpretation-visual-illusions">Active interpretation (visual illusions)</h2>
+<p>The following visual illusions demonstrated that vision is a highly <strong>active process</strong> where the brain constantly <strong>makes assumptions and interpretations</strong> based on context.</p>
+<p><strong>The dress illusion</strong><br>
+Some people think the dress is blue and dark, some people see it gold and white.<br>
+This happens because the brain makes an <strong>unconscious decision about the lighting</strong> of the scene (whether it is bright or shadow).</p>
+<img src="./Diagrams/dress_illusion.png" height="200">
+<p><strong>Bistable perception</strong><br>
+When looking at ambiguous images, you can only see one interpretation at a time. This shows that the visual system forces a commitment to a single conclusion, even when multiple interpretations are equally valid</p>
+<img src="./Diagrams/bistable_perception.png" height="200">
+<p><strong>Color constancy</strong><br>
+The brain discards objective, absolute color information very early on. Instead, it uses surrounding lighting context to maintain constant object recognition</p>
+<img src="./Diagrams/color_constancy.png" height="200">
+<h2 id="gibsonian-ecological-perspective">Gibsonian ecological perspective</h2>
+<p>Sensory systems evolved specifically to detect &quot;affordances&quot; - the practical things an animal can interact with or do its specific environment. We filter out unnecessary information such as colour.</p>
+<h2 id="main-visual-pathway">Main visual pathway</h2>
+<p><strong>The retina</strong><br>
+Light-sensitive cells at the back of the eye convert light into electrical spikes.</p>
+<p><strong>The LGN (Lateral Geniculate Nucleus)</strong><br>
+The optic nerve carries the signal to this relay station in the thalamus.</p>
+<p><strong>V1 (Primary Visual Cortex)</strong><br>
+Located in the occipital lobe at the back of the brain.<br>
+<strong>Retinotopic mapping</strong> - neurons that are next to each other in the brain process parts of the image that are next to each other.</p>
+<h2 id="what-and-where-pathways">&quot;What&quot; and &quot;Where&quot; pathways</h2>
+<p>After V1, visual processing splits into two major streams</p>
+<p><strong>The dorsal pathway (Where)</strong><br>
+<strong>Runs up</strong> to the parietal cortex.<br>
+Handles spatial location, motion detection, and attention.</p>
+<p><strong>The ventral pathway (What)</strong><br>
+<strong>Runs down</strong> to the inferotemporal(IT) cortex.<br>
+It is responsible for recognizing shapes, forms, and specific object categories.</p>
+<h2 id="marr-and-poggios-vision-theory">Marr and Poggio's vision theory</h2>
+<ol>
+<li><strong>The primal sketch</strong><br>
+Extraction of simple 2D feature like edges, contours and regions that relied on biological filters like the RFs of simple cells.</li>
+<li><strong>2.5D sketch</strong><br>
+Add information about <strong>depth</strong> and <strong>surface orientation</strong>, representing the shape of the object exactly as it s seen from the viewer's current perspective</li>
+<li><strong>3D model</strong><br>
+Construct a true 3D representation out of geometric primitives. This allows the object's structure to be understood regardless of the angle it is viewed from</li>
+</ol>
+<h1 id="vision-retina">(Vision) Retina</h1>
+<h2 id="photoreceptors">Photoreceptors</h2>
+<p>Converts light into electric signal</p>
+<ul>
+<li><strong>Rod</strong> - black and white (only in dim/dark conditions and do not detect color)</li>
+<li><strong>Cone</strong> - color (during normal daylight condition)</li>
+</ul>
+<h2 id="bipolar-cells-and-ganglion-cells-center-surround-cells">Bipolar cells and ganglion cells (center surround cells)</h2>
+<p>Center surround cells converges signals received from cones in majority</p>
+<ul>
+<li>
+<p><strong>ON-cell</strong><br>
+Wired to get excited when the photoreceptor stops releasing its dark-chemical (meaning light is present).<br>
+Has <strong>ON-center/OFF-surround receptive field.</strong></p>
+</li>
+<li>
+<p><strong>OFF-cell</strong><br>
+Wired to get suppressed when the light hits, and they only get excited in the dark.<br>
+Has <strong>OFF-center/ON-surround receptive field.</strong></p>
+<p>When light is shone on the inhibitory area, it inhibits the cell. By contrast, when light shone on the excitatory area, it excites the cell. (lateral inhibition)</p>
+</li>
+</ul>
+<h2 id="visual-illusions-with-respect-of-lateral-inhibition">Visual illusions with respect of lateral inhibition</h2>
+<p><strong>Hermann grid illusion</strong><br>
+Outside the fovea, large receptive fields cover lines and adjacent square, and the response is modulated. In the fovea, RFs are very small, so this surround modulation does not happen</p>
+<img src="./Diagrams/hermann_grid_illusion.png" alt="Alt text" style="display: block; margin: 0 auto; width: 50%;">
+<p><strong>Mach Band illusion</strong><br>
+Edges appear enhanced relative to the areas between them</p>
+<img src="./Diagrams/mach_band_illusion.png" alt="Alt text" style="display: block; margin: 0 auto; width: 50%;">
+<h2 id="difference-of-gaussians-dog-receptive-field">Difference of Gaussians (DoG) receptive field</h2>
+<img src="./Diagrams/dog_receptive_field.png" style="display: block; margin: 0 auto; width: 50%;">
+<p>$$
+\begin{aligned}
+R(x,y) &amp;= W_ce^{-\frac{x^2+y^2}{2\sigma^2_c}} - W_se^{-\frac{x^2+y^2}{2\sigma^2_s}} \
+&amp;= \text{Center} - \text{Surround}<br>
+\end{aligned}
+$$</p>
+<p>Different size of receptive fields (different $\sigma_c, \sigma_s$) gives different images</p>
+<img src="./Diagrams/different_receptive_fields.png" style="display: block; margin: 0 auto; width: 80%;">
+<p>(left) Original<br>
+(middle) Wide receptive field<br>
+(right) Narrow receptive field</p>
+<h1 id="vision-v1">(Vision) V1</h1>
+<h2 id="retinotopical--pinwheel">Retinotopical &amp; pinwheel</h2>
+<p>V1 neurons are highly <strong>tuned to the orientation of edges</strong> and bars of light. Nearby orientations are represented by neighbouring cells, and superimposed on the retinotopic map (pinwheel arrangement).</p>
+<h2 id="simple-cells">Simple cells</h2>
+<p><strong>Receptive field</strong><br>
+A simple cell has an elongated excitatory region flanked by inhibitory regions.</p>
+<p><strong>Excitation</strong><br>
+The cell excites only when the light shone <strong>exactly</strong> on the area with specific orientation.</p>
+<h2 id="mathematical-model-of-a-simple-cell-gabors">Mathematical model of a simple cell (Gabor's)</h2>
+<p><strong>Gabor's function</strong><br>
+$$
+\begin{aligned}
+g(r) &amp;= Ae^{-\frac{r^2}{2\sigma^2_c}} \cos(r\omega - \theta) \
+&amp;= \text{Gaussian envelope} \times \text{Cosine function} \\<br>
+r        &amp;- \text{position} \
+\sigma_c &amp;- \text{width of the Gaussian envelope (receptive field)} \
+\omega   &amp;- \text{frequency of the cosine} \
+\theta   &amp;- \text{orientation}
+\end{aligned}
+$$</p>
+<img src="./Diagrams/gabor_function.png" style="display: block; margin: 0 auto;">
+<h2 id="complex-cells">Complex cells</h2>
+<p><strong>Position invariant</strong><br>
+A complex cell gathers information from multiple simple cells. It does not care exactly where the oriented bar is. It will fire as long as there is such a bar exist in its receptive field.</p>
+<h2 id="convolution">Convolution</h2>
+<p><strong>Definition</strong>
+Apply a specific filter to an entire image uniformly.</p>
+<p><strong>The Kernel</strong><br>
+Shape of a cell's receptive field as a mathematical filter</p>
+<p><strong>Sliding window</strong>
+Take one single filter and reuse it across the entire visual space</p>
+<p><strong>Stride</strong><br>
+When the kernel shifts across the image, it moves by a specific number of pixels at a time.<br>
+&quot;Stride of 2&quot; - moving the filter by two pixels</p>
+<p>**Computation **</p>
+<ul>
+<li><strong>Overlay the kernel</strong> on top of that specific patch of input pixels.</li>
+<li><strong>Multiply</strong> the intensity of each image pixel by the corresponding value in the kernel.</li>
+<li>Take those <strong>resulting numbers</strong> and <strong>sum</strong> them all together to get the value for this pixel.</li>
+</ul>
+<p><strong>1D mathematical representation</strong></p>
+<p>$$
+\begin{aligned}
+(f * g)[n] &amp;= \sum^M_{m=-M} f[n-m]g[m] \\</p>
+<ul>
+<li>&amp;- \text{mathematical operation of convolution} \
+f &amp;- \text{set of pixels} \
+g &amp;- \text{receptive field (kernel)} \
+n &amp;- \text{target pixel} \
+m &amp;- \text{sliding step}
+\end{aligned}
+$$</li>
+</ul>
+<p>Each point f[n] is re-computed by multiplying f with g, where g is centred in n</p>
+<p><strong>2D mathematical representation</strong><br>
+An extension of 1D, add <strong>zero padding</strong>, so the output values for the edge pixels can be calculated.</p>
+<h1 id="vision-ventral-pathway---object-recognition">(Vision) Ventral Pathway - Object Recognition</h1>
+<h2 id="v2">V2</h2>
+<p>Establishing <strong>figure/ground separations</strong>. Responses corresponding to the non-existing lines in the images are recorded. This suggests the cortex actively interprets images according to <strong>common ecological properties</strong> (common physical properties).</p>
+<img src="./Diagrams/illusory_contours.png" style="display: block; margin: 0 auto;">
+<h2 id="v3-ventral">V3 ventral</h2>
+<p>Extracts <strong>intermediate complexity features and simple geometric shapes</strong> - 2.5D sketch.<br>
+Sensitive to colour and begins the process of <strong>&quot;colouring in&quot;</strong> the geometric shapes it just built.</p>
+<h2 id="v4">V4</h2>
+<p><strong>Colour processing</strong> and <strong>recognizing complex geometry</strong> such as curves, spirals, concentric circles.</p>
+<h2 id="inferotemporal-cortex-it">Inferotemporal cortex (IT)</h2>
+<p>Neurons in IT cortex are <strong>highly selective</strong> and respond preferentially to complex shapes, complete objects, and faces.</p>
+<p><strong>Invariance</strong><br>
+They maintain their preference for a specific object regardless its elevation, position or scale.</p>
+<h2 id="hmax-model">HMAX model</h2>
+<p>This model mimics the brain by using a hierarchy of layers that pool information on multiple scales, gradually increasing the size of the receptive fields until the system can reliably classify objects.</p>
+<h2 id="concept-cells">Concept cells</h2>
+<p>Highly specialised neurons.  (Grandmother/Jennifer Aniston cells)</p>
+<h1 id="categories">Categories</h1>
+<h2 id="why-do-we-need-categories">Why do we need categories?</h2>
+<ol>
+<li><strong>Learning</strong> - less memory to store what we know about similar objects.</li>
+<li><strong>Generalization</strong> - we can infer extra information about new objects that are similar to that category.</li>
+<li><strong>Predication</strong> - we can guess what event will happen even we haven't encountered it before</li>
+<li><strong>Interaction</strong> - interact to the same objects in the same category.</li>
+<li><strong>Communication</strong> - having common senses.</li>
+</ol>
+<h2 id="rules-based">Rules-based</h2>
+<p><strong>Definition</strong><br>
+A category defined by a strict set of <strong>necessary and sufficient</strong> rules<br>
+(All the rules have to be satisfied in order for the object to be in this certain category)</p>
+<p><strong>Examples</strong><br>
+A triangle<br>
+An integer</p>
+<h2 id="prototype-based">Prototype-based</h2>
+<p><strong>Definition</strong><br>
+A category defined by an <strong>abstract &quot;template&quot;</strong> or average of all category members rather than rigid rules</p>
+<p><strong>Typicality effects</strong><br>
+People naturally feel like &quot;better&quot; or more obvious examples than others</p>
+<p><strong>Examples</strong><br>
+Birds<br>
+Furniture<br>
+Vehicles</p>
+<h2 id="exemplar-based">Exemplar-based</h2>
+<p><strong>Definition</strong><br>
+A specific set of concrete, previously encountered instances (exemplars) stored in your memory. Membership is decided by comparing a new item to these specific stored memories.</p>
+<p><strong>Examples</strong><br>
+Good action movies<br>
+A cloudy day</p>
+<h2 id="qualia-based">Qualia-based</h2>
+<p><strong>Definition</strong><br>
+Categories defined by <strong>subjective sensory experiences</strong>, such as colors, tastes, and emotions.</p>
+<p><strong>Examples</strong><br>
+Spicy food
+Loud noises</p>
+<h2 id="schema-based">Schema-based</h2>
+<p><strong>Definition</strong><br>
+<strong>Abstract or social categories</strong> are defined as frameworks of connections among concepts based on their co-occurrence.</p>
+<p><strong>Examples</strong><br>
+A restaurant visit<br>
+A birthday party</p>
+<h2 id="ad-hoc">Ad Hoc</h2>
+<p><strong>Definition</strong><br>
+Spontaneously at the moment to serve a specific <strong>current</strong> goal - <strong>NOT permanently stored</strong> in long-term memory<br>
+More personal</p>
+<p><strong>Examples</strong><br>
+Things to grab from your house during a fire.</p>
+<h2 id="interactions">Interactions</h2>
+<ol>
+<li>Schemas act as <strong>&quot;containers&quot;</strong></li>
+<li>Qualia are the <strong>&quot;building blocks&quot;</strong></li>
+<li>Ad hoc uses them all <strong>dynamically</strong></li>
+<li>Rules act as <strong>fallbacks</strong> for prototypes (when an object dose not looks like its prototype)</li>
+</ol>
+<h2 id="differences-and-similarities">Differences and similarities</h2>
+<p><strong>Abstract vs. concrete</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Abstract<br> (An average, generic template)</th>
+<th style="text-align:center">Concrete<br> (A specific example or feeling)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Prototypes</td>
+<td style="text-align:center">Exemplars</td>
+</tr>
+<tr>
+<td style="text-align:center">Rules</td>
+<td style="text-align:center">Qualia</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rigid vs. ambiguous boundaries</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Rigid<br> (Strict)</th>
+<th style="text-align:center">Ambiguous<br> (Vague)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Rules</td>
+<td style="text-align:center">Prototype</td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center">Schema</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Computational complexity</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Type</th>
+<th style="text-align:left">Space</th>
+<th style="text-align:left">Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Rules</td>
+<td style="text-align:left">Depends on # of rules</td>
+<td style="text-align:left">- Depends on # of rules</td>
+</tr>
+<tr>
+<td style="text-align:left">Prototypes</td>
+<td style="text-align:left">Little - averaging</td>
+<td style="text-align:left">- Fast to process<br> - Needs time to amend the new<br> rules onto the existing rules.<br> - Needs time to compare.</td>
+</tr>
+<tr>
+<td style="text-align:left">Exemplars</td>
+<td style="text-align:left">Massive - to store specific examples</td>
+<td style="text-align:left">- Learning new exemplars are<br> fast</td>
+</tr>
+<tr>
+<td style="text-align:left">Ad hoc</td>
+<td style="text-align:left">No long-term memory</td>
+<td style="text-align:left">- Requires massive processing time at<br> the moment</td>
+</tr>
+</tbody>
+</table>
+<h1 id="social-cognition">Social Cognition</h1>
+<p>Study of how humans and animals understand, process information about and interact with other individuals.</p>
+<h1 id="sc-interaction-mechanisms">(SC) Interaction mechanisms</h1>
+<h2 id="joint-attention">Joint attention</h2>
+<p>How do we connect</p>
+<p><strong>Definition</strong><br>
+It occurs when two agents are paying attention to the exact same object, while simultaneously <strong>being aware</strong> that the <strong>other agent</strong> is also paying attention.
+Joint attention is <strong>triadic</strong> because it forms a triangle between two agents and an external object.</p>
+<p><strong>Behaviour cue</strong><br>
+We initiate and verify joint attention through cues like <strong>pointing, monitoring, and gaze following</strong>.</p>
+<p><strong>Neurological sensitivity</strong><br>
+Our brains have specialised neurons highly tuned to detect when someone is looking at us.</p>
+<h2 id="theory-of-mind-tom">Theory of mind (ToM)</h2>
+<p>How do we understand other minds.</p>
+<p><strong>The sally-anne test (false belief)</strong><br>
+A doll named sally puts a marble in a basket and leaves. Another Doll anne, moves the marble to a box. When sally returns, the child is asked: &quot;Where will Sally look for the marble?&quot;.</p>
+<p>Two-year-olds generally answer &quot;the box&quot;. Because they fail to <strong>separate their true knowledge</strong> of the world from <strong>Sally's false belief</strong>.</p>
+<p><strong>Avian counter-espionage</strong><br>
+A study on Western scrub jays (birds that cache food for the winter) found that if a jay is watched by another bird while hiding a nut, it will later secretly move the nut to a new location.</p>
+<p>The birds only engage in this protective behaviour if they themselves have a history of stealing other birds' food, suggesting they are projecting their own thieving experiences into the minds of their competitors.</p>
+<p><strong>Double empathy model</strong><br>
+Historically, researchers viewed ToM difficulties in autistic individuals as simple impairment. However, modern cognitive science increasingly discusses the &quot;Double Empathy&quot; model. This framework suggested that ToM is a two-way street; communication breakdowns occur not just because autistic individuals struggle to predict neurotypical behaviour, but because neurotypical individuals equally struggle to understand autistic minds.</p>
+<h2 id="mirror-neurons">Mirror Neurons</h2>
+<p>How we map other people's experiences onto ourselves.</p>
+<p>Mirror mechanism distributed across multiple motor, sensory and emotional regions. This network allows us to simulate the actions of others within our own neural circuitry, making it crucial for imitation learning and inferring the underlying intentions behind someon's movement.</p>
+<h1 id="sc-theories-of-intelligence-and-human-uniqueness">(SC) Theories of Intelligence and Human Uniqueness</h1>
+<h2 id="the-cultural-ratchet-effect">The cultural ratchet effect</h2>
+<p>Tomasello argued that human cultural traditions <strong>accumulate modifications</strong> and improvements over historical time without losing ground.</p>
+<p>Starting around one year of age, human infants develop <strong>joint attention</strong> and begin to understand other individuals as intentional agents with their won minds - this enables incredibly powerful forms of <strong>&quot;cultural learning&quot;,</strong> such as <strong>acquiring complex language</strong> and <strong>sharing tool-use practices</strong>.</p>
+<p>Ultimately, this allows humans to &quot;pool their cognitive resources&quot; both in the present moment and across historical time.</p>
+<p>People learn from each other. Imagine a difficult task that has a low probability of find the solution. But because we learn from each other, the probability of solving the solution as a society is higher than solving the task individually - we just need a genius.</p>
+<h2 id="bumblebee-study">Bumblebee study</h2>
+<p>Naive bumblebees were entirely unable to innovate the solution to the puzzle, but when researchers trained a &quot;demonstrator bee&quot; to solve it, observer bees were able to socially learn the complex behaviour just by watching the demonstrator.</p>
+<h2 id="social-intelligence-hypothesis">Social intelligence hypothesis</h2>
+<p>Why do certain animals evolved incredibly smart?</p>
+<p><strong>Hypothesis</strong><br>
+Surviving in a complex society requires massive computational power</p>
+<p><strong>Examples</strong><br>
+Baboons, primates, dolphins</p>
+<p><strong>Counter-examples</strong><br>
+Octopuses</p>
+<h1 id="sc-linguistic-relativity">(SC) Linguistic Relativity</h1>
+<h2 id="sapir-whorf-hypothesis">Sapir-Whorf hypothesis</h2>
+<p>Language you speak influences <strong>how you think, perceive, and conceptualize the world</strong></p>
+<p><strong>Spatial categorization</strong><br>
+Korean have different words specifically for tight and loose fit. However, in English, the word &quot;in&quot; is almost for all containment.</p>
+<p>Studies on infant cognition show that before they learn to speak, babies of all backgrounds can naturally tell the difference between a tight and a loose fit, as they grow and learn language, English-speaking toddlers actually lose their sensitivity to the distinction.</p>
+<p><strong>Untranslatable concepts</strong><br>
+When one language has a word for a complex concept tha the other lacks. Certain specialised words in a language provide the speaker with distinct conceptual categories for certain mental states.</p>
+<h1 id="language">Language</h1>
+<h2 id="what-are-words">What are words?</h2>
+<p>Words are just symbols that <strong>references something in reality</strong> - an abstraction of reality. It is human who decide which specific collection of symbols points at what specific object, concept or behaviour - symbols are overwhelmingly <strong>arbitrary</strong>. If a society collectively decided to swap the words &quot;cat&quot; and &quot;dog&quot;, communication would still function perfectly fine once every learnt the new rules.</p>
+<p>The symbol itself can take different physical forms, gestures, behaviors, scrambles etc., the crucial part is it <strong>carries meaning from one mind to another.</strong></p>
+<p><strong>Some words are not arbitrary</strong></p>
+<ol>
+<li>
+<p>Onomatopoeia<br>
+Some words designed to mimic the sounds they represent, &quot;buzz&quot;, &quot;pop&quot;, &quot;meow&quot; etc.</p>
+</li>
+<li>
+<p>Sound symbolism<br>
+Softer-sound (&quot;bouba&quot;) -&gt; rounded, blob-like shaped.<br>
+Harsher-sounds (&quot;kiki&quot;) with sharp pointy shapes.</p>
+</li>
+</ol>
+<h2 id="grounding-problem">Grounding problem</h2>
+<p>A symbol is only considered <strong>&quot;grounded&quot;</strong> when it is successfully anchored(attached) to a concept in your mind.</p>
+<p>Critics argue that LLMs are just generating (predicting) correct sequence of words base on the analysis of a large set of data. LLMs do not know the actual semantic of the words and the words are not <strong>grounded</strong></p>
+<p><strong>Embodied cognition</strong><br>
+True understanding likely requires a physical body experiencing the real physical world, a major topic of study in robotics.</p>
+<p><strong>Hallucinations and confabulations</strong>
+AI doesn't intuitively know when a statement about that object violates the laws of physics or common sense</p>
+<h2 id="mental-lexicon">Mental lexicon</h2>
+<p>A mental dictionary responsible for storing, retrieving and instantly mapping the different pieces of a word, so you can understand and produce language in real-time.</p>
+<p><strong>Structure</strong><br>
+A complex hierarchy (tree) or a network</p>
+<ul>
+<li>Categorical links
+Words that share common characteristics.</li>
+<li>Associative links<br>
+Related, similar object are linked.</li>
+<li>Phonological links
+Words that sounds similar.</li>
+</ul>
+<p>Speakers of the same languages have mutually intelligible (shares the same) lexicon entries</p>
+<p><strong>Development</strong></p>
+<p><strong>Receptive vocabulary</strong> - vocabulary understand but not used.<br>
+<strong>Productive vocabulary</strong> - vocabulary understand and actively used.<br>
+Child's receptive vocabulary is larger than their productive vocabulary.</p>
+<h2 id="expressive-power-of-language-rules">Expressive power of language rules</h2>
+<p><strong>Productive</strong><br>
+Because rules are abstract - defined over categories of words(like &quot;Noun Phrase&quot; or &quot;Verb&quot;)<br>
+You can plug in any words in that certain category to create new sentences</p>
+<p><strong>Combinatorial</strong><br>
+Language is recursive, a small inventory of elements can have infinite possible distinct combinations.</p>
+<h2 id="terminology">Terminology</h2>
+<p><strong>Phonology</strong> - sounds<br>
+<strong>Morphology</strong> - cases of words<br>
+<strong>Syntax</strong> - sentences</p>
+<h1 id="language-past-tense">(Language) Past tense</h1>
+<h2 id="rumelhart-and-mcclelland-pdp-neural-network">Rumelhart and McClelland PDP neural network</h2>
+<p>The parallel distributed processing neural network is designed to mimic how children learn the morphology of the past tense</p>
+<h2 id="argument">Argument</h2>
+<p>In old linguistic theories, they argued that children possess a &quot;language acquisition device&quot; that stores explicit, inaccessible grammar rules.</p>
+<p>However, Rumelhart and McClelland built a PDP neural network prove that rule-like behaviors can emerge dynamically from the interaction of simple network nodes, <strong>without a rule ever being written</strong> into the system.</p>
+<h2 id="3-stages-u-shaped-curve">3-stages (U-shaped curve)</h2>
+<ol>
+<li>Children learn a small vocabulary of highly frequent verbs - most are irregular. Because children just memorize these as distinct vocabulary words - their accuracy is high.</li>
+<li>Overgeneralization - When children approach school age, they will learn an extent of regular verbs ending with -ed and start to grasp the pattern. Therefore, children tend to apply the rule incorrectly to irregular verbs - a sudden drop in accuracy especially for irregular verbs.</li>
+<li>The errors gradually fade as children learn to apply the regular rule while maintaining the irregular exceptions.</li>
+</ol>
+<h2 id="criticisms">Criticisms</h2>
+<ul>
+<li>This model highly depends on the regime of learning. The model assumed children would be flooded with a great number of regular verbs first. Whereas language acquisition is a gradual process where regular and irregular verbs are introduced together.</li>
+<li>The model ignores the effect of the length of different words, which clearly has an effect on remembering.</li>
+<li>The single-layer perceptron model prevents interactions between features, limiting its ability to learn more complex rules.</li>
+</ul>
+<h1 id="learning-and-memory">Learning and Memory</h1>
+<h2 id="short-termworking-memory-stm">Short-term/Working memory (STM)</h2>
+<p><strong>Definition</strong><br>
+Operational memory used while actively solving a task</p>
+<p><strong>Duration</strong><br>
+Very fleeting, operating on the scale of seconds to minutes. If you are distracted or stop paying attention, the information is lost almost instantly.</p>
+<p><strong>Capacity</strong><br>
+Limited</p>
+<p><strong>Mechanism</strong><br>
+Short-term memory is maintained by <strong>reverberating neural activity</strong> (often in teh prefrontal cortex), not by physical changes to synaptic weights. The neurons simply continue to fire to keep the information &quot;online&quot;</p>
+<h2 id="long-term-memory-ltm">Long-term Memory (LTM)</h2>
+<p><strong>Definition</strong><br>
+Long-term memories are stored via physical changes in <strong>synaptic strength</strong></p>
+<p><strong>Non-declarative (implicit) memory</strong><br>
+Unconscious and involves skills or responses that are difficult to explain in words</p>
+<ul>
+<li>
+<p><strong>Procedural memory (skills)</strong><br>
+Motor and cognitive skills acquired through practice</p>
+</li>
+<li>
+<p><strong>Conditioning and habituation</strong><br>
+Automatic responses to stimuli</p>
+</li>
+<li>
+<p><strong>Perceptual priming</strong><br>
+Unconscious changes in how you perceive or process stimuli based on <strong>prior exposure</strong></p>
+</li>
+</ul>
+<p><strong>Declarative (explicit) memory</strong></p>
+<ul>
+<li>
+<p><strong>Episodic memory (events)</strong><br>
+Memory of specific, personal events.
+It is highly selective and forgetful - tend to forget unless they were highly significant.<br>
+Dependent on teh hippocampus.</p>
+</li>
+<li>
+<p><strong>Semantic Memory (facts)</strong><br>
+General knowledge<br>
+Information is retained and feels &quot;easy to recall&quot;
+Involve multiple regions across the cortex.</p>
+</li>
+</ul>
+<h2 id="consolidation">Consolidation</h2>
+<p>A memory starts as recent <strong>episodic memory</strong> in the hippocampus. Over time-and particularly during sleep when the hippocampus <strong>&quot;replays&quot; events</strong> - that information is consolidated and stored away as a more permanent <strong>semantic memory</strong> in the cortex</p>
+<h2 id="information-retrieval">Information retrieval</h2>
+<p><strong>Associative</strong><br>
+Because memories are stored by their content, you can retrieve a full memory just by providing a <strong>partial cue</strong></p>
+<p><strong>Distributed</strong><br>
+Neurons may participate in multiple memories.</p>
+<p><strong>Error correction</strong><br>
+Even through a sentence contains a blatant error. Strong cues allow the brain to override the error and correctly associate the memory</p>
+<p><strong>Robust</strong><br>
+Even a few neurons died, the remaining network still has enough overlapping information</p>
+<h2 id="hopfield-network">Hopfield network</h2>
+<p><strong>Neuron</strong><br>
+$$
+\begin{aligned}
+s(t+1)    &amp;= \Theta(\sum^M_{j=1} w_{ij}s_j(t) - \theta_i) \
+\Theta(a) &amp;= \begin{cases}
+1 &amp; a \ge 0 \
+0 &amp; a &lt;   0
+\end{cases}
+\end{aligned}
+$$</p>
+<ul>
+<li>Symmetric weights: $w_{ij} = w_{ji}$ (so it reaches the attractor)</li>
+<li>Updates can be synchronous (happen at the same time) or asynchronous (randomly)</li>
+<li>The bias value $\theta_i$ determines the average activity</li>
+<li>This converges to stable fixed points under fairly general conditions</li>
+</ul>
+<p><strong>Habbian update rule</strong><br>
+Neurons wire together fire together
+$$
+\begin{aligned}
+w_{ij} &amp;= \frac{1}{M}\sum_{n=1}^{N}p_i^n p_j^n \\</p>
+<p>N &amp;- \text{Distinct patters}
+\end{aligned}
+$$</p>
+<p><strong>Stable point (attractor)</strong></p>
+<p>$$
+s_i(t+1) = s_i(t) \quad \forall i
+$$</p>
+<p><strong>Limitations</strong></p>
+<ol>
+<li>
+<p><strong>Catastrophic forgetting &amp; limited capacity</strong> - The limit in the number of patterns the program can learn is roughly $0.138N$ if 0/1 have equal probability in each pattern ($sparsenesss = 0.5$). Capacity increases dramatically for sparse patterns ($s &lt; 0.5$).</p>
+</li>
+<li>
+<p><strong>Sensitivity to noises</strong> - Because the decision threshold and weights are strictly defined for each pixel independently. If a heavily corrupted pattern lands exactly on the sharp edge between two different patterns, a single flipped bit may lead to a completely different pattern. In contrast, biological brains are easier to handle minor alterations, as the pattern can be viewed as a whole.</p>
+</li>
+</ol>
+<h1 id="large-language-models-llm">Large Language Models (LLM)</h1>
+<h2 id="training-pipeline">Training pipeline</h2>
+<ol>
+<li>
+<p><strong>Unsupervised learning</strong><br>
+The AI ingests the massive ocean of raw text and learns the basic statistical rules of language simply by trying to predict missing words</p>
+</li>
+<li>
+<p><strong>Supervised fine-tuning (SFT)</strong><br>
+Human workers provide specific examples of good prompts and answer to teach the raw AI how to format its responses and act like a helpful assistant.</p>
+</li>
+<li>
+<p><strong>Reinforcement learning from human feedback (RLHF)</strong><br>
+Because the raw internet is full of toxic content, human rate the AI's generated answers to create a &quot;reward function&quot;. The Ai uses this reward system to penalize bad outputs and encourage polite, helpful ones - essentially giving the model a friendly, conversational filter</p>
+</li>
+</ol>
+<h1 id="llm-vector-semantics">(LLM) Vector Semantics</h1>
+<h2 id="john-searles-chinese-room-argument">John Searle's Chinese room argument</h2>
+<p>If you sit in a room and follow in instruction manual to manipulate Chinese symbols to answer questions correctly, you appear to understand the language, but you actually have no idea what the symbols mean. This can also be illustrated by the fact that vector semantic put two words that have similar meanings in two completely different dimensions.</p>
+<h2 id="co-occurrence-matrix">Co-occurrence matrix</h2>
+<p><strong>Rows</strong><br>
+Target words to define.</p>
+<p><strong>Columns</strong><br>
+Context.</p>
+<p><strong>Value</strong><br>
+Ubiquitous words (like the or it) have huge counts but carry a little meaning, while rare words carry high informational value. To fix this, all entries are composed two different weights:</p>
+<ol>
+<li>
+<p><strong>TF-IDF (Term frequency - inverse document frequency)</strong></p>
+<p>$$
+w_{t,d} = tf_{t,d} \times idf_t
+$$</p>
+<p><strong>Term frequency</strong> ($tf_{t,d}$)<br>
+Uses a <strong>base-10</strong> logarithm - a word appearing 100 times isn't strictly 100 times more important.</p>
+<p>$$
+tf_{t,d} = log_{10}(count(t,d)+1)
+$$</p>
+<p><strong>Inverse document frequency</strong> ($idf_t$)<br>
+Penalizes words that appear everywhere.</p>
+<p>$$
+\begin{aligned}
+idf_t &amp;= log_{10}(\frac{N}{fd_t}) \</p>
+<p>N    &amp;- \text{total number of documents} \
+df_t &amp;- \text{number of documents the term appears in}
+\end{aligned}
+$$</p>
+</li>
+<li>
+<p><strong>PPMI (Positive pointwise mutual information)</strong><br>
+Measures how much more two words co-occur than we would expect if they were completely independent.</p>
+<p>$$
+\begin{aligned}
+PPI(w,c) &amp;= \log_2\frac{P(w,c)}{P(w)P(c)} \</p>
+<p>P(w,c)            &amp;- \text{How often those two words appear} \
+P(w) \times P(s)  &amp;- \text{The probability of them appear together if they are independent} \
+\end{aligned}
+$$</p>
+<p>Because negative PMI values are statically unreliable without impossibly massive text corpora, the math simply replaces all negative values with 0 ($PPMI \geq 0$).</p>
+<p>$$
+PPMI(w,c) = max(PMI(w,c), 0)
+$$</p>
+</li>
+</ol>
+<h2 id="measuring-semantic-similarity">Measuring semantic similarity</h2>
+<p><strong>Cosine similarity</strong></p>
+<p>$$
+\begin{aligned}
+cos(v,w) &amp;= \frac{v\cdot w}{|v||w|}
+&amp;= \frac{\sum^N_{i=1} v_iw_i }{\sqrt{\sum^N_{i=1} v^2_i}\sqrt{\sum^N_{i=1} w^2_i}}
+\end{aligned}
+$$</p>
+<h2 id="limitations">Limitations</h2>
+<p><strong>The sparsity problem</strong><br>
+Because most words never appear next to most other words, these vectors were incredibly &quot;sparse&quot; - filled mostly with zeros. Sparse vectors are computationally expensive and hold very little useful signals.</p>
+<p><strong>Independent dimensions</strong><br>
+This method failed to combine related concepts. If the target word co-occurred with &quot;car&quot; and &quot;automobile&quot;, the system treated those as two completely independent, unrelated dimensions.</p>
+<h1 id="llm-learned-embeddings">(LLM) Learned Embeddings</h1>
+<p>The neural network compresses the information into a much smaller, &quot;dense&quot; list of numbers. Because the AI has a limited number of dimensions to work with, it forced to squish related concepts together. This allows the dimensions to capture deep, hidden semantic relationships.</p>
+<h2 id="the-skip-gram-model">The Skip-Gram model</h2>
+<p>Self-supervised learning</p>
+<p><strong>Tokenization</strong><br>
+Before the neural network sees anything, the raw text is passed through a tokenizer. This program uses a pre-learned set of rules to physically slice the text string into small chunks (words, sub-words, or phrases) called tokens, and then convert it into unique ID so that the model recognize.</p>
+<p><strong>Data</strong><br>
+Skip-Gram uses a &quot;sliding window&quot; approach across normal sentences to look for words that has close relations to the input word.</p>
+<img src="./Diagrams/skip_gram_data.png">
+<p><strong>The input layer</strong><br>
+Massive vector representing your entire lexicon. It is filled entirely with 0s, except for a single 1 in the position corresponding to the input word (1 x Size of the vocabulary).</p>
+<p><strong>The hidden layer</strong><br>
+The input is wired into a small layer of <strong>linear neurons</strong>. This creates a bottleneck that forces the network to compress information.<br>
+The column of the weight matrix (Size of the vocabulary x Number of hidden neurons) represents the number of features (hyperparameters). By multiplying the input matrix and the hidden layer matrix, a feature row of the input word is feed into the output layer.</p>
+<p><strong>The output layer</strong><br>
+The signal expands back out to a <strong>&quot;Softmax&quot;</strong> classifier layer, which is again the size of the entire lexicon. This layer output the statistical probability of any given word appear nearby.</p>
+<h1 id="llm-morden-llms">(LLM) Morden LLMs</h1>
+<h2 id="googles-transformer">Google's transformer</h2>
+<img src="./Diagrams/google_transformer.png">
+<h2 id="gpt-3-2020">GPT-3 (2020)</h2>
+<h1 id="reinforcement-learning">Reinforcement Learning</h1>
+<h2 id="classic-conditioning">Classic conditioning</h2>
+<p>Unconditioned stimulus + conditioned stimulus $\rightarrow$ Unconditioned response becomes conditioned response</p>
+<h2 id="operant-conditioning">Operant conditioning</h2>
+<p>Associate a voluntary behaviour with a consequence<br>
+Action + unconditioned stimulus/reward $\rightarrow$ Action becomes more likely</p>
+<h2 id="agent-environment-loop">Agent-environment loop</h2>
+<p><strong>Initialization</strong><br>
+We give the agent an expected value and initialize all the weights, state values, or the action values to zero.<br>
+The agent initially takes random actions to explore the environment until it triggers a reward or a punishment.</p>
+<p><strong>State ($s_t$)</strong><br>
+The agent observes its current situation or location within the environment.</p>
+<p><strong>Action ($r_{t+1}$)</strong><br>
+The agent selects a behaviour from a <strong>set of available choices</strong>.</p>
+<p><strong>Reward ($r_{t+1}$)</strong><br>
+The environment provides feedback - either positive(reward) or negative (punishment) - based on the action taken.</p>
+<p><strong>Next stage ($s_{t+1}$)</strong><br>
+The agent finds itself in a new situation as a result of its action.</p>
+<img src="./Diagrams/agent_environment_loop.png" width="80%">
+<h1 id="rl-rescorla-wagner-rule-delta-rule">(RL) Rescorla-Wagner rule (Delta-rule)</h1>
+<p>It tracks the expected reward and update it based on <strong>how surprising the actual outcome</strong> is</p>
+<p>$$
+\begin{aligned}
+V_t    &amp;= V_{t-1} + \alpha(R-V_{t-1}) \
+\delta &amp;= (R - V_{t-1}) \quad \text{(Prediction error)} \\</p>
+<p>V_t    &amp;- \text{Expected reward at the current time step} \
+R      &amp;- \text{The actual reward received} \
+\alpha &amp;- \text{The learning rate (between 0 to 1)} \
+\end{aligned}
+$$</p>
+<p><strong>Update $\propto$ surprise</strong><br>
+$\delta &gt; 0$<br>
+Outcome is better expected, the expectation will be increased for the next time.</p>
+<p>$\delta = 0$<br>
+Things go exactly as expected, no change.</p>
+<p>$\delta &lt; 0$<br>
+Outcome is worse than expected, expectation will be decreased.</p>
+<h2 id="advantages">Advantages</h2>
+<p><strong>Extinction</strong><br>
+If a cue is repeatedly presented without the reward, the prediction error becomes negative, and the expected reward decays back to zero.</p>
+<p><strong>Partial reinforcement</strong><br>
+If a reward is only given 50% of the time, the expected reward fluctuates and never reaches the peak value of a consistently rewarded cue</p>
+<p><strong>Blocking</strong><br>
+Phase 1 (pre-training): $v_1 \rightarrow R$ until $V_1 \approx R$<br>
+Phase 2 (compound training): $(v_1 + v_2) \rightarrow R$</p>
+<p>Because $v_2$ is brand new, its initial expected value is zero. But because the model is pre-trained with $v_1$, the expectation still stays the same and no update is presented:</p>
+<p>$$
+\delta = R - (V_1 + V_2) = R - R = 0
+$$</p>
+<h2 id="limitations-1">Limitations</h2>
+<p><strong>Second order conditioning</strong><br>
+In second order condition, CS2 is paired with CS1 without any reward (R = 0). Therefore, the rule will <strong>extinguish</strong> any association rather than build one.</p>
+<p><strong>Credit assignment problem</strong>
+How to know which past action was responsible for an observed outcome</p>
+<h1 id="rl-temporal-difference">(RL) Temporal Difference</h1>
+<p>To cope with the limitation of $\delta$-rule, TD generalizes the Delta rule to learn predictions over time, it aims to predict the <strong>total future reward</strong></p>
+<p>At time step t:<br>
+$$
+\begin{aligned}
+u(t) &amp;- \text{Stimulus (0/1)} \
+r(t) &amp;- \text{Reward} \
+v(t) &amp;- \text{Expected reward} \\
+\end{aligned}
+$$</p>
+<h2 id="target">Target</h2>
+<p>The agent is to trying to learn to predict the <strong>total future rewards</strong>:</p>
+<p>$$
+\begin{aligned}
+v(t) &amp;= &lt;\sum^T_{\tau=t+1} r(\tau)&gt; \</p>
+<p>&lt;&gt; &amp;- \text{Average over many trials}
+\end{aligned}
+$$</p>
+<h2 id="steering-wheel">Steering wheel</h2>
+<p>How agent calculates its best guess for the expected reward at time step t (based on previous steps):</p>
+<p>$$
+\begin{aligned}
+v(t) &amp;= \sum^t_{\tau=0} w(\tau)u(t-\tau) \\</p>
+<p>\tau      &amp;- \text{Previous time steps} \
+u(t-\tau) &amp;- \text{Checks if a stimulus u was turned on at } (t-\tau) \
+w(\tau)   &amp;- \text{Weight the stimulus from } \tau \text{ time steps ago contributes to the current reward prediction}
+\end{aligned}
+$$</p>
+<h2 id="goal">Goal</h2>
+<p>To find the weight (w) that makes the expected reward as close as the total future reward.<br>
+TD update rule</p>
+<p>$$
+\begin{aligned}
+w(\tau) &amp;\rightarrow  w(\tau) + \alpha \delta(t) u(t-\tau) \
+u(t-\tau) &amp;- \text{Checks if the stimulus is present}  \\
+\end{aligned}
+$$</p>
+<p>$$
+\begin{aligned}
+\delta(t) &amp;= (r(t) + v(t+1)) - v(t) \
+&amp;= \text{New reality - Old expectation} \\</p>
+<p>r(t)   &amp;- \text{What actually happened} \
+v(t+1) &amp;- \text{Successive reward prediction}
+\end{aligned}
+$$</p>
+<p>E.g., Even if there are no reward present. However, because the prediction of the next time step is high, there might be some correlations between this step and the step next.</p>
+<p>The weights are adjusted proportional to the TD error $\delta(t)$</p>
+<p>$\delta(t) &gt; 0$<br>
+High reward / Higher prediction in the future</p>
+<p>$\delta(t) &lt; 0$<br>
+Low reward / Lower prediction in the future:</p>
+<h2 id="td-learning-stimuli-to-states">TD-learning (Stimuli to states)</h2>
+<p>To correctly evaluate those delayed rewards step-by step</p>
+<p><strong>Temporal difference rule</strong></p>
+<p>$$
+\begin{aligned}
+\delta_t &amp;= r_{t} + \gamma V(s_{t+1}) - V(s_t) \
+\gamma   &amp;\in (0, 1) \\</p>
+<p>r_{t}             &amp;- \text{The immediate reward received} \
+\gamma V(s_{t+1}) &amp;- \text{The discounted expected future reward from the next state} \
+V(s_t)            &amp;- \text{The expected reward from the current state} \\
+\end{aligned}
+$$</p>
+<p><strong>Update rule</strong></p>
+<p>$$
+\begin{aligned}
+V(s_t) &amp;\leftarrow V(s_t) + \alpha(\delta_t)
+\end{aligned}
+$$</p>
+<h2 id="q-learning-states-to-action-multiple-paths">Q-learning (States to action, multiple paths)</h2>
+<p><strong>Optimal policy</strong><br>
+What is the expected future reward if I take action a while currently in state s?
+Find the best way that maximizes the expected future reward</p>
+<p><strong>Bellman equation</strong>
+$$
+\begin{aligned}
+V_{k+1}(s)    &amp;\leftarrow \max_a (R + \gamma V_k(s')) \
+\gamma        &amp;\in        (0, 1) \
+Q_{k+1}(s, a) &amp;=       R(s,a) + \gamma \max_{a'} Q_k(s', a') \
+&amp;=       \text{Immediate reward} + \text{Maximum score whatever state land in next} \
+Q(s,a)        &amp;\approx \text{Expected future reward if we take action a in state s} \\</p>
+<p>k      &amp;- \text{Literation} \
+V(s)   &amp;- \text{Value of the state} \
+s      &amp;- \text{Current state} \
+s'     &amp;- \text{Next state} \
+\gamma &amp;- \text{Discount factor}
+\end{aligned}
+$$</p>
+<p><strong>Update rule</strong><br>
+$$
+\begin{aligned}
+Q(s, a) \leftarrow Q(s, a) + \alpha [r + \gamma \max_{a'} Q(s', a') - Q(s, a)]
+\end{aligned}
+$$</p>
+<h2 id="limitations-2">Limitations</h2>
+<p><strong>Data inefficiency</strong><br>
+The agent must physically move through and experience states thousands of times to build an accurate internal map - in contrast human can predict based on ecological properties they perceive.</p>
+<p><strong>Brittleness and failure rates</strong><br>
+The models are highly sensitive and require extensive tuning of hyperparameters.</p>
+<p><strong>Shortcut learning</strong><br>
+Finds unintended loopholes to maximize their scores</p>
+<p><strong>Zero generalization</strong><br>
+Do not actually &quot;understand&quot; the world</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,191 @@
+SPEAKER 0
+Yes. It All right.
+
+SPEAKER 1
+Good afternoon.
+
+SPEAKER 0
+this is not. No. I That's Why some reason.
+
+SPEAKER 1
+Happy Friday everyone. How are you all doing? It's sunny Exciting weekend plans. All right, OK. So things have been a little bit scattered lately, um, including yesterday's, um, last minute, uh, reorganization, um, so here's what we're gonna do, um, today, so it was supposed to anyways, whatever it's supposed to be something else, but today we're gonna talk about more language stuff, uh, in particular methods for modeling language computationally. Um, specifically vector semantics and word embeddings which you will know what those things are by the end of class today. Um, over the weekend I will post the video from yesterday and also some like extra stuff we didn't get to, um, so that's all related to the neural network model of the past tense that is part of your assignment. Um, next week I think I'm handing you off to, uh, Professor Hennig for learning and memory, um, because we're like just a little bit behind on stuff we were supposed to do LLMs also, but I'm not gonna try to squeeze those in today. We'll just like, you know, take a pause. You'll go off and learn a bunch of learning and memory stuff, and then when you come back to me after that, I'll like we'll do LLMs along with some other stuff. Is that OK? So I know it's apologies for it being a little bit, um, in pieces, but we'll get through it all eventually. OK. So today, we're gonna start with an exercise, um, it's all gonna be on paper today. Um, uh, and I'll, you know, I'll post these notes also, um. Start with a little exercise. Uh, so, um, put your thinking caps on, um, and have just something you can like type or write, uh, a little language exercise. Um, So, uh, I am going to, let me start a new page here. OK, I am going to write for you, um, a couple of sentences. Don't look up what this is. Does anybody recognize this? OK, don't try to look this up. This is for you, not for the Internet.
+
+SPEAKER 0
+Have you A OK, there's 3 sentences, uh.
+
+SPEAKER 1
+So nobody recognizes this? That's good if you don't. Uh, this actually happens to be in my sort of homeland language. Um, my family is from a state in South India called Andhra Pradesh. Um, and this is the language I speak. It's, it's Telugu. I was actually trying to think this morning. I was like, what's a language like nobody here will know. So if there's any Telugu speakers, uh, pretend you don't know it because otherwise you won't get the answer. OK, anyways, so there's some 3 sentences. Um, it sounds very nice when you speak it. It's like, uh, ennugu pilikante peddi pilienugu cante chinadi pili aluca cante pedadi. So, that's, yeah, it's nice, it's a beautiful language. Um, I'm gonna give you a sentence now uh and I wanna see if you all can see what goes in the blank spot. Fill in the blank. Here we go. Sentence is Eleca. Billy Conte. So Take a look at that for a moment, see if you can figure out what goes in that blank spot. You can talk to each other if you want, but just, you know, you figure it out, write it down, commit, make a commitment.
+
+SPEAKER 0
+So. Yes. Yes. I. All right, come up with an answer.
+
+SPEAKER 1
+So what do you all think? Any ideas? Any suggestions?
+
+SPEAKER 0
+Yeah, Chennady.
+
+SPEAKER 1
+OK, we have a guest for Chennady. Anybody agree? Yeah, so it looks like we got quorum. OK, Ginity seems reasonable. Let's, let's put that down for now. OK. Uh, now I'm gonna give you another one.
+
+SPEAKER 0
+Yeah.
+
+SPEAKER 1
+Enugu, Eluka kante. Something. So. Take try that on.
+
+SPEAKER 0
+And I I think they I. I So All right.
+
+SPEAKER 1
+What do y'all think? What do we want to put in there? Suggestions?
+
+SPEAKER 0
+And Somebody suggests something.
+
+SPEAKER 1
+I'll see if anybody else wants to say first. Somebody give me an idea.
+
+SPEAKER 0
+Yeah, pedadi.
+
+SPEAKER 1
+Alright, let's try that. Well, actually, let me see what's quorum. What do y'all think? Who else said pedadi? Who else likes that? So enough, yeah, OK, we can go with that. OK. Uh, here's another one. Enugu Cooker Cante. Something All right, what do y'all wanna put in there?
+
+SPEAKER 0
+I am sitting in my bed on until there now. Suggestions?
+
+SPEAKER 1
+Let me see if anybody new wants to suggest anything. Anything from over in the wings? Pedaddy. So who wants Paddy? So, several of you, OK, we can do that. That was a OK. Um, all right, so, uh, nice, looks, uh, uh, nicely done. Um, we'll come back to this, OK? So keep this in mind, um, we'll come back. So this is some y'all are just like, you know, we're playing around with like Telugu sentences here. Um, I'm gonna give you. Uh, I'll tell you, I'll tell you all how you did later. OK, here's now a bunch more sentences.
+
+SPEAKER 0
+OK.
+
+SPEAKER 1
+A bunch of Enugu sentences. Um, So, here's a question, when. There is a language and you have like a bunch of examples to it like how can we understand what's going on here kind of looking in from the outside like what can we what can we do? um and in particular we might ask this question of uh. What does? Enugu Mean. We have some like nice examples of it being used. What can we learn about what it means? Now, here's an observation, OK. Uh, The word Enugu. Tends to. Occur in sentences. With Certain other words. And in. Certain places. We call this the context. Of a word it's like where like what words happen around it and how are they all positioned. Um, so as like a one method for trying to get at this question of what does Enugu mean, maybe we can see like what we can do with context. So, uh, How Can we represent our magic cogsa word? How can we represent the context Of a word I'm gonna give you a really simple idea. Simple idea is let us count. The word co-occurrences within. A con context window. So by within a context window I mean we're just gonna like look at little chunks in this example we have our sentences we're just gonna say like you know sort of within each sentence let's like count um or not within a window but just yeah anyways count co-occurrences. So what do I mean by this? I mean suppose we um. Uh, look at, um, so basically, uh, How many different words are occurring here? It's actually, yeah, how many different words are there in this little chunk of language? Here we can count them together actually. There's the Enugu. There's so if you notice like all of these are. Uh, well, let's just write them down. Um, OK. So, let's see. Uh, there is, um, Enugu and then there's this one Query. Prapancha cha. so if I just went down here, I won't write all these down, but I'll just say chalu. There's a few more over here. There's this conte word that keeps showing up. So there's Kante and then over here, there's the ones we had earlier. There's Pet Daddy. And Trinity. OK, so there's all the words, so. How often does Enugu. Co-occur with all these words. Let's like count them. So eniggu is like itself like we don't you don't have to worry about it. It's kind of just like a, you know, undefined thing like it doesn't matter, um, but count up for me how many times ennugu occurs with all of these other words. So how many times does Enugu co-occur with Kerji? Yeah, just one. Yup. How about with propunch? Yeah, one chapalu. Yep, uh, and now we're gonna, you know, similar for a lot of these. What about with Cante? How many is that? 9, yes, 9 times. Ped Daddy. Mhm. 7. Trinity. Yes. OK, so there's some counts, um. So now, what we have done is I have, I am now representing. Enugu as a vector of numbers. Right? Just like vector of a bunch of numbers. OK? Um, we actually call this. A context vector. OK, it seems OK. It seems like a little random, but like, sure, let's see what happens. So now what I'm gonna do is I'm gonna say, so like there's all of these words like kerchy and propunchum and chaplu, and they're all just like ones. So we'll just like ignore them for right now. Um, conte is like everywhere, so that one's not, not really giving us a lot of information, but let's look at these last two, especially Peddi and Trinity. So if we kind of shorten our vector just to kind of the interesting ones, right? Um, then I might say, so like here's a sort of like a shortened. Shortened vector. I'm gonna say like so here's our word Enugu. And I'm just gonna define it with 2 numbers. One is the count for Pednadi and one is the count for chinnadi. So what would this be? 72. OK, so I'm just gonna represent Enugu as that vector of two numbers. Y'all all good so far? Following along, happy?
+
+SPEAKER 0
+OK.
+
+SPEAKER 1
+Now, let us do the same thing. But with a few more words.
+
+SPEAKER 0
+OK, so, uh, this first chunk is actually just the
+
+SPEAKER 1
+exact same thing we were just looking at. So instead of like redoing that, I'm just gonna say like we can sort of reuse our results, um, so I'm gonna say we know that, um, I'll put it up here. Enugu, oops, Enugu, um if we had, you know, Pedadi and Chinnadi. Uh, as our sort of dimensions. I was saying, what was it? It was, uh, what was it? 72, thank you. 72. So please do the same thing now for E Luca. And for Pilly down here. And for Cua. Over here. So, go ahead and do that. Just some counting.
+
+SPEAKER 0
+a Isn't it nice when like the first thing you
+
+SPEAKER 1
+learned in preschool is like still useful to you as part of your undergraduate education? Just count.
+
+SPEAKER 0
+I No. OK, we counted.
+
+SPEAKER 1
+Succeeded in counting. What do we have for Eluka?
+
+SPEAKER 0
+One 18.
+
+SPEAKER 1
+What about for Pilly down here? 36. What about for cooker? 21. Does everyone else agree? Is that looking good? All right.
+
+SPEAKER 0
+Cool.
+
+SPEAKER 1
+We have now built 4 context vectors for these different words. Um, OK, what can we do with this? Well, let me, I'm just gonna write them down again so we have them on the same sheet. So Enugu was 72, oops. Uh De Luca was 18. Pinley was 3-6 and Koka is 2-1. Um All right. Now, what do you think we can do with these? What do you do when you give a bunch of two-dimensional numbers? We can plot them. Yes, we can draw them. We'll keep it simpler. We're gonna draw a picture. So let us plot these. So we have two dimensions here, right? This is basically we have things that are rep we have data points. Each of them is represented by two numbers, so we can just plot them on a little two dimensional thing. So let's say Plad. Is here. And chinnady is up here and we'll just like make some little 512 34.
+
+SPEAKER 0
+Uh-huh. 12345 6.
+
+SPEAKER 1
+8. OK. So Enugu is where 721234, 5671 2. Enugu. Eluka is 17 5678 18, right?
+
+SPEAKER 0
+Hey Luca. Pilly's 12 3. 1, 23, 416.
+
+SPEAKER 1
+Cooker is 2112 1.
+
+SPEAKER 0
+OK That So now we have our words.
+
+SPEAKER 1
+Represented on this little multi-dimensional space using their context vectors, what do you think we can learn from looking at these points? Like, tell me some inferences. Yeah.
+
+SPEAKER 0
+OK, yes, so you can say that like along this
+
+SPEAKER 1
+dimension Enugu is more pedladi and cook or whatever that is. What can you tell me without actually kind of referring to these x and y labels though, like just in general about like those words themselves, like which are the two most different things sorry you can draw a line
+
+SPEAKER 0
+to separate two groups.
+
+SPEAKER 1
+Oh yeah, you could, yes, you could, uh, I don't know what the line would be, but before we get, so that's maybe getting a little more complicated than we need right now, but like if you just kind of are talking about relationships between these four things, which are the two most different, would you say? Yeah, so, um, Enugu and Eluka look very different. So, like, you know, uh, I'll just like jot that down, um, so. Enugu and Eluka are very Different Um, You could also say, you know, like a pili is kind of like partway between an Enugu and an Elka, right? Sure, well yeah. So pili is partway in between. Enugu and Eluka. Um, here's an interesting one. What is, what do you think Cua is most similar to? K. So sorry, which one? Enugu Enugu Enugu. So we have a vote for Enugu. Any other ideas? I actually realized I've made a mistake on this example slightly but that's OK. news world. So yes, either in a group like, here's something to think about. It's like why is Cuca like all of these are like way up here. Why is Cuca like way down here? Do y'all remember? Like why did Cua end up? Somewhere so different than all the others. Yeah, yeah, we just have like fewer accounts so that's why it's kind of like stuck down in the corner so if we remember that, what do you think is like the most? how do you, how would you try to find something that's like the most similar? Yeah, yeah, times it by 3. You could scale it. What does that mean in terms of this if you're trying to draw this, like how would you visualize that? Scaling idea, yeah, so you could scale it. Um, how do you, well, like, yeah, so basically you can like one way to think about scaling this is you're like kind of multiplying, you're basically following. A line, right? So it's like CCA for if there's like more data that follows the same pattern, it would just be like Cuca would have been out here if we had enough data for it, right? So with that in mind, one way to think about if you said, you know, like um. Uh, like what, which ones of these are like the most similar one thing you can think about is actually instead of like which points are close in the space, we actually wanna look at where, what angle do they lie on, right? Because essentially this vector here. This vector is kind of defining the same thing it's just like depending on how much data you have so maybe like things that are close together should actually be defined by the angle that divides them y'all that makes sense? Yeah, so, so again just kind of like by thinking about what we're doing here similarity is um more about the. Angular. Distance Than the Euclidean distance. Because it like the direction is kind of like what matters here um turns out there's actually a fancy name for this angular distance like I mean you don't have to know this but you might see it like people will often talk about this um. As, uh, there's something called cosine similarity. Which is basically just like how similar. In angle. Two vectors are. Yeah, OK. Um, so, uh, let's see. Ah, OK. Um, so the way that we've done this, um, here's a couple more questions for you. Um, uh, If we have two words in a language that are synonyms, like how would you describe where they would be in this space? Oh, I'm sorry. Wait, I skipped something. Sorry, let me, uh, let me rewind a little bit. Um. OK. So right now, we were using, wait, is that what I wanted to say? Yes, actually, yeah, let me say this. OK. So, here, we were using um two dimensions, right? But remember at the beginning we like threw away all those extra dimensions. So imagine if we actually did that for all the words in a language, OK? So imagine we have if there's 50,000 words. In the language. And we basically do the same thing where we basically say, you know, here's ennugu, here's this vector which is now of length 50,000, right? Like there's so many numbers here. This is all counts of ennugu with all the other words that it occurs with, like, you know, where it's like in a sentence together, um, then basically, so then we have ennugu defined by a 50,000 dimension, I mean a 50,000 dimensional vector, and then if you're plotting this in the space it would be in like 50,000 dimensions instead of 2 dimensions. What does that give us? So like we can kind of reason about this by going the other way. So suppose for example like here we had two dimensions. If I had only had one dimension, like imagine if we only had this first dimension here, what would that have looked like? We would've just had this and we would've said, you know, here's E Luca, here's Cuca, here's. Pilly and here's. In a go, so this is like the 1D version. It's like you can learn some stuff, but see how like when you have two dimensions it kind of spreads things out more. You can like see more of what's going on. So now just imagine spreading that out over 50,000 dimensions like you get this like, you know, all these words are kind of like in different parts of the space defined purely on how they occur with other words. OK, good. So, um, I should have waited for an answer good. Any questions? OK. Oh, so, so the question is how does the angle get defined in hyperdimensional space? It actually just is like an angle. There's always an angle, right? It's because, so it's kind of like in three dimensions. You have an angle. It's still just a single vector to a point, but the angle is now defined by like 3 coordinates, you know what I'm saying? Yeah, yeah. So it's like just straightforward sort of going up into many dimensions. Yeah, yeah. Question, why wouldn't you just sort of scale all of
+
+SPEAKER 0
+those vectors to make them like a unit to make it easier to compare. You could, OK, so the question is, yeah, why don't
+
+SPEAKER 1
+we kind of scale all of these, you know, so like imagine if you said these as like percentages, then they would all kind of be on like a unit circle or something and why wouldn't you do that? So one thing is is like this actually does reflect something about like frequency in the language which could be useful yeah so it's like you know could but you could yeah there's some things you could try to scale them too is that another question?
+
+SPEAKER 2
+No, I think it's just. I think it should be, yeah, OK, I mean, yeah,
+
+SPEAKER 1
+and this is like I'm hand waving a little bit just because it's like with a lot of times with this stuff like this like there's not any right or wrong answer like yeah you could do it this way and then you would lose some information and gain some efficiency or you could do it this way and you know so it's just, yeah, there's different ways to do it but conceptually this is kind of like the idea. So, um, in this kind of world, uh, let me ask you all some questions, um, so, uh, here is, uh, I'll just label these as questions, um.
+
+SPEAKER 0
+Where would 2.
+
+SPEAKER 1
+Synonyms be. Relative to each other, like, how would you describe, so if I have two words that are synonyms, how would you describe their relationship in this space? Yeah.
+
+SPEAKER 0
+like.
+
+SPEAKER 1
+It Yeah they would be on the same line in fact they would actually kind of be in the same place, right? Because if you think about synonyms they occur in the same place in sentences everywhere, right? Like you know we might use happy and joyous in the same spots um and so they would kind of be like really close to each other in this space. Yeah, um, Here's another question, um, if I take, like, you know, all the animal words. Where would they be in the space? Like different animals, but like all the animals. Yeah, yeah, why do you think they would be clustered together?
+
+SPEAKER 2
+Because in many contexts, animals could be. Replace so like if you have a sentence you could like replace with another animal.
+
+SPEAKER 1
+Yes, that was a great answer. Yes, so we would expect that animals, the category of animals would all be clustered together because in sentences you can kind of like often replace one animal with another and it like it's still like a common sentence, right? Like you, you know, you could say like, you know, um, uh, I petted the dog, I petted the cat, I petted the horse, um, you know, like all those kinds of things, yeah, so they would, so yeah, animals would tend to be, um, clustered together, um. What about uh Where would 2 oops, 2. Antonyms be. Yeah, idea?
+
+SPEAKER 0
+With this Yes, yes, this is a great, yes, this
+
+SPEAKER 1
+is like a really weird one, right? Antonyms would also be kind of close together in the space because we often use them like in similar ways in sentences. So like happy and sad are, you know, opposites mean different things, but like the types of sentences they occur in, not like for all the sentences obviously, um, but there is gonna be like some similarity there, um. Here's another one for you. Ah Oops. Um, Which would be more similar? Like a word like fish, the word fish and the word chicken. Or the word fish and the word dolphin.
+
+SPEAKER 0
+Uh Who thinks fish and chicken would be more similar?
+
+SPEAKER 1
+Who thinks fish and dolphin would be more similar? Who thinks there's another answer to this question?
+
+SPEAKER 0
+We depend on the context.
+
+SPEAKER 1
+So the context is just like all the language. It does it would depend on something though. So we have all these different dimensions. So what if we only look at some of the, so what do these dimensions mean, right? These dimensions are like other words. So if you look at dimensions that are like eating food, cooked, poached, boiled, baked, sauteed. Which then on those dimensions, right, because this is you can look at points, you know, you can look at subsets of dimensions that's fine on those dimensions which ones are gonna be more which, which of these will be more similar. Fish and chicken, yes, right? Like on the food dimensions, fish and chicken will be more similar. If you have dimensions like, you know, ocean, swim, conservation. Um, then which ones will be more similar? Then Fischendal will be more similar, yeah, OK, so, um, so it's kind of just to show you like you could actually do a lot of interesting things with these kinds of context vectors, um. Uh So, um, yeah, so it's a it's an interesting thing. Oh, this, um this. Oh, OK. Yeah, so you can do a lot of things with these kinds of vectors. Um. So I'm trying to remember where I'm going next. uh, it was a little oh I was gonna reveal to you now what we did in the beginning. Reveal the meanings. So, you all, we'll start with our first one. So you all did this, uh, and you filled in all these things. I will tell you um what these things mean. So it turns out that uh Enugu. Is elephant. Pilly is cat. El Luca is mouse. Cooker. Is done. Um, Kante just means. Uh, then like a comparison. And Pedaddy is bigger. And Trinity It's smaller. So look at this you all, so we have these sentences and then I was like, is I asked you, I said, is a mouse if you like a mouse is, you know, bigger or smaller than a cat and you all were like smaller. And then here I said uh is an elephant bigger or smaller than a mouse? What did you all say? Bigger you said bigger here I said uh here I gave you a word you'd never seen before a dog. I was like, is an elephant bigger or smaller than a dog? What did you all say? Bigger wow, you're so good, um, and then you know we did this whole, uh. You know, I gave you all of these other sentences. I'm not gonna like write all these down but I'll tell you what they were um an elephant is bigger than a chair, an elephant is smaller than the world an elephant is bigger than sandals. Bigger than a bed, bigger than a child, bigger than a laddu, which is like a little cookie. Bigger than one almond. Smaller than the ocean, bigger than a pumpkin. Um, I had to put one almond because I'm trying to find something that a mouse is like smaller, uh, bigger than, I mean, yeah, um, so anyways, so that's what all that means, um, but given, so given these sentences. You all were able to, like, you know, we made our little graph, uh, and then look, we had all these interesting things we were like Enugu and Eluka are the most different of these. Elephants and mice. A cat is partway between an elephant and a mouse. Um, you know, and like a dog and a cat are kind of similar because they're close on the vectors. That's pretty good. That's like a lot of reasoning that you all did. Um So, uh, With all of that. With all of that, I was gonna tell you. Uh, I was gonna say to you. Congratulations. Um, because, uh, you have demonstrated, you demonstrated from that, that you understand Telugu. Um, not only that, you demonstrated that you have common
+
+SPEAKER 0
+sense knowledge.
+
+SPEAKER 1
+About Animals. And their sizes. Um, you actually did something that's very sophisticated. That's an example of transitive reasoning. Uh, in cognitive science, which is, um, Uh, let me show you this. Uh, so transitive reasoning is basically where you have, if you have two relationships like A and B and oops, B and C, can you infer that like the same relationship holds between A and C, uh, and that's actually what you all did here, look, because you basically you were able to go, you know, the enegu is bigger than the pily. The ply is bigger than the eluca, and then I asked you about Enugu elca. You'd never seen those two things before together, and you were able to say, yeah, the elephant is actually bigger than the mouse. That's transitive reasoning. It's very sophisticated. It's like really good, yeah, so you're able to do this transitive reasoning about sizes of animals, um, and not only that, you actually knew, um, info about. The size of a dog. Um, even though I never even told you anything. About Dogs like the sizes of dogs, about dog size. Explicitly So amazing you all understand all of this stuff.
+
+SPEAKER 0
+Yeah.
+
+SPEAKER 1
+Yeah, I, yeah, that you should put this in your LinkedIn. Yeah, that's great. I understand totally. I can do common sense reasoning, so. Do you all agree from that exercise. That you understood Telugu. Telugu is the name of the language. No, did you, were you demonstrating common sense knowledge about the sizes of animals? No. No, what were you doing? I mean, it's not nothing, but like what were you doing? Hmm? You guessing, but it wasn't just random guessing, right? Yeah it was like you were basically you were doing some like nice logic based on the way that these symbols sort of like co-occurred around each other yeah um so why were you able to do that so like I gave you, you know, so so so basically yeah so like you were able to do this because um you know you were kind of like pushing uh you know. Pushing um symbols around and counting stuff like what enabled you to generate these correct answers? Why were you able to do that? Hm? Well, sure, yeah, context window, but I mean like, uh like. Uh, I set up the conditions for you to succeed, didn't I? So how did, like, why, why, what were those conditions? Like why, why were you able to get correct answers here? Yeah. Yes. Yeah, yeah, yeah, yeah, so basically, um, there were, so let me uh let me just jot this down right here, um, like why, what led to success? So one is that there's basically like you know I'm gonna abstract what you said a little bit basically there was um like you know groups of. Sentences. With Similar structure. Um, right, and then you could kind of just like compare and be like, oh this word is the same place in this word, you know, like here you were kind of able to just, you know, compare these things because I was giving you like really similar sentences, right? If every sentence I gave you just had a completely different set of words, what could you have done? Like nothing, right? But because there's these like parallels. Why does language have sentences like this where there's like groups of sentences that have really similar structure. Like why aren't all our sentences just like totally independent like sets of words? Yes, because it's all based on a small, relatively small set of grammar rules, right? Because rules. Because you have these rules that we use to generate language and so it's like well we're using this rule like noun verb noun verb noun verb and so you get these sentences that have this like very parallel structure that you can exploit when you're trying to like you know do this um also another reason that led to the success was that all the sentences that I gave you. I gave you. Um, sentences that were correct. So if I had given you a bunch of sentences where I said, you know, an elephant is smaller than a mouse, it would have like screwed everything up, right? Are like these things wouldn't have worked, uh, the vector semantic stuff like putting them in the space, the, the things would have been in the wrong place. But because I was actually giving you stuff that was correct, yeah, and like, yeah, you were able to like do this, um, another reason is, um, and I don't this is not like a technical term, um, but I also gave you. Sentences. That were uh and again this is like my term like relevant and by relevant what I mean is it's like um there are lots of sentences that are correct that don't we don't necessarily say even though they're correct so for example um I could have told you stuff like an uh elephant. Is not a book. Is that correct? Like, yeah, it's correct, but it's like a lot less useful than saying an elephant is bigger than a mouse, right? Like it's just and saying something like this is, it's just too random, uh, and it doesn't really give us as much useful information as sentences that are actually kind of like relevant to what people talk about and what people think about, um. So, um, so this is all kind of the stuff that, that enabled you to do these reasoning things. Um. And we are, uh, oh, no, I can say one more thing, um, and then we will kind of pause here. So we actually didn't quite get through everything for today. That's OK. We'll get to it. Um. Uh, 01 last thing I was gonna say is like related to these rules I'll just kind of add um oh I'll add one more little thing right here, um, is, um, you didn't have to know the rules. To do what you did. Oops, sorry. You didn't have to know the rules to do what you did, right? So there's a small set of rules that are generating all these sentences. Did I have to tell you what the rules of Telugu were for you to start doing your pattern matching and kind of like, you know, you didn't. I didn't. You just kind of were looking at stuff that's similar to whatsoever. You don't know what the word order means. I didn't have to tell you like which ones are nouns and which ones are verbs, but you're just, you know, looking at what's there, um, and able to do it. So this idea. Was one of the big breakthroughs in natural language processing. Um, let me just, I'll just jot down this like one like last couple of like terms here. Um, let me like leave this here as like a little uh reminder of like all of the stuff that led to success. Um, so this is basically an approach in sort of natural language processing called vector semantics. It's a very this is a general term that means let's represent. The, you know, meaning. In quotes. Of a word. As a vector. Of numbers. That Says Something About It's context. Or I should say like it's you know sort of typical context. Right, so basically it's just saying for a word like enegu we don't know what it means. Like we don't know the rules of Telugu. We don't need any of that, but let's just look at a bunch of Telugu sentences. And you know, count up these co-occurring words. There's basically there's more sophisticated ways than just counting. That's where it gets a little fancier. But the basic idea is just this Let's represent the word enigu as a vector of numbers that reflects something about its context in a language, and then it turns out that actually gives you some powerful inferential tools where you can do things like be like, oh, which two words mean the same thing, um. You know where are like what's like a category of words because they all occur in the same part of the space um and uh yeah and so this was oh and then yeah the key thing was that so like in natural language processing for decades what a lot of people were trying to do so it's like you know you have a bunch of language how do we understand it for a long time people were trying to explicitly sort of model these rules like can we write down like we know the rules. Can we write them down? Can we get a computer program to go in and pull out the nouns and the verbs, and then if we know the nouns, can we like define what each noun means? It was like people did a lot of work and it was sort of never very satisfying, never worked particularly well. The big insight was basically this you don't have to know the rules just like count up these kinds of co-occurrences, get a big vector, um, and then you can actually like do some, you know, language related stuff there. So unfortunately we're out of time, um, we will get to the sort of next big ideas along the way, um, but, uh, this is kind of like the key. Intuition and so the, the tiny um PSA I want to share with you um before you leave is if you forget everything else from all of these lectures just remember one thing oops I'm like losing all my papers now um just remember that your skills with Telugu. And reasoning about the sizes of animals are the same skills that chat GPT has in understanding English because it turns out that's how all of these large language models work and we'll get there, um, but when chat GPT is talking to you imagine like basically it's doing this. What you're doing in the beginning of class before you knew what any of these things meant. So, that is all. Uh, cheers, we'll get back to this, so basically not this week but um the week after. Have a good weekend everybody. We'll see you, see you later.

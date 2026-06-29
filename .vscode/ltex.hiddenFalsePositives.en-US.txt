@@ -1,0 +1,2 @@
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QHard stems газет газету\nSoft stems версия версию\nFeminine -ь тетрадь тетрадь (same)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHowever, Rumelhart and McClelland built a PDP neural network prove that rule-like behaviors can emerge dynamically from the interaction of simple network nodes, without a rule ever being written into the system.\\E$"}
