@@ -21,31 +21,35 @@
   - [The 7-letter spelling rule](#the-7-letter-spelling-rule)
   - [The 5-letter spelling rule](#the-5-letter-spelling-rule)
   - [The 8-letter spelling rule](#the-8-letter-spelling-rule)
-- [(Cases) Nominative case](#cases-nominative-case)
+- [(Cases) Nominative Case](#cases-nominative-case)
   - [When to use (subject)](#when-to-use-subject)
   - [Plurals](#plurals)
   - [Adjectives](#adjectives)
   - [Special modifier](#special-modifier)
-- [(Cases) Prepositional case](#cases-prepositional-case)
+- [(Cases) Prepositional Case](#cases-prepositional-case)
   - [When to use (position)](#when-to-use-position)
   - [Nouns](#nouns)
   - [Adjectives](#adjectives-1)
   - [Special modifiers](#special-modifiers)
-- [(Cases) Genitive case](#cases-genitive-case)
+- [(Cases) Genitive Case](#cases-genitive-case)
   - [When to use (possession)](#when-to-use-possession)
   - [Nouns](#nouns-1)
   - [Adjectives](#adjectives-2)
   - [Special modifiers](#special-modifiers-1)
-- [(Cases) Dative case](#cases-dative-case)
-- [(Cases) Accusative case](#cases-accusative-case)
-  - [When to use (object)](#when-to-use-object)
+- [(Cases) Dative Case](#cases-dative-case)
+  - [When to use (indirect)](#when-to-use-indirect)
   - [Nouns](#nouns-2)
   - [Adjectives](#adjectives-3)
   - [Special modifiers](#special-modifiers-2)
-  - [General rule](#general-rule)
-- [(Cases) Instrumental case](#cases-instrumental-case)
-  - [When to use (instrument)](#when-to-use-instrument)
+- [(Cases) Accusative Case](#cases-accusative-case)
+  - [When to use (object)](#when-to-use-object)
   - [Nouns](#nouns-3)
+  - [Adjectives](#adjectives-4)
+  - [Special modifiers](#special-modifiers-3)
+  - [General rule](#general-rule)
+- [(Cases) Instrumental Case](#cases-instrumental-case)
+  - [When to use (instrument)](#when-to-use-instrument)
+  - [Nouns](#nouns-4)
 - [(Nouns) General Rules](#nouns-general-rules)
   - [Fleeting vowels](#fleeting-vowels)
   - [Indeclinable](#indeclinable)
@@ -92,9 +96,6 @@
 
 <div class="main-content">
 
-
-
-
 # Spelling Rules
 ## The 7-letter spelling rule
 After the letters **к, г, х, ш, щ, ж and ч**, do not write the letter **ы**. Write **и** instead. 
@@ -107,7 +108,7 @@ After the letters **к, г, х, ж, ч, ш, щ and ц** change **ю to у** and 
 
 Especially for И-conjugation verbs
   
-# (Cases) Nominative case
+# (Cases) Nominative Case
 **The base form of the word**  
 
 ## When to use (subject)
@@ -128,10 +129,10 @@ Especially for И-conjugation verbs
 ## Plurals 
 **Ending letters**  
 Stem + ending letter according to its gender.  
-|| Masculine | Feminine | Neuter |
-| :---: | :---: | :---: | :---: |  
-| Hard stem | чемодан - ы | газет - ы | мест - а  |
-| Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я |
+| | Masculine | Feminine | Neuter
+| :---: | :---: | :---: | :---: 
+| Hard stem | чемодан - ы | газет - ы | мест - а  
+| Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я 
 
 :exclamation: For a neuter soft word, remember the -ь is part of the stem, not part of the ending.  
 
@@ -152,7 +153,7 @@ Changing endings sometimes causes the stress to move - from the stem to the endi
 гара&#769;ж - гараж**и&#769;**
 
 ## Adjectives
-| Ending: | Masculine | Neuter | Feminine | Plural <br> (All genders) 
+| | Masculine | Neuter | Feminine | Plural 
 | :---: | :---: | :---: | :---: | :---: 
 | Hard stem | но&#769;в**ый** | но&#769;в**ое** | но&#769;в**ая** | но&#769;в**ые** 
 | (With spelling rules) | ру&#769;сск(<del>ы</del>)**ий**(7) | ру&#769;сск**ое** | ру&#769;сск**ая** | ру&#769;сск(<del>ы</del>)**ие**(7) 
@@ -167,26 +168,26 @@ The words for whose agrees in grammatical gender with the **noun asked about**, 
 The man asks the woman "whose" with masculine чей because чемодан - suitcase is a masculine.   
 She says "mine". The masculine мой matches чемодан, not the woman.  
 
-|| Masculine | Neuter | Feminine | Plural | 
-| :---: | :---: | :---: | :---: | :---: |
-| **whose** | чей | чьё | чья | чьи |
-| **my, mine** | мой | моё | моя | мои | 
-| **your(s) - ты** | твой | твоё | твоя | твои | 
-| **our(s)** | наш | наше | наша | наши | 
-| **yours - вы** | ваш | ваше | ваша | ваши | 
+| | Masculine | Neuter | Feminine | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **whose** | чей | чьё | чья | чьи 
+| **my, mine** | мой | моё | моя | мои 
+| **your(s) - ты** | твой | твоё | твоя | твои 
+| **our(s)** | наш | наше | наша | наши 
+| **yours - вы** | ваш | ваше | ваша | ваши 
 | **this** | этот | это | эта | эти
 | **one** | один | одно | одна | одни
 
 
 Possessive modifier **his, hers, and theirs** are indeclinable. 
-|Indeclinable|| 
-| :---: | :---: |
-| **his** | его |
-| **her(s)** | её |
-| **their(s)** | их |
+| English | Russian
+| :---: | :---: 
+| **his** | его 
+| **her(s)** | её 
+| **their(s)** | их 
 
 
-# (Cases) Prepositional case
+# (Cases) Prepositional Case
 ## When to use (position)
 **Location (Где?)**  
 Used when answering questions about 
@@ -206,9 +207,8 @@ Used when answering questions about
 | Нью-Йорк -> Нью-Йорке | Джорджие -> Джоржии<br> Здание -> Здании | Чикаго 
 
 **General endings**
-||Nominative | | Prepositional | | 
+| |Nominative | Masculine<br> Neuter | Feminine | Plural 
 | :---: | :---: | :---: | :---: | :---:
-|||Masculine<br> Neuter | Feminine | Plural 
 | Hard-stem | журнал<br> письмо<br> школа | в журнал**е**<br> в письм**е**<br> - | -<br> -<br> в школ**е** | в журнал**ах**<br>в письм**ах**<br>в школ**ах** 
 | Soft-stem | музей<br> словарь<br> кухня | в музе**е**<br> в словар**е**<br> - | -<br> -<br> в кухн**е**  | в музе**ях**<br> в словар**ях**<br> в кухн**ях** 
 | Feminine -ь | тетрадь | - | в тетрад**и** | в тетрад**ях**
@@ -226,7 +226,7 @@ Used when answering questions about
 
 ## Special modifiers  
 
-|Masculine and Neuter | Feminine | Plural 
+| Masculine<br> Neuter | Feminine | Plural 
 | :---: | :---: | :---: 
 | о ч**ём** | о ч**ей** | о ч**их** 
 | в мо**ём** | в мо**ей** | в мо**их**  
@@ -237,7 +237,7 @@ Used when answering questions about
 | в одн**ом** | в одн**ой** | в одн**их**   
 
 
-# (Cases) Genitive case
+# (Cases) Genitive Case
 ## When to use (possession)
 **Possession ("of" or "s") and after preposition для**   
 Телефон брат**а**.  
@@ -277,7 +277,7 @@ When ever specify **how much or how many** of something there is, the noun being
 
 ## Nouns  
 **Singular**  
-| Ending | Nominative | Masculine and Neuter | Feminine 
+| Ending | Nominative | Masculine<br> Neuter | Feminine 
 | :---: | :---: | :---: | :---: 
 | Hard | журнал<br> письмо<br> газета<br> | журнал**а**<br> письм**а**<br> -| -<br> -<br> газет**ы** | журнала
 | Soft | музея<br> словарь<br> платье<br> неделя<br> | музе**я**<br> словар**я**<br> плать**я** | недел**и**
@@ -308,7 +308,7 @@ Feminine and neuter
 
 ## Adjectives  
 
-| | Masculine and Neuter | Feminine 
+| | Masculine<br> Neuter | Feminine 
 | :---: | :---: | :---: 
 | Hard stem (-ый) | нов**ого** | нов**ой** 
 | Soft stem (ий) | син**его** | син**ей** 
@@ -316,22 +316,95 @@ Feminine and neuter
 
 ## Special modifiers
 
-| Masculine and Neuter | Feminine | Plural
+| Masculine<br> Neuter | Feminine | Plural
 | :---: | :---: | :---:
-| У чь**его** | У чь**ей** | 
-| У мо**его** | У мо**ей** | У моих
-| У тво**его** | У тво**ей** | У твоих
-| У наш**его** | У наш**ей** | У наших
-| У ваш**его** | У ваш**ей** | У ваших
-| У эт**ого** | У эт**ой** | У этих
-| У одн**ого** | У одн**ой** | У одних
+| У чь**его** | У чь**ей** | У чь**их**
+| У мо**его** | У мо**ей** | У мо**их**
+| У тво**его** | У тво**ей** | У тво**их**
+| У наш**его** | У наш**ей** | У наш**их**
+| У ваш**его** | У ваш**ей** | У ваш**их**
+| У эт**ого** | У эт**ой** | У эт**их**
+| У одн**ого** | У одн**ой** | У одн**их**[]
 
+# (Cases) Dative Case
+## When to use (indirect)
+**The indirect object (to/for)**  
+Whenever you are giving, showing, telling or sending something **to** someone, that person is in the dative case.  
 
+Я даю книгу **студенту**.  
+(I give the book to the student.)  
 
+Она пишет письмо **маме**.  
+(She is writing a letter to mom.)  
 
-# (Cases) Dative case
+Common verbs:  
+| English | Russian 
+| :---: | :---: 
+| To give | Давать 
+| To say/tell | Говорить
+| To show | Показывать
+| To help | Помогать
+| To call | Звонить
 
-# (Cases) Accusative case
+**Expressing age**  
+"To me, it is x years."  
+
+**Мне** 20 лет.  
+(I am 20 years old.)  
+
+**Моему брату** 15 лет.  
+(My brother is 15 years old.)  
+
+**States of being and feelings (impersonal sentences)**  
+When describing physical states, emotional states, or necessity, Russian uses an impersonal structure. The **person** experiencing the feeling is in the dative case.  
+
+**Мне** холодно. 
+(I am cold.)  
+
+**Ему** скучно.  
+(He is bored.)  
+
+**Нам** нужно идти.  
+(We need to go. Lit: To us it is necessary to go)
+
+**Directional motion with "К" (towards)**  
+Я иду к **врачу**.  
+(I am going to the doctor)  
+
+**Movement along a surface with "По"**  
+Мы гуляем по парку.  
+(We are walking around the park.)  
+
+## Nouns
+
+| | Nominative | Masculine<br> Neuter | Feminine | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| Hard | журнал<br> письмо<br> школа<br> | журнал**у**<br> письм**у** | школ**е** | журнал**ам**<br> письм**ам**<br> школ**ам**
+| Soft | музей<br> словарь<br> платье<br> кухня | музе**ю**<br> словар**ю**<br> плать**ю**<br> - | -<br> -<br> -<br> кухн**е** | музе**ям**<br> словар**ям**<br> плать**ям**<br> кухн**ям** 
+| Feminine -ь | тетрадь | - | тетрад**и** | тетрад**ям**
+| ия -> ии | версия | - | верс**ии** | верси**ям**
+
+- Some masculine nouns with о or е in semifinal position lose this vowel whenever an ending is added: от**е**ц -> омцу
+
+## Adjectives  
+| | Masculine<br> Neuter | Feminine | Plural
+| :---: | :---: | :---: | :---:
+| Hard stems (-ый) | нов**ому** | нов**ой** | нов**ым**
+| Soft stems (-ий) | син**ему** | син**ей** | син**ем** 
+| Spelling rules | хорош**ему**(5) | хорош**ей**(5) | хорош**им**(7)
+
+## Special modifiers
+
+| Masculine<br> Neuter | Feminine | Plural
+| :---: | :---: | :---: 
+| чь**ему**	| чь**ей** | чь**им**
+| мо**ему**	| мо**ей** | мо**им**
+| тво**ему** | тво**ей** | тво**им**
+| наш**ему** | наш**ей**	| наш**им**
+| ваш**ему** | ваш**ей** | ваш**им**
+| эт**ому**	| эт**ой** | эт**им**
+| одн**ому** | одн**ой** | одн**им**
+# (Cases) Accusative Case
 
 ## When to use (object)
 
@@ -413,7 +486,7 @@ for all feminine singular nouns and adjectives:
 а -> у  
 я -> ю 
 
-# (Cases) Instrumental case
+# (Cases) Instrumental Case
 ## When to use (instrument)
 **The tool or instrument (with something)**  
 
@@ -495,16 +568,16 @@ You can use the ending to identify which gender a word belongs to.
 
 ## Cases
 
-| English | Nominative | Prepositional | Genitive/Accusative  
-| :---: | :---: | :---: | :---: 
-| I | Я | Обо мне | У меня<br> Меня завут 
-| You | Ты | О тебе | У тебя<br> Tебя завут 
-| He | Он | О нём | У (н)его<br> Eго завут 
-| She | Она | О ней | У (н)её<br> Её завут 
-| It | Оно | О нём | У (н)его<br> Его завут 
-| We | Мы | О нас | У нас<br> Нас завут 
-| You (formal)<br> You guys | вы | О вас | У вас<br> Вас завут
-| They | они | О них | У (н)их<br> 
+| English | Nominative | Prepositional | Genitive/Accusative | Dative 
+| :---: | :---: | :---: | :---: | :---: 
+| I | Я | Обо мне | У меня<br> Меня завут | Мне 
+| You | Ты | О тебе | У тебя<br> Tебя завут | Тебе
+| He | Он | О нём | У (н)его<br> Eго завут | Ему
+| She | Она | О ней | У (н)её<br> Её завут | Ей
+| It | Оно | О нём | У (н)его<br> Его завут | Ему
+| We | Мы | О нас | У нас<br> Нас завут | Нам
+| You (formal)<br> You guys | вы | О вас | У вас<br> Вас завут | Вам
+| They | они | О них | У (н)их<br> | Им
 
 ## Spelling 
 **"н-" when it is after a preposition.** 
