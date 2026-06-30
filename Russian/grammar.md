@@ -57,6 +57,7 @@
 - [(Nouns) General Rules](#nouns-general-rules)
   - [Fleeting vowels](#fleeting-vowels)
   - [Indeclinable](#indeclinable)
+  - [Plurals for uncountable nouns](#plurals-for-uncountable-nouns)
 - [(Nouns) Grammatical Gender](#nouns-grammatical-gender)
   - [General endings](#general-endings)
   - [Soft sign ending (-ь)](#soft-sign-ending--ь)
@@ -71,7 +72,9 @@
 - [(Pronouns) “This is” vs. "This": это vs. этот (эта, это, эти)](#pronouns-this-is-vs-this-это-vs-этот-эта-это-эти)
   - [Introductory это (this is/those are)](#introductory-это-this-isthose-are)
   - [Declinable этот](#declinable-этот)
-- [(Adjective) Short Adjectives](#adjective-short-adjectives)
+- [(Adjectives) General Rules](#adjectives-general-rules)
+  - [Capitalization](#capitalization)
+- [(Adjectives) Short Adjectives](#adjectives-short-adjectives)
   - [Definition](#definition)
   - [Endings](#endings)
 - [(Verbs) Infinitive](#verbs-infinitive)
@@ -86,7 +89,7 @@
   - [Endings (-ся/-сь)](#endings--ся-сь)
   - [Usage](#usage)
   - [Reflexive pronoun (себя)](#reflexive-pronoun-себя)
-- [(Verbs) Imperfective and perfective verbs](#verbs-imperfective-and-perfective-verbs)
+- [(Verbs) Imperfective and Perfective Verbs](#verbs-imperfective-and-perfective-verbs)
   - [Imperfective verbs](#imperfective-verbs)
   - [Perfective verbs](#perfective-verbs)
   - [Recognize perfective verbs from imperfective verbs](#recognize-perfective-verbs-from-imperfective-verbs)
@@ -622,6 +625,34 @@ Foreign words ending in -о, -и, у are **indeclinable**: they cannot change en
 
 E.g. радио, такси, метро.  
 
+## Plurals for uncountable nouns 
+
+The meaning of plurals for uncountable nouns shifts.   
+
+**Different varieties, types, or brands**  
+When talking about different sorts of substance.  
+
+Сыр (Cheese) -> сыры (Different types of cheese)
+
+**Vast expanses or huge quantities**  
+To emphasize a massive geographic expanse or a poetic, overwhelming amount of something.  
+
+Вода -> воды (Waters, as in the waters of the ocean or a flood.)
+
+**Repeated or intense weather events**  
+Uncountable noun plural indicates that the event lasted a long time.  
+
+Мороз -> морозы (A prolonged period of freezing days.)
+
+**From abstract to concrete**  
+Pluralizing an abstract noun completely changes its meaning into a concrete, countable event or object associated with that concept.  
+
+Красота -> красоты (Beautiful sights or places, like "the beauties of nature")
+
+**Scientific and technical terminology**  
+When referring to distinct chemical compounds rather than the everyday material.  
+Соль -> соли (Chemical salts in a scientific context)
+
 # (Nouns) Grammatical Gender 
 ## General endings 
 You can use the ending to identify which gender a word belongs to.  
@@ -772,7 +803,15 @@ The **appearance** is emphasized
 Эта фотография интересная. (This photo is interesting.)  
 Эти дома красивые. (These houses are beautiful.)  
 
-# (Adjective) Short Adjectives 
+# (Adjectives) General Rules
+## Capitalization
+Adjectives made from capitalized nouns are usually not capitalized:  
+
+Америка  
+**а**мериканская виза
+
+
+# (Adjectives) Short Adjectives 
 ## Definition  
 Short adjectives are adjectives without their endings. They act as a predicate to describe a state.
 
@@ -913,7 +952,7 @@ If the verb itself isn't reflexive, but you want to express that "we" are doing 
 | :---: | :---: | :---:
 | себя | собой | себе  
 
-# (Verbs) Imperfective and perfective verbs
+# (Verbs) Imperfective and Perfective Verbs
 
 | Imperfective | Perfective  
 | :---: | :---: 
