@@ -176,19 +176,19 @@ When describing **PLURAL** nouns:
 **The base form of the word**  
 
 ## When to use (subject)
-1. **The grammatical subject of the sentence**  
+- **The grammatical subject of the sentence**  
   The noun or pronoun that "does" the verb:   
   **Джон** американец - John is an American
 
-1. **Stating identity (X is Y)**  
+- **Stating identity (X is Y)**  
   The word or phrase that comes after forms of the verb **to be**: is, are, was, were:   
   Джон **американец** - John is **an American**
 
-3. **Naming and listing things** 
+- **Naming and listing things** 
    - Street signs 
    - Store names
    - Items on a shopping list 
-  - the title of a book or movie  
+   - the title of a book or movie  
   
 ## Plurals 
 **Ending letters**  
@@ -253,14 +253,29 @@ Possessive modifier **his, hers, and theirs** are indeclinable.
 
 # (Cases) Prepositional Case
 ## When to use (position)
-**Location (Где?)**  
-Used when answering questions about 
+- **Location (Где?)**  
+  Used when answering questions about where is something. Used after prepositions 
 
-**Extra information about what (О чём?)**
+  | English | Russian 
+  | :---: | :---: 
+  | In/inside | В
+  | On/at | На
 
-**Transportation**  
-Я еду на поезде.  
-(I am going by train.)
+  :warning: These two prepositions are also for motions, when it is followed by **accusative** case.  
+
+- **Extra information about what (О чём?)**
+
+- **Month and years**  
+  Prepositional is used to pinpoint when something happens, specifically regarding months and years.  
+
+  Я поеду в Москву (acc.) **в августе**.  
+  (I will go to Moscow in August)
+
+- **Transportation (preposition на)**  
+  На + transportation vehicles like plane, train, bus, car, and metro in prepositional case is used to express the meaning of travel by certain way.  
+
+  Я еду **на поезде**.  
+  (I am going by train.)
 
 ## Nouns
  
@@ -303,41 +318,42 @@ Used when answering questions about
 
 # (Cases) Genitive Case
 ## When to use (possession)
-**Possession ("of" or "s") and after preposition для**   
-Телефон брат**а**.  
-(The phone of my brother.)
+- **Possession ("of" or "s") and after preposition для**   
+  Телефон брат**а**.  
+  (The phone of my brother.)
 
-**Absence**  
-The word "нет" always forces the noun that follows it into the genitive case
+- **Absence**  
+  The word "нет" always forces the noun that follows it into the genitive case
 
-У меня нет проблем**ы**. 
-(I do not have a problem)
+  У меня нет проблем**ы**.  
+  (I do not have a problem)
 
-**Saying "I have" (У + genitive)**  
-By/At [person], there is [object].  
-The proposition У (by/at) always requires the genitive case.  
+- **Saying "I have" (У + genitive)**  
+  By/At [person], there is [object].  
+  The proposition У (by/at) always requires the genitive case.  
 
-У **меня** ...  
-(I have ...)  
-У сестр**ы** есть ...  
-(The sister has ...)
+  У **меня** ...  
+  (I have ...)  
 
-**Quantities and numbers**  
-When ever specify **how much or how many** of something there is, the noun being counted drops into the genitive case. This applies to words like много (a lot) and мало (a little), as well as numbers.  
+  У сестр**ы** есть ...  
+  (The sister has ...)
 
-Много вод**ы**.  
-(A lot of water.)  
+- **Quantities and numbers**  
+  When ever specify **how much or how many** of something there is, the noun being counted drops into the genitive case. This applies to words like много (a lot) and мало (a little), as well as numbers.  
 
-Стакан сок**а**.  
-(A bottle of water)
+  Много вод**ы**.  
+  (A lot of water.)  
 
-**After prepositions**
-| English | Russian 
-| :---: | :---:
-| From (out of) | Из
-| From (a person/point) | От
-| After | После
-| Near/Around | Около
+  Стакан сок**а**.  
+  (A bottle of water)
+
+- **After prepositions**
+  | English | Russian 
+  | :---: | :---:
+  | From (out of) | Из
+  | From (a person/point) | От
+  | After | После
+  | Near/Around | Около
 
 ## Nouns  
 **Singular**  
@@ -392,52 +408,52 @@ Feminine and neuter
 
 # (Cases) Dative Case
 ## When to use (indirect)
-**The indirect object (to/for)**  
+- **The indirect object (to/for)**  
 Whenever you are giving, showing, telling or sending something **to** someone, that person is in the dative case.  
 
-Я даю книгу **студенту**.  
-(I give the book to the student.)  
+  Я даю книгу **студенту**.  
+  (I give the book to the student.)  
 
-Она пишет письмо **маме**.  
-(She is writing a letter to mom.)  
+  Она пишет письмо **маме**.  
+  (She is writing a letter to mom.)  
 
-Common verbs:  
-| English | Russian 
-| :---: | :---: 
-| To give | Давать 
-| To say/tell | Говорить
-| To show | Показывать
-| To help | Помогать
-| To call | Звонить
+  Common verbs:  
+  | English | Russian 
+  | :---: | :---: 
+  | To give | Давать 
+  | To say/tell | Говорить
+  | To show | Показывать
+  | To help | Помогать
+  | To call | Звонить
 
-**Expressing age**  
-"To me, it is x years."  
+- **Expressing age**  
+  "To me, it is x years."  
 
-**Мне** 20 лет.  
-(I am 20 years old.)  
+  **Мне** 20 лет.  
+  (I am 20 years old.)  
 
-**Моему брату** 15 лет.  
-(My brother is 15 years old.)  
+  **Моему брату** 15 лет.  
+  (My brother is 15 years old.)  
 
-**States of being and feelings (impersonal sentences)**  
-When describing physical states, emotional states, or necessity, Russian uses an impersonal structure. The **person** experiencing the feeling is in the dative case.  
+- **States of being and feelings (impersonal sentences)**  
+  When describing physical states, emotional states, or necessity, Russian uses an impersonal structure. The **person** experiencing the feeling is in the dative case.  
 
-**Мне** холодно. 
-(I am cold.)  
+  **Мне** холодно. 
+  (I am cold.)  
 
-**Ему** скучно.  
-(He is bored.)  
+  **Ему** скучно.  
+  (He is bored.)  
 
-**Нам** нужно идти.  
-(We need to go. Lit: To us it is necessary to go)
+  **Нам** нужно идти.  
+  (We need to go. Lit: To us it is necessary to go)
 
-**Directional motion with "К" (towards)**  
-Я иду к **врачу**.  
-(I am going to the doctor)  
+- **Directional motion with "К" (towards)**  
+  Я иду к **врачу**.  
+  (I am going to the doctor)  
 
-**Movement along a surface with "По"**  
-Мы гуляем по парку.  
-(We are walking around the park.)  
+- **Movement along a surface with "По"**  
+  Мы гуляем по парку.  
+  (We are walking around the park.)  
 
 ## Nouns
 
@@ -472,27 +488,29 @@ When describing physical states, emotional states, or necessity, Russian uses an
 
 ## When to use (object)
 
-**Object**  
-Identify the direct object of a sentence - what is receiving the action (comes after a verb).  
+- **Object**  
+  Identify the direct object of a sentence - what is receiving the action (comes after a verb).  
 
-Я люблю **русскую литературу**.  
-Я изучала **страноведение России**.
+  Я люблю **русскую литературу**.  
 
-**Destination and motion**   
-When you are moving toward a place or placing an object into a location, you use the preposition "в" or "на". This answers the question Куда?
+  Я изучала **страноведение России**.
 
-Я иду в **университет**.  
-(I am going to the university.)  
-Мы едем в **ресторан**.  
-(We are going to a restaurant.)  
+- **Destination and motion**   
+  When you are moving toward a place or placing an object into a location, you use the preposition "в" or "на". This answers the question Куда?
 
-**Specific time expressions**  
-When an event happens, and expression for duration of time.  
+  Я иду в **университет**.  
+  (I am going to the university.)  
 
-В **пятницу**.  
-(On Friday.)  
-Я работал **весь день**.  
-(I worked all day)
+  Мы едем в **ресторан**.  
+  (We are going to a restaurant.)  
+
+- **Specific time expressions**  
+  When an event happens, and expression for duration of time.  
+
+  В **пятницу**.  
+  (On Friday.)  
+  Я работал **весь день**.  
+  (I worked all day)
 
 ## Nouns
 For singular and plural words: 
@@ -547,47 +565,54 @@ Feminine
 
 # (Cases) Instrumental Case
 ## When to use (instrument)
-**The tool or instrument (with something)**  
+- **The tool or instrument (with something)**  
 
-Я пишу **ручкой**.  
-(I am writing **with** a pen)
+  Я пишу **ручкой**.  
+  (I am writing **with** a pen)
 
-**Accompaniment (together with). After preposition "с"**  
+- **Accompaniment (together with). After preposition "с"**  
 
-Я иду в кино **с другом**.  
-(I am going to the movies with a friend.)  
+  Я иду в кино **с другом**.  
+  (I am going to the movies with a friend.)  
 
-Я пью кофе **с молоком**.  
-(I am drinking coffee with milk.)
+  Я пью кофе **с молоком**.  
+  (I am drinking coffee with milk.)
 
-**Professions and roles (future/past)**  
-When talking about someone's profession using certain verbs, the profession goes into the instrumental case. 
- 
-| Russian | English
-| :---: | :---:
-| быть | to be
-| стать | to become 
-| работать | to work as
+- **Professions and roles (future/past)**  
+  When talking about someone's profession using certain verbs, the profession goes into the instrumental case. 
+  
+  | Russian | English
+  | :---: | :---:
+  | быть | to be
+  | стать | to become 
+  | работать | to work as
 
-Я хочу стать **программистом**.  
-(I want to become a programmer)
+  Я хочу стать **программистом**.  
+  (I want to become a programmer)
 
-Он работает **инженером**.  
-(He works as an engineer.)
+  Он работает **инженером**.  
+  (He works as an engineer.)
 
-**Times of day and seasons**  
-When you want to say that something happens during a certain time of day or season.  
+- **Times of day and seasons**  
+  When you want to say that something happens during a certain time of day or season.  
 
-**Утром** я пью чай.  
-(In the morning, I drink tea.)
+  **Утром** я пью чай.  
+  (In the morning, I drink tea.)
 
-**Детом** жарко.  
-(In the summer, it is hot.)  
+  **Детом** жарко.  
+  (In the summer, it is hot.)  
 
-**Used after preposition под, над, перед, за and меж**  
+- **After prepositions**  
 
-Кот спит **под столом**.  
-(The cat is sleeping under the table.)
+  | English | Russian 
+  | :---: | :---:
+  | Under | Под
+  | Over/above | Над
+  | Behind | За
+  | Between | Между
+
+  Кот спит **под столом**.  
+  (The cat is sleeping under the table.)
 
 ## Nouns 
 
@@ -739,9 +764,14 @@ Means it or they according to the gender of that noun.
 Russian uses two different words for what 
 
 ## Что (answer in noun) 
+| Instrumental | Prepositional | Accusative | Genitive | Dative | 
+| :---: | :---: | :---: | :---: | :---:
+| C чем | О чём | Что | Для чего | К чему
+
 - The answer is **a noun** 
 - **Never means** which or which one  
 - Что never combines with another noun: что <del>чемодан</del>?
+
 
 **Examples**  
 Что это? (What is that?)  
