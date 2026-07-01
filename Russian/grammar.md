@@ -729,6 +729,7 @@ However, there are some tricks for remembering which is masculine and which is f
 **"н-" when it is after a preposition.** 
 Я смотрю на **н**его.  
 (I am looking at him.)
+alkjsd
 
 **Without "н-" when it is NOT after a preposition**  
 Я вижу его.  

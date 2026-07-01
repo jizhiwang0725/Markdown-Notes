@@ -70,7 +70,7 @@
     - The last kind of question is asked if they think you are meeting someone who is already seated.  
  
     -Нет, нам **(dat.)** нужен столик на двоих **(acc.)**, пожалуйста.   
-    (No. We need a table for two, please.)
+    (No. We need a table for two, please.)  
     -Да, мои друзья там.  
     (Yes, my friends are in there.)
 
@@ -121,7 +121,6 @@
 
     - **Говядина** - beef
     - **Свинина** - pork
-    - **Взять** - to take  
 
     -Хорошо, я возьму **(perfective)** их.  
     (Good, I will take them)
@@ -186,7 +185,7 @@
 ## Repairing string
 - **Scenario 1 - Need to buy string** 
 
-    -Здравствуйте! У меня порвался **(past reflexive)** струна **(nom.)** теннисной ракетке **(gen.)**. Мне нужно натянуть **(infi.)** новые струны **(plur)**.  
+    -Здравствуйте! У меня порвался **(past reflexive)** струна **(nom.)** теннисной ракетки **(gen.)**. Мне нужно натянуть **(infi.)** новые струны **(plur)**.  
     (Hello! A string broke on my tennis racket. I need to string new strings.)
 
     - **Порва&#769;ть** - broke
@@ -241,4 +240,6 @@
   
     -Спасибо! До свидания.  
     (Thank you! Goodbye)
+
+
 
