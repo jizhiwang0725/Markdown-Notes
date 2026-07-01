@@ -12,6 +12,7 @@
 - <a href="./grammar.md#the-5-letter-spelling-rule">(5) - The 5-letter Spelling rule<a>
 - <a href="./grammar.md#the-7-letter-spelling-rule">(7) - The 7-letter Spelling rule<a>
 - <a href="./grammar.md#the-8-letter-spelling-rule">(8) - The 8-letter Spelling rule<a>
+- (& #769;) - Stress
 
 
 <strong>Table of Contents</strong>
@@ -75,6 +76,9 @@
   - [Why and Because](#why-and-because)
   - [Expanding sentences](#expanding-sentences)
   - [Pronoun question words](#pronoun-question-words)
+- [Something and Anything (-то and -нибудь)](#something-and-anything--то-and--нибудь)
+  - [Something (-то)](#something--то)
+  - [Anything (-нибудь)](#anything--нибудь)
 
 </div>
 
@@ -845,6 +849,34 @@ Often used for nationalities ending in **-я**
 | What | Что | О чём 
 | Who | Кто | О ком
 
+
+# Something and Anything (-то and -нибудь)
+
+## Something (-то)
+- **Specific but unknown**  
+  Refers to something that is specific and real, but the speakers does not know (or cannot remember) exactly who, what, or where it is.  
+
+  **Кто-то** стучит в дверь.  
+  (Someone is knocking at the door.)
+
+  Она **почему-то** плачет.  
+  (She is crying for some reason.)
+
+  Я **когда-то** изучал английский в университете.  
+  (I once studied English at the university.)
+
+- **The emphatic**  
+  Used as an emphatic particle. It highlights a specific word, often to show contrast or add emotional weight.  
+
+  **Я-то** знаю правду, а они нет.  
+  (I know the truth, but they don't)
+
+## Anything (-нибудь)
+- **Means "any", it deals with hypotheticals**  
+  It is almost always used in the future tense, questions, or requests
+
+  Купи мне **что-нибудь**.  
+  (Buy me anything.)  
 
 
 </div>
