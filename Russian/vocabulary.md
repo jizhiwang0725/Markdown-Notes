@@ -25,6 +25,7 @@
   - [Vowel reduction](#vowel-reduction)
   - [Voiced and voiceless consonants (Final devoicing)](#voiced-and-voiceless-consonants-final-devoicing)
   - [Voiced-voiceless assimilation](#voiced-voiceless-assimilation)
+  - [Labial consonants](#labial-consonants)
   - [Special consonant combinations](#special-consonant-combinations)
 - [Conjunctions](#conjunctions)
   - [And/But (и, а, но)](#andbut-и-а-но)
@@ -179,6 +180,10 @@ voiced + **voiceless** -> voiceless + voiceless
 
 voiceless + **voiced** -> voiced + voiced  
 баске**тб**ол -> баске**дб**ол
+
+## Labial consonants
+A sound made with your lip
+Letters **б, п, в, ф and м**
 
 ## Special consonant combinations 
 1. **Чт = шт**   

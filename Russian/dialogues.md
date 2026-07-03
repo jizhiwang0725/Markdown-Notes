@@ -95,7 +95,7 @@
     -Да. На первое **(acc.)** я буду борщ, а на второе бефстроганов.  
     (Yes. For the first course, I'll have borsch, and for the main course, beef stroganoff.)  
 
-    -Отлично. Уто будете пить?  
+    -Отлично. Что будете пить?  
     (Excellent. What will you drink?)  
 
     -Чайник чёрного чая **(gen.)**, пожалуйста.  
@@ -159,7 +159,7 @@
 - **Забрать** - to pick up, collect
 
 -Я сейчас принесу контейнер **(acc.)**. Будете заказывать десерт или кофе?  
-(Of course. I will bring a container right now. Will you be ordering dessert or coffee?)  
+(I will bring a container right now. Will you be ordering dessert or coffee?)  
 
 - **Принесу** - will bring
 - **Контейнер** - container
@@ -185,7 +185,7 @@
 ## Repairing string
 - **Scenario 1 - Need to buy string** 
 
-    -Здравствуйте! У меня порвался **(past reflexive)** струна **(nom.)** теннисной ракетки **(gen.)**. Мне нужно натянуть **(infi.)** новые струны **(plur)**.  
+    -Здравствуйте! У меня порвалась **(past reflexive)** струна **(nom.)** на теннисной ракетке **(prep.)**. Мне нужно натянуть **(infi.)** новые струны **(plur)**.  
     (Hello! A string broke on my tennis racket. I need to string new strings.)
 
     - **Порва&#769;ть** - broke
@@ -193,18 +193,18 @@
     - **Ракетка** - racket
     - **Натянуть** - to string/pull
   
-    -Добрый день. Давайте посмотрим **(perfective)**. Да, нужно менять. Вы принесли **(perfective)** свои **(acc.)** струны **(acc. plur.)**?  
+    -Добрый день. Давайте посмотрим **(perfective)**. Да, нужно менять. Вы принесли **(perfective)** свои **(acc. plur.)** струны **(acc. plur.)**?  
     (Good afternoon. Let's see. Yes, it needs replacing. Did you bring your own string?)
 
     - **Посмотреть** - look, watch
     - **Менять** - to change
     - **Принести&#769;** - to bring, fetch to someone or something
-    - **Свои** - your own 
+    - **Свой** - one's own 
 
     -Нет, я хочу купить их у вас. Что вы посоветуете?  
     (No, I want to buy them from you. What do you recommend?)
 
-    - **Посоветуете** (вы) - recommand, advice
+    - **Посоветуете** (вы) - recommend, advice
   
     -У нас есть хорошие базовые струны **(nom. plur.)**. Какое натяжение **(acc.)** вы обычно используете **(imperfective)**?  
     (We have good basic strings. What tension do you usually use?)

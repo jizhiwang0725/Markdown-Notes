@@ -74,7 +74,7 @@
   - [Declinable этот](#declinable-этот)
 - [(Adjectives) General Rules](#adjectives-general-rules)
   - [Capitalization](#capitalization)
-- [(Adjectives) Short Adjectives](#adjectives-short-adjectives)
+- [(Adjectives) Short-from Adjectives](#adjectives-short-from-adjectives)
   - [Definition](#definition)
   - [Endings](#endings)
 - [(Verbs) Infinitive](#verbs-infinitive)
@@ -84,7 +84,8 @@
   - [Е/ё conjugations](#её-conjugations)
   - [И conjugations](#и-conjugations)
   - [General conjugations](#general-conjugations)
-- [(Verbs) Reflexive verbs](#verbs-reflexive-verbs)
+  - [Ending palatalization](#ending-palatalization)
+- [(Verbs) Reflexive Verbs](#verbs-reflexive-verbs)
   - [Definition](#definition-2)
   - [Endings (-ся/-сь)](#endings--ся-сь)
   - [Usage](#usage)
@@ -842,7 +843,7 @@ Adjectives made from capitalized nouns are usually not capitalized:
 **а**мериканская виза
 
 
-# (Adjectives) Short Adjectives 
+# (Adjectives) Short-from Adjectives 
 ## Definition  
 Short adjectives are adjectives without their endings. They act as a predicate to describe a state.
 
@@ -891,6 +892,7 @@ The base class of an action. Always paired to the word "to".
 
 # (Verbs) Conjugations  
 ## Е/ё conjugations  
+Usually ending in **-ать, -еть, -ять**  
 **Stems ending in vowels**  
 | | Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
  :---: | :---: | :---: | :---: 
@@ -918,6 +920,7 @@ The base class of an action. Always paired to the word "to".
    Use **-ю after vowels**: я зн**а**ю, они поним**а**ют 
 
 ## И conjugations  
+Usually ends in **-ить**
 | | говорить<br>to speak; talk; say 
 :---: | :---:
 я | говор**ю** 
@@ -937,7 +940,35 @@ The base class of an action. Always paired to the word "to".
 | вы | е/ё/ите
 | они | ю/у/ят
 
-# (Verbs) Reflexive verbs
+## Ending palatalization 
+
+In е/ё conjugation, this rule appears in **every form** across the entire present tense
+
+| | Дремать<br> (To doze / slumber) | Писать<br> (To write)
+| :---: | :---: | :---:
+| я | Дрем**л**ю | Пи**ш**у
+| ты | Дрем**л**ешь | Пи**ш**ешь
+
+In и conjugation, this rule **only** appears in the **я form**
+
+| | Любить<br> (To love) | Ходить<br> (To walk/go) 
+| :---: | :---: | :---:
+| я | Люб**л**ю | Хо**ж**у 
+| ты | Любишь | Ходишь
+
+**Added л**  
+If a verb stem ends in a **labial consonant** (б, п, в, ф and м) - Russian wil often insert an л before the ending.  
+
+**Shape-shifting consonants** 
+
+| Original consonant | Shift to 
+| :---: | :---:
+| с | ш 
+| д/з |ж
+| т/к | ч
+| ск/ст | щ
+
+# (Verbs) Reflexive Verbs
 
 ## Definition 
 
