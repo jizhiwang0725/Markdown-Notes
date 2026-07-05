@@ -31,11 +31,17 @@
   - [And/But (и, а, но)](#andbut-и-а-но)
   - [Also (тоже vs. также)](#also-тоже-vs-также)
 - [Prepositions](#prepositions)
-  - [Possessions (у, для, без)](#possessions-у-для-без)
-  - [Location (в/во, на)](#location-вво-на)
-  - [About (о/об)](#about-ооб)
-  - [Precise location (под, над, перед, за, между)](#precise-location-под-над-перед-за-между)
-  - [With (c)](#with-c)
+  - [Collection](#collection)
+  - [У](#у)
+  - [Для](#для)
+  - [Без](#без)
+  - [В/во](#вво)
+  - [На](#на)
+  - [О/об](#ооб)
+  - [Hад, перед, между](#hад-перед-между)
+  - [Под, за](#под-за)
+  - [С/со](#ссо)
+  - [По](#по)
 - [Prefixes](#prefixes)
   - [Nouns](#nouns)
   - [Verbs](#verbs)
@@ -263,135 +269,287 @@ Adds to the list of **predicates (things done)**. Different objects that share t
 Её друг **Виктор** **тоже** говорит по-русски 
 
 # Prepositions 
-## Possessions (у, для, без) 
 
-Followed by **Genitive case**
+## Collection 
 
-- **У**  
+| Case followed | Preposition | Meaning/Words followed
+| :---: | :---: | :---
+| Prepositional | в<br> на<br> о<br> при<br> через<br> по| In/month, year<br> On/week/heading<br> About<br> At<br> Over/at/across<br> Upon/after
+| Accusative | в<br> на<br> о<br> за<br> под<br> по| Into/time, day/sports<br> Onto/duration/instruments<br> Hitting against<br> Going behind/for<br> Going under<br> Up to/for/fetch 
+| Genitive | у<br> для<br> без<br> до<br> из<br> от<br> после<br> с | At<br> For<br> Without<br> To/distance/until/up to/before<br> From inside/out of<br> From (away/partial/cause/distance/someone/range/of)<br> After/later<br> Since/off/from
+| Instrumental | под<br> между<br> за<br> над<br> перед<br> с | Under<br> Between to places<br> Behind<br> Above/over<br> In front of<br> In accompanied of
+| Dative | к<br> по | Towards/to someone/by sometime/for the purpose of<br> Across/along/communication/subjects/distribution
 
+## У 
+- **+ Genitive**
   - **Possession**  
     By [someone] there is [something] (you have)  
+
     У + [Genitive Case] + (есть) + [Nominative Case]
 
     - **With есть - Does it exist or not?**  
-       У вас есть синий костюм?  
-       (Do you have a blue suit (or not)?)  
-       Да, есть.  
-       (Yes, I do.)    
+      -**У** вас есть синий костюм?  
+      (Do you have a blue suit (or not)?) 
+
+      -Да, есть.  
+      (Yes, I do.)    
 
     - **Without есть - We know it exists. Tell me more**  
-      У вас синий костюм?  
-      (Is the suit you have blue?)  
-      Да, синий.  
+      -**У** вас синий костюм?  
+      (Is the suit you have blue?) 
+        
+      -Да, синий.  
       (Yes, it is)
 
   - **By/near/at**  
-  Кровать стоит **у** окна.   
-  (The bad is by the window.)  
+    Кровать стоит **у** окна.   
+    (The bad is by the window.)  
 
   - **At someone's place**  
-  Followed by a person, it means you are at that person's house, room, or place of work
+    Followed by a person, it means you are at that person's house, room, or place of work
 
     Вчера я был **у** друга.  
     (Yesterday I was at a friend's place.)  
+  
+  - **Source or origin (from someone)**  
+    From a person
 
-- **Для**
-  - **For someone/something**
-  Подарок для мамы.  
-  (A present for mom.)
+    Я взял эту книгу **у** брата.  
+    (I took this book from my brother.)
 
-- **Без**
+## Для
+- **+ Genitive**
+  - **For someone/something**  
+    It can be some item for someone, or some item for some purpose.  
+
+    Подарок **для** мамы.  
+    (A present for mom.)
+
+## Без
+- **+ Genitive**  
   - **Without**  
+    Can be followed by a person, object, or abstract concept.  
+    
+    **Без** меня.  
+    (Without me.)  
 
-## Location (в/во, на)
+    Кофе **без** сахара.  
+    (Coffee without sugar.)
 
-- **В/во (in)**   
+    **Без** Проблем.  
+    (Without problems.)
 
-    **в or во?**  
-    в -> во when the first letter of the preceding **word is ф followed by a consonant**. 
+## В/во
+- **в or во?**  
+  в -> во when the first letter of the preceding **word is ф followed by a consonant**. 
 
-
-    Followed by **Prepositional case**
-    - **Location**  
-    Книга в этой маленькой комнате.  
+- **+ Prepositional**
+  - **Inside a physical space or container**  
+    Книга **в** этой маленькой комнате.  
     (The book is in the small room.)  
-    Книга на нашем большом столе.  
-    (The book is on our big table.)   
+  
+  - **Broad time period**  
+    - **Months**  
+      Мой день рождения **в** августе.  
+      (My birthday is in August.)  
 
-    - **Months and years**  
-    Мой день рождения в августе.  
-    (My birthday is in August.)
+    - **Years**
+      Это было **в** 2026 году.  
+      (That was in 2026.)
 
-    Followed by **Accusative case** 
-    - **Destination and Motion**  
-    Я иду в университет.  
+- **+ Accusative** 
+  - **Moving into a physical space**  
+    Я иду **в** университет.  
     (I am going to the university.)  
-    Мы едем в ресторан.  
+
+    Мы едем **в** ресторан.  
     (We are going to a restaurant.)  
-    - **Specific time expression**  
+
+  - **Sports and games**  
+    Он играет **в** футбол.    
+    (He plays football.)
+
+  - **Specific time expression**  
     When it will happen, and the duration of time.  
 
-      В пятницу.  
+    - **Day of the time**  
+      **В** пятницу.  
       (On Friday.)  
-      Я работал весь день.  
-      (I worked all day)
 
-- **На (on/at/in)**  
+    - **Clock time**  
+      Урок наминается **в** пять часов.  
+      (The lesson starts at five o'clock)
+
+## На 
+- **+ Prepositional** 
+  - **On a surface**  
+    **На** столе  
+    (on the table)
+
+    Книга **на** нашем большом столе.  
+    (The book is on our big table.)   
+
+  - **At an event/open space**  
+    **На** лекции  
+    (In class)
+
+    **На** балете  
+    (At a ballet)
+
+  - **Play musical instruments**  
+    Она играет **на** гитаре.  
+    (She plays guitar.)  
+
+  - **Specific weeks**  
+    Мы сделаем это **на** этой неделе.  
+    (We will do it this week)  
+
+  - **Transportation**  
+    Я еду домой **на** автобусе.  
+    (I am going home by bus)
+
+  - **Special cases**  
+    **На** факультете  
+    (In the division (of a college))  
+
+    **На** кафедре  
+    (In the department (of a college))  
+
+- **+ Accusative**  
+  - **Moving onto a surface**  
+    Я положил книгу **на** стол.  
+    (I put the book onto the desk.)
+
+  - **Heading to an event**  
+    Мы идём **на** концерт.  
+    (We are going to the concert.)
+    
+  - **Intended duration**  
+    Talking about the planned duration of a trip or action
+
+    Я еду Москву **на** неделю.  
+    (I am going to Moscow for a week.)  
    
-   Followed by **Prepositional case** 
-   - **On**  
-   На столе (on the table)
+## О/об
 
-   - **With activity**  
-   На лекции (in class)
-   На балете (at a ballet)
+- **о or об?**  
+  о -> об before words **beginning with vowels а, э, и, о and у**. 
 
-   - **Transportation**  
-   Я еду домой на автобусе.
-   (I am going home by bus)
+- **+ Prepositional**
+  - **About, more information about**  
+    -**О** новых европейских рынках.  
+    (About new European markets.)  
 
-   - **Special cases**  
-   На факультете (in the division (of a college))  
-   На кафедре (in the department (of a college))  
+    -**О** чём вы читаете?  
+    (What are you reading about?)  
 
-   Followed by **Accusative case**  
-   - **Destination and motion**
-   
+    :warning: When asking about what/whom, required phases should be in prepositional cases **(ком/чём)**.  
 
-## About (о/об)
+## Hад, перед, между
+  | Russian | English 
+  | :---: | :---:
+  | перед | in front of
+  | над | above/over
+  | между | between
 
-Followed by **Prepositional case**
+- **+ Instrumental**  
+  - **Answering the question: where (Где?)**
 
-**о or об?**  
-о -> об before words **beginning with vowels а, э, и, о and у**. 
+    Картина висит **над** диваном.  
+    (The picture hans above the sofa.)  
 
--О чём вы читаете?  
-(What are you reading about?)  
+## Под, за 
 
-:exclamation:When asking about what/whom, required phases should be in prepositional cases **(ком/чём)**.  
+  | Russian | English 
+  | :---: | :---:
+  | под | under
+  | за | behind 
 
--О новых европейских рынках.  
-(About new European markets.)
+- **+ Instrumental**  
+  - **Answering the question: where (Где?)**
 
-## Precise location (под, над, перед, за, между)
+    Кот спит **под** столом.   
+    (The cat is sleeping under the table)
 
-Followed by **Instrumental case**
+- **+ Accusative**  
+  - **Answering the question: to where (Куда?).**
 
-| Russian | English 
-| :---: | :---:
-| под | under
-| над | above/over
-| перед | in front of
-| за | behind 
-| между | between
+    Кот прыгнул **под** стол.  
+    (The cat jumped under the table.)
 
-Кот спит **под** столом.  
-(The cat is sleeping under the table)
+  - **Sometimes за is used as "for".**
 
-## With (c)
+    Спасибо **за** помощь.  
+    (Thanks for your help)
 
-Followed by **Instrumental case**
+## С/со 
 
+- **С or со?**  
+  When the following word starts with certain double consonants, especially if the first consonant is **с, з, ш, ж or м.**
+
+- **+ Instrumental**
+  - **Together with something/somebody**  
+    :warning: ONLY use it when you mean **"accompanied by"**
+
+    Кофе **с** сахар.  
+    (Coffee with sugar.)  
+
+- **+ Genitive**  
+  - **From, off of**  
+    Answering the question from where (Откуда?)
+
+    Он вернулся **с** работы.  
+    (He returned from work.)  
+
+  - **Since**  
+    Answering the question Since when (С какие пор?)
+
+    Я работаю **с** утра.  
+    (I worked since morning.)
+
+## По
+- **+ Dative**
+   - **Motion along or through a surface**  
+    Гулять по парку.  
+    (To walk around/through the park.)
+
+   - **Means of communication or transmission**  
+    Говорить по телефону.  
+    (To speak on the phone)
+
+   - **A subject, field of study, or specialty**   
+    Экзамен по математике. 
+    (An exam in math.)
+
+   - **Repeated actions on certain day (always plural)**  
+    По субботам.  
+    (On saturdays / Every saturday)
+
+   - **According to**  
+    По моему мнению.  
+    (In my opinion)
+
+- **+ Accusative**  
+  - **Time limits**  
+    Я буду в отпуске по понедельник.  
+    (I will be on vacation through/up to Monday)  
+
+  - **Physical limits**  
+    Мы стояли в воде по колено.    
+    (We stood in water up to the knee.)  
+
+  - **Going to fetch/retrieve something**  
+    More colloquial, specific construction meaning "to go get something".  
+
+    Пойти по **грибы**
+    (To go mushroom picking / berry picking)
+
+- **+ Prepositional**  
+  - **Upon, immediately after**  
+    Formal written Russian.  
+
+    По прибытии.  
+    (Upon arrival.)
 
 # Prefixes 
 
@@ -399,7 +557,7 @@ Followed by **Instrumental case**
 | Common prefix | Meaning | Base word | New word  
 | :---: | :---: | :---: | :---: 
 | не- | Un-, Non- or the opposite | правда<br> (truth) | неправда<br> (lie)
-| без-/бес- | Without, lack of | порядок<br> (happiness) | беспорядок (misfortune)
+| без-/бес- | Without, lack of | порядок<br> (happiness) | беспорядок<br> (misfortune)
 | со- | Joint | автор<br> (author) | cо-автор<br> (co-author)
 | пра- | Great- | дедушка<br> (grandfather) | прадедушка<br> (great-grandfather)
 | под- | Sub-, under | вид<br> (species) | подвид<br> (subspecies) 

@@ -452,7 +452,7 @@ Whenever you are giving, showing, telling or sending something **to** someone, t
   Я иду к **врачу**.  
   (I am going to the doctor)  
 
-- **Movement along a surface with "По"**  
+- **After preposition "По"**  
   Мы гуляем по парку.  
   (We are walking around the park.)  
 
