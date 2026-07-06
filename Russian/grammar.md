@@ -77,13 +77,22 @@
 - [(Adjectives) Short-from Adjectives](#adjectives-short-from-adjectives)
   - [Definition](#definition)
   - [Endings](#endings)
+- [(Adjectives) Comparative](#adjectives-comparative)
+  - [Regulars](#regulars)
+  - [Irregulars](#irregulars)
+  - [Compound comparative (more)](#compound-comparative-more)
+  - [How to use "then"](#how-to-use-then)
+- [(Adjectives) Superlative](#adjectives-superlative)
+  - [Compound form](#compound-form)
+  - [The simple form](#the-simple-form)
+  - [Of all](#of-all)
 - [(Verbs) Infinitive](#verbs-infinitive)
   - [Definition](#definition-1)
   - [When to use](#when-to-use)
 - [(Verbs) Conjugations](#verbs-conjugations)
+  - [General conjugations](#general-conjugations)
   - [Е/ё conjugations](#её-conjugations)
   - [И conjugations](#и-conjugations)
-  - [General conjugations](#general-conjugations)
   - [Ending palatalization](#ending-palatalization)
 - [(Verbs) Reflexive Verbs](#verbs-reflexive-verbs)
   - [Definition](#definition-2)
@@ -776,8 +785,11 @@ Russian uses two different words for what
 
 
 **Examples**  
-Что это? (What is that?)  
-Что в чемодане? (What's in the case?)  
+Что это?  
+(What is that?)  
+
+Что в чемодане?  
+(What's in the case?)  
 
 ## Какой (answer in adjective)
 
@@ -790,11 +802,15 @@ Russian uses two different words for what
 - Какой combines with other nouns: Какой чемодан?  
 
 **Examples**  
-Какая книга! (What a book!)  
-Какое место? (What(which) place?)  
+Какая книга!  
+(What a book!)
+
+Какое место?  
+(What(which) place?)  
 
 # (Pronouns) “This is” vs. "This": это vs. этот (эта, это, эти)
 **The ending word in a sentence is emphasized.**  
+
 ## Introductory это (this is/those are)
 The **object** is emphasized.  
 
@@ -808,10 +824,17 @@ The **object** is emphasized.
   - those are 
 
 **Examples**  
-Это небольшой словарь. (**This is** a small dictionary.)  
-Это маленькое окно. (**This is** a small window.)  
-Это интересная фотография. (**This is** an interesting photo.)  
-Это красивые дома. (**Those are** pretty houses.)  
+Это небольшой словарь.  
+(**This is** a small dictionary.)  
+
+Это маленькое окно.  
+(**This is** a small window.)  
+
+Это интересная фотография.  
+(**This is** an interesting photo.)  
+
+Это красивые дома.  
+(**Those are** pretty houses.)  
 
 ## Declinable этот
 The **appearance** is emphasized
@@ -830,24 +853,30 @@ The **appearance** is emphasized
   - those 
 
 **Examples**  
-Этот словарь небольшой. (This dictionary is small.)  
-Это окно маленькое. (This window is small.)  
-Эта фотография интересная. (This photo is interesting.)  
-Эти дома красивые. (These houses are beautiful.)  
+Этот словарь небольшой.  
+(This dictionary is small.)  
+
+Это окно маленькое.  
+(This window is small.)  
+
+Эта фотография интересная.  
+(This photo is interesting.)  
+
+Эти дома красивые.  
+(These houses are beautiful.)  
 
 # (Adjectives) General Rules
 ## Capitalization
 Adjectives made from capitalized nouns are usually not capitalized:  
 
-Америка  
-**а**мериканская виза
-
+  Америка  
+  **а**мериканская виза
 
 # (Adjectives) Short-from Adjectives 
 ## Definition  
-Short adjectives are adjectives without their endings. They act as a predicate to describe a state.
+- Short adjectives are adjectives without their endings. They act as a predicate to describe a state.
 
-They do **NOT** follow any cases, but matches the **gender and number** of the noun they describe.  
+- They do **NOT** follow any cases, but matches the **gender and number** of the noun they describe.  
 
 ## Endings 
 
@@ -858,7 +887,6 @@ They do **NOT** follow any cases, but matches the **gender and number** of the n
 | Neuter | -о/-е | готово | занято
 | Plural | -ы/-и | готовы | заняты
   
-
 **Fill vowel quirk (Masculine)**  
 When you chop the ending of a long adjective, you are sometimes left over with two consonants smashed together at the end of the word, making it **impossible to pronounce**.  
 
@@ -871,6 +899,114 @@ To resolve this, Russian inserts a "fill vowel" **(usually е or о)** into the 
 | Neuter | свободно
 | Plural | свободны
 
+# (Adjectives) Comparative 
+## Regulars
+- Change the ending to **-ее**  
+
+- Sometimes for native speakers, they drop the final vowel 
+to speak faster and pronounces like with a **-ей** ending.  
+
+- **Indeclinable**.  
+
+| Original adjective | Comparative
+| :---: | :---
+| Новый | Новее (newer)
+| Быстрый | Быстрее (faster)
+| Тёплый | Теплее (warmer)
+
+## Irregulars
+- **Adjectives ending in г, к, х, д, т, or ст - the stem changes and add -е**
+
+  - Indeclinable
+
+    | Original adjective | Comparative
+    | :---: | :---
+    | Дорогой | Дороже (more expensive)
+    | Дешёвый | Дешевле (cheaper)
+    | Молодой | Моложе (warmer)
+
+- **The "four" total irregulars**
+  
+  | Original adjective | Comparative
+  | :---: | :---
+  | Хороший | Лучше (better)
+  | Плохой | Хуже (worse)
+  | Большой | Больше (bigger/more)
+  | Маленький | Меньше (smaller/less)
+
+## Compound comparative (more)
+
+| English | Russian 
+| :---: | :---: 
+| More | **Более**
+| Less | **Менее** 
+
+- **Specific words**  
+  Because some words sounds weird after adding -ее. 
+
+  Русский - **Более** сложный язык  
+  (Russian is a more complex language.)
+
+- **Before nouns**  
+  To put a comparative in front of a noun, just add
+  more/less in front of the corresponding adjective. Remember 
+  to align with the case and gender.  
+
+  :warning: Except for those four total irregular comparatives.
+  They do not have to add more/less, but change the ending accordingly
+  like an adjective.
+
+  Я хочу **более** быстрый монитор.  
+  (I want a faster monitor)
+
+## How to use "then"
+- **Using чем**  
+  Москва больше, **чем** Эдинбург.  
+  (Moscow is bigger than Edinburgh.)  
+
+- **Using the genitive case**  
+
+  :warning: You can only use the Genitive shortcut if the first item in 
+  the sentence is in **nominative or accusative** case. If prepositions are 
+  involved, you must use "чем".
+
+  Москва больше **Эдинбурга**.  
+  (Moscow is bigger than Edinburgh)
+
+# (Adjectives) Superlative
+## Compound form 
+The most common and simplest way is to simply add **"the most"**
+in front of the adjective
+
+| Gender | The most
+| :---: | :---:
+| Masculine | Самый
+| Feminine | Самая 
+| Neuter | Самое
+| Plural | Самые
+
+## The simple form 
+The **formal, literacy** way is to add a **suffix** to the end of the stem 
+
+| Gender | Suffix<br> (common)| Stem ends in<br> г, к or х<br> (to ж, ч, and ш) | новый<br> (new) | тихий<br> (quiet)  
+| :---: | :---: | :---: | :---: | :---:
+| Masculine | -ейший | -айший | нов**ейший** | тиш**айший**
+| Feminine | -ейшая | -айшая| нов**ейшая** | тиш**айшая**
+| Neuter | -ейшее | -айшее| нов**ейшее** | тиш**айшее**
+| Plural | -ейшие | -айшие | нов**ейшие** | тиш**айшие**
+
+## Of all
+Native speakers frequently use a shortcut especially when **talking 
+about actions (adverbs)**. 
+
+Take the comparative form fo the adjective or adverb and add the word **всех** 
+(of all people/things) or **всего** (of everything)
+
+Быстрее всех.  
+(fastest of all) 
+
+Лучше всех.  
+(Best of all)
 
 # (Verbs) Infinitive 
 
@@ -878,46 +1014,58 @@ To resolve this, Russian inserts a "fill vowel" **(usually е or о)** into the 
 The base class of an action. Always paired to the word "to".  
 
 ## When to use 
-**Describing a feeling, a state, or a necessity**  
+- **Describing a feeling, a state, or a necessity**  
 
-Приятно с вами **познакомиться**!  
-(Nice to meat you!)  
-Мне нужно **идти**.  
-(I need to go) 
+  Приятно с вами **познакомиться**!  
+  (Nice to meat you!)  
+  Мне нужно **идти**.  
+  (I need to go) 
 
-**When two verbs stacked together, only the first one gets conjugated**  
+- **When two verbs stacked together, only the first one gets conjugated**  
 
-Я хочу **спать**.  
-(I want to sleep)  
+  Я хочу **спать**.  
+  (I want to sleep)  
 
-# (Verbs) Conjugations  
+# (Verbs) Conjugations 
+
+## General conjugations  
+|||
+| :---: | :---:
+| я | ю/у/ю
+| ты | е/ё/ишь
+| кто/он/она | е/ё/ит
+| мы | е/ё/им
+| вы | е/ё/ите
+| они | ю/у/ят
+
 ## Е/ё conjugations  
 Usually ending in **-ать, -еть, -ять**  
-**Stems ending in vowels**  
-| | Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
- :---: | :---: | :---: | :---: 
- я | зна**ю** | чита**ю** | понима**ю**  
- ты | зна**ешь** | чита**ешь** | понима**ешь**  
- кто/он/она | зна**ет** | чита**ет** | понима**ет**  
- мы | зна**ем** | чита**ем** | понима**ем** 
- вы | зна**ете** | чита**ете** | понима**ете**  
- они | зна**ют** | чита**ют** | понима**ют** 
+- **Stems ending in vowels**  
+  | | Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
+  :---: | :---: | :---: | :---: 
+  я | зна**ю** | чита**ю** | понима**ю**  
+  ты | зна**ешь** | чита**ешь** | понима**ешь**  
+  кто/он/она | зна**ет** | чита**ет** | понима**ет**  
+  мы | зна**ем** | чита**ем** | понима**ем** 
+  вы | зна**ете** | чита**ете** | понима**ете**  
+  они | зна**ют** | чита**ют** | понима**ют** 
 
-**Stems ending in consonants**  
-| | Писать<br>to write | Жить<br>to live<br>(Ending stressed) |
-:---: | :---: | :---:
-я | пиш**у** | жив**у&#769;** 
-ты | пиш**ешь** | жив**ёшь**
-кто/он/она | пиш**ет** | жив**ёт**
-вы | пиш**ете** | жив**ёте** 
-мы | пиш**ем** | жив**ём**
-они | пиш**ут** | жив**у&#769;т**
+- **Stems ending in consonants**  
+  | | Писать<br>to write | Жить<br>to live<br>(Ending stressed) |
+  :---: | :---: | :---:
+  я | пиш**у** | жив**у&#769;** 
+  ты | пиш**ешь** | жив**ёшь**
+  кто/он/она | пиш**ет** | жив**ёт**
+  вы | пиш**ете** | жив**ёте** 
+  мы | пиш**ем** | жив**ём**
+  они | пиш**ут** | жив**у&#769;т**
 
-1. If the ending **is stressed**, use ё  
-   **Unstressed endings** use e  
+- **General rules**
+  1. If the ending **is stressed**, use ё  
+     **Unstressed endings** use e  
 
-2. Use **-у after consonants**: я пи**ш**у, они жив**у**т   
-   Use **-ю after vowels**: я зн**а**ю, они поним**а**ют 
+  2. Use **-у after consonants**: я пи**ш**у, они жив**у**т   
+     Use **-ю after vowels**: я зн**а**ю, они поним**а**ют 
 
 ## И conjugations  
 Usually ends in **-ить**
@@ -929,16 +1077,6 @@ Usually ends in **-ить**
 мы | говор**им** 
 вы | говор**ите** 
 они |говор**ят** 
-
-## General conjugations  
-|||
-| :---: | :---:
-| я | ю/у/ю
-| ты | е/ё/ишь
-| кто/он/она | е/ё/ит
-| мы | е/ё/им
-| вы | е/ё/ите
-| они | ю/у/ят
 
 ## Ending palatalization 
 
