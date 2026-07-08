@@ -206,7 +206,7 @@
 
     - **Посоветуете** (вы) - recommend, advice
   
-    -У нас есть хорошие базовые струны **(nom. plur.)**. Какое натяжение **(acc.)** вы обычно используете **(imperfective)**?  
+    -У нас есть хорошие базовые струны **(nom. plur.)**. Какое натяжение вы обычно используете **(imperfective)**?  
     (We have good basic strings. What tension do you usually use?)
 
     - **Базовые** - basic

@@ -28,7 +28,8 @@
   - [Labial consonants](#labial-consonants)
   - [Special consonant combinations](#special-consonant-combinations)
 - [Conjunctions](#conjunctions)
-  - [And/But (и, а, но)](#andbut-и-а-но)
+  - [And (и)](#and-и)
+  - [But (а, но)](#but-а-но)
   - [Also (тоже vs. также)](#also-тоже-vs-также)
 - [Prepositions](#prepositions)
   - [Collection](#collection)
@@ -42,6 +43,8 @@
   - [Под, за](#под-за)
   - [С/со](#ссо)
   - [По](#по)
+- [Word order](#word-order)
+  - [Adverbs](#adverbs)
 - [Prefixes](#prefixes)
   - [Nouns](#nouns)
   - [Verbs](#verbs)
@@ -72,7 +75,9 @@
   - [Understand](#understand)
 - [Classes](#classes)
 - [Word orders](#word-orders)
-  - [Adverbs](#adverbs)
+  - [Adverbs](#adverbs-1)
+- [Asking questions](#asking-questions)
+  - [Ask how someone is classified](#ask-how-someone-is-classified)
 - [Nationalities](#nationalities)
   - [Special notes](#special-notes)
   - [Endings with -ец, -ка, -цы](#endings-with--ец--ка--цы)
@@ -235,38 +240,57 @@ Letters **б, п, в, ф and м**
    - Double consonants - pronounce it for a bit longer  
 
 # Conjunctions
-## And/But (и, а, но)
-**И - and when two things are the same. There is no contrast**  
+## And (и)
+When two things are the same. There is no contrast
 
 Максим живёт **и** учится в Москве.  
+(Maxims lives and studies in Moscow.)  
 
-**Но - but with ONE contrast. Two different comments are said about ONE thing**  
+## But (а, но)
+- **А**
+  - **And/But with TWO contrasts. Two different comments are made about TWO different topics**  
+    Анна изучает русский язык, **а** Лена изучает английский язык.   
+    (Anna takes Russian, and Lina takes English.)
 
-Анна изучает русский язык, **но** говорит ещё плохо.  
+  - **But rather**  
+    Это не Кира, **а Катя**.  
+    (That's not Kira, but rather Katya) 
 
-**А - and/but with TWO contrasts. Two different comments are made about TWO different topics** 
 
-Анна изучает русский язык, **а Лена** изучает английский язык.   
-- But rather  
-  Это не Кира, **а** Катя.  (That's not Kira, but rather Katya) 
-- Questions about additional information (often corresponds to And what about...?)
+  - **Questions about additional information (often corresponds to And what about...?)**
 
-  -В России я говорю по-русски. (In Russia I speak Russian)  
-  -**А** в Америке?  (And what about in America?)  
+    -В России я говорю по-русски.  
+    (In Russia I speak Russian)  
+    -**А** в Америке?  
+    (And what about in America?)  
 
-  -Дома мы говорим по-украински. (At home we speak Ukrainian.)  
-  -**А откуда** вы знаете украинский язык?  (And how do you know Ukrainian?)  
+    -Дома мы говорим по-украински.  
+    (At home we speak Ukrainian.)  
+    -**А** откуда вы знаете украинский язык?  
+    (And how do you know Ukrainian?)  
+
+- **Но**
+  - **But with ONE contrast. Two different comments are said about ONE thing**  
+
+    Анна изучает русский язык, **но** говорит ещё плохо.  
+    (Anna takes Russian, but she still speaks poorly.)  
+
+
 
 ## Also (тоже vs. также)
-Анна говорит по-русски и по-испански  
+Анна говорит по-русски и по-испански
 
-**Также**  
-Adds to the list of **subjects (doers)**. Adding new information to the subject.  
-Анна **также** говорит **по-русски**  
+- **Также**  
+  Adds to the list of **subjects (doers)**. Adding new information to the subject.  
+  
+  Анна **также** говорит **по-русски**  
+  (Anna speaks Russian as well.)
 
-**Тоже**  
-Adds to the list of **predicates (things done)**. Different objects that share the same things.    
-Её друг **Виктор** **тоже** говорит по-русски 
+- **Тоже**  
+  Adds to the list of **predicates (things done)**. **Different objects** that share the same things.   
+
+  Её друг **Виктор** **тоже** говорит по-русски.  
+  (Her friend Victor also speaks Russian.)
 
 # Prepositions 
 
@@ -407,6 +431,10 @@ Adds to the list of **predicates (things done)**. Different objects that share t
   - **Transportation**  
     Я еду домой **на** автобусе.  
     (I am going home by bus)
+
+  - **Medium or means of expression**  
+    **На** каком языке вы говорите?  
+    (What language do you speak?)
 
   - **Special cases**  
     **На** факультете  
@@ -551,6 +579,13 @@ Adds to the list of **predicates (things done)**. Different objects that share t
     По прибытии.  
     (Upon arrival.)
 
+# Word order 
+## Adverbs
+- When answering the question **как**, the adverb comes last 
+
+  -Как вы говорите по-русски?  
+  -Я говорите хорошо.  
+
 # Prefixes 
 
 ## Nouns
@@ -579,18 +614,7 @@ Adding a prefix to a verb usually makes it **perfective**
 | за- | Dropping by, or starting an action | плакать<br> (to cry) | заплакать<br> (to start crying)
 
 
-# Interrogative Adverbs  
-They are all **indeclinable**!
-| Russian | English | Usage 
-| :---: | :---: | :---:
-| Откуда | From where / Where...from | Source of the info
-| Где | Where at | Static location 
-| Куда | Where to | Direction or motion towards a place 
-| Как | How | Greeting, ask about how things are done
-| Когда | When | Ask for what time the event will occur
-| Сколько | How much / many | Ask for how much it cost, or age
-| Почему | Why (Because) | Asks what causes some event to occur
-| Зачем | Why (In order to) | Asks for what purpose some event occurred
+
 
 # Naming System
 ## Composition
@@ -913,8 +937,20 @@ In Russian, adverbs are usually **preceding verbs**:
 
 **Answering**  
 In answering the question **как**, the adverb comes last.  
--Как вы говорите по-русски? - (How do you speak Russian?)  
--Я говорю **хорошо**. - (I speak it well.)  
+
+-Как вы говорите по-русски?  
+(How do you speak Russian?)  
+-Я говорю **хорошо**.  
+(I speak it well.)  
+
+# Asking questions 
+## Ask how someone is classified
+**Кто + [subject] + по + [dative case noun]**
+
+Because the expected answer is a person, the question must use the interrogative pronoun кто (who)
+
+Кто он по профессии?  
+(What is his profession?)
 
 # Nationalities 
 ## Special notes
