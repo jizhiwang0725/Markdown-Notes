@@ -22,38 +22,36 @@
   - [The 5-letter spelling rule](#the-5-letter-spelling-rule)
   - [The 8-letter spelling rule](#the-8-letter-spelling-rule)
 - [(Cases) General Ending Patterns](#cases-general-ending-patterns)
-  - [Nouns by genders and number](#nouns-by-genders-and-number)
-  - [Adjectives by genders and number](#adjectives-by-genders-and-number)
+  - [Nouns](#nouns)
+  - [Adjectives](#adjectives)
 - [(Cases) Nominative Case](#cases-nominative-case)
   - [When to use (subject)](#when-to-use-subject)
-  - [Plurals](#plurals)
-  - [Adjectives](#adjectives)
-  - [Special modifier](#special-modifier)
-- [(Cases) Prepositional Case](#cases-prepositional-case)
-  - [When to use (position)](#when-to-use-position)
-  - [Nouns](#nouns)
+  - [Nouns (plurals)](#nouns-plurals)
   - [Adjectives](#adjectives-1)
-  - [Special modifiers](#special-modifiers)
 - [(Cases) Genitive Case](#cases-genitive-case)
   - [When to use (possession)](#when-to-use-possession)
   - [Nouns](#nouns-1)
+    - [Singular](#singular)
+    - [Plural](#plural)
   - [Adjectives](#adjectives-2)
-  - [Special modifiers](#special-modifiers-1)
 - [(Cases) Dative Case](#cases-dative-case)
   - [When to use (indirect)](#when-to-use-indirect)
   - [Nouns](#nouns-2)
   - [Adjectives](#adjectives-3)
-  - [Special modifiers](#special-modifiers-2)
 - [(Cases) Accusative Case](#cases-accusative-case)
   - [When to use (object)](#when-to-use-object)
   - [Nouns](#nouns-3)
+    - [Singular](#singular-1)
+    - [Plural](#plural-1)
   - [Adjectives](#adjectives-4)
-  - [Special modifiers](#special-modifiers-3)
 - [(Cases) Instrumental Case](#cases-instrumental-case)
   - [When to use (instrument)](#when-to-use-instrument)
   - [Nouns](#nouns-4)
   - [Adjective](#adjective)
-  - [Special modifiers](#special-modifiers-4)
+- [(Cases) Prepositional Case](#cases-prepositional-case)
+  - [When to use (position)](#when-to-use-position)
+  - [Nouns](#nouns-5)
+  - [Adjectives](#adjectives-5)
 - [(Nouns) General Rules](#nouns-general-rules)
   - [Fleeting vowels](#fleeting-vowels)
   - [Indeclinable](#indeclinable)
@@ -61,28 +59,50 @@
 - [(Nouns) Grammatical Gender](#nouns-grammatical-gender)
   - [General endings](#general-endings)
   - [Soft sign ending (-ь)](#soft-sign-ending--ь)
+    - [Masculine](#masculine)
+    - [Feminine](#feminine)
+    - [No pattern](#no-pattern)
   - [Special cases](#special-cases)
 - [(Pronouns) Personal Pronouns](#pronouns-personal-pronouns)
   - [Cases](#cases)
-  - [Spelling](#spelling)
   - [Noun replacement (Nominative)](#noun-replacement-nominative)
-- [(Pronouns) What - Что vs. Какой](#pronouns-what---что-vs-какой)
-  - [Что (answer in noun)](#что-answer-in-noun)
-  - [Какой (answer in adjective)](#какой-answer-in-adjective)
-- [(Pronouns) “This is” vs. "This": это vs. этот (эта, это, эти)](#pronouns-this-is-vs-this-это-vs-этот-эта-это-эти)
-  - [Introductory это (this is/those are)](#introductory-это-this-isthose-are)
-  - [Declinable этот](#declinable-этот)
+- [(Pronouns) Interrogative Pronouns](#pronouns-interrogative-pronouns)
+  - [Noun pronouns](#noun-pronouns)
+    - [Что - What](#что---what)
+    - [Кто - Who](#кто---who)
+  - [Adjective pronouns](#adjective-pronouns)
+    - [Какой - What kind of](#какой---what-kind-of)
+    - [Чей - Whose](#чей---whose)
+    - [Который - Which one](#который---which-one)
+  - [Quantity pronoun](#quantity-pronoun)
+    - [Сколько - How much/many](#сколько---how-muchmany)
+- [(Pronouns) Demonstrative Pronouns](#pronouns-demonstrative-pronouns)
+  - [Этот - This is/Those are](#этот---this-isthose-are)
+    - [Indeclinable "This is"](#indeclinable-this-is)
+    - [The adjective "This"](#the-adjective-this)
+  - [Тот - That/Those](#тот---thatthose)
+  - [Такой - Such a/That kind of](#такой---such-athat-kind-of)
+  - [Столько - So much/So many](#столько---so-muchso-many)
+- [(Pronouns) Possessive Pronouns](#pronouns-possessive-pronouns)
+  - [Мой - My](#мой---my)
+  - [Вы - Your (Singular/Informal)](#вы---your-singularinformal)
+  - [Наш - Our](#наш---our)
+  - [Your - Plural/Formal](#your---pluralformal)
+  - [Свой - One's own](#свой---ones-own)
+  - [Его/Её/Их - His/Her/Their](#егоеёих---hishertheir)
+- [(Pronouns) Reflexive Pronouns](#pronouns-reflexive-pronouns)
+  - [Oneself](#oneself)
 - [(Adjectives) General Rules](#adjectives-general-rules)
   - [Capitalization](#capitalization)
 - [(Adjectives) Short-from Adjectives](#adjectives-short-from-adjectives)
   - [Definition](#definition)
   - [Endings](#endings)
-- [(Adjectives) Comparative](#adjectives-comparative)
+- [(Adjectives) Comparative Adjectives](#adjectives-comparative-adjectives)
   - [Regulars](#regulars)
   - [Irregulars](#irregulars)
   - [Compound comparative (more)](#compound-comparative-more)
   - [How to use "then"](#how-to-use-then)
-- [(Adjectives) Superlative](#adjectives-superlative)
+- [(Adjectives) Superlative Adjectives](#adjectives-superlative-adjectives)
   - [Compound form](#compound-form)
   - [The simple form](#the-simple-form)
   - [Of all](#of-all)
@@ -92,20 +112,24 @@
 - [(Verbs) Conjugations](#verbs-conjugations)
   - [General conjugations](#general-conjugations)
   - [Е/ё conjugations](#её-conjugations)
+    - [Stems ending in vowels](#stems-ending-in-vowels)
+    - [Stems ending in consonants](#stems-ending-in-consonants)
+    - [General rules](#general-rules)
   - [И conjugations](#и-conjugations)
   - [Ending palatalization](#ending-palatalization)
+    - [Application for different conjugations](#application-for-different-conjugations)
+    - [Added л](#added-л)
+    - [Shape-shifting consonants](#shape-shifting-consonants)
 - [(Verbs) Reflexive Verbs](#verbs-reflexive-verbs)
   - [Definition](#definition-2)
   - [Endings (-ся/-сь)](#endings--ся-сь)
   - [Usage](#usage)
-  - [Reflexive pronoun (себя)](#reflexive-pronoun-себя)
 - [(Verbs) Imperfective and Perfective Verbs](#verbs-imperfective-and-perfective-verbs)
+  - [Differences](#differences)
   - [Imperfective verbs](#imperfective-verbs)
   - [Perfective verbs](#perfective-verbs)
   - [Recognize perfective verbs from imperfective verbs](#recognize-perfective-verbs-from-imperfective-verbs)
-- [(Verbs) Imperative Verbs](#verbs-imperative-verbs)
-  - [When to use](#when-to-use-1)
-  - [Ending](#ending)
+- [(Adverbs) Interrogative Adverbs](#adverbs-interrogative-adverbs)
 - [(Tenses) Present Tense](#tenses-present-tense)
   - ["To be" in present tense](#to-be-in-present-tense)
 - [(Tenses) Past Tense](#tenses-past-tense)
@@ -129,7 +153,7 @@ Especially for И-conjugation verbs
 
 # (Cases) General Ending Patterns
 
-## Nouns by genders and number
+## Nouns 
 
 **MASCULINE/NEUTER** nouns:  
 
@@ -158,7 +182,7 @@ Especially for И-conjugation verbs
   | Hard stem | -ах | -ам | -ами | Gender dependent
   | Soft stem | -ях | -ям | -ями | Gender dependent
 
-## Adjectives by genders and number
+## Adjectives
 When describing **MASCULINE/NEUTER** nouns:   
 
   | | Genitive<br> Accusative (ani.)  | Prepositional | Dative   | Instrumental
@@ -181,9 +205,7 @@ When describing **PLURAL** nouns:
   | Hard stem (-ый) | -ые | -ым | -ыми | -ых 
   | Soft stem (-ий) | -ие | -им | -ими | -их
 
-
 # (Cases) Nominative Case
-**The base form of the word**  
 
 ## When to use (subject)
 - **The grammatical subject of the sentence**  
@@ -200,31 +222,33 @@ When describing **PLURAL** nouns:
    - Items on a shopping list 
    - the title of a book or movie  
   
-## Plurals 
-**Ending letters**  
-Stem + ending letter according to its gender.  
-| | Masculine | Feminine | Neuter
-| :---: | :---: | :---: | :---: 
-| Hard stem | чемодан - ы | газет - ы | мест - а  
-| Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я 
+## Nouns (plurals) 
+- **Ending letters**  
 
-:exclamation: For a neuter soft word, remember the -ь is part of the stem, not part of the ending.  
+  | | Masculine | Feminine | Neuter
+  | :---: | :---: | :---: | :---: 
+  | Hard stem | чемодан - ы | газет - ы | мест - а  
+  | Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я 
 
-**Special cases**
-1. 7-letter spelling rule  
+  :exclamation: For a neuter soft word, remember the -ь is part of the stem, not part of the ending.  
 
-2. Words ending in -мя.  
+- **Special cases**
+  - 7-letter spelling rule  
 
-3. Some masculine words have a plural ending of a neuter ending with corresponding soft or hard stem.  
+  - Words ending in -мя.  
+
+  - Some masculine words have a plural ending of a neuter ending with corresponding soft or hard stem.  
+  
     Дом (hard stem) - дома  
     Учитель (soft stem) - учителя  
-  :exclamation: The stress is always at the end!
+  
+    :exclamation: The stress is always at the end!
 
-**Change of stress**  
-Changing endings sometimes causes the stress to move - from the stem to the ending and vice versa, especially in **neuter**:  
+- **Change of stress**  
+  Changing endings sometimes causes the stress to move - from the stem to the ending and vice versa, especially in **neuter**:  
 
-кни&#769;га - книг**и&#769;**   
-гара&#769;ж - гараж**и&#769;**
+  кни&#769;га - книг**и&#769;**   
+  гара&#769;ж - гараж**и&#769;**
 
 ## Adjectives
 | | Masculine | Neuter | Feminine | Plural 
@@ -236,94 +260,12 @@ Changing endings sometimes causes the stress to move - from the stem to the endi
 | (With spelling rules) | бальш**о&#769;й** | больш**о&#769;е** | больш**а&#769;я** | болтш(<del>ы</del>)**и&#769;е**(7) 
 | Soft stem | си&#769;н**ий** | си&#769;н**ее** | си&#769;н**яя** | си&#769;н**ие** 
 
-## Special modifier  
-The words for whose agrees in grammatical gender with the **noun asked about**, NOT the person asked about.  
 
-The man asks the woman "whose" with masculine чей because чемодан - suitcase is a masculine.   
-She says "mine". The masculine мой matches чемодан, not the woman.  
-
-| | Masculine | Neuter | Feminine | Plural 
-| :---: | :---: | :---: | :---: | :---: 
-| **whose** | чей | чьё | чья | чьи 
-| **my, mine** | мой | моё | моя | мои 
-| **your(s) - ты** | твой | твоё | твоя | твои 
-| **our(s)** | наш | наше | наша | наши 
-| **yours - вы** | ваш | ваше | ваша | ваши 
-| **this** | этот | это | эта | эти
-| **one** | один | одно | одна | одни
 
 
 Possessive modifier **his, hers, and theirs** are indeclinable. 
-| English | Russian
-| :---: | :---: 
-| **his** | его 
-| **her(s)** | её 
-| **their(s)** | их 
 
 
-# (Cases) Prepositional Case
-## When to use (position)
-- **Location (Где?)**  
-  Used when answering questions about where is something. Used after prepositions 
-
-  | English | Russian 
-  | :---: | :---: 
-  | In/inside | В
-  | On/at | На
-
-  :warning: These two prepositions are also for motions, when it is followed by **accusative** case.  
-
-- **Extra information about what (О чём?)**
-
-- **Month and years**  
-  Prepositional is used to pinpoint when something happens, specifically regarding months and years.  
-
-  Я поеду в Москву (acc.) **в августе**.  
-  (I will go to Moscow in August)
-
-- **Transportation (preposition на)**  
-  На + transportation vehicles like plane, train, bus, car, and metro in prepositional case is used to express the meaning of travel by certain way.  
-
-  Я еду **на поезде**.  
-  (I am going by train.)
-
-## Nouns
- 
-  Я живу **в** Америк**е**  
-
-| USUALLY **add е**. <br> Drop **й, а, я**. | BUT **ие** is illegal. <br> Use **ии**| AND Foreign names ending<br> in **о, и, у never change**
-| :---: | :---: | :---: 
-| Нью-Йорк -> Нью-Йорке | Джорджие -> Джоржии<br> Здание -> Здании | Чикаго 
-
-**General endings**
-| |Nominative | Masculine<br> Neuter | Feminine | Plural 
-| :---: | :---: | :---: | :---: | :---:
-| Hard-stem | журнал<br> письмо<br> школа | в журнал**е**<br> в письм**е**<br> - | -<br> -<br> в школ**е** | в журнал**ах**<br>в письм**ах**<br>в школ**ах** 
-| Soft-stem | музей<br> словарь<br> кухня | в музе**е**<br> в словар**е**<br> - | -<br> -<br> в кухн**е**  | в музе**ях**<br> в словар**ях**<br> в кухн**ях** 
-| Feminine -ь | тетрадь | - | в тетрад**и** | в тетрад**ях**
-<s>ие</s> -> ии | версия<br> общежитие | -<br> в общежит**ии** | в верс**ии**<br>- | в верси**ях**<br> в общежити**ях** 
-
-Во Флориде  
-Во Франции
-
-## Adjectives
-|| Masculine<br> Neuter | Feminine | Plural  
-| :---: | :---: | :---: | :---: 
-| Hard stems<br> (-ый) | в нов**ом** | в нов**ой** | в нов**ых** 
-| Soft stems<br> (-ий) | в син**ем** | в син**ей** | в син**их** 
-| Spelling rules | в хоро&#769;ш**ем** (5)<br> (but в больш**о&#769;м**) | в хорош**ей** (5) | в хорош**их** (7)
-
-## Special modifiers  
-
-| Masculine<br> Neuter | Feminine | Plural 
-| :---: | :---: | :---: 
-| о ч**ём** | о ч**ей** | о ч**их** 
-| в мо**ём** | в мо**ей** | в мо**их**  
-| в тво**ём** | в тво**ей** | в тво**их**  
-| в наш**ем** | в наш**ей** | в наш**их**
-| в ваш**ем** | в ваш**ей** | в ваш**их**  
-| в эт**ом** | в эт**ой** | в эт**их**
-| в одн**ом** | в одн**ой** | в одн**их**   
 
 
 # (Cases) Genitive Case
@@ -366,7 +308,7 @@ Possessive modifier **his, hers, and theirs** are indeclinable.
   | Near/Around | Около
 
 ## Nouns  
-**Singular**  
+### Singular
 | Ending | Nominative | Masculine<br> Neuter | Feminine 
 | :---: | :---: | :---: | :---: 
 | Hard | журнал<br> письмо<br> газета<br> | журнал**а**<br> письм**а**<br> -| -<br> -<br> газет**ы** | журнала
@@ -379,7 +321,7 @@ Possessive modifier **his, hers, and theirs** are indeclinable.
    сто&#769;л -> стола&#769;  
    гара&#769;ж -> гаража&#769;
 
-**Plural**  
+### Plural 
 
 Masculine
 | Stem | Ending |
@@ -404,19 +346,8 @@ Feminine and neuter
 | Soft stem (ий) | син**его** | син**ей** | син**их**
 | Spelling rules | хорош**его** (5) | хорош**ей** (5) | хорош**их** (7)
 
-## Special modifiers
-
-| Masculine<br> Neuter | Feminine | Plural
-| :---: | :---: | :---:
-| У чь**его** | У чь**ей** | У чь**их**
-| У мо**его** | У мо**ей** | У мо**их**
-| У тво**его** | У тво**ей** | У тво**их**
-| У наш**его** | У наш**ей** | У наш**их**
-| У ваш**его** | У ваш**ей** | У ваш**их**
-| У эт**ого** | У эт**ой** | У эт**их**
-| У одн**ого** | У одн**ой** | У одн**их**[]
-
 # (Cases) Dative Case
+
 ## When to use (indirect)
 - **The indirect object (to/for)**  
 Whenever you are giving, showing, telling or sending something **to** someone, that person is in the dative case.  
@@ -483,21 +414,9 @@ Whenever you are giving, showing, telling or sending something **to** someone, t
 | Soft stems (-ий) | син**ему** | син**ей** | син**ем** 
 | Spelling rules | хорош**ему**(5) | хорош**ей**(5) | хорош**им**(7)
 
-## Special modifiers
-
-| Masculine<br> Neuter | Feminine | Plural
-| :---: | :---: | :---: 
-| чь**ему**	| чь**ей** | чь**им**
-| мо**ему**	| мо**ей** | мо**им**
-| тво**ему** | тво**ей** | тво**им**
-| наш**ему** | наш**ей**	| наш**им**
-| ваш**ему** | ваш**ей** | ваш**им**
-| эт**ому**	| эт**ой** | эт**им**
-| одн**ому** | одн**ой** | одн**им**
 # (Cases) Accusative Case
 
 ## When to use (object)
-
 - **Object**  
   Identify the direct object of a sentence - what is receiving the action (comes after a verb).  
 
@@ -528,7 +447,7 @@ For singular and plural words:
 - **Inanimate masculine** and all **neuter** have Accusative case like **Nominative case**.  
 
 
-**Singular**  
+### Singular
 
 || Nominative | Masculine **(animate)** | Feminine 
 | :---: | :---: | :---: | :---:
@@ -536,22 +455,21 @@ For singular and plural words:
 | Soft stems | версия<br> герой<br> учитель | -<br> геро**я**<br> учител**я** | верси**ю**<br> -<br> -
 | Feminine -ь | тетрадь | - | тетрадь<br> (no change) 
 
-**Plural**   
+### Plural
 
-Masculine animate
-| Stem | Ending |
-| :---: | :---:
-| Hard consonant | -ов
-| -ц, -й | -ев (-ов)
-| -ь, -ж, -ч, -щ, -ш | -ей 
+- **Masculine animate**
+  | Stem | Ending |
+  | :---: | :---:
+  | Hard consonant | -ов
+  | -ц, -й | -ев (-ов)
+  | -ь, -ж, -ч, -щ, -ш | -ей 
 
-Feminine
-| Stem | Ending
-| :---: | :---: 
-| -а | Zero ending
-| -я | -ь
-| -ия | -ий
-
+- **Feminine**
+  | Stem | Ending
+  | :---: | :---: 
+  | -а | Zero ending
+  | -я | -ь
+  | -ия | -ий
 
 ## Adjectives 
 
@@ -561,19 +479,8 @@ Feminine
 | Soft stems<br> (-ий) | синий | син**юю** | син**его** | син**их**
 | Spelling rules | хорошо | хорош**ую** (8) | хорош**его** (5) | хорош**их** (5)
 
-## Special modifiers 
-
-| Feminine | Masculine **(animate)**
-| :---: | :---: 
-| чь**ю** | чь**его**
-| мо**ю** | мо**его**
-| тво**ю** | тво**его**
-| наш**у** | наш**его**
-| ваш**у** | ваш**его**
-| эт**у** | эт**ого**
-| одн**у** | одн**ого**
-
 # (Cases) Instrumental Case
+
 ## When to use (instrument)
 - **The tool or instrument (with something)**  
 
@@ -639,54 +546,96 @@ Feminine
 | Soft stems (ий) | син**им** | син**ей** | син**ими**
 | Spelling rules | хорош**им**(7) | хорош**ей**(5) | хорош**ими**(7) 
 
-## Special modifiers
-| Masculine<br> Neuter | Feminine | Plural
+# (Cases) Prepositional Case
+## When to use (position)
+- **Location (Где?)**  
+  Used when answering questions about where is something. Used after prepositions 
+
+  | English | Russian 
+  | :---: | :---: 
+  | In/inside | В
+  | On/at | На
+
+  :warning: These two prepositions are also for motions, when it is followed by **accusative** case.  
+
+- **Extra information about what (О чём?)**
+
+- **Month and years**  
+  Prepositional is used to pinpoint when something happens, specifically regarding months and years.  
+
+  Я поеду в Москву (acc.) **в августе**.  
+  (I will go to Moscow in August)
+
+- **Transportation (preposition на)**  
+  На + transportation vehicles like plane, train, bus, car, and metro in prepositional case is used to express the meaning of travel by certain way.  
+
+  Я еду **на поезде**.  
+  (I am going by train.)
+
+## Nouns
+ 
+  Я живу **в** Америк**е**  
+
+| USUALLY **add е**. <br> Drop **й, а, я**. | BUT **ие** is illegal. <br> Use **ии**| AND Foreign names ending<br> in **о, и, у never change**
 | :---: | :---: | :---: 
-| чь**им** | чь**ей** | чь**ими**
-| мо**им** | мо**ей** | мо**ими** 
-| тво**им** | тво**ей** | тво**ими**
-| наш**им** | наш**ей** | наш**ими**
-| ваш**им** | ваш**ей** | ваш**ими** 
-| эт**им** | эт**ой** | эт**ими**
-| одн**им** | одн**ой** | одн**ими**
+| Нью-Йорк -> Нью-Йорке | Джорджие -> Джоржии<br> Здание -> Здании | Чикаго 
 
+**General endings**
+| | Nominative | Masculine<br> Neuter | Feminine | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| Hard-stem | журнал<br> письмо<br> школа | в журнал**е**<br> в письм**е**<br> - | -<br> -<br> в школ**е** | в журнал**ах**<br>в письм**ах**<br>в школ**ах** 
+| Soft-stem | музей<br> словарь<br> кухня | в музе**е**<br> в словар**е**<br> - | -<br> -<br> в кухн**е**  | в музе**ях**<br> в словар**ях**<br> в кухн**ях** 
+| Feminine -ь | тетрадь | - | в тетрад**и** | в тетрад**ях**
+<s>ие</s> -> ии | версия<br> общежитие | -<br> в общежит**ии** | в верс**ии**<br>- | в верси**ях**<br> в общежити**ях** 
 
+Во Флориде  
+Во Франции
+
+## Adjectives
+| | Masculine<br> Neuter | Feminine | Plural  
+| :---: | :---: | :---: | :---: 
+| Hard stems<br> (-ый) | в нов**ом** | в нов**ой** | в нов**ых** 
+| Soft stems<br> (-ий) | в син**ем** | в син**ей** | в син**их** 
+| Spelling rules | в хоро&#769;ш**ем** (5)<br> (but в больш**о&#769;м**) | в хорош**ей** (5) | в хорош**их** (7)
+ 
 # (Nouns) General Rules
 ## Fleeting vowels 
-Most masculine nouns ending in -ок or -ец lose the last vowel when an ending is added:  
+- Most masculine nouns ending in -ок or -ец lose the last vowel when an ending is added:  
 
 ## Indeclinable 
-Foreign words ending in -о, -и, у are **indeclinable**: they cannot change endings in any formats.  
+- Foreign words ending in -о, -и, у are **indeclinable**
 
-E.g. радио, такси, метро.  
+  E.g. радио, такси, метро.  
 
 ## Plurals for uncountable nouns 
+- **Different varieties, types, or brands**  
+  When talking about different sorts of substance.  
 
-The meaning of plurals for uncountable nouns shifts.   
+  Сыр (Cheese) -> сыры  
+  (Different types of cheese)
 
-**Different varieties, types, or brands**  
-When talking about different sorts of substance.  
+- **Vast expanses or huge quantities**  
+  To emphasize a massive geographic expanse or a poetic, overwhelming amount of something.  
 
-Сыр (Cheese) -> сыры (Different types of cheese)
+  Вода -> воды  
+  (Waters, as in the waters of the ocean or a flood.)
 
-**Vast expanses or huge quantities**  
-To emphasize a massive geographic expanse or a poetic, overwhelming amount of something.  
+- **Repeated or intense weather events**  
+  Uncountable noun plural indicates that the event lasted a long time.  
 
-Вода -> воды (Waters, as in the waters of the ocean or a flood.)
+  Мороз -> морозы (A prolonged period of freezing days.)
 
-**Repeated or intense weather events**  
-Uncountable noun plural indicates that the event lasted a long time.  
+- **From abstract to concrete**  
+  Pluralizing an abstract noun completely changes its meaning into a concrete, countable event or object associated with that concept.  
 
-Мороз -> морозы (A prolonged period of freezing days.)
+  Красота -> красоты  
+  (Beautiful sights or places, like "the beauties of nature")
 
-**From abstract to concrete**  
-Pluralizing an abstract noun completely changes its meaning into a concrete, countable event or object associated with that concept.  
+- **Scientific and technical terminology**  
+  When referring to distinct chemical compounds rather than the everyday material.  
 
-Красота -> красоты (Beautiful sights or places, like "the beauties of nature")
-
-**Scientific and technical terminology**  
-When referring to distinct chemical compounds rather than the everyday material.  
-Соль -> соли (Chemical salts in a scientific context)
+  Соль -> соли  
+  (Chemical salts in a scientific context)
 
 # (Nouns) Grammatical Gender 
 ## General endings 
@@ -697,154 +646,225 @@ You can use the ending to identify which gender a word belongs to.
 | Soft ending | музе**й**<br> слова**рь** | мор**е**<br> плать**е** | фамили**я**<br> крова**ть** 
 
 ## Soft sign ending (-ь)
-For a soft ending with soft sign, you can't identify it is either masculine or feminine.  
+:warning: For a soft ending with soft sign, you can't identify it is either masculine or feminine.  
 
-However, there are some tricks for remembering which is masculine and which is feminine:  
-
-**Masculine**
+### Masculine
 - Suffix **-арь**
 - Suffix **-тель**. Used to describe professions, people or mechanical tools, acting like **-er** in English.  
 - Months of the year.  
 
-**Feminine**  
+### Feminine
 - Suffixes **-ость** or **-есть**. These suffixes create abstract nouns, acting like **-ness** or **-ity** in English.  
-- Hushing consonants (ж, ш, ч, щ) + ь.  
-- Labial consonants (б, в, п, м) + ь. Most of it are feminine with a few exceptions.  
+- **Hushing consonants (ж, ш, ч, щ) + ь**.  
+- **Labial consonants (б, в, п, м) + ь**. Most of it are feminine with a few exceptions.  
 - Suffix **-знь**.  
 
-**No pattern**  
+### No pattern
 - Suffixes **-нь, -ль, -рь or ть**
 
 ## Special cases
-1. Some nouns for people are masculine but take feminine endings, like папа and male nicknames likes Ваня, Толя.  
+- Some nouns for **people** are **masculine** but take **feminine endings**, like папа and male nicknames likes Ваня, Толя.  
 
-2. Nouns ending in -мя are neuter. Russian has ten of these (e.g. имя - first name).  
+- Nouns ending in **-мя** are **neuter**. Russian has ten of these (e.g. имя - first name).  
 
 # (Pronouns) Personal Pronouns
 
 ## Cases
 
-| English | Nominative | Prepositional | Genitive/Accusative | Dative 
+| English | Nominative | Genitive<br> Accusative | Dative | Prepositional
 | :---: | :---: | :---: | :---: | :---: 
-| I | Я | Обо мне | У меня<br> Меня завут | Мне 
-| You | Ты | О тебе | У тебя<br> Tебя завут | Тебе
-| He | Он | О нём | У (н)его<br> Eго завут | Ему
-| She | Она | О ней | У (н)её<br> Её завут | Ей
-| It | Оно | О нём | У (н)его<br> Его завут | Ему
-| We | Мы | О нас | У нас<br> Нас завут | Нам
-| You (formal)<br> You guys | вы | О вас | У вас<br> Вас завут | Вам
-| They | они | О них | У (н)их<br> | Им
+| I | Я  | У меня<br> Меня завут | Мне | Обо мне
+| You | Ты | У тебя<br> Tебя завут | Тебе | О тебе 
+| He | Он | У (н)его<br> Eго завут | Ему | О нём 
+| She | Она | У (н)её<br> Её завут | Ей | О ней 
+| It | Оно | У (н)его<br> Его завут | Ему | О нём 
+| We | Мы | У нас<br> Нас завут | Нам | О нас 
+| You (formal)<br> You guys | вы | У вас<br> Вас завут | Вам | О вас 
+| They | они | У (н)их<br> | Им | О них 
 
-## Spelling 
-**"н-" when it is after a preposition.** 
-Я смотрю на **н**его.  
-(I am looking at him.)
-alkjsd
+- **"н-" when it is after a preposition.**  
+  Я смотрю на **н**его.  
+  (I am looking at him.)
 
-**Without "н-" when it is NOT after a preposition**  
-Я вижу его.  
-(I see him/it.)
+- **Without "н-" when it is NOT after a preposition**  
+  Я вижу его.  
+  (I see him/it.)
 
-**Special cases**  
-If the word indicates ownership, it **NEVER** takes an "н-" even if there is a preposition right next to it. 
+- **Special cases**  
+  If the word indicates ownership, it **NEVER** takes an "н-" even if there is a preposition right next to it. 
 
-Я смотрю на его(his) брата.  
-(I am looking at his brother)
+  Я смотрю на его(his) брата.  
+  (I am looking at his brother)
 
 ## Noun replacement (Nominative)
-Means it or they according to the gender of that noun.  
+- Means it or they according to the gender of that noun.  
 
-**Masculine**  
-Где чемодан? (Where is the suitcase?)  
-Вот **он**. (There it is.)
+- **Masculine**  
+  Где чемодан? (Where is the suitcase?)  
+  Вот **он**. (There it is.)
 
-**Neuter**  
-Где окно?  (Where is the window?)  
-Вот **оно**. (There it is.)
+- **Neuter**  
+  Где окно?  (Where is the window?)  
+  Вот **оно**. (There it is.)
 
-**Feminine**  
-Где машина?  (Where is the car?)  
-Вот **она**. (There it is.)  
+- **Feminine**  
+  Где машина?  (Where is the car?)  
+  Вот **она**. (There it is.)  
 
-**Plural**  
-Где часы? (Where are the clocks?)  
-Вот **они**. (There they are.)  
+- **Plural**  
+  Где часы? (Where are the clocks?)  
+  Вот **они**. (There they are.)  
 
+# (Pronouns) Interrogative Pronouns
 
-# (Pronouns) What - Что vs. Какой 
-Russian uses two different words for what 
+## Noun pronouns 
 
-## Что (answer in noun) 
-| Instrumental | Prepositional | Accusative | Genitive | Dative | 
-| :---: | :---: | :---: | :---: | :---:
-| C чем | О чём | Что | Для чего | К чему
+- The pronouns replace a noun in a sentence, they change their endings **depending on their cases.**
 
-- The answer is **a noun** 
+### Что - What
+
+| Nominative | Genitive | Dative | Accusative | Instrumental | Prepositional 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| Что | От чего | К чему | На что | С чем | О чем 
+
+- Used for **inanimate** objects (things, ideas, and concepts)
+
 - **Never means** which or which one  
+
 - Что never combines with another noun: что <del>чемодан</del>?
 
+  **Что** это?  
+  (What is that?)  
 
-**Examples**  
-Что это?  
-(What is that?)  
+  **Что** в чемодане?  
+  (What's in the case?)  
 
-Что в чемодане?  
-(What's in the case?)  
+  О **чём** ты думаешь?  
+  (What are you thinking about?)
 
-## Какой (answer in adjective)
+### Кто - Who
 
-| Masculine | Neuter | Feminine | Plural |
-| :---: | :---:| :---: | :---:|
-| Какой | Какое | Какая | Какие |
+| Nominative | Genitive | Dative | Accusative | Instrumental | Prepositional 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| Кто | От кого | К кому | На кого | С кем | О ком 
 
-- The answer is usually **an adjective**  
-- Means which or which one  
-- Какой combines with other nouns: Какой чемодан?  
+- Used exclusively for **animate** objects (people and animals)
 
-**Examples**  
-Какая книга!  
-(What a book!)
+  **Кто** это?  
+  (Who is this?) 
 
-Какое место?  
-(What(which) place?)  
+  **Кого** ты видишь?  
+  (Whom do you see?)
 
-# (Pronouns) “This is” vs. "This": это vs. этот (эта, это, эти)
-**The ending word in a sentence is emphasized.**  
+## Adjective pronouns 
 
-## Introductory это (this is/those are)
-The **object** is emphasized.  
+- They act like **adjectives**, and they must **match the gender, number and case of the noun** they refer to. 
 
-**Это + Adjective/Possessive pronoun + Noun**
-- Begins full sentences (This is a...)
-- Indeclinable 
+### Какой - What kind of
+
+| Case | Masculine | Feminine | Neuter | Plural |
+| :---: | :---: | :---: | :---: | :---: |
+| **Nominative** | Какой | Какая | Какое | Какие 
+| **Genitive** | От какого | От какой | От какого | От каких 
+| **Dative** | К какому | К какой | К какому | К каким 
+| **Accusative** | На какой<br> На какого | На какую | На какое | На какие<br> На каких 
+| **Instrumental** | С каким | С какой | С каким | С какими 
+| **Prepositional** | О каком | О какой | О каком | О каких
+
+- Combines with other nouns
+  
+  **Какой** чемодан?  
+  (What suitcase?)  
+
+  **Какая** книга!  
+  (What a book!)
+
+  **Какое** место?  
+  (What(which) place?) 
+
+### Чей - Whose
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Который | Которая | Которое | Которые 
+| **Genitive** | От которого | От которой | От которого | От которых 
+| **Dative** | К которому | К которой | К которому | К которым 
+| **Accusative** | На который<br> На которого | На которую | На которое | На которые<br> На которых 
+| **Instrumental** | С которым | С которой | С которым | С которыми 
+| **Prepositional** | О котором | О которой | О котором | О которых 
+
+  **Чья** это машина?  
+  (Whose car is this?)
+
+### Который - Which one
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Который | Которая | Которое | Которые 
+| **Genitive** | От которого | От которой | От которого | От которых 
+| **Dative** | К которому | К которой | К которому | К которым 
+| **Accusative** | На который<br> На которого | На которую | На которое | На которые<br> На которых 
+| **Instrumental** | С которым | С которой | С которым | С которыми 
+| **Prepositional** | О котором | О которой | О котором | О которых 
+  
+- Used for point at specific things.  
+
+  **Который** час?  
+  (What time is it?)
+
+## Quantity pronoun 
+
+### Сколько - How much/many
+
+- Usually forces the following noun into the **Genitive case**.  
+
+  **Сколько** это стоит?  
+  (How much does this cost?)  
+
+  **Сколько** у тебя братьев?  
+  (How many brothers do you have?)
+
+# (Pronouns) Demonstrative Pronouns
+
+## Этот - This is/Those are 
+
+### Indeclinable "This is"
+
+- **Это + Adjective/Possessive pronoun + Noun**
+- The **object** is emphasized.  
+- Begins full sentences (This is a...)  
 - Means:
-  - this is 
-  - that is 
-  - these are 
-  - those are 
+  - This is 
+  - That is   
+  - These are 
+  - Those are 
 
-**Examples**  
-Это небольшой словарь.  
-(**This is** a small dictionary.)  
+  Это небольшой словарь.  
+  (**This is** a small dictionary.)  
 
-Это маленькое окно.  
-(**This is** a small window.)  
+  Это маленькое окно.  
+  (**This is** a small window.)  
 
-Это интересная фотография.  
-(**This is** an interesting photo.)  
+  Это интересная фотография.  
+  (**This is** an interesting photo.)  
 
-Это красивые дома.  
-(**Those are** pretty houses.)  
+  Это красивые дома.  
+  (**Those are** pretty houses.)  
 
-## Declinable этот
-The **appearance** is emphasized
+### The adjective "This"
 
-**Этот/Это/Эта/Эти + Noun + Adjective/Possessive pronoun**
+- **Этот/Это/Эта/Эти + Noun + Adjective/Possessive pronoun**
 
-| Masculine | Neuter | Feminine | Plural |
-| :---: | :---: | :---: | :---: |
-| этот | это | эта | эти |
+  | Case | Masculine | Feminine | Neuter | Plural 
+  | :---: | :---: | :---: | :---: | :---: 
+  | **Nominative** | Этот | Эта | Это | Эти 
+  | **Genitive** | От этого | От этой | От этого | От этих 
+  | **Dative** | К этому | К этой | К этому | К этим 
+  | **Accusative** | На этот<br> На этого (ani.) | На эту | На это | На эти<br> На этих (ani.)
+  | **Instrumental** | С этим | С этой | С этим | С этими 
+  | **Prepositional** | Об этом | Об этой | Об этом | Об этих 
 
+- The **appearance** is emphasized
 - Does not create full sentences 
 - Works like modifiers мой, твой, наш, ваш 
 - Means: 
@@ -852,29 +872,151 @@ The **appearance** is emphasized
   - these or that 
   - those 
 
-**Examples**  
-Этот словарь небольшой.  
-(This dictionary is small.)  
+  **Этот** словарь небольшой.  
+  (This dictionary is small.)  
 
-Это окно маленькое.  
-(This window is small.)  
+  **Это** окно маленькое.  
+  (This window is small.)  
 
-Эта фотография интересная.  
-(This photo is interesting.)  
+  **Эта** фотография интересная.  
+  (This photo is interesting.)  
 
-Эти дома красивые.  
-(These houses are beautiful.)  
+  **Эти** дома красивые.  
+  (These houses are beautiful.)  
+
+## Тот - That/Those 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Тот | Та | То | Те 
+| **Genitive** | От того | От той | От того | От тех 
+| **Dative** | К тому | К той | К тому | К тем 
+| **Accusative** | На тот<br> На того | На ту | На то | На те<br> На тех 
+| **Instrumental** | С тем | С той | С тем | С теми 
+| **Prepositional** | О том | О той | О том | О тех 
+
+- Often see it used with этот (this)
+
+  Я не хочу **эту** книгу, я хочу **ту**.  
+  (I don't want this book, I want that one.)
+
+## Такой - Such a/That kind of   
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Такой | Такая | Такое | Такие 
+| **Genitive** | От такого | От такой | От такого | От таких 
+| **Dative** | К такому | К такой | К такому | К таким 
+| **Accusative** | На такой<br> На такого | На такую | На такое | На такие<br> На таких 
+| **Instrumental** | С таким | С такой | С таким | С такими 
+| **Prepositional** | О таком | О такой | О таком | О таких 
+
+- A quality or characteristics
+
+  Мои волосы **такие** грязные!  
+  (My hair is so dirty!)  
+
+## Столько - So much/So many  
+- Forces the noun that comes after it into the **Genitive case**  
+
+  У меня **столько** работы!  
+  (I have so much work!)
+
+# (Pronouns) Possessive Pronouns  
+
+## Мой - My
+
+| Case | Masculine | Feminine | Neuter | Plural |
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Мой | Моя | Мое | Мои 
+| **Genitive** | От моего | От моей | От моего | От моих 
+| **Dative** | К моему | К моей | К моему | К моим 
+| **Accusative** | На мой<br> На моего | На мою | На мое | На мои<br> На моих 
+| **Instrumental** | С моим | С моей | С моим | С моими 
+| **Prepositional** | О моем | О моей | О моем | О моих 
+
+## Вы - Your (Singular/Informal)
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Твой | Твоя | Твое | Твои 
+| **Genitive** | От твоего | От твоей | От твоего | От твоих 
+| **Dative** | К твоему | К твоей | К твоему | К твоим 
+| **Accusative** | На твой<br> На твоего | На твою | На твое | На твои<br> На твоих 
+| **Instrumental** | С твоим | С твоей | С твоим | С твоими 
+| **Prepositional** | О твоем | О твоей | О твоем | О твоих 
+
+## Наш - Our 
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Наш | Наша | Наше | Наши 
+| **Genitive** | От нашего | От нашей | От нашего | От наших 
+| **Dative** | К нашему | К нашей | К нашему | К нашим 
+| **Accusative** | На наш<br> На нашего | На нашу | На наше | На наши<br> На наших 
+| **Instrumental** | С нашим | С нашей | С нашим | С нашими 
+| **Prepositional** | О нашем | О нашей | О нашем | О наших 
+
+## Your - Plural/Formal
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Ваш | Ваша | Ваше | Ваши 
+| **Genitive** | От вашего | От вашей | От вашего | От ваших 
+| **Dative** | К вашему | К вашей | К вашему | К вашим 
+| **Accusative** | На ваш<br> На вашего | На вашу | На ваше | На ваши<br> На ваших 
+| **Instrumental** | С вашим | С вашей | С вашим | С вашими 
+| **Prepositional** | О вашем | О вашей | О вашем | О ваших 
+
+## Свой - One's own
+
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Свой | Своя | Свое | Свои 
+| **Genitive** | От своего | От своей | От своего | От своих 
+| **Dative** | К своему | К своей | К своему | К своим 
+| **Accusative** | На свой<br> На своего | На свою | На свое | На свои <br>На своих 
+| **Instrumental** | Со своим | Со своей | Со своим | Со своими 
+| **Prepositional** | О своем | О своей | О своем | О своих 
+
+## Его/Её/Их - His/Her/Their
+- Indeclinable 
+
+  | English | Russian
+  | :---: | :---: 
+  | **His** | Его 
+  | **Her(s)** | Её 
+  | **Their(s)** | Их 
+
+# (Pronouns) Reflexive Pronouns 
+## Oneself
+- If the verb itself isn't reflexive, but you want to express that "we" are doing something to "ourselves", or that "someone" is doing something to "oneself".  
+
+- :warning: There is **NO nominative form**
+
+  | Genitive/Accusative | Instrumental | Prepositional
+  | :---: | :---: | :---:
+  | себя | собой | себе  
+
+  Мы видим **себя**.  
+  (We see ourselves.)
+
+  Мы берём это **с собой**.  
+  (We are talking about ourselves.)
+
+  Вырази **себя** как можно более ясно.  
+  (Express yourself as clearly as you can)
 
 # (Adjectives) General Rules
+
 ## Capitalization
-Adjectives made from capitalized nouns are usually not capitalized:  
+
+- Adjectives made from capitalized nouns are usually **NOT** capitalized  
 
   Америка  
   **а**мериканская виза
 
 # (Adjectives) Short-from Adjectives 
 ## Definition  
-- Short adjectives are adjectives without their endings. They act as a predicate to describe a state.
+- Short adjectives are adjectives without their endings. They act as a **predicate to describe a state**.
 
 - They do **NOT** follow any cases, but matches the **gender and number** of the noun they describe.  
 
@@ -887,20 +1029,21 @@ Adjectives made from capitalized nouns are usually not capitalized:
 | Neuter | -о/-е | готово | занято
 | Plural | -ы/-и | готовы | заняты
   
-**Fill vowel quirk (Masculine)**  
-When you chop the ending of a long adjective, you are sometimes left over with two consonants smashed together at the end of the word, making it **impossible to pronounce**.  
+- **Fill vowel quirk (Masculine)**  
+  When you chop the ending of a long adjective, you are sometimes left over with two consonants smashed together at the end of the word, making it **impossible to pronounce**.  
 
-To resolve this, Russian inserts a "fill vowel" **(usually е or о)** into the masculine form only to make it roll off the tongue.  
+  To resolve this, Russian inserts a "fill vowel" **(usually е or о)** into the masculine form only to make it roll off the tongue.  
 
-| Gender | свободный (free)
-| :---: | :---:
-| Masculine | свобод**е**н
-| Feminine | свободна
-| Neuter | свободно
-| Plural | свободны
+  | Gender | Свободный (free)
+  | :---: | :---:
+  | Masculine | Свобод**е**н
+  | Feminine | Свободна
+  | Neuter | Свободно
+  | Plural | Свободны
 
-# (Adjectives) Comparative 
+# (Adjectives) Comparative Adjectives
 ## Regulars
+
 - Change the ending to **-ее**  
 
 - Sometimes for native speakers, they drop the final vowel 
@@ -973,45 +1116,44 @@ to speak faster and pronounces like with a **-ей** ending.
   Москва больше **Эдинбурга**.  
   (Moscow is bigger than Edinburgh)
 
-# (Adjectives) Superlative
+# (Adjectives) Superlative Adjectives
 ## Compound form 
-The most common and simplest way is to simply add **"the most"**
+- The most common and simplest way is to simply add **"the most"**
 in front of the adjective
 
-| Gender | The most
-| :---: | :---:
-| Masculine | Самый
-| Feminine | Самая 
-| Neuter | Самое
-| Plural | Самые
+  | Gender | The most
+  | :---: | :---:
+  | Masculine | Самый
+  | Feminine | Самая 
+  | Neuter | Самое
+  | Plural | Самые
 
 ## The simple form 
-The **formal, literacy** way is to add a **suffix** to the end of the stem 
+- The **formal, literacy** way is to add a **suffix** to the end of the stem 
 
-| Gender | Suffix<br> (common)| Stem ends in<br> г, к or х<br> (to ж, ч, and ш) | новый<br> (new) | тихий<br> (quiet)  
-| :---: | :---: | :---: | :---: | :---:
-| Masculine | -ейший | -айший | нов**ейший** | тиш**айший**
-| Feminine | -ейшая | -айшая| нов**ейшая** | тиш**айшая**
-| Neuter | -ейшее | -айшее| нов**ейшее** | тиш**айшее**
-| Plural | -ейшие | -айшие | нов**ейшие** | тиш**айшие**
+  | Gender | Suffix<br> (common)| Stem ends in<br> г, к or х<br> (to ж, ч, and ш) | новый<br> (new) | тихий<br> (quiet)  
+  | :---: | :---: | :---: | :---: | :---:
+  | Masculine | -ейший | -айший | нов**ейший** | тиш**айший**
+  | Feminine | -ейшая | -айшая| нов**ейшая** | тиш**айшая**
+  | Neuter | -ейшее | -айшее| нов**ейшее** | тиш**айшее**
+  | Plural | -ейшие | -айшие | нов**ейшие** | тиш**айшие**
 
 ## Of all
-Native speakers frequently use a shortcut especially when **talking 
-about actions (adverbs)**. 
+- Native speakers frequently use a shortcut especially when **talking about actions (adverbs)**. 
 
-Take the comparative form fo the adjective or adverb and add the word **всех** 
-(of all people/things) or **всего** (of everything)
+  Take the comparative form fo the adjective or adverb and add the word **всех** 
+  (of all people/things) or **всего** (of everything)
 
-Быстрее всех.  
-(fastest of all) 
+  Быстрее **всех**.  
+  (fastest of all) 
 
-Лучше всех.  
-(Best of all)
+  Лучше **всех**.  
+  (Best of all)
 
 # (Verbs) Infinitive 
 
 ## Definition
-The base class of an action. Always paired to the word "to".  
+- The base class of an action. Always paired to the word "to".  
 
 ## When to use 
 - **Describing a feeling, a state, or a necessity**  
@@ -1039,36 +1181,41 @@ The base class of an action. Always paired to the word "to".
 | они | ю/у/ят
 
 ## Е/ё conjugations  
-Usually ending in **-ать, -еть, -ять**  
-- **Stems ending in vowels**  
-  | | Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
-  :---: | :---: | :---: | :---: 
-  я | зна**ю** | чита**ю** | понима**ю**  
-  ты | зна**ешь** | чита**ешь** | понима**ешь**  
-  кто/он/она | зна**ет** | чита**ет** | понима**ет**  
-  мы | зна**ем** | чита**ем** | понима**ем** 
-  вы | зна**ете** | чита**ете** | понима**ете**  
-  они | зна**ют** | чита**ют** | понима**ют** 
 
-- **Stems ending in consonants**  
-  | | Писать<br>to write | Жить<br>to live<br>(Ending stressed) |
-  :---: | :---: | :---:
-  я | пиш**у** | жив**у&#769;** 
-  ты | пиш**ешь** | жив**ёшь**
-  кто/он/она | пиш**ет** | жив**ёт**
-  вы | пиш**ете** | жив**ёте** 
-  мы | пиш**ем** | жив**ём**
-  они | пиш**ут** | жив**у&#769;т**
+- Usually ending in **-ать, -еть, -ять**  
 
-- **General rules**
-  1. If the ending **is stressed**, use ё  
-     **Unstressed endings** use e  
+### Stems ending in vowels
 
-  2. Use **-у after consonants**: я пи**ш**у, они жив**у**т   
-     Use **-ю after vowels**: я зн**а**ю, они поним**а**ют 
+|| Знать<br>to know | Читать<br>to read | Понимать<br>to understand |
+:---: | :---: | :---: | :---: 
+я | зна**ю** | чита**ю** | понима**ю**  
+ты | зна**ешь** | чита**ешь** | понима**ешь**  
+кто/он/она | зна**ет** | чита**ет** | понима**ет**  
+мы | зна**ем** | чита**ем** | понима**ем** 
+вы | зна**ете** | чита**ете** | понима**ете**  
+они | зна**ют** | чита**ют** | понима**ют** 
+
+### Stems ending in consonants
+
+|| Писать<br>to write | Жить<br>to live<br>(Ending stressed) |
+:---: | :---: | :---:
+я | пиш**у** | жив**у&#769;** 
+ты | пиш**ешь** | жив**ёшь**
+кто/он/она | пиш**ет** | жив**ёт**
+вы | пиш**ете** | жив**ёте** 
+мы | пиш**ем** | жив**ём**
+они | пиш**ут** | жив**у&#769;т**
+
+### General rules
+- If the ending **is stressed**, use ё  
+- **Unstressed endings** use e  
+
+- Use **-у after consonants**: я пи**ш**у, они жив**у**т  
+- Use **-ю after vowels**: я зн**а**ю, они поним**а**ют
 
 ## И conjugations  
-Usually ends in **-ить**
+
+- Usually ends in **-ить**
 | | говорить<br>to speak; talk; say 
 :---: | :---:
 я | говор**ю** 
@@ -1080,24 +1227,27 @@ Usually ends in **-ить**
 
 ## Ending palatalization 
 
-In е/ё conjugation, this rule appears in **every form** across the entire present tense
+### Application for different conjugations
+
+- In е/ё conjugation, this rule appears in **every form** across the entire present tense
 
 | | Дремать<br> (To doze / slumber) | Писать<br> (To write)
 | :---: | :---: | :---:
 | я | Дрем**л**ю | Пи**ш**у
 | ты | Дрем**л**ешь | Пи**ш**ешь
 
-In и conjugation, this rule **only** appears in the **я form**
+- In и conjugation, this rule **only** appears in the **я form**
 
 | | Любить<br> (To love) | Ходить<br> (To walk/go) 
 | :---: | :---: | :---:
 | я | Люб**л**ю | Хо**ж**у 
 | ты | Любишь | Ходишь
 
-**Added л**  
-If a verb stem ends in a **labial consonant** (б, п, в, ф and м) - Russian wil often insert an л before the ending.  
+### Added л
 
-**Shape-shifting consonants** 
+- If a verb stem ends in a **labial consonant** (б, п, в, ф and м) - Russian wil often insert an л before the ending.  
+
+### Shape-shifting consonants
 
 | Original consonant | Shift to 
 | :---: | :---:
@@ -1110,49 +1260,35 @@ If a verb stem ends in a **labial consonant** (б, п, в, ф and м) - Russian 
 
 ## Definition 
 
-| Reflexive | Non-reflexive  
-| :---: | :---: 
-| The doer and the receiver are the same | The doer and the receiver are **NOT** the same  
+- The sentence is **"completed"** at the reflexive verb, any phrases after that are just additional information about the action performed.  
 
-The sentence is **"completed"** at the reflexive verb, any phrases after that are just additional information about the action performed.  
+  | Reflexive | Non-reflexive  
+  | :---: | :---: 
+  | The doer and the receiver are the same | The doer and the receiver are **NOT** the same  
 
-Я учу**сь** **в университете** (additional information)
+  Я учу**сь** **в университете** (additional information)  
+  (I study in university.)
 
 ## Endings (-ся/-сь)
 
-**Regular conjugations + ending**   
+- **Regular conjugations + ending**   
 
-| Consonants | Vowels 
-| :---: | :---: 
-| -ся | -сь  
-| Одевать(to dress someone else) -> Одеваться(to dress oneself) | Учила (studied (feminine)) -> Училась (studied)
+  | Consonants | Vowels 
+  | :---: | :---: 
+  | -ся | -сь  
+  | Одевать(to dress someone else) -> Одеваться(to dress oneself) | Учила (studied (feminine)) -> Училась (studied)
 
 ## Usage 
-1. When used with "мы", it often refers to a reciprocal action (doing something to each other)  
+- When used with "мы", it often refers to a **reciprocal action**(doing something to each other)  
    
-   Мы встречаемся.  
-   (We meet each other.)  
-
-## Reflexive pronoun (себя)  
-If the verb itself isn't reflexive, but you want to express that "we" are doing something to "ourselves", or that "someone" is doing something to "oneself".  
-
-:warning: There is **NO nominative form**
-
-Мы видим **себя**.  
-(We see ourselves.)
-
-Мы берём это **с собой**.  
-(We are talking about ourselves.)
-
-Вырази **себя** как можно более ясно.  
-(Express yourself as clearly as you can)
+  Мы встречаемся.  
+  (We meet each other.)  
 
 
-| Genitive/Accusative | Instrumental | Prepositional
-| :---: | :---: | :---:
-| себя | собой | себе  
 
 # (Verbs) Imperfective and Perfective Verbs
+
+## Differences
 
 | Imperfective | Perfective  
 | :---: | :---: 
@@ -1161,87 +1297,97 @@ If the verb itself isn't reflexive, but you want to express that "we" are doing 
 | - | Sequence of completed process
 
 ## Imperfective verbs  
-**The action is on going and is a process**  
-You started the action, but not finished.  
-Я читал книгу.  
-(I was **reading** a book.)
 
-**Habit**  
-Я обычно покупаю кофе.  
-(I usually buy coffee.)
+- **The action is on going and is a process**  
+  You started the action, but not finished.  
+
+  Я читал книгу.  
+  (I was **reading** a book.)
+
+- **Habit**  
+  Я обычно покупаю кофе.  
+  (I usually buy coffee.)
 
 ## Perfective verbs
 
-**The action is completed with a result**  
-You started the action, finished it, and there is a result 
-to show for it.  
+- **The action is completed with a result**  
+  You started the action, finished it, and there is a result 
+  to show for it.  
 
-Я прочитал книгу.  
-(I **finished** the book)
+  Я **прочитал** книгу.  
+  (I **finished** the book)
 
-**A one-time, specific action**  
-The action happened once at a specific moment, rather than being a habit or a routine
+- **A one-time, specific action**  
+  The action happened once at a specific moment, rather than being a habit or a routine
 
-Сегодня я купил чай.  
-(Today, I bought tea)
+  Сегодня я **купил** чай.  
+  (Today, I bought tea)
 
-**A sequence of completed actions (step-by-step)**   
-If you are telling a story where one action finishes and then the next one starts. 
+- **A sequence of completed actions (step-by-step)**   
+  If you are telling a story where one action finishes and then the next one starts. 
 
-Он встал, одлся и вышел.  
-(He got up, got dressed, and left)
+  Он встал, **оделся** и **вышел**.  
+  (He got up, got dressed, and left)
 
-:warning: **Perfective verbs do NOT have PRESENT tense**  
-When take a perfective verb and conjugate it using standard present-tense endings, it automatically creates the **future perfective tense**.  
+- :warning: **Perfective verbs do NOT have PRESENT tense**  
+  When take a perfective verb and conjugate it using standard present-tense endings, it automatically creates the **future perfective tense**.  
 
-Познакомитесь!  
-(Get acquainted!)
+  Познакомитесь!  
+  (Get acquainted!)
 
 ## Recognize perfective verbs from imperfective verbs
-**Adding a prefix**  
-Add short prefix (like по-, с-, про-, на-) to the imperfective verb.  
-делать (to do) - **с**делать (to get done)
+- **Adding a prefix**  
+  Add short prefix (like по-, с-, про-, на-) to the imperfective verb.  
 
-**Changing a suffix / internal letter**  
-покуп**а**ть (to be buying) - ()куп**и**ть (to buy)
+  делать (to do) - **с**делать (to get done)
 
-**Completely different words**  
-говорить (to speak/say) - сказать (to say/tell)
+- **Changing a suffix / internal letter**  
+  покуп**а**ть (to be buying) - ()куп**и**ть (to buy)
 
-# (Verbs) Imperative Verbs
-## When to use 
-An imperative verb is a "command" verb
-## Ending 
-| Stem ending | Informal (ты) | Formal (вы)
-| :---: | :---: | :---:  
-| Vowel | чита**й**<br> дела**й** | чита**йте**<br> дела**йте**
-| Consonant (stress on the end) | говор**и**<br> пиш**и** | говор**ите**<br> пиш**ите**
-| Consonant (stress on the stem) | готовь<br> будь | готовь<br> будьте
+- **Completely different words**  
+  говорить (to speak/say) - сказать (to say/tell)
 
+# (Adverbs) Interrogative Adverbs  
 
+- They are all **indeclinable**. 
 
+  | Russian | English | Usage 
+  | :---: | :---: | :---
+  | Откуда | From where / Where...from | Source of the info
+  | Где | Where at | Static location 
+  | Куда | Where to | Direction or motion towards a place 
+  | Как | How | Greeting, ask about how things are done
+  | Когда | When | Ask for what time the event will occur
+  | Сколько | How much / many | Ask for how much it cost, or age
+  | Почему | Why (Because) | Asks what causes some event to occur
+  | Зачем | Why (In order to) | Asks for what purpose some event occurred
 
 # (Tenses) Present Tense
 ## "To be" in present tense
-The present tense of "to be" (am, is, are) is absent in Russian:  
+- The present tense of "to be" (am, is, are) is absent in Russian  
 
-Я студент - I am a student  
-Я студентка - I am a student  
+  Я студент  
+  (I am a student)  
 
-In writing, a dash is sometimes used in place of the verb "to be" when **both the subject and the predicate are nouns**:  
+  Я студентка (fem.)  
+  (I am a student)  
 
-Москва - русский город.  
+- In writing, a dash is sometimes used in place of the verb "to be" when **both the subject and the predicate are nouns**  
 
+  Москва - русский город.  
+  (Moscow - city of Russian.)
 
 # (Tenses) Past Tense
-## Change of endings
-**Replace -ть with -л. Then make the verb agree with the gender and number of the subject**  
 
- Subject Gender / Number | знать<br>to know | читать<br>to read | жить<br>to live | говорить<br>to speak, say
- :---: | :---: | :---: | :---: | :---:
- Masculine<br>(Кто, он, Максим)| зна**л**  | чита**л** | жи**л** | говори**л** 
- Feminine<br>(Она, Катя, студентка)| зна**ла** | чита**ла** | жи**ла** | говори**ла**
- Plural<br>(Они, мы, вы, студенты) | зна**ли** | чита**ли** | жи**ли** | говори**ли**
+## Change of endings
+
+- **Replace -ть with -л. Then make the verb agree with the gender and number of the subject**  
+
+  | Gender/Number | знать<br>to know | читать<br>(to read) | жить<br>(to live) | говорить<br>(to speak, say)
+  :---: | :---: | :---: | :---: | :---:
+  | Masculine| зна**л**  | чита**л** | жи**л** | говори**л** 
+  | Feminine | зна**ла** | чита**ла** | жи**ла** | говори**ла**
+  | Plural | зна**ли** | чита**ли** | жи**ли** | говори**ли**
 
 
 </div>
