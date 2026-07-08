@@ -27,6 +27,11 @@ h2 {
   margin-bottom: 1rem;
 }
 
+h3 {
+  font-size: 0.5cm;
+  border-bottom: 2px dashed #D5DAD5;
+}
+
 strong {
   color: #E9C46A;
   /* background-color: #100f10; */
