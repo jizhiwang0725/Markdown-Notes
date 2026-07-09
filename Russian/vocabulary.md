@@ -21,58 +21,100 @@
   - [Soft and hard sign](#soft-and-hard-sign)
   - [Soft and hard vowels](#soft-and-hard-vowels)
   - [Soft and hard consonants](#soft-and-hard-consonants)
+    - [Fixed](#fixed)
+    - [Hard](#hard)
+    - [Soft](#soft)
 - [Pronunciation](#pronunciation)
   - [Vowel reduction](#vowel-reduction)
   - [Voiced and voiceless consonants (Final devoicing)](#voiced-and-voiceless-consonants-final-devoicing)
-  - [Voiced-voiceless assimilation](#voiced-voiceless-assimilation)
+    - [Voiced](#voiced)
+    - [Voiceless](#voiceless)
+    - [Pairs](#pairs)
+    - [Voiced-voiceless assimilation](#voiced-voiceless-assimilation)
   - [Labial consonants](#labial-consonants)
   - [Special consonant combinations](#special-consonant-combinations)
+    - [Чт = шт](#чт--шт)
+    - [Ого/его = ово/ево](#огоего--овоево)
+    - [Тся/ться = ца](#тсяться--ца)
+    - [Сч/зч/жч = щ](#счзчжч--щ)
+    - [Silent consonants](#silent-consonants)
+    - [Consonant clusters](#consonant-clusters)
+    - [Double consonants](#double-consonants)
 - [Conjunctions](#conjunctions)
   - [And (и)](#and-и)
   - [But (а, но)](#but-а-но)
-  - [Also (тоже vs. также)](#also-тоже-vs-также)
+    - [А](#а)
+    - [Но](#но)
+  - [Also (тоже, также)](#also-тоже-также)
+    - [Тоже](#тоже)
+    - [Также](#также)
 - [Prepositions](#prepositions)
   - [Collection](#collection)
   - [У](#у)
+    - [+ Genitive](#-genitive)
   - [Для](#для)
+    - [+ Genitive](#-genitive-1)
   - [Без](#без)
+    - [+ Genitive](#-genitive-2)
   - [В/во](#вво)
+    - [В or во?](#в-or-во)
+    - [+ Prepositional](#-prepositional)
+    - [+ Accusative](#-accusative)
   - [На](#на)
+    - [+ Prepositional](#-prepositional-1)
+    - [+ Accusative](#-accusative-1)
   - [О/об](#ооб)
+    - [О or об?](#о-or-об)
+    - [+ Prepositional](#-prepositional-2)
   - [Hад, перед, между](#hад-перед-между)
+    - [+ Instrumental](#-instrumental)
   - [Под, за](#под-за)
+    - [+ Instrumental](#-instrumental-1)
+    - [+ Accusative](#-accusative-2)
   - [С/со](#ссо)
+    - [С or со?](#с-or-со)
+    - [+ Instrumental](#-instrumental-2)
+    - [+ Genitive](#-genitive-3)
   - [По](#по)
+    - [+ Dative](#-dative)
+    - [+ Accusative](#-accusative-3)
+    - [+ Prepositional](#-prepositional-3)
+  - [Из](#из)
+    - [+ Genitive](#-genitive-4)
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
 - [Prefixes](#prefixes)
   - [Nouns](#nouns)
   - [Verbs](#verbs)
-- [Interrogative Adverbs](#interrogative-adverbs)
 - [Naming System](#naming-system)
   - [Composition](#composition)
+    - [First name (Имя)](#first-name-имя)
+    - [Patronymic/Middle name (Отчество)](#patronymicmiddle-name-отчество)
+    - [Family name/Surname (Фамилия)](#family-namesurname-фамилия)
+    - [Nickname (Прозвище)](#nickname-прозвище)
   - [Daily usage](#daily-usage)
   - [Spoken formal address](#spoken-formal-address)
   - [Official written documents](#official-written-documents)
 - [Number System](#number-system)
   - [Numbers in nominative](#numbers-in-nominative)
+    - [1-10](#1-10)
+    - [The teens (11-19)](#the-teens-11-19)
+    - [The tens (20-90)](#the-tens-20-90)
+    - [The hundreds (100-900)](#the-hundreds-100-900)
+    - [Thousands](#thousands)
   - [General rules for nouns following](#general-rules-for-nouns-following)
   - [Gender matching for 1 and 2](#gender-matching-for-1-and-2)
   - [Ordinal numbers](#ordinal-numbers)
 - [Days and Times](#days-and-times)
   - [Asking day](#asking-day)
   - [24-hour](#24-hour)
+    - [Official announcement](#official-announcement)
+    - [Spoken](#spoken)
   - [Time of the day words](#time-of-the-day-words)
   - [12-hour](#12-hour)
+    - [On the dot (exact hour)](#on-the-dot-exact-hour)
+    - [Next hour](#next-hour)
   - [Asking times](#asking-times)
-- [Greeting](#greeting)
-- [Weather \& Seasons](#weather--seasons)
-  - [Weather](#weather)
-  - [Seasons](#seasons)
-- [Languages](#languages)
-  - [Speaking, understanding, reading, writing (Daily usage)](#speaking-understanding-reading-writing-daily-usage)
-  - [Knowing and studying](#knowing-and-studying)
-  - [Understand](#understand)
 - [Classes](#classes)
 - [Word orders](#word-orders)
   - [Adverbs](#adverbs-1)
@@ -110,187 +152,201 @@ Before a vowel it also indicates a full [y] sound between the consonant and vowe
 Indicates a [y] sound between consonant and vowel
 
 ## Soft and hard vowels  
-Vowel letters (я, е, ё, и, ю) + soft sign (ь) indicate that the **preceding consonant is palatalized (soft).**
 
-A palatalized consonant sounds like a consonant plus the [y] sound of "yes" pronounced at the exact same time. 
-
-|| | | | | | |
-| -- | -- | -- | -- | -- | -- | :--: |
-| Hard | а | э | о | ы | у | ъ |
-| Soft | я | е | ё | и | ю | ь |
-
-After consonants the vowel letter pairs represent essentially the same vowel sounds (E.g. а/я). Their only difference is that the letters in the bottom row tell you that the preceding consonant is palatalized, or soft.
+  ||||||||
+  | -- | -- | -- | -- | -- | -- | -- |
+  | Hard | а | э | о | ы | у | ъ |
+  | Soft | я | е | ё | и | ю | ь |
 
 ## Soft and hard consonants 
 
-Consonants that can only be either hard or soft:  
-|Consonants||||
-| :---: | :---: | :---: | :---: | 
-| Hard | ж | ш | ц | 
-| Soft | ч | щ | й | 
+### Fixed  
 
-The rest of the consonants (15 letters) can be both soft (palatalized) or hard depends on the following letter is:   
-**Hard**  
-- A hard vowel (а, о, у, э, ы).
-- Another consonant.  
-- Nothing.  
-- A hard sign ъ.  
+|||||
+| :---: | :---: | :---: | :---:
+| Hard | ж | ш | ц 
+| Soft | ч | щ | й 
 
-**Soft**  
-- A soft vowel (я, ё, ю, е, и).
-- A soft sign ь.  
+### Hard
 
-# Pronunciation  
+- A hard consonant is pronounced as it should be
+- Consonants that are followed by:
+  - A hard vowel (а, о, у, э, ы).
+  - Another consonant.  
+  - Nothing.  
+  - A hard sign ъ.  
+
+### Soft  
+
+- A vowel letters (я, е, ё, и, ю) + soft sign (ь) indicate that the **preceding consonant is palatalized (soft).**
+
+- A **palatalized** consonant sounds like a **consonant plus the [y] sound** of "yes" pronounced at the exact same time.
+
+# Pronunciation 
+
 ## Vowel reduction
-Russian vowels о, а, е and я are pronounced differently when stressed.  
 
-**Rule 1**  
-Any vowel 'о' that are **ONE syllabus** before the stress are pronounced 'a'.     
+- Any **'о'** that are **ONE syllabus** before the stress are pronounced 'a'.     
 
-We write: М**о**сква  
-We say: М**а**сква  
+  We write: М**о**сква  
+  We say: М**а**сква  
 
-**Rule 2**  
-Any vowels 'а'/'о' that are **MORE than one** syllable before the stress and anywhere **AFTER** the stress are pronounced "uh".    
+- Any **'а'/'о'** that are **MORE than one** syllable before the stress and anywhere **AFTER** the stress are pronounced "uh".    
 
-We write: Колорадо  
-We say: К **"uh"** л**а** ра&#769; д **"uh"**
+  We write: Колорадо  
+  We say: К **"uh"** л**а** ра&#769; д **"uh"**
 
-**Rule 3**  
-Any vowels 'я'/'е' that are **NOT at the end of a word and NOT stressed** are pronounced "I (ih)".  
-'я' at the end of a word when unstreesed is pronounced "yuh".  
+- Any **'я'/'е'** that are **NOT at the end of a word and NOT stressed** are pronounced "I (ih)". Vowel **'я'** at the end of a word when **unstressed** is pronounced "yuh".  
 
-We write: Петербург, Япония  
-We say: ПI тIр буг, YI по ни yuh  
+  We write: Петербург, Япония  
+  We say: ПI тIр буг, YI по ни yuh  
 
 
 ## Voiced and voiceless consonants (Final devoicing)
-Alphabets that are always **voiced**  
-л, м, н, р, й
 
-Alphabets that are always **voiceless**  
-х, ц, ч, щ
+### Voiced 
+- Alphabets that are always **voiced**  
+  л, м, н, р, й
 
-Other consonants come in pairs.   
-When a voiced consonant is at the end of the word, it is pronounced voiceless.    
+### Voiceless
+- Alphabets that are always **voiceless**  
+  х, ц, ч, щ
 
-| Voiced | Voiceless | We write: | We say: 
-| :---: | :---: | :---: | :---:
-| в | ф | Чехо**в** | Чехо**ф**
-| з | с | дбжа**з** | дбжа**с**
-| ж | ш | гара**ж** | гара**ш**
-| б | п | сна**б** | сна**п**
-| г | к | марке&#769;тин**г** | марке&#769;тин**к**
-| д | т | Мадри&#769;**д** | Мадри&#769;**т**
+### Pairs
 
-## Voiced-voiceless assimilation  
-When voiced and voiceless consonants are adjacent to each other, the nature of the second consonant dictates the nature of the first.    
+- When a **voiced consonant** is at the **end** of the word, it is pronounced voiceless.    
 
-voiced + **voiceless** -> voiceless + voiceless  
-**в К**иеве -> **ф К**иеве
+  | Voiced | Voiceless | We write: | We say: 
+  | :---: | :---: | :---: | :---:
+  | в | ф | Чехо**в** | Чехо**ф**
+  | з | с | дбжа**з** | дбжа**с**
+  | ж | ш | гара**ж** | гара**ш**
+  | б | п | сна**б** | сна**п**
+  | г | к | марке&#769;тин**г** | марке&#769;тин**к**
+  | д | т | Мадри&#769;**д** | Мадри&#769;**т**
 
-voiceless + **voiced** -> voiced + voiced  
-баске**тб**ол -> баске**дб**ол
+### Voiced-voiceless assimilation  
+- When voiced and voiceless consonants are adjacent to each other, the nature of the second consonant dictates the nature of the first.    
+
+  voiced + **voiceless** -> voiceless + voiceless  
+  **в К**иеве -> **ф К**иеве
+
+  voiceless + **voiced** -> voiced + voiced  
+  баске**тб**ол -> баске**дб**ол
 
 ## Labial consonants
-A sound made with your lip
+- A sound made with your lip
 Letters **б, п, в, ф and м**
 
 ## Special consonant combinations 
-1. **Чт = шт**   
-   Mostly applies to "что" and its derivation. In regular words like "почта", it stays normal.   
-   **Чт**о, **Чт**обы   
+### Чт = шт
+- Mostly applies to "что" and its derivation. In regular words like "почта", it stays normal.   
 
-2. **Ого/его = ово/ево**  
-    Нич**его**, С**его**дня, Красн**ого**  
+  **Чт**о, **Чт**обы   
 
-3. **Тся/ться = ца**  
-   - Verb ending in -тся (he/she/it does)   
-   Нрав**ится**  
+### Ого/его = ово/ево
 
-   - Infinitive verbs ending in -ться   
-   Учи**ться**  
+- Нич**его**, С**его**дня, Красн**ого**  
 
-4. **Сч/зч/жч = щ**  
-   **Сч**астье, **Сч**ёт
+### Тся/ться = ца
 
-5. **Silent consonants**
-   - Вств - drops the first в  
-    Здра **(в)ств**уйте, Чу **(в)ств**о
+- Verb ending in -тся (he/she/it does)   
+  Нрав**ится**  
 
-   - Лнц - drops the л  
-    Со **(л)нц**е  
+- Infinitive verbs ending in -ться   
+  Учи**ться**  
 
-   - Стн - drops the т  
-    Изве**с(т)н**ый  
+### Сч/зч/жч = щ
 
-6. **Consonant clusters**
-   - Тс/дс = ц  
-    Горо**дс**кой, Де**тс**кий
+- **Сч**астье, **Сч**ёт
 
-   - Сш/зш = шш   
-    Вы**сш**ий, Бе**з ш**ума
+### Silent consonants
 
-   - Сж/зж = жж  
-    **Сж**ечь, По**зж**е, Бе**з ж**ены  
+- Вств - drops the first в  
+  Здра **(в)ств**уйте, Чу **(в)ств**о
 
-   - Тч/дч = чч  
-    Перево**дч**ик, Лё**тч**ик  
+- Лнц - drops the л  
+  Со **(л)нц**е  
 
-   - Double consonants - pronounce it for a bit longer  
+- Стн - drops the т  
+  Изве**с(т)н**ый  
+
+### Consonant clusters
+
+- Тс/дс = ц  
+  Горо**дс**кой, Де**тс**кий
+
+- Сш/зш = шш   
+  Вы**сш**ий, Бе**з ш**ума
+
+- Сж/зж = жж  
+  **Сж**ечь, По**зж**е, Бе**з ж**ены  
+
+- Тч/дч = чч  
+  Перево**дч**ик, Лё**тч**ик  
+
+### Double consonants 
+
+- Pronounce it for a bit **longer**  
 
 # Conjunctions
 ## And (и)
-When two things are the same. There is no contrast
+- When two things are the same. There is no contrast
 
-Максим живёт **и** учится в Москве.  
-(Maxims lives and studies in Moscow.)  
+  Максим живёт **и** учится в Москве.  
+  (Maxims lives and studies in Moscow.)  
 
 ## But (а, но)
-- **А**
-  - **And/But with TWO contrasts. Two different comments are made about TWO different topics**  
-    Анна изучает русский язык, **а** Лена изучает английский язык.   
-    (Anna takes Russian, and Lina takes English.)
 
-  - **But rather**  
-    Это не Кира, **а Катя**.  
-    (That's not Kira, but rather Katya) 
+### А
+- **And/But with TWO contrasts. Two different comments are made about TWO different topics**  
+
+  Анна изучает русский язык, **а** Лена изучает английский язык.   
+  (Anna takes Russian, and Lina takes English.)
+
+- **But rather**  
+
+  Это не Кира, **а Катя**.  
+  (That's not Kira, but rather Katya) 
+
+- **Questions about additional information (often corresponds to And what about...?)**
+
+  -В России я говорю по-русски.  
+  (In Russia I speak Russian)  
+  -**А** в Америке?  
+  (And what about in America?)  
+
+  -Дома мы говорим по-украински.  
+  (At home we speak Ukrainian.)  
+  -**А** откуда вы знаете украинский язык?  
+  (And how do you know Ukrainian?)  
+
+### Но
+
+- **But with ONE contrast. Two different comments are said about ONE thing**  
+
+  Анна изучает русский язык, **но** говорит ещё плохо.  
+  (Anna takes Russian, but she still speaks poorly.)  
 
 
-  - **Questions about additional information (often corresponds to And what about...?)**
 
-    -В России я говорю по-русски.  
-    (In Russia I speak Russian)  
-    -**А** в Америке?  
-    (And what about in America?)  
+## Also (тоже, также)
 
-    -Дома мы говорим по-украински.  
-    (At home we speak Ukrainian.)  
-    -**А** откуда вы знаете украинский язык?  
-    (And how do you know Ukrainian?)  
+- Анна говорит по-русски и по-испански
 
-- **Но**
-  - **But with ONE contrast. Two different comments are said about ONE thing**  
+### Тоже
 
-    Анна изучает русский язык, **но** говорит ещё плохо.  
-    (Anna takes Russian, but she still speaks poorly.)  
-
-
-
-## Also (тоже vs. также)
-Анна говорит по-русски и по-испански
-
-- **Также**  
-  Adds to the list of **subjects (doers)**. Adding new information to the subject.  
-  
-  Анна **также** говорит **по-русски**  
-  (Anna speaks Russian as well.)
-
-- **Тоже**  
-  Adds to the list of **predicates (things done)**. **Different objects** that share the same things.   
+- Adds to the list of **predicates (things done)**. **Different objects** that share the same things.   
 
   Её друг **Виктор** **тоже** говорит по-русски.  
   (Her friend Victor also speaks Russian.)
+
+### Также
+
+- Adds to the list of **subjects (doers)**. Adding new information to the subject.  
+
+  Анна **также** говорит **по-русски**  
+  (Anna speaks Russian as well.)
 
 # Prepositions 
 
@@ -305,165 +361,171 @@ When two things are the same. There is no contrast
 | Dative | к<br> по | Towards/to someone/by sometime/for the purpose of<br> Across/along/communication/subjects/distribution
 
 ## У 
-- **+ Genitive**
-  - **Possession**  
-    By [someone] there is [something] (you have)  
 
-    У + [Genitive Case] + (есть) + [Nominative Case]
+### + Genitive
 
-    - **With есть - Does it exist or not?**  
-      -**У** вас есть синий костюм?  
-      (Do you have a blue suit (or not)?) 
+- **Possession**  
+  By [someone] there is [something] (you have)  
 
-      -Да, есть.  
-      (Yes, I do.)    
+  У + [Genitive Case] + (есть) + [Nominative Case]
 
-    - **Without есть - We know it exists. Tell me more**  
-      -**У** вас синий костюм?  
-      (Is the suit you have blue?) 
-        
-      -Да, синий.  
-      (Yes, it is)
+  - **With есть - Does it exist or not?**  
+    -**У** вас есть синий костюм?  
+    (Do you have a blue suit (or not)?) 
 
-  - **By/near/at**  
-    Кровать стоит **у** окна.   
-    (The bad is by the window.)  
+    -Да, есть.  
+    (Yes, I do.)    
 
-  - **At someone's place**  
-    Followed by a person, it means you are at that person's house, room, or place of work
+  - **Without есть - We know it exists. Tell me more**  
+    -**У** вас синий костюм?  
+    (Is the suit you have blue?) 
+      
+    -Да, синий.  
+    (Yes, it is)
 
-    Вчера я был **у** друга.  
-    (Yesterday I was at a friend's place.)  
-  
-  - **Source or origin (from someone)**  
-    From a person
+- **By/near/at**  
+  Кровать стоит **у** окна.   
+  (The bad is by the window.)  
 
-    Я взял эту книгу **у** брата.  
-    (I took this book from my brother.)
+- **At someone's place**  
+  Followed by a person, it means you are at that person's house, room, or place of work
+
+  Вчера я был **у** друга.  
+  (Yesterday I was at a friend's place.)  
+
+- **Source or origin (from someone)**  
+  From a person
+
+  Я взял эту книгу **у** брата.  
+  (I took this book from my brother.)
 
 ## Для
-- **+ Genitive**
-  - **For someone/something**  
-    It can be some item for someone, or some item for some purpose.  
+### + Genitive
+- **For someone/something**  
+  It can be some item for someone, or some item for some purpose.  
 
-    Подарок **для** мамы.  
-    (A present for mom.)
+  Подарок **для** мамы.  
+  (A present for mom.)
 
 ## Без
-- **+ Genitive**  
-  - **Without**  
-    Can be followed by a person, object, or abstract concept.  
-    
-    **Без** меня.  
-    (Without me.)  
+### + Genitive
 
-    Кофе **без** сахара.  
-    (Coffee without sugar.)
+- **Without**  
+  Can be followed by a person, object, or abstract concept.  
+  
+  **Без** меня.  
+  (Without me.)  
 
-    **Без** Проблем.  
-    (Without problems.)
+  Кофе **без** сахара.  
+  (Coffee without sugar.)
+
+  **Без** Проблем.  
+  (Without problems.)
 
 ## В/во
-- **в or во?**  
-  в -> во when the first letter of the preceding **word is ф followed by a consonant**. 
 
-- **+ Prepositional**
-  - **Inside a physical space or container**  
-    Книга **в** этой маленькой комнате.  
-    (The book is in the small room.)  
-  
-  - **Broad time period**  
-    - **Months**  
-      Мой день рождения **в** августе.  
-      (My birthday is in August.)  
+### В or во?
+- Во when the first letter of the preceding **word is ф followed by a consonant**. 
 
-    - **Years**
-      Это было **в** 2026 году.  
-      (That was in 2026.)
+### + Prepositional
+- **Inside a physical space or container**  
+  Книга **в** этой маленькой комнате.  
+  (The book is in the small room.)  
 
-- **+ Accusative** 
-  - **Moving into a physical space**  
-    Я иду **в** университет.  
-    (I am going to the university.)  
+- **Broad time period**  
+  - **Months**  
+    Мой день рождения **в** августе.  
+    (My birthday is in August.)  
 
-    Мы едем **в** ресторан.  
-    (We are going to a restaurant.)  
+  - **Years**
+    Это было **в** 2026 году.  
+    (That was in 2026.)
 
-  - **Sports and games**  
-    Он играет **в** футбол.    
-    (He plays football.)
+### + Accusative
+- **Moving into a physical space**  
+  Я иду **в** университет.  
+  (I am going to the university.)  
 
-  - **Specific time expression**  
-    When it will happen, and the duration of time.  
+  Мы едем **в** ресторан.  
+  (We are going to a restaurant.)  
 
-    - **Day of the time**  
-      **В** пятницу.  
-      (On Friday.)  
+- **Sports and games**  
+  Он играет **в** футбол.    
+  (He plays football.)
 
-    - **Clock time**  
-      Урок наминается **в** пять часов.  
-      (The lesson starts at five o'clock)
+- **Specific time expression**  
+  When it will happen, and the duration of time.  
+
+  - **Day of the time**  
+    **В** пятницу.  
+    (On Friday.)  
+
+  - **Clock time**  
+    Урок наминается **в** пять часов.  
+    (The lesson starts at five o'clock)
 
 ## На 
-- **+ Prepositional** 
-  - **On a surface**  
-    **На** столе  
-    (on the table)
 
-    Книга **на** нашем большом столе.  
-    (The book is on our big table.)   
+### + Prepositional
+- **On a surface**  
+  **На** столе  
+  (on the table)
 
-  - **At an event/open space**  
-    **На** лекции  
-    (In class)
+  Книга **на** нашем большом столе.  
+  (The book is on our big table.)   
 
-    **На** балете  
-    (At a ballet)
+- **At an event/open space**  
+  **На** лекции  
+  (In class)
 
-  - **Play musical instruments**  
-    Она играет **на** гитаре.  
-    (She plays guitar.)  
+  **На** балете  
+  (At a ballet)
 
-  - **Specific weeks**  
-    Мы сделаем это **на** этой неделе.  
-    (We will do it this week)  
+- **Play musical instruments**  
+  Она играет **на** гитаре.  
+  (She plays guitar.)  
 
-  - **Transportation**  
-    Я еду домой **на** автобусе.  
-    (I am going home by bus)
+- **Specific weeks**  
+  Мы сделаем это **на** этой неделе.  
+  (We will do it this week)  
 
-  - **Medium or means of expression**  
-    **На** каком языке вы говорите?  
-    (What language do you speak?)
+- **Transportation**  
+  Я еду домой **на** автобусе.  
+  (I am going home by bus)
 
-  - **Special cases**  
-    **На** факультете  
-    (In the division (of a college))  
+- **Medium or means of expression**  
+  **На** каком языке вы говорите?  
+  (What language do you speak?)
 
-    **На** кафедре  
-    (In the department (of a college))  
+- **Special cases**  
+  **На** факультете  
+  (In the division (of a college))  
 
-- **+ Accusative**  
-  - **Moving onto a surface**  
-    Я положил книгу **на** стол.  
-    (I put the book onto the desk.)
+  **На** кафедре  
+  (In the department (of a college))  
 
-  - **Heading to an event**  
-    Мы идём **на** концерт.  
-    (We are going to the concert.)
-    
-  - **Intended duration**  
-    Talking about the planned duration of a trip or action
+### + Accusative
+- **Moving onto a surface**  
+  Я положил книгу **на** стол.  
+  (I put the book onto the desk.)
 
-    Я еду Москву **на** неделю.  
-    (I am going to Moscow for a week.)  
-   
+- **Heading to an event**  
+  Мы идём **на** концерт.  
+  (We are going to the concert.)
+  
+- **Intended duration**  
+  Talking about the planned duration of a trip or action
+
+  Я еду Москву **на** неделю.  
+  (I am going to Moscow for a week.)  
+ 
 ## О/об
 
-- **о or об?**  
-  о -> об before words **beginning with vowels а, э, и, о and у**. 
+### О or об?
 
-- **+ Prepositional**
+- Об before words **beginning with vowels а, э, и, о and у**. 
+
+### + Prepositional
   - **About, more information about**  
     -**О** новых европейских рынках.  
     (About new European markets.)  
@@ -480,7 +542,7 @@ When two things are the same. There is no contrast
   | над | above/over
   | между | between
 
-- **+ Instrumental**  
+### + Instrumental
   - **Answering the question: where (Где?)**
 
     Картина висит **над** диваном.  
@@ -493,102 +555,125 @@ When two things are the same. There is no contrast
   | под | under
   | за | behind 
 
-- **+ Instrumental**  
-  - **Answering the question: where (Где?)**
+### + Instrumental
 
-    Кот спит **под** столом.   
-    (The cat is sleeping under the table)
+- **Answering the question: where (Где?)**
 
-- **+ Accusative**  
-  - **Answering the question: to where (Куда?).**
+  Кот спит **под** столом.   
+  (The cat is sleeping under the table)
 
-    Кот прыгнул **под** стол.  
-    (The cat jumped under the table.)
+### + Accusative
+- **Answering the question: to where (Куда?).**
 
-  - **Sometimes за is used as "for".**
+  Кот прыгнул **под** стол.  
+  (The cat jumped under the table.)
 
-    Спасибо **за** помощь.  
-    (Thanks for your help)
+- **Sometimes за is used as "for".**
+
+  Спасибо **за** помощь.  
+  (Thanks for your help)
 
 ## С/со 
 
-- **С or со?**  
-  When the following word starts with certain double consonants, especially if the first consonant is **с, з, ш, ж or м.**
+### С or со?
 
-- **+ Instrumental**
+- When the following word starts with certain double consonants, especially if the first consonant is **с, з, ш, ж or м.**
+
+### + Instrumental
   - **Together with something/somebody**  
     :warning: ONLY use it when you mean **"accompanied by"**
 
     Кофе **с** сахар.  
     (Coffee with sugar.)  
 
-- **+ Genitive**  
-  - **From, off of**  
-    Answering the question from where (Откуда?)
+### + Genitive
 
-    Он вернулся **с** работы.  
-    (He returned from work.)  
+- **From, off of**  
+  Answering the question from where (Откуда?)
 
-  - **Since**  
-    Answering the question Since when (С какие пор?)
+  Он вернулся **с** работы.  
+  (He returned from work.)  
 
-    Я работаю **с** утра.  
-    (I worked since morning.)
+- **Since**  
+  Answering the question Since when (С какие пор?)
+
+  Я работаю **с** утра.  
+  (I worked since morning.)
 
 ## По
-- **+ Dative**
-   - **Motion along or through a surface**  
-    Гулять по парку.  
-    (To walk around/through the park.)
+### + Dative
 
-   - **Means of communication or transmission**  
-    Говорить по телефону.  
-    (To speak on the phone)
+  - **Motion along or through a surface**  
+  Гулять по парку.  
+  (To walk around/through the park.)
 
-   - **A subject, field of study, or specialty**   
-    Экзамен по математике. 
-    (An exam in math.)
+  - **Means of communication or transmission**  
+  Говорить по телефону.  
+  (To speak on the phone)
 
-   - **Repeated actions on certain day (always plural)**  
-    По субботам.  
-    (On saturdays / Every saturday)
+  - **A subject, field of study, or specialty**   
+  Экзамен по математике. 
+  (An exam in math.)
 
-   - **According to**  
-    По моему мнению.  
-    (In my opinion)
+  - **Repeated actions on certain day (always plural)**  
+  По субботам.  
+  (On saturdays / Every saturday)
 
-- **+ Accusative**  
-  - **Time limits**  
-    Я буду в отпуске по понедельник.  
-    (I will be on vacation through/up to Monday)  
+  - **According to**  
+  По моему мнению.  
+  (In my opinion)
 
-  - **Physical limits**  
-    Мы стояли в воде по колено.    
-    (We stood in water up to the knee.)  
+### + Accusative
+- **Time limits**  
+  Я буду в отпуске по понедельник.  
+  (I will be on vacation through/up to Monday)  
 
-  - **Going to fetch/retrieve something**  
-    More colloquial, specific construction meaning "to go get something".  
+- **Physical limits**  
+  Мы стояли в воде по колено.    
+  (We stood in water up to the knee.)  
 
-    Пойти по **грибы**
-    (To go mushroom picking / berry picking)
+- **Going to fetch/retrieve something**  
+  More colloquial, specific construction meaning "to go get something".  
 
-- **+ Prepositional**  
-  - **Upon, immediately after**  
-    Formal written Russian.  
+  Пойти по **грибы**
+  (To go mushroom picking / berry picking)
 
-    По прибытии.  
-    (Upon arrival.)
+### + Prepositional
+
+- **Upon, immediately after**  
+  Formal written Russian.  
+
+  По прибытии.  
+  (Upon arrival.)
+
+## Из
+
+### + Genitive
+- **From (the inside of)**  
+  Add location
+  
+  Этот хлеб **из** магазина не такой вкусный, как тот домашний.  
+  (The bread from the shop is not as tasty as that homemade one.)
+
+- **Out of**  
+  Add object 
+
+  Дом построен **из** дерева.  
+  (The house is made out of timber.)
 
 # Word order 
 ## Adverbs
 - When answering the question **как**, the adverb comes last 
 
   -Как вы говорите по-русски?  
+  (How well do you speak Russian?) 
   -Я говорите хорошо.  
+  (I speak well.)
 
 # Prefixes 
 
 ## Nouns
+
 | Common prefix | Meaning | Base word | New word  
 | :---: | :---: | :---: | :---: 
 | не- | Un-, Non- or the opposite | правда<br> (truth) | неправда<br> (lie)
@@ -598,11 +683,9 @@ When two things are the same. There is no contrast
 | под- | Sub-, under | вид<br> (species) | подвид<br> (subspecies) 
 | сверх- | Super-, over, beyond | человек<br> (human) | сверхчеловек<br> (super-human)
 
-Some nouns are derived from verbs that already have a prefix. In these cases, the noun simply inherits the prefix from the verb.  
+- Some nouns are derived from verbs that already have a prefix. In these cases, the noun simply inherits the prefix from the verb.  
 
 ## Verbs
-
-Adding a prefix to a verb usually makes it **perfective** 
 
 | Common prefix | Meaning | Base word | New word
 | :---: | :---: | :---: | :---:
@@ -613,49 +696,55 @@ Adding a prefix to a verb usually makes it **perfective**
 | по- | A little bit, or setting | смотреть<br> (to watch) | посмотреть<br> (to take a look)
 | за- | Dropping by, or starting an action | плакать<br> (to cry) | заплакать<br> (to start crying)
 
-
-
+- Adding a prefix to a verb usually makes it **perfective** 
 
 # Naming System
+
 ## Composition
-1. First name (Имя)
 
-2. Patronymic/Middle name (Отчество)
-   - From father's first name.  
-   - Unless they become citizens of Russia, foreigners do not have an отчество.  
-   - Russians start using their отчество in adulthood. 
-    
-    | Daughter | Son
-    | :---: | :---: 
-    | -овна/-евна | -ович/-евич
+### First name (Имя)
+
+### Patronymic/Middle name (Отчество)
+- From father's first name.  
+
+- Unless they become citizens of Russia, foreigners do not have an отчество.  
+
+- Russians start using their отчество in adulthood. 
+  | Daughter | Son
+  | :---: | :---: 
+  | -овна/-евна | -ович/-евич
 
 
-3. Family name/Surname (Фамилия)
+### Family name/Surname (Фамилия)
 
-4. Nickname (Прозвище)
-   - Nickname cannot be combined with an отчество.   
+### Nickname (Прозвище)
+
+- Nickname cannot be combined with an отчество.   
 
 ## Daily usage
-Usually in day to day scenarios, middle name is dropped.  
+
+- **First name + Last name**  
+  Имя + Фамилия  
  
-**First name + Last name**  
-Имя + Фамилия  
-
 ## Spoken formal address
-When you are speaking formally to someone - like a teacher, a doctor, an older person, or a boss.  
 
-**First name + Middle name**  
-Имя + Отчество
+- **First name + Middle name**  
+  Имя + Отчество
+
+- When you are speaking formally to someone - like a teacher, a doctor, an older person, or a boss.  
 
 ## Official written documents  
-In highly formal, bureaucratic, or official written contexts (like passports, legal documents, school rosters, or government forms). 
 
-**Last name + First name + Middle name**  
-Фамилия + Имя + Отчество 
+- **Last name + First name + Middle name**  
+  Фамилия + Имя + Отчество 
+
+- In highly formal, bureaucratic, or official written contexts (like passports, legal documents, school rosters, or government forms). 
 
 # Number System   
+
 ## Numbers in nominative  
-**1-10**
+
+### 1-10
 | Number | Russian
 | :---: | :---: 
 | 1 | Один (m), Одно (n), Одна (f)
@@ -669,51 +758,52 @@ In highly formal, bureaucratic, or official written contexts (like passports, le
 | 9 | Девять
 | 10 | Десять
 
-**The teens (11-19)**  
-For teens, remove the soft sign and add the ending **-на + дцать** (x on top of ten)
+### The teens (11-19)
 
-Special case: 
-12 uses the feminine word of two  
-12: **Две**надцать  
+- For teens, remove the soft sign and add the ending **-на + дцать** (x on top of ten)
 
-**The tens(20-90)**  
-- Group A (20 and 30)  
-   Add -дцать to the root
+- **Special case:**  
+  Twelve uses the feminine word of two  
+  12: **Две**надцать  
 
-   20: **Два**дцать  
-   30: **Три**дцать
+### The tens (20-90)
 
-- Group B (50-80)  
-   Add -дцать and keep the soft sign
+- **Group A (20 and 30)**  
+  Add -дцать to the root
 
-   50: **Пять**десят  
-   60: **Шесть**десят   
-   70: **Семь**десят  
-   80: **Восемь**десят  
+  20: **Два**дцать  
+  30: **Три**дцать
+
+- **Group B (50-80)**  
+  Add -дцать and keep the soft sign
+
+  50: **Пять**десят  
+  60: **Шесть**десят   
+  70: **Семь**десят  
+  80: **Восемь**десят  
    
-- Irregulars (40 and 90)  
+- **Irregulars (40 and 90)**  
+  40: Сорок  
+  90: Девяносто  
 
-   40: Сорок  
-   90: Девяносто  
+### The hundreds (100-900)  
+- **Root + words for hundreds follows the cases** 
 
-**The hundreds (100-900)**  
-Root -words for hundreds follows the cases 
-| Nominative singular | Genitive singular | Genitive plural 
-| :---: | :---: | :---: 
-| Cто | Ста | Сот 
+  | Nominative singular | Genitive singular | Genitive plural 
+  | :---: | :---: | :---: 
+  | Cто | Ста | Сот 
 
-Special case:  
-For two hundred, it uses the feminine root.  
+- **Special case:**  
+  For two hundred, it uses the feminine root.  
 
-200: Двест**и**
+  200: Двест**и**
 
-**Thousands**  
+### Thousands 
 
-Same as hundreds, but they are two separate words.  
-
-| Nominative singular | Genitive singular | Genitive plural 
-| :---: | :---: | :---:
-| Тысяча | Тысячи | Тысяч
+- Same as hundreds, but they are two separate words.  
+  | Nominative singular | Genitive singular | Genitive plural 
+  | :---: | :---: | :---:
+  | Тысяча | Тысячи | Тысяч
 
 ## General rules for nouns following
 | Number ends in | The case of the noun followed  
@@ -723,7 +813,7 @@ Same as hundreds, but they are two separate words.
 | 0, 5-9 (and 11-14) | Genitive plural  
 
 ## Gender matching for 1 and 2  
-The numbers that end with 1 and 2 must **change their spelling** to match the gender for the noun.  
+- The numbers that end with 1 and 2 must **change their spelling** to match the gender for the noun.  
 
 || Masculine | Neuter | Feminine 
 | :---: | :---: | :---: | :---:  
@@ -731,14 +821,15 @@ The numbers that end with 1 and 2 must **change their spelling** to match the ge
 || Два | Два | Две
 
 ## Ordinal numbers 
-Ordinal numbers act like **adjectives**, which means they must match the noun they describe in case, gender, and number.   
 
-| English | Masculine (Nominative)  
-| :---: | :---:
-| First | Первый 
-| Second | Второй 
-| Third | Третий (irr (-ь))
-| Others | Regular nouns with -ый/-ой endings depends on soft/hard stem  
+- Ordinal numbers act like **adjectives**, which means they must match the noun they describe in case, gender, and number.   
+
+  | English | Masculine (Nominative)  
+  | :---: | :---:
+  | First | Первый 
+  | Second | Второй 
+  | Third | Третий (irr (-ь))
+  | Others | Regular nouns with -ый/-ой endings<br> depends on soft/hard stem  
 
 # Days and Times  
 
@@ -755,43 +846,55 @@ Ordinal numbers act like **adjectives**, which means they must match the noun th
 (On Tuesday.)  
 
 ## 24-hour 
-- **Official announcement**  
-  **x hour + y minute**  
 
-  | | Nominative singular | Genitive singular | Genitive plural  
-  | :---: | :---: | :---: | :---:
-  | Hour(s) | Час | Часа | Часов
-  | Minute(s) | Минута | Минуты | Минут  
+|| Nominative singular | Genitive singular | Genitive plural  
+| :---: | :---: | :---: | :---:
+| Hour(s) | Час | Часа | Часов
+| Minute(s) | Минута | Минуты | Минут  
 
+### Official announcement
+- **x hour + y minute**  
   Пятнадцать часов тридцать минут.  
   (15:30)
 
-- **Spoken**  
-  **Number for hour + Number for minute**  
+### Spoken
+- **Number for hour + Number for minute**  
   Двадцать ноль-ноль.  
   (20:00)  
 
 ## Time of the day words
-Depends on the sunrise, the usage of **night and morning** is interchangeable.  
 
-It always goes to the **very end** of the sentence just like English.  
+| Time | Nominative |  Genitive | Instrument
+| :---: | :---: | :---: | :---:
+| Night (12-5 am) | Ночь | Ночи | Ночью
+| Morning (5-12 am) | Утро | Утра | Утром
+| Afternoon (12-4 pm) | День | Дня | Днём 
+| Evening (5 pm-12 am) | Вечер | Вечера | Вечером
 
-| English | Russian (Genitive)
-| :---: | :---:  
-| Night (12-5 am) | Ночи  
-| Morning (5-12 am) | Утра 
-| Afternoon (12-4 pm) | Дня 
-| Evening (5 pm-12 am) | Вечера
+- Depends on the sunrise, the usage of **night and morning** is interchangeable.  
+
+- **Number + hour with corresponding case + time of the day in genitive (meaning "of")**  
+  
+  Пять часов дня.  
+  (Five hours of the day)
+
+- **Instrumental case** means **"during"**  
+  Завтра утром.  
+  (Yesterday morning.)
+
+- It always goes to the **very end** of the sentence just like English.  
+
 
 ## 12-hour 
-- **On the dot (exact hour)**  
-   [Hour in nominative] + [Hour(s) (different cases)]
 
-   Пять часов 
-   (5:00)  
+### On the dot (exact hour)
+- **[Hour in nominative] + [Hour(s) (different cases)]**
 
-**Next hour**  
-When the clock passes the top of the hour, Russians stop talking about the current hour and start talking about the next hour.  
+  Пять часов 
+  (5:00)  
+
+### Next hour  
+- When the clock passes the top of the hour, Russians stop talking about the current hour and start talking about the next hour.  
 
 - **The first half (1-29)**  
    [Minutes in **nominative**] + [Minute(s) (different cases)]+ [NEXT hour as a **genitive ordinal**]
@@ -810,7 +913,6 @@ When the clock passes the top of the hour, Russians stop talking about the curre
 
    Без десяти шесть.  
    (Without ten, 6)
-  
 
 ## Asking times
 
@@ -822,100 +924,6 @@ When the clock passes the top of the hour, Russians stop talking about the curre
 -Во сколько...? 
 (At what time...?)  
 -В 2 часа.  
-
-
-# Greeting
--Разрешите представиться. 
-(Allow me to introduce myself.) 
-
--До&#769;брое утро!  
-  (Good morning!)
-
--До&#769;брый день!  
-  (Good afternoon!)
-
--До&#769;брый вечер!  
-  (Good evening!)
-
--Здравствуйте! Как вас зовут?  
-  (Hello, what is your name?)
-
--Очень приятно познакомиться!  
-  (Very nice to meet you!)
-
--Как ваша фамилия?  
-  (What is your last name?)
-
--Как вы сказали?   
-  (What did you say?) (Formal and plural)
-
--С приездом!  
-  (Welcome! With arrival!)
-
-# Weather & Seasons
-
-## Weather
--Какая погода/Как там на улице?    
-(What's the weather?)  
-
--Холодно/Тепло/Жарко/Прохладно.  
-(Cold/Warm/Hot/Cool.)  
--Идёт дождь/снег.  
-(It's raining/snowing)
-
-## Seasons
-**Four seasons**  
-весна/лета/осень/зима   
-(spring/summer/fall/winter)
-
-**In four seasons**  
-весной/летом/осенью/зимой  
-(in spring/summer/fall/winter)  
-
-**Examples**  
--В Иркутске зимой холодно.  
-(It is cold in Irkutsk in winter.)
-
--В Сочи весной тепло.  
-(It is warm in Sochi in spring.)  
-
--В Ванкувере осенью прохладно.  
-(it is cool in Vancouver in fall)
-
--В Майами жарко!  
-(It is hot in Miami!)
-
--На улице холодно!  
-(It is hot outside on the street!)
-
-# Languages  
-## Speaking, understanding, reading, writing (Daily usage)
-**Asking**  
--На каком язык вы говорите?  
-(What language do you speak?)  
--На каких языках вы говорите?  
-(What languages do you speak?)  
-
-**Answering**  
-Use **по-**  
-Дома мы говорили по-русски.  
-(At home we spoke Russian.)  
-
-## Knowing and studying 
-**Asking**  
-Кто знает английский язык?  
-(Who knows English?)   
-
-Какие языки ты изучает/знает?  
-(What languages do you study?)   
-
-**Answering**  
-Use **язык**  
-Я изучаю/знаю русский язык.  
-(I study Russian)
-
-## Understand 
-The verb **понимать** can be used with either structure, but you will more often hear **по-русски**.  
 
 # Classes 
 | Russian | English | Example
@@ -1039,8 +1047,8 @@ Often used for nationalities ending in **-я**
 Он учится на филологическом факультете, **потому что** любит литературу.   
 (He studies in the department of languages and literature **because** he loves literature)  
 
-1. The use of что is **NOT optional**.   
-2. Sentence expanders are **ALWAYS preceded by commas**. 
+- The use of что is **NOT optional**.   
+- Sentence expanders are **ALWAYS preceded by commas**. 
 
 ## Pronoun question words
 | English | Nominative | Prepositional
