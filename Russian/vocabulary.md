@@ -19,6 +19,8 @@
 
 - [Alphabets](#alphabets)
   - [Soft and hard sign](#soft-and-hard-sign)
+    - [Soft sign - ь](#soft-sign---ь)
+    - [Hard sign - ъ](#hard-sign---ъ)
   - [Soft and hard vowels](#soft-and-hard-vowels)
   - [Soft and hard consonants](#soft-and-hard-consonants)
     - [Fixed](#fixed)
@@ -41,13 +43,42 @@
     - [Consonant clusters](#consonant-clusters)
     - [Double consonants](#double-consonants)
 - [Conjunctions](#conjunctions)
-  - [And (и)](#and-и)
-  - [But (а, но)](#but-а-но)
-    - [А](#а)
-    - [Но](#но)
-  - [Also (тоже, также)](#also-тоже-также)
-    - [Тоже](#тоже)
-    - [Также](#также)
+  - [Definition](#definition)
+  - [And - И](#and---и)
+  - [But - Но](#but---но)
+  - [But/and - А](#butand---а)
+    - [But](#but)
+    - [But rather](#but-rather)
+    - [Questions about additional information](#questions-about-additional-information)
+  - [Although - Хотя](#although---хотя)
+    - [Although](#although)
+    - [At least](#at-least)
+  - [Because/Since](#becausesince)
+    - [Потому что](#потому-что)
+    - [Так как](#так-как)
+    - [Ведь](#ведь)
+  - [That - Что](#that---что)
+  - [Like - Как](#like---как)
+  - [Neither - Ни](#neither---ни)
+  - [Therefore - Так что](#therefore---так-что)
+- [Conjunctive Words](#conjunctive-words)
+  - [Definition](#definition-1)
+  - [Where - Где](#where---где)
+  - [Which/that - Что](#whichthat---что)
+  - [How - Как](#how---как)
+  - [Than - Чем](#than---чем)
+- [Emphatic Particles](#emphatic-particles)
+  - [Definition](#definition-2)
+  - [Also (adds objects) - Тоже](#also-adds-objects---тоже)
+  - [Also (adds subjects) - Также](#also-adds-subjects---также)
+  - [After all - Ведь](#after-all---ведь)
+  - [Even - Даже](#even---даже)
+    - [Even](#even)
+    - [Even if](#even-if)
+  - [Very - Уж](#very---уж)
+    - [Soften a negative](#soften-a-negative)
+    - [Add strong emphasis](#add-strong-emphasis)
+  - [Not a single - Ни](#not-a-single---ни)
 - [Prepositions](#prepositions)
   - [Collection](#collection)
   - [У](#у)
@@ -81,6 +112,10 @@
     - [+ Prepositional](#-prepositional-3)
   - [Из](#из)
     - [+ Genitive](#-genitive-4)
+  - [От](#от)
+    - [+ Genitive](#-genitive-5)
+  - [До](#до)
+    - [+ Genitive](#-genitive-6)
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
 - [Prefixes](#prefixes)
@@ -98,12 +133,11 @@
 - [Number System](#number-system)
   - [Numbers in nominative](#numbers-in-nominative)
     - [1-10](#1-10)
-    - [The teens (11-19)](#the-teens-11-19)
-    - [The tens (20-90)](#the-tens-20-90)
-    - [The hundreds (100-900)](#the-hundreds-100-900)
-    - [Thousands](#thousands)
+    - [11-19](#11-19)
+    - [20-90](#20-90)
+    - [100-900](#100-900)
+    - [1000](#1000)
   - [General rules for nouns following](#general-rules-for-nouns-following)
-  - [Gender matching for 1 and 2](#gender-matching-for-1-and-2)
   - [Ordinal numbers](#ordinal-numbers)
 - [Days and Times](#days-and-times)
   - [Asking day](#asking-day)
@@ -118,19 +152,13 @@
 - [Classes](#classes)
 - [Word orders](#word-orders)
   - [Adverbs](#adverbs-1)
-- [Asking questions](#asking-questions)
-  - [Ask how someone is classified](#ask-how-someone-is-classified)
 - [Nationalities](#nationalities)
   - [Special notes](#special-notes)
   - [Endings with -ец, -ка, -цы](#endings-with--ец--ка--цы)
   - [Endings with -нин, -нка, -не](#endings-with--нин--нка--не)
   - [Special endings (with no -ец)](#special-endings-with-no--ец)
 - [Studying](#studying)
-- [Question Words and Sentence Expanders](#question-words-and-sentence-expanders)
-  - [Why and Because](#why-and-because)
-  - [Expanding sentences](#expanding-sentences)
-  - [Pronoun question words](#pronoun-question-words)
-- [Something and Anything (-то and -нибудь)](#something-and-anything--то-and--нибудь)
+- [Something and Anything](#something-and-anything)
   - [Something (-то)](#something--то)
   - [Anything (-нибудь)](#anything--нибудь)
 
@@ -140,23 +168,28 @@
 
 # Alphabets
 ## Soft and hard sign
-**ь Мягкий знак (Soft sign)**  
-Indicates that the preceding consonant is **palatalized**. 
 
-Before a vowel it also indicates a full [y] sound between the consonant and vowel.  
+### Soft sign - ь
+- Indicates that the preceding consonant is **palatalized**. 
 
-Налёт - air raid  
-Нальёт - will pour
+- Before a vowel it also indicates a **full [y]** sound between the consonant and vowel.  
 
-**ъ Твёрдый знак (Hard sign)**  
-Indicates a [y] sound between consonant and vowel
+  Налёт - air raid  
+  Нальёт - will pour
+
+### Hard sign - ъ  
+- It keeps the preceding consonant hard, even if it is followed by a soft vowel.  
+- Often seen it **between a prefix that ends in a consonant** and **a root that begins with е, ё, ю, or я**.
+  
+  Под + езд = под**ъ**езд  
+  (Building entrance)
 
 ## Soft and hard vowels  
 
   ||||||||
-  | -- | -- | -- | -- | -- | -- | -- |
-  | Hard | а | э | о | ы | у | ъ |
-  | Soft | я | е | ё | и | ю | ь |
+  | -- | -- | -- | -- | -- | -- | -- 
+  | Hard | а | э | о | ы | у | ъ 
+  | Soft | я | е | ё | и | ю | ь 
 
 ## Soft and hard consonants 
 
@@ -250,10 +283,10 @@ Letters **б, п, в, ф and м**
 
 ### Тся/ться = ца
 
-- Verb ending in -тся (he/she/it does)   
+- Verb ending in -тся (he/she/it does).   
   Нрав**ится**  
 
-- Infinitive verbs ending in -ться   
+- Infinitive verbs ending in -ться.   
   Учи**ться**  
 
 ### Сч/зч/жч = щ
@@ -262,13 +295,13 @@ Letters **б, п, в, ф and м**
 
 ### Silent consonants
 
-- Вств - drops the first в  
+- Вств - drops the first в.  
   Здра **(в)ств**уйте, Чу **(в)ств**о
 
-- Лнц - drops the л  
+- Лнц - drops the л.  
   Со **(л)нц**е  
 
-- Стн - drops the т  
+- Стн - drops the т.  
   Изве**с(т)н**ый  
 
 ### Consonant clusters
@@ -287,29 +320,51 @@ Letters **б, п, в, ф and м**
 
 ### Double consonants 
 
-- Pronounce it for a bit **longer**  
+- Pronounce it for a bit **longer**.  
 
 # Conjunctions
-## And (и)
-- When two things are the same. There is no contrast
+
+## Definition
+- Used to connect two different clauses. A clause is referred to a "mini sentence", which consist of **"a subject" and "a verb (predicate)".**
+
+- It has **NO grammatical meaning**.
+
+- **ALWAYS preceded by commas (except и)**.
+
+## And - И  
+- When two things **are the same**. There is no contrast
+- The subject for the second clause is discarded to prevent duplication.  
 
   Максим живёт **и** учится в Москве.  
   (Maxims lives and studies in Moscow.)  
 
-## But (а, но)
+## But - Но 
+- **ONE contrast**. Two different comments are said about **ONE thing**.
 
-### А
-- **And/But with TWO contrasts. Two different comments are made about TWO different topics**  
+  Анна изучает русский язык, **но** говорит ещё плохо.  
+  (Anna takes Russian, but she still speaks poorly.)  
+
+## But/and - А 
+
+### But
+- With **TWO contrasts**. Two different comments are made about TWO different topics.
 
   Анна изучает русский язык, **а** Лена изучает английский язык.   
   (Anna takes Russian, and Lina takes English.)
 
-- **But rather**  
+- When the first clause **is negated**, "а" is used for the replacement.  
 
-  Это не Кира, **а Катя**.  
+  Стёпа знает **не** испанский язык, **а** английский.  
+  (Styopa does not know Spanish, but he knows English.)
+
+### But rather
+
+- Это не Кира, **а Катя**.  
   (That's not Kira, but rather Katya) 
 
-- **Questions about additional information (often corresponds to And what about...?)**
+### Questions about additional information
+
+- Often corresponds to **"And what about...?"**
 
   -В России я говорю по-русски.  
   (In Russia I speak Russian)  
@@ -321,32 +376,172 @@ Letters **б, п, в, ф and м**
   -**А** откуда вы знаете украинский язык?  
   (And how do you know Ukrainian?)  
 
-### Но
+## Although - Хотя 
 
-- **But with ONE contrast. Two different comments are said about ONE thing**  
+### Although
+- **Use on its own.**  
+  **Хотя** он устал, он работает.  
+  (Although he is tired, he is working.)
 
-  Анна изучает русский язык, **но** говорит ещё плохо.  
-  (Anna takes Russian, but she still speaks poorly.)  
+- **Paring with "Но."**  
+  It is grammatically correct to put **"but" in the second half** in Russian, but not in English.  
+
+  **Хотя** он устал, **но** он работает.  
+  (Although he is tired, he is working.)
+
+### At least
+- Add **бы** to the end. 
+
+  Дай мне **хотя бы** один день.  
+  (Give me at least one day.)  
+
+## Because/Since
+- Followed by the **reason (dependent clause)**.  
+
+### Потому что 
+- Он учится на филологическом факультете, **потому что** любит литературу.   
+  (He studies in the department of languages and literature because he loves literature.)  
+
+### Так как
+- **Similar to потому что**.
+  
+  Я остался дома, **так как** шёл дождь.   
+  (I stayed home since it was raining.)
+
+### Ведь 
+- Explanation provided by this word is presented as something the **listener should easily understand or agree with**.
+  
+  Я не пошёл гулять, **ведь** на улице дождь.  
+  (I didn't go for a walk, because/since it is raining outside.)
+
+## That - Что 
+- Used as a pure conjunction to introduce a **subordinate clause**.  
+- The use of что is **NOT optional**. It shows that the **two verbs** belong to the same thought process. 
+
+  Я думаю, **что** Иван учится здесь.  
+  (I think that Ivan studies here.)
+
+  Я знаю, **что** он дома  
+  (I know that he is home.)
+  
+## Like - Как 
+- **Used as a conjunction when making comparisons.** 
+
+  Он работает, **как** машина.  
+  (He works like a machine)
+
+## Neither - Ни 
+- **Ни...,ни... meaning "neither... nor..."**  
+  Usually goes **together with нет or не**.  
+  
+  У меня **нет ни** времени, **ни** денег.  
+  (I have neither time nor money.)
+
+  Он **не** пьёт **ни** чай, **ни** кофе.  
+  (HE drinks neither tea nor coffee.)
+
+## Therefore - Так что 
+
+- Щёл дождь, **так что** я остался дома.  
+  (It was raining, so I stayed home)
 
 
+# Conjunctive Words 
 
-## Also (тоже, также)
+## Definition
+- It glues two clauses together.   
+- Acts as **an actual part** of the sentence. 
+- **ALWAYS preceded by commas**. 
 
-- Анна говорит по-русски и по-испански
+## Where - Где 
+- **Acts as the location for the second clause**.  
+- Almost **always** a conjunctive word.    
 
-### Тоже
+  Это дом, **где** я живу.  
+  (This is the house where I live.)
 
-- Adds to the list of **predicates (things done)**. **Different objects** that share the same things.   
+  Женя спрашивает, **где** учится Иван.  
+  (Zhenya asks **where** Ivan goes to school.)
 
-  Её друг **Виктор** **тоже** говорит по-русски.  
-  (Her friend Victor also speaks Russian.)
+## Which/that - Что
+- When it **replaces a noun**.  
 
-### Также
+  Я читаю книгу, **что** лежит на столе.  
+  (I am reading the book that is lying on the table.)
 
-- Adds to the list of **subjects (doers)**. Adding new information to the subject.  
+## How - Как 
+- When used to describe the **manner** in which something happened.   
 
-  Анна **также** говорит **по-русски**  
-  (Anna speaks Russian as well.)
+  Я видел, **как** она танцует.  
+  (I saw how she dances.)
+
+  Но я не знаю, **как** он учится.  
+  (But I don't know **how** he does in school.) 
+
+## Than - Чем 
+- Used with **comparative adjectives**
+- Often seen with тем.  
+  
+  Москва больше, **чем** Эдинбург.  
+  (Moscow is bigger than Edinburgh)
+
+  **Чем** быстрее, **тем** лучше.  
+  (The faster, the better.) 
+
+# Emphatic Particles
+
+## Definition
+- Add **emphasis, limitation, or emotional flavour** to a specific word or the whole sentence without changing the grammatical structure.
+
+- A **comma** before is **not necessary**.
+
+## Also (adds objects) - Тоже 
+- The **same object** is shared among **different subjects**
+
+  Анна говорит по-русски. Её друг **Виктор** **тоже**.  
+  (Anna speaks Russian. Her friend Victor does too.)
+
+## Also (adds subjects) - Также 
+- **Adding new information** to the **same subject**.  
+
+- When connect two items in a list within the same sentence, "a" should be added.  
+
+  Анна говорит по-английски, **а также** по-русски.  
+  (Anna speaks English, as well as Russian.)
+
+## After all - Ведь  
+- Translates roughly to **"after all," "you know," "isn't it so," or "you see."**
+  
+  **Ведь** это правда!
+  (It is the truth, isn't it!)
+
+## Even - Даже 
+
+### Even
+- When the word is embedded inside the sentence, it is used to **highlight specific words**.  
+  
+  Он **даже** не посмотрел на меня.  
+  (He didn't even look at me.)
+
+### Even if
+- With comma, it often goes after **если (if)**. 
+  
+  Я пойду гулять, **даже если** будет дождь.  
+  (I will go for a walk, even if it rains.)
+
+## Very - Уж  
+### Soften a negative
+- Не так **уж** плохо.  
+  (Not so bad.)
+
+### Add strong emphasis
+- Я **уж** не знаю, что делать!  
+  (I really just don't know what to do!)
+
+## Not a single - Ни
+- На небе нет **ни** облачка.  
+  (There is not a single cloud in the sky.)
+
 
 # Prepositions 
 
@@ -463,6 +658,12 @@ Letters **б, п, в, ф and м**
   - **Clock time**  
     Урок наминается **в** пять часов.  
     (The lesson starts at five o'clock)
+
+- **Frequency**  
+  Meaning how many times per time period.
+
+  Пять дней в неделю 
+  (Five days a week)
 
 ## На 
 
@@ -661,12 +862,76 @@ Letters **б, п, в, ф and м**
   Дом построен **из** дерева.  
   (The house is made out of timber.)
 
+## От
+### + Genitive
+- **Away from something**  
+  От + place 
+
+  Отодвинь кровать **от** стены.  
+  (Move the bed away from the wall)
+
+- **Part of a whole**  
+  От + object 
+
+  Это рукав **от** рубашки.  
+  (It's a shirt's sleeve.)
+
+- **Cause, reason**  
+  От + reason 
+
+  Он умер **от** диабета.  
+  (He died from diabetes.)
+
+- **From someone**  
+  От + person
+
+  Это подарок от мамы.  
+  (This gift is from mom.)
+
+- **Distance away from**  
+  От + place.  
+  Used with preposition **до (to)**  
+
+  **От** петербурга **до** Москвы около 650 км.  
+  (It is about 650 km from Moscow to Saint Petersburg.)
+
+- **Range**  
+  Used with preposition **до (to)**
+
+  Билеты стоят **от** 200 до 400 рублей.  
+  (The tickets cost from 200 to 400.)
+
+## До
+
+### + Genitive
+- **Direction to**  
+  До + object 
+
+  Ты можешь дойти от дома **до** гаража за две минуты.  
+  (you can walk from the house to the garage in under two minutes)
+
+- **Distance to**   
+  **От** петербурга **до** Москвы около 650 км.  
+  (It is about 650 km from Moscow to Saint Petersburg.)
+
+- **Before/until**  
+  Вы можете позвонить мне **до** урока?  
+  (Could you call me before the lesson)
+
+  Я не спал **до** двух часов.  
+  (I was up until two o'clock)
+
+- **Up to (limit)**  
+  Магазин предлагает скидку **до** пятидесяти процентов.  
+  (The store offers up to 50% discount)
+  
+  
 # Word order 
 ## Adverbs
 - When answering the question **как**, the adverb comes last 
 
   -Как вы говорите по-русски?  
-  (How well do you speak Russian?) 
+  (How well do you speak Russian?)  
   -Я говорите хорошо.  
   (I speak well.)
 
@@ -745,10 +1010,10 @@ Letters **б, п, в, ф and м**
 ## Numbers in nominative  
 
 ### 1-10
-| Number | Russian
+| Number | Nominative
 | :---: | :---: 
-| 1 | Один (m), Одно (n), Одна (f)
-| 2 | Два (m/n), Две (f)
+| 1 | Один (masc.)<br> Одно (neu.)<br> Одна (fem.)
+| 2 | Два (masc./neu.)<br> Две (fem.)
 | 3 | Три
 | 4 | Четыре
 | 5 | Пять
@@ -758,7 +1023,10 @@ Letters **б, п, в, ф and м**
 | 9 | Девять
 | 10 | Десять
 
-### The teens (11-19)
+- **Gender matching for 1 and 2**  
+  The numbers that end with 1 and 2 must **change their spelling** to match the gender for the noun.  
+
+### 11-19
 
 - For teens, remove the soft sign and add the ending **-на + дцать** (x on top of ten)
 
@@ -766,7 +1034,7 @@ Letters **б, п, в, ф and м**
   Twelve uses the feminine word of two  
   12: **Две**надцать  
 
-### The tens (20-90)
+### 20-90
 
 - **Group A (20 and 30)**  
   Add -дцать to the root
@@ -786,7 +1054,7 @@ Letters **б, п, в, ф and м**
   40: Сорок  
   90: Девяносто  
 
-### The hundreds (100-900)  
+### 100-900
 - **Root + words for hundreds follows the cases** 
 
   | Nominative singular | Genitive singular | Genitive plural 
@@ -798,9 +1066,10 @@ Letters **б, п, в, ф and м**
 
   200: Двест**и**
 
-### Thousands 
+### 1000 
 
 - Same as hundreds, but they are two separate words.  
+
   | Nominative singular | Genitive singular | Genitive plural 
   | :---: | :---: | :---:
   | Тысяча | Тысячи | Тысяч
@@ -812,13 +1081,6 @@ Letters **б, п, в, ф and м**
 | 2, 3, 4 (except 12-14) | Genitive singular
 | 0, 5-9 (and 11-14) | Genitive plural  
 
-## Gender matching for 1 and 2  
-- The numbers that end with 1 and 2 must **change their spelling** to match the gender for the noun.  
-
-|| Masculine | Neuter | Feminine 
-| :---: | :---: | :---: | :---:  
-| Nominative | Один | Одно | Одна
-|| Два | Два | Две
 
 ## Ordinal numbers 
 
@@ -951,32 +1213,26 @@ In answering the question **как**, the adverb comes last.
 -Я говорю **хорошо**.  
 (I speak it well.)  
 
-# Asking questions 
-## Ask how someone is classified
-**Кто + [subject] + по + [dative case noun]**
-
-Because the expected answer is a person, the question must use the interrogative pronoun кто (who)
-
-Кто он по профессии?  
-(What is his profession?)
-
 # Nationalities 
 ## Special notes
 **Кто вы по национальности?**  
 (What is your nationality?)
 
-1. In Russian, we use nouns only for the nationalities of people (Only Russian is an adjective).
+- In Russian, we use nouns only for the nationalities of people (Only Russian is an adjective).
 
-   | он | она | они
-   | :---: | :---: | :---:
-   | русский | русская | русские
+  | он | она | они
+  | :---: | :---: | :---:
+  | русский | русская | русские
 
-2. Русский - ethnicity, culture, language  
-   Российский - citizenship, legal system, all ethnicities.
-3. Names of countries are capitalized. Words for nationalities are not. 
-4. Use nouns of nationality when they stand alone. Use adjectives to modify another noun.  
-   Джон американец.   
-   Джон американский студент.  
+- Русский - ethnicity, culture, language  
+  Российский - citizenship, legal system, all ethnicities.
+
+- Names of countries are capitalized. Words for nationalities are not. 
+
+- Use nouns of nationality when they stand alone. Use adjectives to modify another noun.  
+
+  Джон американец.   
+  Джон американский студент.  
 
 ## Endings with -ец, -ка, -цы
 | Nationality | он | она | они
@@ -1014,50 +1270,7 @@ Often used for nationalities ending in **-я**
 | do homework | заниматься<br> делать уроки<br> делать задания | -  
 
 
- 
-
-# Question Words and Sentence Expanders
-## Why and Because
-
-| Russian | English
-| :---: | :---: 
-| Почему? | Why
-| Потому что | Because
-
-## Expanding sentences 
-
-| Russian | English
-| :---: | :---:
-| Где | Where
-| Что | That
-| Как | How
-
-Женя спрашивает, **где** учится Иван.  
-(Zhenya asks **where** Ivan goes to school.)
-
-Я думаю, **что** Иван учится здесь.  
-(I think **that** Ivan goes to school here.)  
-
-Я отвечаю, **что** Иван учится здесь.  
-(I answer **that** Ivan goes to school here.)  
-
-Но я не знаю, **как** он учится.  
-(But I don't know **how** he does in school.)  
-
-Он учится на филологическом факультете, **потому что** любит литературу.   
-(He studies in the department of languages and literature **because** he loves literature)  
-
-- The use of что is **NOT optional**.   
-- Sentence expanders are **ALWAYS preceded by commas**. 
-
-## Pronoun question words
-| English | Nominative | Prepositional
-| :---: | :---: | :---:
-| What | Что | О чём 
-| Who | Кто | О ком
-
-
-# Something and Anything (-то and -нибудь)
+# Something and Anything
 
 ## Something (-то)
 - **Specific but unknown**  
