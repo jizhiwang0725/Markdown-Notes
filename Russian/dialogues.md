@@ -40,6 +40,9 @@
   - [Introducing](#introducing)
     - [Asking for names](#asking-for-names)
     - [Asking for where someone is from/profession](#asking-for-where-someone-is-fromprofession)
+- [Studying](#studying)
+  - [In university](#in-university)
+  - [In school](#in-school)
 
 </div>
 
@@ -134,7 +137,7 @@
   (Excuse me, what do you recommend?)
 
 - У нас очень вкусные фирменные пельмени.  
-  (We have very tasty signature pelmeni)
+  (We have very tasty signature pelmeni.)
 
 - А с чем **(ins.)** они?  
   (And what are they with? (What is the filling?))
@@ -210,10 +213,10 @@
 
 ### Need to buy string
 
-- Здравствуйте! У меня порвалась **(past reflexive)** струна **(nom.)** на теннисной ракетке **(prep.)**. Мне нужно натянуть **(infi.)** новые струны **(plur)**.  
+- Здравствуйте! У меня порвалась **(past reflexive)** струна **(nom.)** на теннисной ракетке **(prep.)**. Мне нужно натянуть **(inf.)** новые струны **(plur)**.  
   (Hello! A string broke on my tennis racket. I need to string new strings.)
 
-  - **Порва&#769;ть** - broke
+  - **Порвать** - broke
   - **Струна** - string
   - **Ракетка** - racket
   - **Натянуть** - to string/pull
@@ -245,7 +248,7 @@
   - **Килограмм** - kilogram
 
 - Отлично. Это будет стоить две тысячи **(gen. sing.)** рублей **(gen. plur.)** вместе с работой **(ins.)**.  
-  (Excellent. That will cost 2000 rubles including the labor.)
+  (Excellent. That will cost 2000 rubles including the labour.)
     
   - **Стоить** - to cost
   - **Работа** - work
@@ -362,12 +365,12 @@
 
 ### Asking for where someone is from/profession
 
-- До&#769;брое утро! С приездом **(ins.)**! Как вас зовут?   
+- Доброе утро! С приездом **(ins.)**! Как вас зовут?   
   (Good morning! Welcome! With arrival! What is your name?)
   
   - **Приезд** - Arrival, coming
 
-  До&#769;брый день/вечер!  
+  Добрый день/вечер!  
   (Good afternoon/evening!)
 
 - Доброе утро. Меня зовут Михаил. А вас?  
@@ -380,7 +383,7 @@
   (I am from Moscow. And you?)
 
 - Я из Санкт-Петербурга **(gen.)**. Кто вы по профессии **(dat.)**?  
-  (I am from St.Petersburg. What is your profession?)
+  (I am from St. Petersburg. What is your profession?)
 
   - **Профессия** - profession
 
@@ -389,3 +392,54 @@
 
 - Я врач.  
   (I am a doctor)
+
+# Studying 
+## In university
+- Где вы учитесь **(reflexive)**?  
+  (Where do you go to school?)
+
+  - When где is used, the specific school/university is asked 
+  
+- Я учусь в Гарвардском университете.  
+  (I go to Harvard)
+
+- А что вы там изучаете?  
+  (What do you take there?)  
+
+- Физику **(acc.)**.  
+  (Physics)
+
+- Вы хорошо учитесь **(reflexive)**?  
+  (Do you do well in school?)
+
+- Да, хорошо  
+  (Yes, I do.)  
+
+- А где вы обычно занимаетесь **(reflexive)**?  
+  (And where do you usually do your homework?) 
+
+  - **Заниматься** - do homework, to be engaged in
+
+- Я делаю задания **(acc. plur.)** в библиотеке.  
+  (I usually do my assignments in the library.)
+  
+  - **Делать** - to do
+  - **Задание** - task, job, homework 
+
+## In school
+- Я учусь **(reflexive)** в школе!  
+  (I'm in high school!)
+
+- А что ты там учишь?  
+  (What are you learning?)
+
+- Математику, литературу, историю **(acc.)**.  
+  (Mathematics, literature, and history.)
+
+- А как ты занимаешься **(reflexive)**?  
+  (How do you do homework?)  
+
+- Я делаю уроки **(acc. plur.)** онлайн **(adv.)**.  
+  (I do homework online.)
+
+  - **Урок** - class, class work
