@@ -59,6 +59,7 @@
     - [Ведь](#ведь)
   - [That - Что](#that---что)
   - [Like - Как](#like---как)
+  - [Such as - Такие как](#such-as---такие-как)
   - [Neither - Ни](#neither---ни)
   - [Therefore - Так что](#therefore---так-что)
 - [Conjunctive Words](#conjunctive-words)
@@ -114,13 +115,14 @@
     - [+ Genitive](#-genitive-4)
   - [От](#от)
     - [+ Genitive](#-genitive-5)
-  - [До](#до)
+  - [Насчёт](#насчёт)
     - [+ Genitive](#-genitive-6)
+  - [До](#до)
+    - [+ Genitive](#-genitive-7)
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
 - [Prefixes](#prefixes)
   - [Nouns](#nouns)
-  - [Verbs](#verbs)
 - [Naming System](#naming-system)
   - [Composition](#composition)
     - [First name (Имя)](#first-name-имя)
@@ -261,11 +263,11 @@
 ### Voiced-voiceless assimilation  
 - When voiced and voiceless consonants are adjacent to each other, the nature of the second consonant dictates the nature of the first.    
 
-  voiced + **voiceless** -> voiceless + voiceless  
-  **в К**иеве -> **ф К**иеве
+  Voiced + **voiceless** → voiceless + voiceless  
+  **в К**иеве → **ф К**иеве
 
-  voiceless + **voiced** -> voiced + voiced  
-  баске**тб**ол -> баске**дб**ол
+  voiceless + **voiced** → voiced + voiced  
+  баске**тб**ол → баске**дб**ол
 
 ## Labial consonants
 - A sound made with your lip
@@ -430,8 +432,14 @@ Letters **б, п, в, ф and м**
   Он работает, **как** машина.  
   (He works like a machine)
 
+## Such as - Такие как
+- **Listing examples**
+  
+  Я изучаю языки программирования, **такие как** Java и Python.  
+  (I study programming languages, such as Java and Python.)
+  
 ## Neither - Ни 
-- **Ни...,ни... meaning "neither... nor..."**  
+- **Ни..., ни... meaning "neither... nor..."**  
   Usually goes **together with нет or не**.  
   
   У меня **нет ни** времени, **ни** денег.  
@@ -901,6 +909,10 @@ Letters **б, п, в, ф and м**
   Билеты стоят **от** 200 до 400 рублей.  
   (The tickets cost from 200 to 400.)
 
+## Насчёт
+### + Genitive
+- **As regards, concerning, about, of**  
+   
 ## До
 
 ### + Genitive
@@ -950,18 +962,6 @@ Letters **б, п, в, ф and м**
 
 - Some nouns are derived from verbs that already have a prefix. In these cases, the noun simply inherits the prefix from the verb.  
 
-## Verbs
-
-| Common prefix | Meaning | Base word | New word
-| :---: | :---: | :---: | :---:
-| вы- | Out of, outward | ходить<br> (to walk/go) | выходить<br> (to exit/go out)
-| в-/во- | Into, inward | ходить<br> (to walk/go) | входить<br> (to enter/ go in)
-| при- | Arrival, bring closer | ехать<br> (to drive/ride) |прехать<br> (to arrive)
-| пере- | Across, or redoing something | делать<br> (to do/make) | переделать<br> (to redo)
-| по- | A little bit, or setting | смотреть<br> (to watch) | посмотреть<br> (to take a look)
-| за- | Dropping by, or starting an action | плакать<br> (to cry) | заплакать<br> (to start crying)
-
-- Adding a prefix to a verb usually makes it **perfective** 
 
 # Naming System
 
