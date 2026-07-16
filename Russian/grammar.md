@@ -80,14 +80,15 @@
   - [Этот - This is/Those are](#этот---this-isthose-are)
     - [Indeclinable "This is"](#indeclinable-this-is)
     - [The adjective "This"](#the-adjective-this)
+  - [Вот - Here is](#вот---here-is)
   - [Тот - That/Those](#тот---thatthose)
   - [Такой - Such a/That kind of](#такой---such-athat-kind-of)
   - [Столько - So much/So many](#столько---so-muchso-many)
 - [(Pronouns) Possessive Pronouns](#pronouns-possessive-pronouns)
   - [Мой - My](#мой---my)
-  - [Вы - Your (Singular/Informal)](#вы---your-singularinformal)
+  - [Вы - Your (singular/informal)](#вы---your-singularinformal)
   - [Наш - Our](#наш---our)
-  - [Your - Plural/Formal](#your---pluralformal)
+  - [Вы - Your (plural/formal)](#вы---your-pluralformal)
   - [Свой - One's own](#свой---ones-own)
   - [Его/Её/Их - His/Her/Their](#егоеёих---hishertheir)
 - [(Pronouns) Reflexive Pronouns](#pronouns-reflexive-pronouns)
@@ -106,10 +107,9 @@
   - [Compound form](#compound-form)
   - [The simple form](#the-simple-form)
   - [Of all](#of-all)
-- [(Verbs) Infinitive](#verbs-infinitive)
+- [(Verbs) Infinitive Verbs](#verbs-infinitive-verbs)
   - [Definition](#definition-1)
-  - [When to use](#when-to-use)
-- [(Verbs) Conjugations](#verbs-conjugations)
+- [(Verbs) Verb Conjugations](#verbs-verb-conjugations)
   - [General conjugations](#general-conjugations)
   - [Е/ё conjugations](#её-conjugations)
     - [Stems ending in vowels](#stems-ending-in-vowels)
@@ -122,13 +122,26 @@
     - [Shape-shifting consonants](#shape-shifting-consonants)
 - [(Verbs) Reflexive Verbs](#verbs-reflexive-verbs)
   - [Definition](#definition-2)
-  - [Endings (-ся/-сь)](#endings--ся-сь)
+  - [Suffix (-ся/-сь)](#suffix--ся-сь)
   - [Usage](#usage)
-- [(Verbs) Imperfective and Perfective Verbs](#verbs-imperfective-and-perfective-verbs)
-  - [Differences](#differences)
-  - [Imperfective verbs](#imperfective-verbs)
-  - [Perfective verbs](#perfective-verbs)
-  - [Recognize perfective verbs from imperfective verbs](#recognize-perfective-verbs-from-imperfective-verbs)
+- [(Verbs) Imperfective Verbs](#verbs-imperfective-verbs)
+  - [Definition](#definition-3)
+  - [Common suffixes](#common-suffixes)
+    - [Repetition](#repetition)
+- [(Verbs) Perfective Verbs](#verbs-perfective-verbs)
+  - [Definition](#definition-4)
+  - [Common prefixes](#common-prefixes)
+    - [Spatial opposites](#spatial-opposites)
+    - [The action modifier](#the-action-modifier)
+    - [Lightweight modifier (По-)](#lightweight-modifier-по-)
+  - [Common suffixes](#common-suffixes-1)
+    - [Sudden action (-нуть)](#sudden-action--нуть)
+  - [Different words](#different-words)
+- [(Verbs) Bi-aspectual Verbs](#verbs-bi-aspectual-verbs)
+  - [Definition](#definition-5)
+  - [Occurrence](#occurrence)
+    - [Foreign loanwords](#foreign-loanwords)
+    - [Native words](#native-words)
 - [(Adverbs) Interrogative Adverbs](#adverbs-interrogative-adverbs)
 - [(Tenses) Present Tense](#tenses-present-tense)
   - ["To be" in present tense](#to-be-in-present-tense)
@@ -149,22 +162,20 @@ After the letters **ш, щ, ж, ч and ц**, do NOT write **unstressed о**; wri
 ## The 8-letter spelling rule 
 After the letters **к, г, х, ж, ч, ш, щ and ц** change **ю to у** and **я to а** 
 
-Especially for И-conjugation verbs
-
 # (Cases) General Ending Patterns
 
 ## Nouns 
 
 **MASCULINE/NEUTER** nouns:  
 
-  | | Prepositional | Genitive<br> Accusative (ani.) | Dative | Instrumental
+  || Prepositional | Genitive<br> Accusative (ani.) | Dative | Instrumental
   | :---: | :---: | :---: | :---: | :---: 
   | Hard stem | -е | -а | -у | -ом
   | Soft stem | -е | -я | -ю | -ем
 
 **FEMININE** nouns:
 
-  | | Prepositional<br> Dative | Genitive | Accusative | Instrumental  
+  || Prepositional<br> Dative | Genitive | Accusative | Instrumental  
   | :---: | :---: | :---: | :---: | :---:
   | Hard stem | -е | -ы | -у | -ой
   | Soft stem | -е | -и | -ю | -ей
@@ -177,22 +188,22 @@ Especially for И-conjugation verbs
 
 **PLURAL** nouns:
 
-  | | Prepositional | Dative | Instrumental | Genitive<br> Accusative (ani.)
-  | :---: | :---: | :---: | :---: | :---:
-  | Hard stem | -ах | -ам | -ами | Gender dependent
-  | Soft stem | -ях | -ям | -ями | Gender dependent
+  || Nominative | Prepositional | Dative | Instrumental | Genitive<br> Accusative (ani.)
+  | :---: | :---: | :---: | :---: | :---: | :---:
+  | Hard stem | ы/а | -ах | -ам | -ами | Gender dependent
+  | Soft stem | и/я | -ях | -ям | -ями | Gender dependent
 
 ## Adjectives
 When describing **MASCULINE/NEUTER** nouns:   
 
-  | | Genitive<br> Accusative (ani.)  | Prepositional | Dative   | Instrumental
+  || Genitive<br> Accusative (ani.)  | Prepositional | Dative   | Instrumental
   | :---: | :---: | :---: | :---: | :---: 
   | Hard stem (-ый) | -ого | -ом | -ому  | -ым
   | Soft stem (-ий) | -его | -ем | -ему  | -им
 
 When describing **FEMININE** nouns:   
 
-  | | Nominative | Accusative | Other four
+  || Nominative | Accusative | Other four
   | :---: | :---: | :---: | :---:
   | Hard stem (-ый) | -ая | -ую | -ой
   | Soft stem (-ий) | -яя | -юю | -ей 
@@ -200,7 +211,7 @@ When describing **FEMININE** nouns:
 
 When describing **PLURAL** nouns:  
 
-  | | Nominative | Dative | Instrumental | Other three
+  || Nominative | Dative | Instrumental | Other three
   | :---: | :---: | :---: | :---: | :---: 
   | Hard stem (-ый) | -ые | -ым | -ыми | -ых 
   | Soft stem (-ий) | -ие | -им | -ими | -их
@@ -209,12 +220,16 @@ When describing **PLURAL** nouns:
 
 ## When to use (subject)
 - **The grammatical subject of the sentence**  
-  The noun or pronoun that "does" the verb:   
-  **Джон** американец - John is an American
+  The noun or pronoun that "does" the verb: 
+ 
+  **Джон** американец.  
+  (John is an American.)
 
 - **Stating identity (X is Y)**  
   The word or phrase that comes after forms of the verb **to be**: is, are, was, were:   
-  Джон **американец** - John is **an American**
+
+  Джон **американец**.   
+  (John is **an American**.)
 
 - **Naming and listing things** 
    - Street signs 
@@ -225,7 +240,7 @@ When describing **PLURAL** nouns:
 ## Nouns (plurals) 
 - **Ending letters**  
 
-  | | Masculine | Feminine | Neuter
+  || Masculine | Feminine | Neuter
   | :---: | :---: | :---: | :---: 
   | Hard stem | чемодан - ы | газет - ы | мест - а  
   | Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я 
@@ -257,15 +272,8 @@ When describing **PLURAL** nouns:
 | (With spelling rules) | ру&#769;сск(<del>ы</del>)**ий**(7) | ру&#769;сск**ое** | ру&#769;сск**ая** | ру&#769;сск(<del>ы</del>)**ие**(7) 
 || хоро&#769;ш(<del>ы</del>)**ий**(7) | хоро&#769;ш(<del>o</del>)**ее**(5) | хоро&#769;ш**ая** | хоро&#769;ш(<del>ы</del>)**ие**(7) 
 | Hard stem<br> (Stress at the back)| голуб**о&#769;й** | голуб**о&#769;е** | голуб**а&#769;я** | голуб**ы&#769;е** 
-| (With spelling rules) | бальш**о&#769;й** | больш**о&#769;е** | больш**а&#769;я** | болтш(<del>ы</del>)**и&#769;е**(7) 
+| (With spelling rules) | бальш**о&#769;й** | больш**о&#769;е** | больш**а&#769;я** | больш(<del>ы</del>)**и&#769;е**(7) 
 | Soft stem | си&#769;н**ий** | си&#769;н**ее** | си&#769;н**яя** | си&#769;н**ие** 
-
-
-
-
-Possessive modifier **his, hers, and theirs** are indeclinable. 
-
-
 
 
 # (Cases) Genitive Case
@@ -311,15 +319,15 @@ Possessive modifier **his, hers, and theirs** are indeclinable.
 ### Singular
 | Ending | Nominative | Masculine<br> Neuter | Feminine 
 | :---: | :---: | :---: | :---: 
-| Hard | журнал<br> письмо<br> газета<br> | журнал**а**<br> письм**а**<br> -| -<br> -<br> газет**ы** | журнала
+| Hard | журнал<br> письмо<br> газета<br> Америка| журнал**а**<br> письм**а**<br> -<br> - | -<br> -<br> газет**ы**<br> Америк**и** (7)
 | Soft | музея<br> словарь<br> платье<br> неделя<br> | музе**я**<br> словар**я**<br> плать**я**<br> - | -<br> -<br> -<br> недел**и**
 | Fem. -ь | кровать| - | кроват**и**
 
-:warning: remember to apply the 7-letter spelling rule
+- :warning: remember to apply the 7-letter spelling rule
 
-1. Some masculine nouns have end stress whenever an ending is added  
-   сто&#769;л -> стола&#769;  
-   гара&#769;ж -> гаража&#769;
+- Some masculine nouns have end stress whenever an ending is added  
+   сто&#769;л → стола&#769;  
+   гара&#769;ж → гаража&#769;
 
 ### Plural 
 
@@ -340,7 +348,7 @@ Feminine and neuter
 
 ## Adjectives  
 
-| | Masculine<br> Neuter | Feminine | Plural 
+|| Masculine<br> Neuter | Feminine | Plural 
 | :---: | :---: | :---: | :---: 
 | Hard stem (-ый) | нов**ого** | нов**ой** | нов**ых**
 | Soft stem (ий) | син**его** | син**ей** | син**их**
@@ -386,7 +394,7 @@ Whenever you are giving, showing, telling or sending something **to** someone, t
   (He is bored.)  
 
   **Нам** нужно идти.  
-  (We need to go. Lit: To us it is necessary to go)
+  (We need to go. Lit: To us, it is necessary to go)
 
 - **Directional motion with "К" (towards)**  
   Я иду к **врачу**.  
@@ -398,14 +406,14 @@ Whenever you are giving, showing, telling or sending something **to** someone, t
 
 ## Nouns
 
-| | Nominative | Masculine<br> Neuter | Feminine | Plural 
+|| Nominative | Masculine<br> Neuter | Feminine | Plural 
 | :---: | :---: | :---: | :---: | :---:
 | Hard | журнал<br> письмо<br> школа<br> | журнал**у**<br> письм**у** | школ**е** | журнал**ам**<br> письм**ам**<br> школ**ам**
 | Soft | музей<br> словарь<br> платье<br> кухня | музе**ю**<br> словар**ю**<br> плать**ю**<br> - | -<br> -<br> -<br> кухн**е** | музе**ям**<br> словар**ям**<br> плать**ям**<br> кухн**ям** 
 | Feminine -ь | тетрадь | - | тетрад**и** | тетрад**ям**
-| ия -> ии | версия | - | верс**ии** | верси**ям**
+| ия → ии | версия | - | верс**ии** | верси**ям**
 
-- Some masculine nouns with о or е in semifinal position lose this vowel whenever an ending is added: от**е**ц -> омцу
+- Some masculine nouns with о or е in semifinal position lose this vowel whenever an ending is added: от**е**ц → омцу
 
 ## Adjectives  
 | | Masculine<br> Neuter | Feminine | Plural
@@ -533,7 +541,7 @@ For singular and plural words:
 
 ## Nouns 
 
-| | Nominative | Masculine<br> Neuter | Feminine | Plural
+|| Nominative | Masculine<br> Neuter | Feminine | Plural
 | :---: | :---: | :---: | :---: | :---: 
 | Hard | журнал<br> письмо<br> школа  | журнал**ом**<br> письм**ом**<br> - | -<br> -<br> школ**ой** | журнал**ами**<br> письм**ами**<br> школ**ами** 
 | Soft | словарь<br> музей<br> платье<br> семь<br> кухня| словар**ём**<br> музе**ем**<br> плать**ем**<br> -<br> - | -<br> -<br> -<br> семь**ёй**<br> кухн**ей** | словар**ями**<br> музе**ями**<br> плать**ями**<br> -<br> кухн**ями**  
@@ -573,30 +581,21 @@ For singular and plural words:
   (I am going by train.)
 
 ## Nouns
- 
-  Я живу **в** Америк**е**  
 
-| USUALLY **add е**. <br> Drop **й, а, я**. | BUT **ие** is illegal. <br> Use **ии**| AND Foreign names ending<br> in **о, и, у never change**
-| :---: | :---: | :---: 
-| Нью-Йорк -> Нью-Йорке | Джорджие -> Джоржии<br> Здание -> Здании | Чикаго 
-
-**General endings**
-| | Nominative | Masculine<br> Neuter | Feminine | Plural 
+|| Nominative | Masculine<br> Neuter | Feminine | Plural 
 | :---: | :---: | :---: | :---: | :---:
 | Hard-stem | журнал<br> письмо<br> школа | в журнал**е**<br> в письм**е**<br> - | -<br> -<br> в школ**е** | в журнал**ах**<br>в письм**ах**<br>в школ**ах** 
 | Soft-stem | музей<br> словарь<br> кухня | в музе**е**<br> в словар**е**<br> - | -<br> -<br> в кухн**е**  | в музе**ях**<br> в словар**ях**<br> в кухн**ях** 
 | Feminine -ь | тетрадь | - | в тетрад**и** | в тетрад**ях**
-<s>ие</s> -> ии | версия<br> общежитие | -<br> в общежит**ии** | в верс**ии**<br>- | в верси**ях**<br> в общежити**ях** 
-
-Во Флориде  
-Во Франции
+<s>ие</s> → ии | версия<br> общежитие | -<br> в общежит**ии** | в верс**ии**<br>- | в верси**ях**<br> в общежити**ях** 
 
 ## Adjectives
-| | Masculine<br> Neuter | Feminine | Plural  
+
+|| Masculine<br> Neuter | Feminine | Plural  
 | :---: | :---: | :---: | :---: 
 | Hard stems<br> (-ый) | в нов**ом** | в нов**ой** | в нов**ых** 
 | Soft stems<br> (-ий) | в син**ем** | в син**ей** | в син**их** 
-| Spelling rules | в хоро&#769;ш**ем** (5)<br> (but в больш**о&#769;м**) | в хорош**ей** (5) | в хорош**их** (7)
+| Spelling rules | в хоро&#769;ш**ем** (5)<br> в больш**о&#769;м** (5) | в хоро&#769;ш**ей** (5)<br> в больш**о&#769;й** (5) | в хоро&#769;ш**их** (7)<br> в больш**и&#769;х** (7)
  
 # (Nouns) General Rules
 ## Fleeting vowels 
@@ -611,30 +610,30 @@ For singular and plural words:
 - **Different varieties, types, or brands**  
   When talking about different sorts of substance.  
 
-  Сыр (Cheese) -> сыры  
+  Сыр (Cheese) → сыры  
   (Different types of cheese)
 
 - **Vast expanses or huge quantities**  
   To emphasize a massive geographic expanse or a poetic, overwhelming amount of something.  
 
-  Вода -> воды  
+  Вода → воды  
   (Waters, as in the waters of the ocean or a flood.)
 
 - **Repeated or intense weather events**  
   Uncountable noun plural indicates that the event lasted a long time.  
 
-  Мороз -> морозы (A prolonged period of freezing days.)
+  Мороз → морозы (A prolonged period of freezing days.)
 
 - **From abstract to concrete**  
   Pluralizing an abstract noun completely changes its meaning into a concrete, countable event or object associated with that concept.  
 
-  Красота -> красоты  
+  Красота → красоты  
   (Beautiful sights or places, like "the beauties of nature")
 
 - **Scientific and technical terminology**  
   When referring to distinct chemical compounds rather than the everyday material.  
 
-  Соль -> соли  
+  Соль → соли  
   (Chemical salts in a scientific context)
 
 # (Nouns) Grammatical Gender 
@@ -673,16 +672,16 @@ You can use the ending to identify which gender a word belongs to.
 
 | English | Nominative | Genitive<br> Accusative | Dative | Prepositional
 | :---: | :---: | :---: | :---: | :---: 
-| I | Я  | У меня<br> Меня завут | Мне | Обо мне
-| You | Ты | У тебя<br> Tебя завут | Тебе | О тебе 
-| He | Он | У (н)его<br> Eго завут | Ему | О нём 
-| She | Она | У (н)её<br> Её завут | Ей | О ней 
-| It | Оно | У (н)его<br> Его завут | Ему | О нём 
-| We | Мы | У нас<br> Нас завут | Нам | О нас 
-| You (formal)<br> You guys | вы | У вас<br> Вас завут | Вам | О вас 
+| I | Я  | У меня<br> Меня зовут | Мне | Обо мне
+| You | Ты | У тебя<br> Тебя зовут | Тебе | О тебе 
+| He | Он | У (н)его<br> Eго зовут | Ему | О нём 
+| She | Она | У (н)её<br> Её зовут | Ей | О ней 
+| It | Оно | У (н)его<br> Его зовут | Ему | О нём 
+| We | Мы | У нас<br> Нас зовут | Нам | О нас 
+| You (formal)<br> You guys | вы | У вас<br> Вас зовут | Вам | О вас 
 | They | они | У (н)их<br> | Им | О них 
 
-- **"н-" when it is after a preposition.**  
+- **"Н-" when it is after a preposition.**  
   Я смотрю на **н**его.  
   (I am looking at him.)
 
@@ -755,6 +754,12 @@ You can use the ending to identify which gender a word belongs to.
 
   **Кого** ты видишь?  
   (Whom do you see?)
+
+- Used to ask someone's profession  
+  **Кто + [subject] + по + [dative case noun]**
+
+  Кто он по профессии?  
+  (What is his profession?)
 
 ## Adjective pronouns 
 
@@ -831,7 +836,7 @@ You can use the ending to identify which gender a word belongs to.
 ### Indeclinable "This is"
 
 - **Это + Adjective/Possessive pronoun + Noun**
-- The **object** is emphasized.  
+- The **object** is emphasized. Used to differentiate the belonging of this item, in **contrast with "Вот"**.  
 - Begins full sentences (This is a...)  
 - Means:
   - This is 
@@ -884,6 +889,13 @@ You can use the ending to identify which gender a word belongs to.
   **Эти** дома красивые.  
   (These houses are beautiful.)  
 
+## Вот - Here is 
+- Means **here is, here are, this is, there.**
+- Used to **draw attention** to certain items.  
+  
+  Где Антон? А, **вот** он!  
+  (Where is Anton? Ah, here/there he is!)
+
 ## Тот - That/Those 
 | Case | Masculine | Feminine | Neuter | Plural 
 | :---: | :---: | :---: | :---: | :---: 
@@ -933,7 +945,7 @@ You can use the ending to identify which gender a word belongs to.
 | **Instrumental** | С моим | С моей | С моим | С моими 
 | **Prepositional** | О моем | О моей | О моем | О моих 
 
-## Вы - Your (Singular/Informal)
+## Вы - Your (singular/informal)
 
 | Case | Masculine | Feminine | Neuter | Plural 
 | :---: | :---: | :---: | :---: | :---:
@@ -955,7 +967,7 @@ You can use the ending to identify which gender a word belongs to.
 | **Instrumental** | С нашим | С нашей | С нашим | С нашими 
 | **Prepositional** | О нашем | О нашей | О нашем | О наших 
 
-## Your - Plural/Formal
+## Вы - Your (plural/formal)
 
 | Case | Masculine | Feminine | Neuter | Plural 
 | :---: | :---: | :---: | :---: | :---:
@@ -1150,12 +1162,11 @@ in front of the adjective
   Лучше **всех**.  
   (Best of all)
 
-# (Verbs) Infinitive 
+# (Verbs) Infinitive Verbs
 
 ## Definition
 - The base class of an action. Always paired to the word "to".  
 
-## When to use 
 - **Describing a feeling, a state, or a necessity**  
 
   Приятно с вами **познакомиться**!  
@@ -1168,7 +1179,7 @@ in front of the adjective
   Я хочу **спать**.  
   (I want to sleep)  
 
-# (Verbs) Conjugations 
+# (Verbs) Verb Conjugations 
 
 ## General conjugations  
 |||
@@ -1216,14 +1227,16 @@ in front of the adjective
 ## И conjugations  
 
 - Usually ends in **-ить**
-| | говорить<br>to speak; talk; say 
-:---: | :---:
-я | говор**ю** 
-ты | говор**ишь** 
-кто/он/она | говор**ит**
-мы | говор**им** 
-вы | говор**ите** 
-они |говор**ят** 
+- Be careful with the **8-letter spelling rule.** Sometimes the conjugation for они is shifted to -ат
+
+|| говорить<br> (to speak; talk; say) | учить<br> (to study)
+| :---: | :---: | :---:
+| Я | говор**ю** | уч**у**
+| Ты | говор**ишь** | уч**ишь**
+| Кто/Он/Она | говор**ит** | уч**ит**
+| Мы | говор**им** | уч**им**
+| Вы | говор**ите** | учи**те**
+| Они | говор**ят** | уч**ат** (8)
 
 ## Ending palatalization 
 
@@ -1231,17 +1244,17 @@ in front of the adjective
 
 - In е/ё conjugation, this rule appears in **every form** across the entire present tense
 
-| | Дремать<br> (To doze / slumber) | Писать<br> (To write)
+|| дремать<br> (To doze / slumber) | писать<br> (To write)
 | :---: | :---: | :---:
-| я | Дрем**л**ю | Пи**ш**у
-| ты | Дрем**л**ешь | Пи**ш**ешь
+| Я | дрем**л**ю | пи**ш**у
+| Ты | дрем**л**ешь | пи**ш**ешь
 
 - In и conjugation, this rule **only** appears in the **я form**
 
-| | Любить<br> (To love) | Ходить<br> (To walk/go) 
+|| Любить<br> (To love) | Ходить<br> (To walk/go) 
 | :---: | :---: | :---:
-| я | Люб**л**ю | Хо**ж**у 
-| ты | Любишь | Ходишь
+| Я | люб**л**ю | хо**ж**у 
+| Ты | любишь | ходишь
 
 ### Added л
 
@@ -1269,14 +1282,14 @@ in front of the adjective
   Я учу**сь** **в университете** (additional information)  
   (I study in university.)
 
-## Endings (-ся/-сь)
+## Suffix (-ся/-сь)
 
 - **Regular conjugations + ending**   
 
   | Consonants | Vowels 
   | :---: | :---: 
   | -ся | -сь  
-  | Одевать(to dress someone else) -> Одеваться(to dress oneself) | Учила (studied (feminine)) -> Училась (studied)
+  | Одевать(to dress someone else) → Одеваться(to dress oneself) | Учила (studied (feminine)) → Училась (studied)
 
 ## Usage 
 - When used with "мы", it often refers to a **reciprocal action**(doing something to each other)  
@@ -1285,18 +1298,16 @@ in front of the adjective
   (We meet each other.)  
 
 
+# (Verbs) Imperfective Verbs
+## Definition 
+- Verbs ending with **-ать, -ить or -еть** are normally the base case of the verb. 
 
-# (Verbs) Imperfective and Perfective Verbs
-
-## Differences
-
-| Imperfective | Perfective  
-| :---: | :---: 
-| Ongoing processes | Completed processes
-| Habit | One-time
-| - | Sequence of completed process
-
-## Imperfective verbs  
+  Дел**ать**  
+  (To do)  
+  Говор**ить**  
+  (To speak)  
+  Вид**еть**  
+  (To see)
 
 - **The action is on going and is a process**  
   You started the action, but not finished.  
@@ -1308,44 +1319,126 @@ in front of the adjective
   Я обычно покупаю кофе.  
   (I usually buy coffee.)
 
-## Perfective verbs
+- **A state of being**  
+  **Mental states** (knowing, thinking, loving) because they don't have a clean start and stop point.  
+
+  Я не **знаю**, где мой телефон.  
+  (I don't know where my phone is.)
+
+## Common suffixes 
+### Repetition
+- Those suffixes at the end of a **perfective verb** forces it to become imperfective.    
+
+  | Suffix | Usage | Example | Meaning
+  | :---: | :---: | :---: | :---:
+  | -ывать/-ивать | Most common,<br> adds to the end of a perfective | Спраш**ивать** | To ask regularly
+  | -вать | Used for shorter<br> roots ending in vowels |  Откры**вать** | To open regularly 
+  | -ать/-ять | To replace -ить | Повтор**ять** | To repeat regularly
+
+# (Verbs) Perfective Verbs
+
+## Definition 
+- :warning: **Perfective verbs do NOT have PRESENT tense**  
+  When take a perfective verb and conjugate it **using standard present-tense endings**, it automatically creates the **future tense**. 
 
 - **The action is completed with a result**  
   You started the action, finished it, and there is a result 
   to show for it.  
 
-  Я **прочитал** книгу.  
-  (I **finished** the book)
+  Я **про**читал книгу.  
+  (I finished the book)
 
 - **A one-time, specific action**  
   The action happened once at a specific moment, rather than being a habit or a routine
 
-  Сегодня я **купил** чай.  
+  Сегодня я **к**упил чай.  
   (Today, I bought tea)
 
 - **A sequence of completed actions (step-by-step)**   
   If you are telling a story where one action finishes and then the next one starts. 
 
-  Он встал, **оделся** и **вышел**.  
+  Он **в**стал, **о**делся и **вы**шел.  
   (He got up, got dressed, and left)
 
-- :warning: **Perfective verbs do NOT have PRESENT tense**  
-  When take a perfective verb and conjugate it using standard present-tense endings, it automatically creates the **future perfective tense**.  
+## Common prefixes
+- Adding those prefixes to an imperfective verb create new perfective verbs with different meanings.  
+  
+### Spatial opposites 
+| Prefix | Meaning | Example<br> (ходить - walk) | Meaning
+| :---: | :---: | :---: | :---:
+| В-/во- | In/Inward | **В**ходить | To walk in/enter
+| Вы- | Out/Outward | **Вы**ходить | To walk out/exit
+| При- | Arrival/Attachment | **При**ходить | To arrive
+| У- | Departure/Away | **У**ходить | To leave/depart
+| Под-/Подо- | Approach/Under | **Под**ходить | To approach/walk up to
+| От-/Ото- | Step back/off | **От**ходить | To step away/Back up
 
-  Познакомитесь!  
-  (Get acquainted!)
+### The action modifier
+| Prefix | Meaning | Example | Meaning
+| :---: | :---: | :---: | :---: 
+| Пере- | Re-do/Across | **Пере**делать | To re-do/make over
+| До- | Finish/Up to the end | **До**писать | To finish writing
+| За- | Initiate/Fix in place | **За**помнить | To memorize<br> (fix in memory)
+| Про- | Through/Duration | **Про**читать | To read through<br> (start to finish)
+| С-/Со- | Together/Down from | **С**вязать | To tie together/connect
+| Раз-/Рас- | Apart/Scatter/Un- | **Раз**бить | To smash apart/break
 
-## Recognize perfective verbs from imperfective verbs
-- **Adding a prefix**  
-  Add short prefix (like по-, с-, про-, на-) to the imperfective verb.  
+### Lightweight modifier (По-)
+- **A little / For a short time**  
+  **По**спать  
+  (To sleep for a little while) 
 
-  делать (to do) - **с**делать (to get done)
+  **По**работать  
+  (To work for a little)  
 
-- **Changing a suffix / internal letter**  
-  покуп**а**ть (to be buying) - ()куп**и**ть (to buy)
+- **Starting an action (with motion verbs)**  
+  **По**йти  
+  (To set off / start walking)  
 
-- **Completely different words**  
-  говорить (to speak/say) - сказать (to say/tell)
+- **Just completing the action**  
+  **По**смотреть  
+  (To watch / take a look)
+
+## Common suffixes 
+### Sudden action (-нуть)
+- Adding this suffix to an imperfective verb squeezes an action into a single sudden action.  
+  
+  Прыгать → Прыг**нуть**  
+  (To be jumping up and down → To execute exactly one jump)
+
+## Different words 
+- Говорить → Сказать  
+  (To speak/say (Imperfective) → To say/tell (Perfective))
+
+# (Verbs) Bi-aspectual Verbs
+## Definition 
+- Words that are both perfective and imperfective. The aspect of the words is determined by considering the **context** - words or sentences following it. 
+
+- The **time markers** (часто, вчера, etc.) in the sentence tells you hte aspect of the word.  
+
+  
+## Occurrence
+### Foreign loanwords  
+- Add suffix **-ировать or -овать**
+  
+  Тест**ировать**  
+  (To test)  
+
+  Организ**овать**  
+  (To operate)  
+
+  Старт**овать**  
+  (To start)
+
+  Копир**овать**  
+  (To copy)
+
+### Native words
+- **Just memorize it**
+  
+  Жениться (for man)  
+  Imperfective: State/process - married  
+  Perfective: Sudden result - get married
 
 # (Adverbs) Interrogative Adverbs  
 
