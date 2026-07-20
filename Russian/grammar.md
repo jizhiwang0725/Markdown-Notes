@@ -142,7 +142,6 @@
   - [Occurrence](#occurrence)
     - [Foreign loanwords](#foreign-loanwords)
     - [Native words](#native-words)
-- [(Adverbs) Interrogative Adverbs](#adverbs-interrogative-adverbs)
 - [(Tenses) Present Tense](#tenses-present-tense)
   - ["To be" in present tense](#to-be-in-present-tense)
 - [(Tenses) Past Tense](#tenses-past-tense)
@@ -1439,21 +1438,6 @@ in front of the adjective
   Жениться (for man)  
   Imperfective: State/process - married  
   Perfective: Sudden result - get married
-
-# (Adverbs) Interrogative Adverbs  
-
-- They are all **indeclinable**. 
-
-  | Russian | English | Usage 
-  | :---: | :---: | :---
-  | Откуда | From where / Where...from | Source of the info
-  | Где | Where at | Static location 
-  | Куда | Where to | Direction or motion towards a place 
-  | Как | How | Greeting, ask about how things are done
-  | Когда | When | Ask for what time the event will occur
-  | Сколько | How much / many | Ask for how much it cost, or age
-  | Почему | Why (Because) | Asks what causes some event to occur
-  | Зачем | Why (In order to) | Asks for what purpose some event occurred
 
 # (Tenses) Present Tense
 ## "To be" in present tense

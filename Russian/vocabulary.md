@@ -121,6 +121,7 @@
     - [+ Genitive](#-genitive-7)
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
+- [Interrogative Adverbs](#interrogative-adverbs)
 - [Prefixes](#prefixes)
   - [Nouns](#nouns)
 - [Naming System](#naming-system)
@@ -152,8 +153,6 @@
     - [Next hour](#next-hour)
   - [Asking times](#asking-times)
 - [Classes](#classes)
-- [Word orders](#word-orders)
-  - [Adverbs](#adverbs-1)
 - [Nationalities](#nationalities)
   - [Special notes](#special-notes)
   - [Endings with -ец, -ка, -цы](#endings-with--ец--ка--цы)
@@ -940,12 +939,33 @@ Letters **б, п, в, ф and м**
   
 # Word order 
 ## Adverbs
-- When answering the question **как**, the adverb comes last 
+- In Russian, adverbs are usually **preceding verbs**:  
+  Ты **хорошо** говоришь по-русски.  
+  (You speak Russian well)
+
+- **Answering**  
+  In answering the question **как**, the adverb comes last.  
 
   -Как вы говорите по-русски?  
-  (How well do you speak Russian?)  
-  -Я говорите хорошо.  
-  (I speak well.)
+  (How do you speak Russian?)  
+  -Я говорю **хорошо**.  
+  (I speak it well.)  
+
+# Interrogative Adverbs  
+
+- They are all **indeclinable**. 
+
+  | Russian | English | Usage 
+  | :---: | :---: | :---
+  | Откуда | From where / Where...from | Source of the info
+  | Где | Where at | Static location 
+  | Куда | Where to | Direction or motion towards a place 
+  | Как | How | Greeting, ask about how things are done
+  | Когда | When | Ask for what time the event will occur
+  | Сколько | How much / many | Ask for how much it cost, or age
+  | Почему | Why (Because) | Asks what causes some event to occur
+  | Зачем | Why (In order to) | Asks for what purpose some event occurred
+
 
 # Prefixes 
 
@@ -1197,21 +1217,6 @@ Letters **б, п, в, ф and м**
 | Лекция | Class session<br> Lecture | Когда наша первая лекция?<br> (When is our first class(lecture))  
 | Группа | Section | Мы в одной группе<br> We are in the same section 
 | Аудитория | College classroom | Почему мы в такой маленькой аудитории?<br> (Why are we in such a small classroom?)  
-
-
-# Word orders
-## Adverbs
-In Russian, adverbs are usually **preceding verbs**:  
-Ты **хорошо** говоришь по-русски.  
-(You speak Russian well)
-
-**Answering**  
-In answering the question **как**, the adverb comes last.  
-
--Как вы говорите по-русски?  
-(How do you speak Russian?)  
--Я говорю **хорошо**.  
-(I speak it well.)  
 
 # Nationalities 
 ## Special notes
