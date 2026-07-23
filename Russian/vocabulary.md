@@ -17,31 +17,6 @@
 
 <strong>Table of Contents</strong>
 
-- [Alphabets](#alphabets)
-  - [Soft and hard sign](#soft-and-hard-sign)
-    - [Soft sign - ь](#soft-sign---ь)
-    - [Hard sign - ъ](#hard-sign---ъ)
-  - [Soft and hard vowels](#soft-and-hard-vowels)
-  - [Soft and hard consonants](#soft-and-hard-consonants)
-    - [Fixed](#fixed)
-    - [Hard](#hard)
-    - [Soft](#soft)
-- [Pronunciation](#pronunciation)
-  - [Vowel reduction](#vowel-reduction)
-  - [Voiced and voiceless consonants (Final devoicing)](#voiced-and-voiceless-consonants-final-devoicing)
-    - [Voiced](#voiced)
-    - [Voiceless](#voiceless)
-    - [Pairs](#pairs)
-    - [Voiced-voiceless assimilation](#voiced-voiceless-assimilation)
-  - [Labial consonants](#labial-consonants)
-  - [Special consonant combinations](#special-consonant-combinations)
-    - [Чт = шт](#чт--шт)
-    - [Ого/его = ово/ево](#огоего--овоево)
-    - [Тся/ться = ца](#тсяться--ца)
-    - [Сч/зч/жч = щ](#счзчжч--щ)
-    - [Silent consonants](#silent-consonants)
-    - [Consonant clusters](#consonant-clusters)
-    - [Double consonants](#double-consonants)
 - [Conjunctions](#conjunctions)
   - [Definition](#definition)
   - [And - И](#and---и)
@@ -50,6 +25,9 @@
     - [But](#but)
     - [But rather](#but-rather)
     - [Questions about additional information](#questions-about-additional-information)
+  - [Except that - Только](#except-that---только)
+    - [Expect that](#expect-that)
+    - [As soon as](#as-soon-as)
   - [Although - Хотя](#although---хотя)
     - [Although](#although)
     - [At least](#at-least)
@@ -80,6 +58,7 @@
     - [Soften a negative](#soften-a-negative)
     - [Add strong emphasis](#add-strong-emphasis)
   - [Not a single - Ни](#not-a-single---ни)
+  - [Only - Только](#only---только)
 - [Prepositions](#prepositions)
   - [Collection](#collection)
   - [У](#у)
@@ -119,11 +98,12 @@
     - [+ Genitive](#-genitive-6)
   - [До](#до)
     - [+ Genitive](#-genitive-7)
+  - [К](#к)
+    - [К or ко?](#к-or-ко)
+    - [+ Dative](#-dative-1)
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
 - [Interrogative Adverbs](#interrogative-adverbs)
-- [Prefixes](#prefixes)
-  - [Nouns](#nouns)
 - [Naming System](#naming-system)
   - [Composition](#composition)
     - [First name (Имя)](#first-name-имя)
@@ -166,162 +146,6 @@
 </div>
 
 <div class="main-content">
-
-# Alphabets
-## Soft and hard sign
-
-### Soft sign - ь
-- Indicates that the preceding consonant is **palatalized**. 
-
-- Before a vowel it also indicates a **full [y]** sound between the consonant and vowel.  
-
-  Налёт - air raid  
-  Нальёт - will pour
-
-### Hard sign - ъ  
-- It keeps the preceding consonant hard, even if it is followed by a soft vowel.  
-- Often seen it **between a prefix that ends in a consonant** and **a root that begins with е, ё, ю, or я**.
-  
-  Под + езд = под**ъ**езд  
-  (Building entrance)
-
-## Soft and hard vowels  
-
-  ||||||||
-  | -- | -- | -- | -- | -- | -- | -- 
-  | Hard | а | э | о | ы | у | ъ 
-  | Soft | я | е | ё | и | ю | ь 
-
-## Soft and hard consonants 
-
-### Fixed  
-
-|||||
-| :---: | :---: | :---: | :---:
-| Hard | ж | ш | ц 
-| Soft | ч | щ | й 
-
-### Hard
-
-- A hard consonant is pronounced as it should be
-- Consonants that are followed by:
-  - A hard vowel (а, о, у, э, ы).
-  - Another consonant.  
-  - Nothing.  
-  - A hard sign ъ.  
-
-### Soft  
-
-- A vowel letters (я, е, ё, и, ю) + soft sign (ь) indicate that the **preceding consonant is palatalized (soft).**
-
-- A **palatalized** consonant sounds like a **consonant plus the [y] sound** of "yes" pronounced at the exact same time.
-
-# Pronunciation 
-
-## Vowel reduction
-
-- Any **'о'** that are **ONE syllabus** before the stress are pronounced 'a'.     
-
-  We write: М**о**сква  
-  We say: М**а**сква  
-
-- Any **'а'/'о'** that are **MORE than one** syllable before the stress and anywhere **AFTER** the stress are pronounced "uh".    
-
-  We write: Колорадо  
-  We say: К **"uh"** л**а** ра&#769; д **"uh"**
-
-- Any **'я'/'е'** that are **NOT at the end of a word and NOT stressed** are pronounced "I (ih)". Vowel **'я'** at the end of a word when **unstressed** is pronounced "yuh".  
-
-  We write: Петербург, Япония  
-  We say: ПI тIр буг, YI по ни yuh  
-
-
-## Voiced and voiceless consonants (Final devoicing)
-
-### Voiced 
-- Alphabets that are always **voiced**  
-  л, м, н, р, й
-
-### Voiceless
-- Alphabets that are always **voiceless**  
-  х, ц, ч, щ
-
-### Pairs
-
-- When a **voiced consonant** is at the **end** of the word, it is pronounced voiceless.    
-
-  | Voiced | Voiceless | We write: | We say: 
-  | :---: | :---: | :---: | :---:
-  | в | ф | Чехо**в** | Чехо**ф**
-  | з | с | дбжа**з** | дбжа**с**
-  | ж | ш | гара**ж** | гара**ш**
-  | б | п | сна**б** | сна**п**
-  | г | к | марке&#769;тин**г** | марке&#769;тин**к**
-  | д | т | Мадри&#769;**д** | Мадри&#769;**т**
-
-### Voiced-voiceless assimilation  
-- When voiced and voiceless consonants are adjacent to each other, the nature of the second consonant dictates the nature of the first.    
-
-  Voiced + **voiceless** → voiceless + voiceless  
-  **в К**иеве → **ф К**иеве
-
-  voiceless + **voiced** → voiced + voiced  
-  баске**тб**ол → баске**дб**ол
-
-## Labial consonants
-- A sound made with your lip
-Letters **б, п, в, ф and м**
-
-## Special consonant combinations 
-### Чт = шт
-- Mostly applies to "что" and its derivation. In regular words like "почта", it stays normal.   
-
-  **Чт**о, **Чт**обы   
-
-### Ого/его = ово/ево
-
-- Нич**его**, С**его**дня, Красн**ого**  
-
-### Тся/ться = ца
-
-- Verb ending in -тся (he/she/it does).   
-  Нрав**ится**  
-
-- Infinitive verbs ending in -ться.   
-  Учи**ться**  
-
-### Сч/зч/жч = щ
-
-- **Сч**астье, **Сч**ёт
-
-### Silent consonants
-
-- Вств - drops the first в.  
-  Здра **(в)ств**уйте, Чу **(в)ств**о
-
-- Лнц - drops the л.  
-  Со **(л)нц**е  
-
-- Стн - drops the т.  
-  Изве**с(т)н**ый  
-
-### Consonant clusters
-
-- Тс/дс = ц  
-  Горо**дс**кой, Де**тс**кий
-
-- Сш/зш = шш   
-  Вы**сш**ий, Бе**з ш**ума
-
-- Сж/зж = жж  
-  **Сж**ечь, По**зж**е, Бе**з ж**ены  
-
-- Тч/дч = чч  
-  Перево**дч**ик, Лё**тч**ик  
-
-### Double consonants 
-
-- Pronounce it for a bit **longer**.  
 
 # Conjunctions
 
@@ -376,6 +200,19 @@ Letters **б, п, в, ф and м**
   (At home we speak Ukrainian.)  
   -**А** откуда вы знаете украинский язык?  
   (And how do you know Ukrainian?)  
+
+## Except that - Только
+### Expect that 
+- Used **similar to "но",** it introduces a contrast, reservation, or exception to the previous clause.  
+
+  Я бы с удовольствием пошёл **только** у меня совсем нет времени.  
+  (I would gladly go, except I have absolutely no time.)
+
+### As soon as 
+- **Often combined with как**  
+
+  Позвони мне, **как только** приедешь.  
+  (Call me as soon as you arrive.)
 
 ## Although - Хотя 
 
@@ -432,8 +269,12 @@ Letters **б, п, в, ф and м**
   (He works like a machine)
 
 ## Such as - Такие как
-- **Listing examples**
-  
+- **Listing examples**  
+  The **category of the items** about to list can be added in between those two words.   
+
+  Студенты нашего филологического факультета **изучают такие языки, как** французский и испанский, а также экзотические, **как** урду или банту.  
+  (Students of our philosophy department studies language such as France and Spanish, and Urdu or Bantu for economic)
+
   Я изучаю языки программирования, **такие как** Java и Python.  
   (I study programming languages, such as Java and Python.)
   
@@ -548,6 +389,15 @@ Letters **б, п, в, ф and м**
 ## Not a single - Ни
 - На небе нет **ни** облачка.  
   (There is not a single cloud in the sky.)
+
+## Only - Только 
+- **Limiting an amount/object/action**  
+  У меня есть **только** один вопрос.  
+  (I only have one question.)
+
+- **Adding emphasis**  
+  Если бы **только** я знал!  
+  (If only I had known!)
 
 
 # Prepositions 
@@ -936,6 +786,38 @@ Letters **б, п, в, ф and м**
   Магазин предлагает скидку **до** пятидесяти процентов.  
   (The store offers up to 50% discount)
   
+## К 
+
+### К or ко?  
+- When the following word starts with certain consonant combinations, particularly those **starting with "м" or "в"**
+  
+  **Ко** мне.   
+  (To me.)
+
+### + Dative
+- **Spatial direction**  
+  **Approaching a target**, moving toward a specific point, or going to see a person 
+
+  Он подошёл **к** окну.  
+  (He walked up to the window.)  
+
+  Завтра я иду **к** врачу.  
+  (Tomorrow I am going to the doctor.)  
+
+- **Time, deadline**  
+  Indicates a **deadline or a point in time** by which an action will be completed or state will be reached
+
+  Я закончу работу **к** пяти часам.  
+  (I will finish work by five o'clock.)
+
+- **Abstract relationships and attitudes**  
+  Express **an attitude, a relationship, or an attachment toward someone or something.** It links a feeling or an action to its recipient.  
+
+  Как вы относитесь **к** этой идее?  
+  (How do you feel about/relate to this idea?)  
+
+  Я привык **к** холодному климату.  
+  (I got used ot the cold climate)
   
 # Word order 
 ## Adverbs
@@ -965,22 +847,6 @@ Letters **б, п, в, ф and м**
   | Сколько | How much / many | Ask for how much it cost, or age
   | Почему | Why (Because) | Asks what causes some event to occur
   | Зачем | Why (In order to) | Asks for what purpose some event occurred
-
-
-# Prefixes 
-
-## Nouns
-
-| Common prefix | Meaning | Base word | New word  
-| :---: | :---: | :---: | :---: 
-| не- | Un-, Non- or the opposite | правда<br> (truth) | неправда<br> (lie)
-| без-/бес- | Without, lack of | порядок<br> (happiness) | беспорядок<br> (misfortune)
-| со- | Joint | автор<br> (author) | cо-автор<br> (co-author)
-| пра- | Great- | дедушка<br> (grandfather) | прадедушка<br> (great-grandfather)
-| под- | Sub-, under | вид<br> (species) | подвид<br> (subspecies) 
-| сверх- | Super-, over, beyond | человек<br> (human) | сверхчеловек<br> (super-human)
-
-- Some nouns are derived from verbs that already have a prefix. In these cases, the noun simply inherits the prefix from the verb.  
 
 
 # Naming System
