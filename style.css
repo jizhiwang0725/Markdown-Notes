@@ -1,67 +1,113 @@
+/* =========================================
+   Base Elements
+   ========================================= */
 body {
-  font-family: Tahoma, sans-serif;
-  font-size:   1.2rem;
+  /* Background */
   background-color: #2A252A;
-  color:            #F5F2EB;
-  padding: 20px
-}
-
-p {
-  margin-bottom: 1.1rem; 
-}
-
-h1 {
-  text-decoration: none;
-  background-color: rgb(23, 20, 20);
-  text-align: center;
+  color: #F5F2EB;
   padding: 20px;
-  border-radius: 20px;
-  border-color: white;
-  border-style: dotted;
-  border-width: 5px;
-}
 
-h2 {
-  text-decoration: underline;
-  border-bottom: 2px solid #D5DAD5;
-  margin-bottom: 1rem;
-}
-
-h3 {
-  font-size: 0.5cm;
-  border-bottom: 2px dashed #D5DAD5;
-}
-
-strong {
-  color: #E9C46A;
-  /* background-color: #100f10; */
-}
-
-
-.toc-sidebar {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  max-height: 90vh;
-  overflow-y: auto;
-  z-index: 100;
-  width: 30%; 
-  margin: 0 0 15px 20px; 
-  padding: 15px; 
-  border-radius: 5px; 
-  background-color: #2A252A; 
-}
-
-
-.main-content {
-  width: 65%;
-  margin-left: 1%;
-}
-
-.image-right {
-  margin-left: 5%;
-  margin-right: 1%;
-
+  /* Font */
+  font-family: Tahoma, sans-serif;
+  font-size: 1.2rem;
   
 }
 
+p {
+  margin-bottom: 1rem; 
+}
+
+strong {
+  /* Text */
+  color: #E9C46A;
+}
+
+/* =========================================
+   Headings
+   ========================================= */
+h1 {
+  /* Background */
+  background-color: #171414; 
+  padding: 20px;
+  border-radius: 20px;
+  border: 5px dotted #FFFFFF; 
+
+  /* Text */
+  text-decoration: none;
+  text-align: center;
+}
+
+h2 {
+  /* Background */
+  padding: 10px; 
+
+  /* Border */
+  border-bottom: 2px solid #E9C46A !important;
+  border-top: 2px solid #E9C46A !important;
+}
+
+h3 {
+  /* Text */
+  font-size: 1.5rem;
+
+  /* Background */
+  padding: 5px 5px 5px 10px; /* Top, Right, Bottom, Left */
+
+  /* Border */
+  border-top: 2px dashed #D5DAD5;
+  border-bottom: 2px dashed #D5DAD5;
+}
+
+/* =========================================
+   Layout & Containers
+   ========================================= */
+
+/* The main text area */
+.main-content {
+  /* Background */
+  width: 65%; 
+  margin-right: auto; 
+}
+
+/* The Table of Contents */
+.toc-sidebar {
+  /* Position */
+  position: fixed; 
+  top: 20px;
+  right: 20px;
+  z-index: 100;
+  
+  /* Background */
+  width: 30%; 
+  max-height: 95vh; 
+  overflow-y: auto; 
+}
+
+/* =========================================
+   Tables
+   ========================================= */
+table {
+  /* Background */
+  display: block; 
+  width: max-content; 
+  max-width: 100%; 
+  padding: 5px;
+  
+  /* Scroll */
+  overflow-x: auto; 
+  white-space: nowrap; 
+}
+
+/* =========================================
+   Responsive Design (Media Queries)
+   ========================================= */
+@media screen and (max-width: 800px) {
+  .toc-sidebar {
+    display: none !important; /* Hides TOC on smaller windows */
+  }
+  
+  .main-content {
+    width: 100%; /* Allows text to expand and prevents overlap */
+    padding-right: 20px !important; 
+  }
+}
