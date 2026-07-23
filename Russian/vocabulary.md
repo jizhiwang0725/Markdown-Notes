@@ -7,58 +7,50 @@
 - <a href="./grammar.md">Grammar</a>  
 - <a href="./words.md">Words</a>
 
-<strong>Annotations</strong>  
-
-- <a href="./grammar.md#the-5-letter-spelling-rule">(5) - The 5-letter Spelling rule<a>
-- <a href="./grammar.md#the-7-letter-spelling-rule">(7) - The 7-letter Spelling rule<a>
-- <a href="./grammar.md#the-8-letter-spelling-rule">(8) - The 8-letter Spelling rule<a>
-- (& #769;) - Stress
-
-
 <strong>Table of Contents</strong>
 
 - [Conjunctions](#conjunctions)
   - [Definition](#definition)
-  - [And - И](#and---и)
-  - [But - Но](#but---но)
-  - [But/and - А](#butand---а)
+  - [And (И)](#and-и)
+  - [But (Но)](#but-но)
+  - [But/and (А)](#butand-а)
     - [But](#but)
     - [But rather](#but-rather)
     - [Questions about additional information](#questions-about-additional-information)
-  - [Except that - Только](#except-that---только)
+  - [Except that (Только)](#except-that-только)
     - [Expect that](#expect-that)
     - [As soon as](#as-soon-as)
-  - [Although - Хотя](#although---хотя)
+  - [Although (Хотя)](#although-хотя)
     - [Although](#although)
     - [At least](#at-least)
   - [Because/Since](#becausesince)
     - [Потому что](#потому-что)
     - [Так как](#так-как)
     - [Ведь](#ведь)
-  - [That - Что](#that---что)
-  - [Like - Как](#like---как)
+  - [That (Что)](#that-что)
+  - [Like (Как)](#like-как)
   - [Such as - Такие как](#such-as---такие-как)
-  - [Neither - Ни](#neither---ни)
-  - [Therefore - Так что](#therefore---так-что)
+  - [Neither (Ни)](#neither-ни)
+  - [Therefore (Так что)](#therefore-так-что)
 - [Conjunctive Words](#conjunctive-words)
   - [Definition](#definition-1)
-  - [Where - Где](#where---где)
-  - [Which/that - Что](#whichthat---что)
-  - [How - Как](#how---как)
-  - [Than - Чем](#than---чем)
+  - [Where (Где)](#where-где)
+  - [Which/that (Что)](#whichthat-что)
+  - [How (Как)](#how-как)
+  - [Than (Чем)](#than-чем)
 - [Emphatic Particles](#emphatic-particles)
   - [Definition](#definition-2)
-  - [Also (adds objects) - Тоже](#also-adds-objects---тоже)
-  - [Also (adds subjects) - Также](#also-adds-subjects---также)
-  - [After all - Ведь](#after-all---ведь)
-  - [Even - Даже](#even---даже)
+  - [Also (adds objects) (Тоже)](#also-adds-objects-тоже)
+  - [Also (adds subjects) (Также)](#also-adds-subjects-также)
+  - [After all (Ведь)](#after-all-ведь)
+  - [Even (Даже)](#even-даже)
     - [Even](#even)
     - [Even if](#even-if)
-  - [Very - Уж](#very---уж)
+  - [Very (Уж)](#very-уж)
     - [Soften a negative](#soften-a-negative)
     - [Add strong emphasis](#add-strong-emphasis)
-  - [Not a single - Ни](#not-a-single---ни)
-  - [Only - Только](#only---только)
+  - [Not a single (Ни)](#not-a-single-ни)
+  - [Only (Только)](#only-только)
 - [Prepositions](#prepositions)
   - [Collection](#collection)
   - [У](#у)
@@ -104,51 +96,14 @@
 - [Word order](#word-order)
   - [Adverbs](#adverbs)
 - [Interrogative Adverbs](#interrogative-adverbs)
-- [Naming System](#naming-system)
-  - [Composition](#composition)
-    - [First name (Имя)](#first-name-имя)
-    - [Patronymic/Middle name (Отчество)](#patronymicmiddle-name-отчество)
-    - [Family name/Surname (Фамилия)](#family-namesurname-фамилия)
-    - [Nickname (Прозвище)](#nickname-прозвище)
-  - [Daily usage](#daily-usage)
-  - [Spoken formal address](#spoken-formal-address)
-  - [Official written documents](#official-written-documents)
-- [Number System](#number-system)
-  - [Numbers in nominative](#numbers-in-nominative)
-    - [1-10](#1-10)
-    - [11-19](#11-19)
-    - [20-90](#20-90)
-    - [100-900](#100-900)
-    - [1000](#1000)
-  - [General rules for nouns following](#general-rules-for-nouns-following)
-  - [Ordinal numbers](#ordinal-numbers)
-- [Days and Times](#days-and-times)
-  - [Asking day](#asking-day)
-  - [24-hour](#24-hour)
-    - [Official announcement](#official-announcement)
-    - [Spoken](#spoken)
-  - [Time of the day words](#time-of-the-day-words)
-  - [12-hour](#12-hour)
-    - [On the dot (exact hour)](#on-the-dot-exact-hour)
-    - [Next hour](#next-hour)
-  - [Asking times](#asking-times)
-- [Classes](#classes)
-- [Nationalities](#nationalities)
-  - [Special notes](#special-notes)
-  - [Endings with -ец, -ка, -цы](#endings-with--ец--ка--цы)
-  - [Endings with -нин, -нка, -не](#endings-with--нин--нка--не)
-  - [Special endings (with no -ец)](#special-endings-with-no--ец)
-- [Studying](#studying)
 - [Something and Anything](#something-and-anything)
   - [Something (-то)](#something--то)
   - [Anything (-нибудь)](#anything--нибудь)
 
 </div>
-
 <div class="main-content">
 
 # Conjunctions
-
 ## Definition
 - Used to connect two different clauses. A clause is referred to a "mini sentence", which consist of **"a subject" and "a verb (predicate)".**
 
@@ -156,20 +111,20 @@
 
 - **ALWAYS preceded by commas (except и)**.
 
-## And - И  
+## And (И)  
 - When two things **are the same**. There is no contrast
 - The subject for the second clause is discarded to prevent duplication.  
 
   Максим живёт **и** учится в Москве.  
   (Maxims lives and studies in Moscow.)  
 
-## But - Но 
+## But (Но) 
 - **ONE contrast**. Two different comments are said about **ONE thing**.
 
   Анна изучает русский язык, **но** говорит ещё плохо.  
   (Anna takes Russian, but she still speaks poorly.)  
 
-## But/and - А 
+## But/and (А) 
 
 ### But
 - With **TWO contrasts**. Two different comments are made about TWO different topics.
@@ -201,7 +156,7 @@
   -**А** откуда вы знаете украинский язык?  
   (And how do you know Ukrainian?)  
 
-## Except that - Только
+## Except that (Только)
 ### Expect that 
 - Used **similar to "но",** it introduces a contrast, reservation, or exception to the previous clause.  
 
@@ -214,7 +169,7 @@
   Позвони мне, **как только** приедешь.  
   (Call me as soon as you arrive.)
 
-## Although - Хотя 
+## Although (Хотя) 
 
 ### Although
 - **Use on its own.**  
@@ -252,7 +207,7 @@
   Я не пошёл гулять, **ведь** на улице дождь.  
   (I didn't go for a walk, because/since it is raining outside.)
 
-## That - Что 
+## That (Что) 
 - Used as a pure conjunction to introduce a **subordinate clause**.  
 - The use of что is **NOT optional**. It shows that the **two verbs** belong to the same thought process. 
 
@@ -262,7 +217,7 @@
   Я знаю, **что** он дома  
   (I know that he is home.)
   
-## Like - Как 
+## Like (Как) 
 - **Used as a conjunction when making comparisons.** 
 
   Он работает, **как** машина.  
@@ -278,7 +233,7 @@
   Я изучаю языки программирования, **такие как** Java и Python.  
   (I study programming languages, such as Java and Python.)
   
-## Neither - Ни 
+## Neither (Ни) 
 - **Ни..., ни... meaning "neither... nor..."**  
   Usually goes **together with нет or не**.  
   
@@ -288,7 +243,7 @@
   Он **не** пьёт **ни** чай, **ни** кофе.  
   (HE drinks neither tea nor coffee.)
 
-## Therefore - Так что 
+## Therefore (Так что) 
 
 - Щёл дождь, **так что** я остался дома.  
   (It was raining, so I stayed home)
@@ -301,7 +256,7 @@
 - Acts as **an actual part** of the sentence. 
 - **ALWAYS preceded by commas**. 
 
-## Where - Где 
+## Where (Где) 
 - **Acts as the location for the second clause**.  
 - Almost **always** a conjunctive word.    
 
@@ -311,13 +266,13 @@
   Женя спрашивает, **где** учится Иван.  
   (Zhenya asks **where** Ivan goes to school.)
 
-## Which/that - Что
+## Which/that (Что)
 - When it **replaces a noun**.  
 
   Я читаю книгу, **что** лежит на столе.  
   (I am reading the book that is lying on the table.)
 
-## How - Как 
+## How (Как) 
 - When used to describe the **manner** in which something happened.   
 
   Я видел, **как** она танцует.  
@@ -326,7 +281,7 @@
   Но я не знаю, **как** он учится.  
   (But I don't know **how** he does in school.) 
 
-## Than - Чем 
+## Than (Чем) 
 - Used with **comparative adjectives**
 - Often seen with тем.  
   
@@ -337,19 +292,18 @@
   (The faster, the better.) 
 
 # Emphatic Particles
-
 ## Definition
 - Add **emphasis, limitation, or emotional flavour** to a specific word or the whole sentence without changing the grammatical structure.
 
 - A **comma** before is **not necessary**.
 
-## Also (adds objects) - Тоже 
+## Also (adds objects) (Тоже) 
 - The **same object** is shared among **different subjects**
 
   Анна говорит по-русски. Её друг **Виктор** **тоже**.  
   (Anna speaks Russian. Her friend Victor does too.)
 
-## Also (adds subjects) - Также 
+## Also (adds subjects) (Также) 
 - **Adding new information** to the **same subject**.  
 
 - When connect two items in a list within the same sentence, "a" should be added.  
@@ -357,13 +311,13 @@
   Анна говорит по-английски, **а также** по-русски.  
   (Anna speaks English, as well as Russian.)
 
-## After all - Ведь  
+## After all (Ведь)  
 - Translates roughly to **"after all," "you know," "isn't it so," or "you see."**
   
   **Ведь** это правда!
   (It is the truth, isn't it!)
 
-## Even - Даже 
+## Even (Даже) 
 
 ### Even
 - When the word is embedded inside the sentence, it is used to **highlight specific words**.  
@@ -377,7 +331,7 @@
   Я пойду гулять, **даже если** будет дождь.  
   (I will go for a walk, even if it rains.)
 
-## Very - Уж  
+## Very (Уж)  
 ### Soften a negative
 - Не так **уж** плохо.  
   (Not so bad.)
@@ -386,11 +340,11 @@
 - Я **уж** не знаю, что делать!  
   (I really just don't know what to do!)
 
-## Not a single - Ни
+## Not a single (Ни)
 - На небе нет **ни** облачка.  
   (There is not a single cloud in the sky.)
 
-## Only - Только 
+## Only (Только) 
 - **Limiting an amount/object/action**  
   У меня есть **только** один вопрос.  
   (I only have one question.)
@@ -413,7 +367,6 @@
 | Dative | к<br> по | Towards/to someone/by sometime/for the purpose of<br> Across/along/communication/subjects/distribution
 
 ## У 
-
 ### + Genitive
 
 - **Possession**  
@@ -787,7 +740,6 @@
   (The store offers up to 50% discount)
   
 ## К 
-
 ### К or ко?  
 - When the following word starts with certain consonant combinations, particularly those **starting with "м" or "в"**
   
@@ -847,299 +799,6 @@
   | Сколько | How much / many | Ask for how much it cost, or age
   | Почему | Why (Because) | Asks what causes some event to occur
   | Зачем | Why (In order to) | Asks for what purpose some event occurred
-
-
-# Naming System
-
-## Composition
-
-### First name (Имя)
-
-### Patronymic/Middle name (Отчество)
-- From father's first name.  
-
-- Unless they become citizens of Russia, foreigners do not have an отчество.  
-
-- Russians start using their отчество in adulthood. 
-  | Daughter | Son
-  | :---: | :---: 
-  | -овна/-евна | -ович/-евич
-
-
-### Family name/Surname (Фамилия)
-
-### Nickname (Прозвище)
-
-- Nickname cannot be combined with an отчество.   
-
-## Daily usage
-
-- **First name + Last name**  
-  Имя + Фамилия  
- 
-## Spoken formal address
-
-- **First name + Middle name**  
-  Имя + Отчество
-
-- When you are speaking formally to someone - like a teacher, a doctor, an older person, or a boss.  
-
-## Official written documents  
-
-- **Last name + First name + Middle name**  
-  Фамилия + Имя + Отчество 
-
-- In highly formal, bureaucratic, or official written contexts (like passports, legal documents, school rosters, or government forms). 
-
-# Number System   
-
-## Numbers in nominative  
-
-### 1-10
-| Number | Nominative
-| :---: | :---: 
-| 1 | Один (masc.)<br> Одно (neu.)<br> Одна (fem.)
-| 2 | Два (masc./neu.)<br> Две (fem.)
-| 3 | Три
-| 4 | Четыре
-| 5 | Пять
-| 6 | Шесть 
-| 7 | Семь
-| 8 | Восемь
-| 9 | Девять
-| 10 | Десять
-
-- **Gender matching for 1 and 2**  
-  The numbers that end with 1 and 2 must **change their spelling** to match the gender for the noun.  
-
-### 11-19
-
-- For teens, remove the soft sign and add the ending **-на + дцать** (x on top of ten)
-
-- **Special case:**  
-  Twelve uses the feminine word of two  
-  12: **Две**надцать  
-
-### 20-90
-
-- **Group A (20 and 30)**  
-  Add -дцать to the root
-
-  20: **Два**дцать  
-  30: **Три**дцать
-
-- **Group B (50-80)**  
-  Add -дцать and keep the soft sign
-
-  50: **Пять**десят  
-  60: **Шесть**десят   
-  70: **Семь**десят  
-  80: **Восемь**десят  
-   
-- **Irregulars (40 and 90)**  
-  40: Сорок  
-  90: Девяносто  
-
-### 100-900
-- **Root + words for hundreds follows the cases** 
-
-  | Nominative singular | Genitive singular | Genitive plural 
-  | :---: | :---: | :---: 
-  | Cто | Ста | Сот 
-
-- **Special case:**  
-  For two hundred, it uses the feminine root.  
-
-  200: Двест**и**
-
-### 1000 
-
-- Same as hundreds, but they are two separate words.  
-
-  | Nominative singular | Genitive singular | Genitive plural 
-  | :---: | :---: | :---:
-  | Тысяча | Тысячи | Тысяч
-
-## General rules for nouns following
-| Number ends in | The case of the noun followed  
-| :---: | :---: 
-| 1 (except 11) | Nominative singular  
-| 2, 3, 4 (except 12-14) | Genitive singular
-| 0, 5-9 (and 11-14) | Genitive plural  
-
-
-## Ordinal numbers 
-
-- Ordinal numbers act like **adjectives**, which means they must match the noun they describe in case, gender, and number.   
-
-  | English | Masculine (Nominative)  
-  | :---: | :---:
-  | First | Первый 
-  | Second | Второй 
-  | Third | Третий (irr (-ь))
-  | Others | Regular nouns with -ый/-ой endings<br> depends on soft/hard stem  
-
-# Days and Times  
-
-## Asking day
-
--Какой сегодня день?  
-(What day is it?)  
--Сегодня среда.  
-(It's Wednesday.)  
-
--В какой день(дни) ...?  
-(On what day(days)...?)  
--Во вторник.  
-(On Tuesday.)  
-
-## 24-hour 
-
-|| Nominative singular | Genitive singular | Genitive plural  
-| :---: | :---: | :---: | :---:
-| Hour(s) | Час | Часа | Часов
-| Minute(s) | Минута | Минуты | Минут  
-
-### Official announcement
-- **x hour + y minute**  
-  Пятнадцать часов тридцать минут.  
-  (15:30)
-
-### Spoken
-- **Number for hour + Number for minute**  
-  Двадцать ноль-ноль.  
-  (20:00)  
-
-## Time of the day words
-
-| Time | Nominative |  Genitive | Instrument
-| :---: | :---: | :---: | :---:
-| Night (12-5 am) | Ночь | Ночи | Ночью
-| Morning (5-12 am) | Утро | Утра | Утром
-| Afternoon (12-4 pm) | День | Дня | Днём 
-| Evening (5 pm-12 am) | Вечер | Вечера | Вечером
-
-- Depends on the sunrise, the usage of **night and morning** is interchangeable.  
-
-- **Number + hour with corresponding case + time of the day in genitive (meaning "of")**  
-  
-  Пять часов дня.  
-  (Five hours of the day)
-
-- **Instrumental case** means **"during"**  
-  Завтра утром.  
-  (Yesterday morning.)
-
-- It always goes to the **very end** of the sentence just like English.  
-
-
-## 12-hour 
-
-### On the dot (exact hour)
-- **[Hour in nominative] + [Hour(s) (different cases)]**
-
-  Пять часов 
-  (5:00)  
-
-### Next hour  
-- When the clock passes the top of the hour, Russians stop talking about the current hour and start talking about the next hour.  
-
-- **The first half (1-29)**  
-   [Minutes in **nominative**] + [Minute(s) (different cases)]+ [NEXT hour as a **genitive ordinal**]
-
-   Десять минут **шестого**.  
-   (Ten minutes of the **6th** (**5**:10))
-
-- **Half past**  
-   Половина + [NEXT hour as a genitive ordinal]  
-
-   Половина **шестого**  
-   (Half of the **6th** (**5**:30))  
-
-- **The second half (31-59)**  
-   Без + [Remaining minutes in **genitive**] + [NEXT hour in **nominative**]  
-
-   Без десяти шесть.  
-   (Without ten, 6)
-
-## Asking times
-
--Сколько сейчас времени?  
-(What time is it?)  
--Сейчас 6 утра.  
-(It's 6 am)
-
--Во сколько...? 
-(At what time...?)  
--В 2 часа.  
-
-# Classes 
-| Russian | English | Example
-| :---: | :---: | :---: 
-| Курсы<br> Предмет | Course<br> Subject | Какие курсы ты слушаешь?<br> (What classes are you taking?)  
-| Урок | Class session | Сейчас русский язык. Урок в 10 часов.<br> (Russian is now. The class is at 10:00)  
-| Занятие<br> Занятия(plu)| College classes | Я сегодня весь день на занятиях<br> (I'm in class(es) all day)  
-| Пара | College class (90 min) | Первая пара в 9 часов<br> (Our first class of the day is at 9:00)  
-| Лекция | Class session<br> Lecture | Когда наша первая лекция?<br> (When is our first class(lecture))  
-| Группа | Section | Мы в одной группе<br> We are in the same section 
-| Аудитория | College classroom | Почему мы в такой маленькой аудитории?<br> (Why are we in such a small classroom?)  
-
-# Nationalities 
-## Special notes
-**Кто вы по национальности?**  
-(What is your nationality?)
-
-- In Russian, we use nouns only for the nationalities of people (Only Russian is an adjective).
-
-  | он | она | они
-  | :---: | :---: | :---:
-  | русский | русская | русские
-
-- Русский - ethnicity, culture, language  
-  Российский - citizenship, legal system, all ethnicities.
-
-- Names of countries are capitalized. Words for nationalities are not. 
-
-- Use nouns of nationality when they stand alone. Use adjectives to modify another noun.  
-
-  Джон американец.   
-  Джон американский студент.  
-
-## Endings with -ец, -ка, -цы
-| Nationality | он | она | они
-| :---: | :---: | :---: | :---:
-| American | американ**ец** | американ**ка** | американ**цы** 
-| Canadian | канад**ец** | канад**ка** | канад**цы**
-| Chinese | кита**ец** | кита(ян)**ка** | китай**цы** 
-| German | нем**ец** | нем**ка** | нем**цы** 
-| Italian | итальян**ец** | итальян**ка** | итальян**цы**
-| Japanese | япон**ец** | япон**ка** | япон**цы**
-| Mexican | мексикан**ец** | мексикан**ка** | мексикан**цы** 
-| Spanish | испан**ец** | испан**ка** | испан**цы**
-
-## Endings with -нин, -нка, -не  
-Often used for nationalities ending in **-я**
-
-| Nationality | он | она | они
-| :---: | :---: | :---: | :---:
-| English | англича**нин** | англича**нка** | англича**не**
-| Armenian | армя**нин** | армя**нка** | армя**не** 
-| Russian<br>citizen | россия**нин** | россия**нка** | россия**не**
-
-## Special endings (with no -ец)
-| Nationality | он | она | они
-| :--: | :---: | :---: | :---:
-| Arab |  араб | арабка | арабы
-| Kazakh | казах | казашка | казахи
-| French | француз | француженка | французы
-
-# Studying 
-| "Study" synonym | Russian verb | What it takes
-| :---: | :---: | :---: 
-| go to school<br> do well or poorly in school | учиться | -<br> где - в университете<br> как - хорошо, плохо
-| take | изучать<br> учить | историю, русский язык (acc.) 
-| do homework | заниматься<br> делать уроки<br> делать задания | -  
-
 
 # Something and Anything
 

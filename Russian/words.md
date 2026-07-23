@@ -7,7 +7,6 @@
 - <a href="./vocabulary.md">Vocabulary</a>  
 - <a href="./words.md">Words</a>
 
-
 <strong>Table of Contents</strong>  
 
 - [Alphabets](#alphabets)
@@ -60,30 +59,8 @@
     - [From noun (-овать/-евать)](#from-noun--овать-евать)
   - [Perfective verbs](#perfective-verbs-1)
     - [Sudden action (-нуть)](#sudden-action--нуть)
-- [Colours](#colours)
-- [Days of the Week](#days-of-the-week)
-- [Direction](#direction)
-  - [Cardinal directions](#cardinal-directions)
-  - [Navigational directions](#navigational-directions)
-- [Weather](#weather)
-  - [Adverbs and corresponding adjectives](#adverbs-and-corresponding-adjectives)
-  - [Weather forecast](#weather-forecast)
-- [Shopping](#shopping)
-- [Places](#places)
-- [To Love; To Like](#to-love-to-like)
-- [To Do Something](#to-do-something)
-  - [E/Ë-conjugation verbs](#eë-conjugation-verbs)
-  - [И-Conjugation verbs](#и-conjugation-verbs)
-- [Nutritional Composition](#nutritional-composition)
-  - [Daily values and intake](#daily-values-and-intake)
-  - [Measurement \& servings](#measurement--servings)
-  - [Common phrases](#common-phrases)
-  - [Basic nutritions](#basic-nutritions)
-  - [Minerals](#minerals)
-  - [Fats](#fats)
 
 </div>
-
 <div class="main-content">
 
 # Alphabets
@@ -106,13 +83,12 @@
 
 ## Soft and hard vowels  
 
-  ||||||||
-  | -- | -- | -- | -- | -- | -- | -- 
-  | Hard | а | э | о | ы | у | ъ 
-  | Soft | я | е | ё | и | ю | ь 
+||||||||
+| -- | -- | -- | -- | -- | -- | -- 
+| Hard | а | э | о | ы | у | ъ 
+| Soft | я | е | ё | и | ю | ь 
 
 ## Soft and hard consonants 
-
 ### Fixed  
 
 |||||
@@ -364,183 +340,6 @@ After the letters **к, г, х, ж, ч, ш, щ and ц** change **ю to у** and 
   
   Прыгать → Прыг**нуть**  
   (To be jumping up and down → To execute exactly one jump)
-
-
-# Colours 
-
-| Russian | English 
-| :--- | :---
-| Белый | White  
-| Чёрный| Black
-| Красный| Red 
-| Синий| Blue 
-| Голубой | Cyan 
-| Жёлтый | Yellow 
-| Фиолетовый | Purple 
-| Серый | Grey 
-| Зелёный | Green 
-| Коричневый | Brown
-| Бежевый | Nude
-| Оранжевый |Orange
-
-# Days of the Week 
-| English | Nominative | Accusative
-| :---: | :---: | :---:  
-| Monday | Понедельник | В понедельник
-| Tuesday | Вторник | Во вторник 
-| Wednesday | Среда | В среду  
-| Thursday | Четверг | В четверг
-| Friday | Пятница | В пятницу
-| Saturday | Суббота | В субботу 
-| Sunday | Воскресенье | В воскресенье  
-
-# Direction  
-## Cardinal directions
-| English | Noun | Adjective (Masculine) | Prepositional
-| :---: | :---: | :---: | :---:
-| North | Север | Северный | На севере
-| South | Юг | Южный | На юге
-| East | Восток | Восточный | На востоке 
-| West | Запад | Западный | На западе
-
-- To combine them, you take the first direction, **replace the ending with an -о**, and attach it to the second adjective.  
-
-## Navigational directions
-| English | Motion (Куда?) | Location (Где?)
-| :---: | :---: | :---:
-| Right | Направо | Справа
-| Left | Налево | Слева
-| Straight | Прямо | Прямо перед вами
-| Backward | Назад | Сзади
-
-# Weather
-## Adverbs and corresponding adjectives
-**Adverbs are used because of the missing "it's"**
-| Russian<br>(Adverb) | Adjective (Masculine) | English<br>(Adverb) 
-| :---: | :---: | :--: 
-| Прохладно | Прохладный | It's cool 
-| Холодно | Холодный | It's cold 
-| Жарка | Жаркий | It's hot 
-| Тепло&#769; | Теплый | It's warm 
-| Моро&#769;зно | Морозный | It's freezing 
-| Ветрено | Ветреный | It's windy 
-| Облачно | Облачный | It's cloudy  
-| Дождь | - | It's raining 
-| Снег | - | It's snowing   
-| Солнечно | Солнечный | It's sunny 
-
-## Weather forecast 
-Заморозки - frost  
-Град - hail 
-Гроза - thunderstorm  
-Переменная облачность - partial cloudiness   
-Пасмурно - overcast (A gray, dull sky completely covered by a layer of clouds)  
-Осадки - precipitation  
-Области - heavy  
-
-
-# Shopping  
-| Russian | English | 
-| :---: | :---: |
-| Акции | Children's | 
-| Товары | Goods; wares; products |
-| Авиа и ж/д билеты | Air and rail tickets |
-| Cад | Yard; garden |
-
-# Places  
-| Nominative | Prepositional (Plural) | English
-| :---: | :---: | :---: 
-| Квартира | В квартире (квартирах) | In the Apartment/flat
-| Университет | В университете (университетах) | In the university
-| Школа | В школе (школах) | In the school
-| Город | В городе (городах) | At the city
-| Библиотека | В библиотеке (библиотеках) | In the library
-| Улица | На улице (улицах) | On the street  
-| Стол | На столе (столах) | On the table
-| Cад | В саде (садех) | In the garden  
-
-# To Love; To Like
-Can take either a direct object in the accusative case or an infinitive:  
-
-Я люблю русскую литературу (I love Russian literature)  
-Я люблю читать русские книги (I love to read Russian books) 
-
-# To Do Something 
-## E/Ë-conjugation verbs
-
-- Normal & vowel stem  
-**Делать** - to do   
-**Завтракать** - eat breakfast  
-**Обедать** - eat lunch  
-**Ужинать** - eat supper   
-**Принимать (душ)** - take (a shower)  
-**Играть** - play  
-**Слушать** - listen  
-**Убирать** - straighten up   
-**Отдыхать** - relax  
-**Опаздывать** - be late  
-**Одеваться** - to dress (oneself) (reflexive)
-
-- Stressed endings  
-**Встаю** - get up (vowel stem)  
-**Идти** - go (foot) (consonant stem)  
-
-## И-Conjugation verbs  
-**Смотреть** - look at, watch 
-**Ложиться** - to lie down (reflexive)
-
-# Nutritional Composition 
-
-## Daily values and intake
-| English | Russian 
-| :---: | :---:
-| Nutritional table | Пищевая ценность
-| Recommended daily intake | Рекомендуемая суточная норма (РСН)
-| % of daily value | % от суточной нормы **(gen.)**
-| Daily requirement | Суточная потребность
-
-## Measurement & servings
-| English | Russian 
-| :---: | :---:
-| Per 100g/100ml | На 100г / 100 мл **(acc.)** продукта **(gen.)**
-| Per serving | На порцию **(acc.)** 
-| Serving size | Размер порции
-| Average value | Среднее значение 
-
-## Common phrases
-| English | Russian 
-| :---: | :---:
-| Expiration date/Shelf life | Срок годности (validity) **(gen.)**
-| Best before/Good until | Годен **(short)** до
-| Store at a temperature of | Хранить при температуре **(prep.)**
-| After opening | После вскрытия **(gen.)**
-| Non-GMO | Без ГМО **(gen.)**
-
-## Basic nutritions
-| English | Russian 
-| :---: | :---:
-| Proteins | Белки
-| Carbohydrates | Углеводы
-| Sugar | Сахар
-| Added sugar | Добавленный сахар
-| Salt | Соль
-| Dietary fibre | Пищевые волокна
-| Vitamin | Витамины
-
-## Minerals 
-| English | Russian 
-| :---: | :---:
-| Minerals | Минеральные вещества
-| Calcium | Кальций
-| Sodium | Натрий
-
-## Fats
-| English | Russian 
-| :---: | :---:
-| Fats | Жиры
-| Saturated fats | Насыщенные жирные кислоты 
-| Cholesterol | Холестерин
-| Trans fat | Трансжиры
 
 
 </div>

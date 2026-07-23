@@ -14,9 +14,7 @@
 - <a href="#the-8-letter-spelling-rule">(8) - The 8-letter Spelling rule<a>
 - (& #769;) - Stress
 
-
 <strong>Table of Contents</strong>
-
 
 - [(Cases) General Ending Patterns](#cases-general-ending-patterns)
   - [Nouns](#nouns)
@@ -143,27 +141,27 @@
 
 # (Cases) General Ending Patterns
 ## Nouns 
-**MASCULINE/NEUTER** nouns:  
+- **MASCULINE/NEUTER** nouns:  
 
   || Prepositional | Genitive<br> Accusative (ani.) | Dative | Instrumental
   | :---: | :---: | :---: | :---: | :---: 
   | Hard stem | -е | -а | -у | -ом
   | Soft stem | -е | -я | -ю | -ем
 
-**FEMININE** nouns:
+- **FEMININE** nouns:
 
   || Prepositional<br> Dative | Genitive | Accusative | Instrumental  
   | :---: | :---: | :---: | :---: | :---:
   | Hard stem | -е | -ы | -у | -ой
   | Soft stem | -е | -и | -ю | -ей
 
-**FEMININE -ь** nouns:
+- **FEMININE -ь** nouns:
 
   | Accusative | Instrumental | Other three 
   | :---: | :---: | :---:
   | No change | -ью | -и
 
-**PLURAL** nouns:
+- **PLURAL** nouns:
 
   || Nominative | Prepositional | Dative | Instrumental | Genitive<br> Accusative (ani.)
   | :---: | :---: | :---: | :---: | :---: | :---:

@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="../style.css">
-
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
@@ -7,15 +6,8 @@
 - <a href="./vocabulary.md">Vocabulary</a>
 - <a href="./words.md">Words</a>
 
-<strong>Annotations</strong>  
-
-- <a href="#the-5-letter-spelling-rule">(5) - The 5-letter Spelling rule<a>
-- <a href="#the-7-letter-spelling-rule">(7) - The 7-letter Spelling rule<a>
-- <a href="#the-8-letter-spelling-rule">(8) - The 8-letter Spelling rule<a>
-- (& #769;) - Stress
-
-
 <strong>Table of Contents</strong>
+
 - [At a Restaurant/Café](#at-a-restaurantcafé)
   - [Asking for a table and menu](#asking-for-a-table-and-menu)
     - [The restaurant is full](#the-restaurant-is-full)
@@ -49,9 +41,7 @@
 <div class="main-content">
 
 # At a Restaurant/Café
-
 ## Asking for a table and menu
-
 ### The restaurant is full
 
 - Здравствуйте! У вас есть свободные столики?
@@ -75,7 +65,6 @@
     (About twenty minutes.)
 
   - If you put the **noun before the number**, it automatically means **"approximately"**. Otherwise, it means **"exactly"**.  
-
 
 ### Getting the menu
 - У вас **(gen.)** заказан сто&#769;лик?  
@@ -109,7 +98,6 @@
   - **Пока** - so far, for now
 
 ## When taking an order
-
 ### Standard ordering  
 
 - Вы готовы **(short)** сделать заказ?  
@@ -269,9 +257,7 @@
 - Спасибо! До свидания.  
   (Thank you! Goodbye)
 
-
 # What Languages Do You Know
-
 ## Asking about daily usage
 
 - На каком язык **(prep.)** вы говорите/читаете/пишете/понимаете?  
@@ -297,10 +283,10 @@
 
   - Use **язык** 
 
-  
-# Talking About Weather/Seasons
 
+# Talking About Weather/Seasons
 ## Weather
+
 - Какая погода/Как там на улице **(prep.)**?    
   (What's the weather?)  
 
@@ -311,8 +297,8 @@
   (It's raining/snowing)
 
 ## Seasons
-
 ### Four seasons 
+
 - Весна/лета/осень/зима   
   (spring/summer/fall/winter)
 
@@ -338,9 +324,7 @@
   (It is hot outside on the street!)
   
 # Greeting
-
 ## Introducing
-
 ### Asking for names
 
 - Здравствуйте! Давайте познакомимся. Меня **(acc.)** зовут Цижьи Ван. Как вас **(acc.)** зовут?  
@@ -364,7 +348,6 @@
   (The pleasure is mine/Nice to meet you)
 
 ### Asking for where someone is from/profession
-
 - Доброе утро! С приездом **(ins.)**! Как вас зовут?   
   (Good morning! Welcome! With arrival! What is your name?)
   
@@ -443,3 +426,5 @@
   (I do homework online.)
 
   - **Урок** - class, class work
+
+</div>
