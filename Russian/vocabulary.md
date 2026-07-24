@@ -9,7 +9,9 @@
 
 <strong>Table of Contents</strong>
 
-- [Conjunctions](#conjunctions)
+- [Word order](#word-order)
+  - [Adverbs](#adverbs)
+- [(Expander) Conjunctions](#expander-conjunctions)
   - [Definition](#definition)
   - [And (И)](#and-и)
   - [But (Но)](#but-но)
@@ -32,16 +34,16 @@
   - [Such as - Такие как](#such-as---такие-как)
   - [Neither (Ни)](#neither-ни)
   - [Therefore (Так что)](#therefore-так-что)
-- [Conjunctive Words](#conjunctive-words)
+- [(Expander) Conjunctive Words](#expander-conjunctive-words)
   - [Definition](#definition-1)
   - [Where (Где)](#where-где)
   - [Which/that (Что)](#whichthat-что)
   - [How (Как)](#how-как)
   - [Than (Чем)](#than-чем)
-- [Emphatic Particles](#emphatic-particles)
+- [(Expander) Emphatic Particles](#expander-emphatic-particles)
   - [Definition](#definition-2)
-  - [Also (adds objects) (Тоже)](#also-adds-objects-тоже)
-  - [Also (adds subjects) (Также)](#also-adds-subjects-также)
+  - [Also - adds objects (Тоже)](#also---adds-objects-тоже)
+  - [Also - adds subjects (Также)](#also---adds-subjects-также)
   - [After all (Ведь)](#after-all-ведь)
   - [Even (Даже)](#even-даже)
     - [Even](#even)
@@ -93,9 +95,37 @@
   - [К](#к)
     - [К or ко?](#к-or-ко)
     - [+ Dative](#-dative-1)
-- [Word order](#word-order)
-  - [Adverbs](#adverbs)
-- [Interrogative Adverbs](#interrogative-adverbs)
+- [(Pronouns) Personal Pronouns](#pronouns-personal-pronouns)
+  - [Cases](#cases)
+  - [Noun replacement (Nominative)](#noun-replacement-nominative)
+- [(Pronouns) Interrogative Pronouns](#pronouns-interrogative-pronouns)
+  - [Noun pronouns](#noun-pronouns)
+    - [What (Что)](#what-что)
+    - [Who (Кто)](#who-кто)
+  - [Adjective pronouns](#adjective-pronouns)
+    - [What kind of (Какой)](#what-kind-of-какой)
+    - [Whose (Чей)](#whose-чей)
+    - [Which one (Который)](#which-one-который)
+  - [Quantity pronoun](#quantity-pronoun)
+    - [How much/many (Сколько)](#how-muchmany-сколько)
+- [(Pronouns) Demonstrative Pronouns](#pronouns-demonstrative-pronouns)
+  - [This is/Those are (Этот)](#this-isthose-are-этот)
+    - [Indeclinable "This is"](#indeclinable-this-is)
+    - [The adjective "This"](#the-adjective-this)
+  - [Here is (Вот)](#here-is-вот)
+  - [That/Those (Тот)](#thatthose-тот)
+  - [Such a/That kind of (Такой)](#such-athat-kind-of-такой)
+  - [So much/So many (Столько)](#so-muchso-many-столько)
+- [(Pronouns) Possessive Pronouns](#pronouns-possessive-pronouns)
+  - [My (Мой)](#my-мой)
+  - [Your (singular/informal) (Вы)](#your-singularinformal-вы)
+  - [Our (Наш)](#our-наш)
+  - [Your - plural/formal (Вы)](#your---pluralformal-вы)
+  - [One's own (Свой)](#ones-own-свой)
+  - [His/Her/Their (Его/Её/Их)](#hishertheir-егоеёих)
+- [(Pronouns) Reflexive Pronouns](#pronouns-reflexive-pronouns)
+  - [Oneself (Себя)](#oneself-себя)
+- [(Adverbs) Interrogative Adverbs](#adverbs-interrogative-adverbs)
 - [Something and Anything](#something-and-anything)
   - [Something (-то)](#something--то)
   - [Anything (-нибудь)](#anything--нибудь)
@@ -103,7 +133,21 @@
 </div>
 <div class="main-content">
 
-# Conjunctions
+# Word order 
+## Adverbs
+- In Russian, adverbs are usually **preceding verbs**:  
+  Ты **хорошо** говоришь по-русски.  
+  (You speak Russian well)
+
+- **Answering**  
+  In answering the question **как**, the adverb comes last.  
+
+  -Как вы говорите по-русски?  
+  (How do you speak Russian?)  
+  -Я говорю **хорошо**.  
+  (I speak it well.)  
+
+# (Expander) Conjunctions
 ## Definition
 - Used to connect two different clauses. A clause is referred to a "mini sentence", which consist of **"a subject" and "a verb (predicate)".**
 
@@ -249,7 +293,7 @@
   (It was raining, so I stayed home)
 
 
-# Conjunctive Words 
+# (Expander) Conjunctive Words 
 
 ## Definition
 - It glues two clauses together.   
@@ -291,19 +335,19 @@
   **Чем** быстрее, **тем** лучше.  
   (The faster, the better.) 
 
-# Emphatic Particles
+# (Expander) Emphatic Particles
 ## Definition
 - Add **emphasis, limitation, or emotional flavour** to a specific word or the whole sentence without changing the grammatical structure.
 
 - A **comma** before is **not necessary**.
 
-## Also (adds objects) (Тоже) 
+## Also - adds objects (Тоже) 
 - The **same object** is shared among **different subjects**
 
   Анна говорит по-русски. Её друг **Виктор** **тоже**.  
   (Anna speaks Russian. Her friend Victor does too.)
 
-## Also (adds subjects) (Также) 
+## Also - adds subjects (Также) 
 - **Adding new information** to the **same subject**.  
 
 - When connect two items in a list within the same sentence, "a" should be added.  
@@ -353,11 +397,8 @@
   Если бы **только** я знал!  
   (If only I had known!)
 
-
 # Prepositions 
-
 ## Collection 
-
 | Case followed | Preposition | Meaning/Words followed
 | :---: | :---: | :---
 | Prepositional | в<br> на<br> о<br> при<br> через<br> по| In/month, year<br> On/week/heading<br> About<br> At<br> Over/at/across<br> Upon/after
@@ -771,24 +812,335 @@
   Я привык **к** холодному климату.  
   (I got used ot the cold climate)
   
-# Word order 
-## Adverbs
-- In Russian, adverbs are usually **preceding verbs**:  
-  Ты **хорошо** говоришь по-русски.  
-  (You speak Russian well)
+# (Pronouns) Personal Pronouns
+## Cases
+| English | Nominative | Genitive<br> Accusative | Dative | Prepositional
+| :---: | :---: | :---: | :---: | :---: 
+| I | Я  | У меня<br> Меня зовут | Мне | Обо мне
+| You | Ты | У тебя<br> Тебя зовут | Тебе | О тебе 
+| He | Он | У (н)его<br> Eго зовут | Ему | О нём 
+| She | Она | У (н)её<br> Её зовут | Ей | О ней 
+| It | Оно | У (н)его<br> Его зовут | Ему | О нём 
+| We | Мы | У нас<br> Нас зовут | Нам | О нас 
+| You (formal)<br> You guys | вы | У вас<br> Вас зовут | Вам | О вас 
+| They | они | У (н)их<br> | Им | О них 
 
-- **Answering**  
-  In answering the question **как**, the adverb comes last.  
+- **"Н-" when it is after a preposition.**  
+  Я смотрю на **н**его.  
+  (I am looking at him.)
 
-  -Как вы говорите по-русски?  
-  (How do you speak Russian?)  
-  -Я говорю **хорошо**.  
-  (I speak it well.)  
+- **Without "н-" when it is NOT after a preposition**  
+  Я вижу его.  
+  (I see him/it.)
 
-# Interrogative Adverbs  
+- **Special cases**  
+  If the word indicates ownership, it **NEVER** takes an "н-" even if there is a preposition right next to it. 
 
+  Я смотрю на его(his) брата.  
+  (I am looking at his brother)
+
+## Noun replacement (Nominative)
+- Means it or they according to the gender of that noun.  
+
+- **Masculine**  
+  Где чемодан? (Where is the suitcase?)  
+  Вот **он**. (There it is.)
+
+- **Neuter**  
+  Где окно?  (Where is the window?)  
+  Вот **оно**. (There it is.)
+
+- **Feminine**  
+  Где машина?  (Where is the car?)  
+  Вот **она**. (There it is.)  
+
+- **Plural**  
+  Где часы? (Where are the clocks?)  
+  Вот **они**. (There they are.)  
+
+# (Pronouns) Interrogative Pronouns
+## Noun pronouns
+- The pronouns replace a noun in a sentence, they change their endings **depending on their cases.**
+
+### What (Что) 
+| Nominative | Genitive | Dative | Accusative | Instrumental | Prepositional 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| Что | От чего | К чему | На что | С чем | О чем 
+
+- Used for **inanimate** objects (things, ideas, and concepts)
+
+- **Never means** which or which one  
+
+- Что never combines with another noun: что <del>чемодан</del>?
+
+  **Что** это?  
+  (What is that?)  
+
+  **Что** в чемодане?  
+  (What's in the case?)  
+
+  О **чём** ты думаешь?  
+  (What are you thinking about?)
+
+### Who (Кто) 
+| Nominative | Genitive | Dative | Accusative | Instrumental | Prepositional 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| Кто | От кого | К кому | На кого | С кем | О ком 
+
+- Used exclusively for **animate** objects (people and animals)
+
+  **Кто** это?  
+  (Who is this?) 
+
+  **Кого** ты видишь?  
+  (Whom do you see?)
+
+- Used to ask someone's profession  
+  **Кто + [subject] + по + [dative case noun]**
+
+  Кто он по профессии?  
+  (What is his profession?)
+
+## Adjective pronouns 
+- They act like **adjectives**, and they must **match the gender, number and case of the noun** they refer to. 
+
+### What kind of (Какой)
+| Case | Masculine | Feminine | Neuter | Plural |
+| :---: | :---: | :---: | :---: | :---: |
+| **Nominative** | Какой | Какая | Какое | Какие 
+| **Genitive** | От какого | От какой | От какого | От каких 
+| **Dative** | К какому | К какой | К какому | К каким 
+| **Accusative** | На какой<br> На какого | На какую | На какое | На какие<br> На каких 
+| **Instrumental** | С каким | С какой | С каким | С какими 
+| **Prepositional** | О каком | О какой | О каком | О каких
+
+- Combines with other nouns
+  
+  **Какой** чемодан?  
+  (What suitcase?)  
+
+  **Какая** книга!  
+  (What a book!)
+
+  **Какое** место?  
+  (What(which) place?) 
+
+### Whose (Чей) 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Который | Которая | Которое | Которые 
+| **Genitive** | От которого | От которой | От которого | От которых 
+| **Dative** | К которому | К которой | К которому | К которым 
+| **Accusative** | На который<br> На которого | На которую | На которое | На которые<br> На которых 
+| **Instrumental** | С которым | С которой | С которым | С которыми 
+| **Prepositional** | О котором | О которой | О котором | О которых 
+
+  **Чья** это машина?  
+  (Whose car is this?)
+
+### Which one (Который)  
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Который | Которая | Которое | Которые 
+| **Genitive** | От которого | От которой | От которого | От которых 
+| **Dative** | К которому | К которой | К которому | К которым 
+| **Accusative** | На который<br> На которого | На которую | На которое | На которые<br> На которых 
+| **Instrumental** | С которым | С которой | С которым | С которыми 
+| **Prepositional** | О котором | О которой | О котором | О которых 
+  
+- Used for point at specific things.  
+
+  **Который** час?  
+  (What time is it?)
+
+## Quantity pronoun 
+### How much/many (Сколько) 
+- Usually forces the following noun into the **Genitive case**.  
+
+  **Сколько** это стоит?  
+  (How much does this cost?)  
+
+  **Сколько** у тебя братьев?  
+  (How many brothers do you have?)
+
+# (Pronouns) Demonstrative Pronouns
+## This is/Those are (Этот)
+### Indeclinable "This is"
+- **Это + Adjective/Possessive pronoun + Noun**
+- The **object** is emphasized. Used to differentiate the belonging of this item, in **contrast with "Вот"**.  
+- Begins full sentences (This is a...)  
+- Means:
+  - This is 
+  - That is   
+  - These are 
+  - Those are 
+
+  Это небольшой словарь.  
+  (**This is** a small dictionary.)  
+
+  Это маленькое окно.  
+  (**This is** a small window.)  
+
+  Это интересная фотография.  
+  (**This is** an interesting photo.)  
+
+  Это красивые дома.  
+  (**Those are** pretty houses.)  
+
+### The adjective "This"
+- **Этот/Это/Эта/Эти + Noun + Adjective/Possessive pronoun**
+
+  | Case | Masculine | Feminine | Neuter | Plural 
+  | :---: | :---: | :---: | :---: | :---: 
+  | **Nominative** | Этот | Эта | Это | Эти 
+  | **Genitive** | От этого | От этой | От этого | От этих 
+  | **Dative** | К этому | К этой | К этому | К этим 
+  | **Accusative** | На этот<br> На этого (ani.) | На эту | На это | На эти<br> На этих (ani.)
+  | **Instrumental** | С этим | С этой | С этим | С этими 
+  | **Prepositional** | Об этом | Об этой | Об этом | Об этих 
+
+- The **appearance** is emphasized
+- Does not create full sentences 
+- Works like modifiers мой, твой, наш, ваш 
+- Means: 
+  - this 
+  - these or that 
+  - those 
+
+  **Этот** словарь небольшой.  
+  (This dictionary is small.)  
+
+  **Это** окно маленькое.  
+  (This window is small.)  
+
+  **Эта** фотография интересная.  
+  (This photo is interesting.)  
+
+  **Эти** дома красивые.  
+  (These houses are beautiful.)  
+
+## Here is (Вот) 
+- Means **here is, here are, this is, there.**
+- Used to **draw attention** to certain items.  
+  
+  Где Антон? А, **вот** он!  
+  (Where is Anton? Ah, here/there he is!)
+
+## That/Those (Тот) 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---: 
+| **Nominative** | Тот | Та | То | Те 
+| **Genitive** | От того | От той | От того | От тех 
+| **Dative** | К тому | К той | К тому | К тем 
+| **Accusative** | На тот<br> На того | На ту | На то | На те<br> На тех 
+| **Instrumental** | С тем | С той | С тем | С теми 
+| **Prepositional** | О том | О той | О том | О тех 
+
+- Often see it used with этот (this)
+
+  Я не хочу **эту** книгу, я хочу **ту**.  
+  (I don't want this book, I want that one.)
+
+## Such a/That kind of (Такой) 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Такой | Такая | Такое | Такие 
+| **Genitive** | От такого | От такой | От такого | От таких 
+| **Dative** | К такому | К такой | К такому | К таким 
+| **Accusative** | На такой<br> На такого | На такую | На такое | На такие<br> На таких 
+| **Instrumental** | С таким | С такой | С таким | С такими 
+| **Prepositional** | О таком | О такой | О таком | О таких 
+
+- A quality or characteristics
+
+  Мои волосы **такие** грязные!  
+  (My hair is so dirty!)  
+
+## So much/So many (Столько)
+- Forces the noun that comes after it into the **Genitive case**  
+
+  У меня **столько** работы!  
+  (I have so much work!)
+
+# (Pronouns) Possessive Pronouns  
+## My (Мой)
+| Case | Masculine | Feminine | Neuter | Plural |
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Мой | Моя | Мое | Мои 
+| **Genitive** | От моего | От моей | От моего | От моих 
+| **Dative** | К моему | К моей | К моему | К моим 
+| **Accusative** | На мой<br> На моего | На мою | На мое | На мои<br> На моих 
+| **Instrumental** | С моим | С моей | С моим | С моими 
+| **Prepositional** | О моем | О моей | О моем | О моих 
+
+## Your (singular/informal) (Вы)
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Твой | Твоя | Твое | Твои 
+| **Genitive** | От твоего | От твоей | От твоего | От твоих 
+| **Dative** | К твоему | К твоей | К твоему | К твоим 
+| **Accusative** | На твой<br> На твоего | На твою | На твое | На твои<br> На твоих 
+| **Instrumental** | С твоим | С твоей | С твоим | С твоими 
+| **Prepositional** | О твоем | О твоей | О твоем | О твоих 
+
+## Our (Наш) 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Наш | Наша | Наше | Наши 
+| **Genitive** | От нашего | От нашей | От нашего | От наших 
+| **Dative** | К нашему | К нашей | К нашему | К нашим 
+| **Accusative** | На наш<br> На нашего | На нашу | На наше | На наши<br> На наших 
+| **Instrumental** | С нашим | С нашей | С нашим | С нашими 
+| **Prepositional** | О нашем | О нашей | О нашем | О наших 
+
+## Your - plural/formal (Вы) 
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Ваш | Ваша | Ваше | Ваши 
+| **Genitive** | От вашего | От вашей | От вашего | От ваших 
+| **Dative** | К вашему | К вашей | К вашему | К вашим 
+| **Accusative** | На ваш<br> На вашего | На вашу | На ваше | На ваши<br> На ваших 
+| **Instrumental** | С вашим | С вашей | С вашим | С вашими 
+| **Prepositional** | О вашем | О вашей | О вашем | О ваших 
+
+## One's own (Свой)
+| Case | Masculine | Feminine | Neuter | Plural 
+| :---: | :---: | :---: | :---: | :---:
+| **Nominative** | Свой | Своя | Свое | Свои 
+| **Genitive** | От своего | От своей | От своего | От своих 
+| **Dative** | К своему | К своей | К своему | К своим 
+| **Accusative** | На свой<br> На своего | На свою | На свое | На свои <br>На своих 
+| **Instrumental** | Со своим | Со своей | Со своим | Со своими 
+| **Prepositional** | О своем | О своей | О своем | О своих 
+
+## His/Her/Their (Его/Её/Их)
+- Indeclinable 
+  | English | Russian
+  | :---: | :---: 
+  | **His** | Его 
+  | **Her(s)** | Её 
+  | **Their(s)** | Их 
+
+# (Pronouns) Reflexive Pronouns 
+## Oneself (Себя)
+- To express **"someone"** is doing something to **"oneself"**. 
+
+- :warning: There is **NO nominative form**
+  | Genitive/Accusative | Instrumental | Prepositional
+  | :---: | :---: | :---:
+  | себя | собой | себе  
+
+  Мы видим **себя**.  
+  (We see ourselves.)
+
+  Мы берём это **с собой**.  
+  (We are talking about ourselves.)
+
+  Вырази **себя** как можно более ясно.  
+  (Express yourself as clearly as you can)
+
+# (Adverbs) Interrogative Adverbs  
 - They are all **indeclinable**. 
-
   | Russian | English | Usage 
   | :---: | :---: | :---
   | Откуда | From where / Where...from | Source of the info
@@ -801,7 +1153,6 @@
   | Зачем | Why (In order to) | Asks for what purpose some event occurred
 
 # Something and Anything
-
 ## Something (-то)
 - **Specific but unknown**  
   Refers to something that is specific and real, but the speakers does not know (or cannot remember) exactly who, what, or where it is.  
@@ -827,7 +1178,6 @@
 
   Купи мне **что-нибудь**.  
   (Buy me anything.)  
-
 
 
 </div>
