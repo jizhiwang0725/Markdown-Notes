@@ -34,6 +34,7 @@
     - [Asking for where someone is from/profession](#asking-for-where-someone-is-fromprofession)
 - [Studying](#studying)
   - [In university](#in-university)
+    - [Asking where and what](#asking-where-and-what)
   - [In school](#in-school)
 
 </div>
@@ -378,6 +379,7 @@
 
 # Studying 
 ## In university
+### Asking where and what 
 - Где вы учитесь **(reflexive)**?  
   (Where do you go to school?)
 
@@ -387,10 +389,15 @@
   (I go to Harvard)
 
 - А что вы там изучаете?  
-  (What do you take there?)  
+  (What do you take there?) 
 
-- Физику **(acc.)**.  
-  (Physics)
+  Какая у вас специальность?  
+  (What is your major (speciality)?)
+
+- Физику. **(acc.)**.  
+  (Physics.)
+  Информатика. **(nom.)**
+  (Informatics.)
 
 - Вы хорошо учитесь **(reflexive)**?  
   (Do you do well in school?)

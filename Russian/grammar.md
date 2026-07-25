@@ -76,8 +76,6 @@
   - [И conjugations](#и-conjugations)
   - [Mutations](#mutations)
     - [In different conjugations](#in-different-conjugations)
-    - [Added л](#added-л)
-    - [Shape-shifting consonants](#shape-shifting-consonants)
     - [Suffixes for imperfective verbs](#suffixes-for-imperfective-verbs)
     - [Suffixes for perfective verbs](#suffixes-for-perfective-verbs)
 - [(Verbs) Reflexive Verbs](#verbs-reflexive-verbs)
@@ -809,22 +807,6 @@ in front of the adjective
 | Я | люб**л**ю | хо**ж**у 
 | Ты | любишь | ходишь
 
-### Added л
-- If a verb stem ends in a **labial consonant** (б, п, в, ф and м) - Russian wil often insert an л before the ending. 
-
-  Готовить → Я гото**вл**ю  
-  (Cook)
-
-### Shape-shifting consonants
-- Because of the 8-letter spelling rule, **у is added** for "я" form
-
-  | Original consonant | Shift to | Example | Meaning
-  | :---: | :---: | :---: | :---:
-  | с | ш | Про**с**ить → Я про**ш**у | To ask
-  | д/з | ж | Ви**д**еть → Ви**ж**у<br> Ска**з**ать → Я ска**ж**у | To see<br> To say
-  | т/к | ч | Пло**т**ить → Я пла**ч**у<br> Пла**к**ать Я пла**ч**у | To pay<br> To cry
-  | ск/ст | щ | И**ск**ать → Я и**щ**у<br> Чи**ст**ить → Я чи**щ**у | To look for<br> To clean
-
 ### Suffixes for imperfective verbs
 - :warning: Only in **PRESENT/FUTURE** tenses
 - **-овать/-евать**  
@@ -907,7 +889,7 @@ in front of the adjective
 # (Verbs) Perfective Verbs
 ## Definition 
 - :warning: **Perfective verbs do NOT have PRESENT tense**  
-  When take a perfective verb and conjugate it **using standard present-tense endings**, it automatically creates the **future tense**. 
+  When take a perfective verb and **conjugate** it using standard present-tense endings, it automatically creates the **future tense**. 
 
 - **The action is completed with a result**  
   You started the action, finished it, and there is a result 

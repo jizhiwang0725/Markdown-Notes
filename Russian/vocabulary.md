@@ -31,9 +31,11 @@
     - [Ведь](#ведь)
   - [That (Что)](#that-что)
   - [Like (Как)](#like-как)
-  - [Such as - Такие как](#such-as---такие-как)
+  - [Such as (Такие как)](#such-as-такие-как)
   - [Neither (Ни)](#neither-ни)
-  - [Therefore (Так что)](#therefore-так-что)
+  - [Therefore, so](#therefore-so)
+    - [Так что](#так-что)
+    - [Поэтому](#поэтому)
 - [(Expander) Conjunctive Words](#expander-conjunctive-words)
   - [Definition](#definition-1)
   - [Where (Где)](#where-где)
@@ -267,7 +269,7 @@
   Он работает, **как** машина.  
   (He works like a machine)
 
-## Such as - Такие как
+## Such as (Такие как)
 - **Listing examples**  
   The **category of the items** about to list can be added in between those two words.   
 
@@ -287,10 +289,21 @@
   Он **не** пьёт **ни** чай, **ни** кофе.  
   (HE drinks neither tea nor coffee.)
 
-## Therefore (Так что) 
+## Therefore, so
+### Так что
+- **More conversational** 
+  Used for day to day speech 
 
-- Щёл дождь, **так что** я остался дома.  
+  Щёл дождь, **так что** я остался дома.  
   (It was raining, so I stayed home)
+
+### Поэтому 
+- **In formal writing and everyday speech**  
+  Equivalence to "Therefore," "for that reason," or "that is why."  
+
+  Я говорю совсем плохо. **Поэтому** занимаюсь много.  
+  (I speak quite poorly. That is why I study a lot.)
+
 
 
 # (Expander) Conjunctive Words 
@@ -358,7 +371,7 @@
 ## After all (Ведь)  
 - Translates roughly to **"after all," "you know," "isn't it so," or "you see."**
   
-  **Ведь** это правда!
+  **Ведь** это правда!  
   (It is the truth, isn't it!)
 
 ## Even (Даже) 

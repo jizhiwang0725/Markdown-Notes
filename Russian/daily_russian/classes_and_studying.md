@@ -12,7 +12,7 @@
 - [Classes](#classes)
   - [Curriculum](#curriculum)
     - [Subject (Предмет)](#subject-предмет)
-    - [Course (Курс)](#course-курс)
+    - [Course/Year (Курс)](#courseyear-курс)
   - [Class session](#class-session)
     - [Skill-base lessons (Урок)](#skill-base-lessons-урок)
     - [Classes/studies (Занятие)](#classesstudies-занятие)
@@ -73,11 +73,17 @@
   | Право (Юриспруденция) | Law |
   | Бизнес | Business | 
 
-### Course (Курс)
+### Course/Year (Курс)
 - The **overarching curriculum or program of study** you enroll in for a semester or year.
   
   Какие **курсы** ты слушаешь?  
   (What courses are you enrolled in?)
+
+- **Year**   
+  -На каком курсе?
+  (Which year are you in?)
+  -На третьем.  
+  (Third year.)
 
 ## Class session 
 ### Skill-base lessons (Урок)
@@ -124,6 +130,9 @@
   (Where do you study?)  
   -В университете.  
   (At university.)  
+
+  -В нашем **(prep.)** университете учитесь?  
+  (Do you study at our university?)  
 
 - **Performance at school.**  
 
