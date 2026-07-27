@@ -148,13 +148,13 @@ When describing **PLURAL** nouns:
 - **The grammatical subject of the sentence**  
   The noun or pronoun that "does" the verb: 
  
-  **Джон** американец.  
+  ***Джон** американец.*  
   (John is an American.)
 
 - **Stating identity (X is Y)**  
   The word or phrase that comes after forms of the verb **to be**: is, are, was, were:   
 
-  Джон **американец**.   
+  *Джон **американец**.*   
   (John is **an American**.)
 
 - **Naming and listing things** 
@@ -165,10 +165,10 @@ When describing **PLURAL** nouns:
   
 ## Nouns (plurals) 
 - **Ending letters**  
-  || Masculine | Feminine | Neuter
-  | :---: | :---: | :---: | :---: 
-  | Hard stem | чемодан - ы | газет - ы | мест - а  
-  | Soft stem | музе - и <br> словар(<s>**ь**</s>) - и | фамили - и <br> кроват(<s>**ь**</s>) - и | мор - я <br> плать - я 
+  || Masculine | Feminine | Neuter |
+  | :---: | :---: | :---: | :---: |
+  | Hard stem | чемодан - ы | газет - ы | мест - а |
+  | Soft stem | музе - и<br> словар(<s>**ь**</s>) - и | фамили - и<br> кроват(<s>**ь**</s>) - и | мор - я<br> плать - я |
 
   :exclamation: For a neuter soft word, remember the -ь is part of the stem, not part of the ending.  
 
@@ -179,16 +179,16 @@ When describing **PLURAL** nouns:
   
   - Some masculine words have a plural ending of a neuter ending with corresponding soft or hard stem.  
   
-    Дом (hard stem) - дома  
-    Учитель (soft stem) - учителя  
+    *Дом (hard stem) - дома*  
+    *Учитель (soft stem) - учителя*  
   
     :exclamation: The stress is always at the end!
 
 - **Change of stress**  
   Changing endings sometimes causes the stress to move - from the stem to the ending and vice versa, especially in **neuter**:  
 
-  кни&#769;га - книг**и&#769;**   
-  гара&#769;ж - гараж**и&#769;**
+  *кни&#769;га - книг**и&#769;***   
+  *гара&#769;ж - гараж**и&#769;***
 
 ## Adjectives
 | | Masculine | Neuter | Feminine | Plural 
@@ -203,7 +203,7 @@ When describing **PLURAL** nouns:
 # (Cases) Genitive Case
 ## When to use (possession)
 - **Possession ("of" or "s") and after preposition для**   
-  Телефон брат**а**.  
+  *Телефон брат**а**.*  
   (The phone of my brother.)
 
 - **Absence**  
@@ -216,19 +216,19 @@ When describing **PLURAL** nouns:
   By/At [person], there is [object].  
   The proposition У (by/at) always requires the genitive case.  
 
-  У **меня** ...  
+  *У **меня** ...*  
   (I have ...)  
 
-  У сестр**ы** есть ...  
+  *У сестр**ы** есть ...*  
   (The sister has ...)
 
 - **Quantities and numbers**  
   When ever specify **how much or how many** of something there is, the noun being counted drops into the genitive case. This applies to words like много (a lot) and мало (a little), as well as numbers.  
 
-  Много вод**ы**.  
+  *Много вод**ы**.*  
   (A lot of water.)  
 
-  Стакан сок**а**.  
+  *Стакан сок**а**.*  
   (A bottle of water)
 
 - **After prepositions**
@@ -250,8 +250,8 @@ When describing **PLURAL** nouns:
 - :warning: remember to apply the 7-letter spelling rule
 
 - Some masculine nouns have end stress whenever an ending is added  
-   сто&#769;л → стола&#769;  
-   гара&#769;ж → гаража&#769;
+   *сто&#769;л → стола&#769;*  
+   *гара&#769;ж → гаража&#769;*
 
 ### Plural 
 - **Masculine**
@@ -281,10 +281,10 @@ When describing **PLURAL** nouns:
 - **The indirect object (to/for)**  
   Whenever you are giving, showing, telling or sending something **to** someone, that person is in the dative case.  
 
-  Я даю книгу **студенту**.  
+  *Я даю книгу **студенту**.*  
   (I give the book to the student.)  
 
-  Она пишет письмо **маме**.  
+  *Она пишет письмо **маме**.*  
   (She is writing a letter to mom.)  
 
   Common verbs:  
@@ -299,30 +299,30 @@ When describing **PLURAL** nouns:
 - **Expressing age**  
   "To me, it is x years."  
 
-  **Мне** 20 лет.  
+  ***Мне** 20 лет.*  
   (I am 20 years old.)  
 
-  **Моему брату** 15 лет.  
+  ***Моему брату** 15 лет.*  
   (My brother is 15 years old.)  
 
 - **States of being and feelings (impersonal sentences)**  
   When describing physical states, emotional states, or necessity, Russian uses an impersonal structure. The **person** experiencing the feeling is in the dative case.  
 
-  **Мне** холодно. 
+  ***Мне** холодно.* 
   (I am cold.)  
 
-  **Ему** скучно.  
+  ***Ему** скучно.*  
   (He is bored.)  
 
-  **Нам** нужно идти.  
+  ***Нам** нужно идти.*  
   (We need to go. Lit: To us, it is necessary to go)
 
 - **Directional motion with "К" (towards)**  
-  Я иду к **врачу**.  
+  *Я иду к **врачу**.*  
   (I am going to the doctor)  
 
 - **After preposition "По"**  
-  Мы гуляем по парку.  
+  *Мы гуляем **по** парку.*  
   (We are walking around the park.)  
 
 ## Nouns
@@ -347,25 +347,26 @@ When describing **PLURAL** nouns:
 - **Object**  
   Identify the direct object of a sentence - what is receiving the action (comes after a verb).  
 
-  Я люблю **русскую литературу**.  
+  *Я люблю **русскую литературу**.*  
 
-  Я изучала **страноведение России**.
+  *Я изучала **страноведение России**.*
 
 - **Destination and motion**   
   When you are moving toward a place or placing an object into a location, you use the preposition "в" or "на". This answers the question Куда?
 
-  Я иду в **университет**.  
+  *Я иду в **университет**.*  
   (I am going to the university.)  
 
-  Мы едем в **ресторан**.  
+  *Мы едем в **ресторан**.*  
   (We are going to a restaurant.)  
 
 - **Specific time expressions**  
   When an event happens, and expression for duration of time.  
 
-  В **пятницу**.  
+  *В **пятницу**.*  
   (On Friday.)  
-  Я работал **весь день**.  
+
+  *Я работал **весь день**.*  
   (I worked all day)
 
 ## Nouns
@@ -408,15 +409,15 @@ When describing **PLURAL** nouns:
 ## When to use (instrument)
 - **The tool or instrument (with something)**  
 
-  Я пишу **ручкой**.  
+  *Я пишу **ручкой**.*  
   (I am writing **with** a pen)
 
 - **Accompaniment (together with). After preposition "с"**  
 
-  Я иду в кино **с другом**.  
+  *Я иду в кино **с другом**.*  
   (I am going to the movies with a friend.)  
 
-  Я пью кофе **с молоком**.  
+  *Я пью кофе **с молоком**.*  
   (I am drinking coffee with milk.)
 
 - **Professions and roles (future/past)**  
@@ -428,19 +429,19 @@ When describing **PLURAL** nouns:
   | стать | to become 
   | работать | to work as
 
-  Я хочу стать **программистом**.  
+  *Я хочу стать **программистом**.*  
   (I want to become a programmer)
 
-  Он работает **инженером**.  
+  *Он работает **инженером**.*  
   (He works as an engineer.)
 
 - **Times of day and seasons**  
   When you want to say that something happens during a certain time of day or season.  
 
-  **Утром** я пью чай.  
+  ***Утром** я пью чай.*  
   (In the morning, I drink tea.)
 
-  **Детом** жарко.  
+  ***Детом** жарко.*  
   (In the summer, it is hot.)  
 
 - **After prepositions**  
@@ -452,7 +453,7 @@ When describing **PLURAL** nouns:
   | Behind | За
   | Between | Между
 
-  Кот спит **под столом**.  
+  *Кот спит **под столом**.*  
   (The cat is sleeping under the table.)
 
 ## Nouns 
@@ -486,13 +487,13 @@ When describing **PLURAL** nouns:
 - **Month and years**  
   Prepositional is used to pinpoint when something happens, specifically regarding months and years.  
 
-  Я поеду в Москву (acc.) **в августе**.  
+  *Я поеду в Москву **(acc.)** **в августе**.*  
   (I will go to Moscow in August)
 
 - **Transportation (preposition на)**  
   На + transportation vehicles like plane, train, bus, car, and metro in prepositional case is used to express the meaning of travel by certain way.  
 
-  Я еду **на поезде**.  
+  *Я еду **на поезде**.*  
   (I am going by train.)
 
 ## Nouns
@@ -517,36 +518,36 @@ When describing **PLURAL** nouns:
 ## Indeclinable 
 - Foreign words ending in -о, -и, у are **indeclinable**
 
-  E.g. радио, такси, метро.  
+  E.g. *радио, такси, метро.*  
 
 ## Plurals for uncountable nouns 
 - **Different varieties, types, or brands**  
   When talking about different sorts of substance.  
 
-  Сыр (Cheese) → сыры  
+  *Сыр (Cheese) → сыры*  
   (Different types of cheese)
 
 - **Vast expanses or huge quantities**  
   To emphasize a massive geographic expanse or a poetic, overwhelming amount of something.  
 
-  Вода → воды  
+  *Вода → воды*  
   (Waters, as in the waters of the ocean or a flood.)
 
 - **Repeated or intense weather events**  
   Uncountable noun plural indicates that the event lasted a long time.  
 
-  Мороз → морозы (A prolonged period of freezing days.)
+  *Мороз → морозы (A prolonged period of freezing days.)*
 
 - **From abstract to concrete**  
   Pluralizing an abstract noun completely changes its meaning into a concrete, countable event or object associated with that concept.  
 
-  Красота → красоты  
+  *Красота → красоты*  
   (Beautiful sights or places, like "the beauties of nature")
 
 - **Scientific and technical terminology**  
   When referring to distinct chemical compounds rather than the everyday material.  
 
-  Соль → соли  
+  *Соль → соли*  
   (Chemical salts in a scientific context)
 
 # (Nouns) Grammatical Gender 
@@ -579,14 +580,12 @@ You can use the ending to identify which gender a word belongs to.
 
 - Nouns ending in **-мя** are **neuter**. Russian has ten of these (e.g. имя - first name).  
 
-
-
 # (Adjectives) General Rules
 ## Capitalization
 - Adjectives made from capitalized nouns are usually **NOT** capitalized  
 
-  Америка  
-  **а**мериканская виза
+  *Америка*  
+  ***а**мериканская виза*
 
 # (Adjectives) Short-from Adjectives 
 ## Definition  
@@ -670,12 +669,12 @@ to speak faster and pronounces like with a **-ей** ending.
   They do not have to add more/less, but change the ending accordingly
   like an adjective.
 
-  Я хочу **более** быстрый монитор.  
+  *Я хочу **более** быстрый монитор.*  
   (I want a faster monitor)
 
 ## How to use "then"
 - **Using чем**  
-  Москва больше, **чем** Эдинбург.  
+  *Москва больше, **чем** Эдинбург.*  
   (Moscow is bigger than Edinburgh.)  
 
 - **Using the genitive case**  
@@ -684,7 +683,7 @@ to speak faster and pronounces like with a **-ей** ending.
   the sentence is in **nominative or accusative** case. If prepositions are 
   involved, you must use "чем".
 
-  Москва больше **Эдинбурга**.  
+  *Москва больше **Эдинбурга**.*  
   (Moscow is bigger than Edinburgh)
 
 # (Adjectives) Superlative Adjectives
@@ -715,10 +714,10 @@ in front of the adjective
   Take the comparative form fo the adjective or adverb and add the word **всех** 
   (of all people/things) or **всего** (of everything)
 
-  Быстрее **всех**.  
+  *Быстрее **всех**.*  
   (fastest of all) 
 
-  Лучше **всех**.  
+  *Лучше **всех**.*  
   (Best of all)
 
 # (Verbs) Infinitive Verbs
@@ -727,14 +726,15 @@ in front of the adjective
 
 - **Describing a feeling, a state, or a necessity**  
 
-  Приятно с вами **познакомиться**!  
+  *Приятно с вами **познакомиться**!*  
   (Nice to meat you!)  
-  Мне нужно **идти**.  
+
+  *Мне нужно **идти**.*  
   (I need to go) 
 
 - **When two verbs stacked together, only the first one gets conjugated**  
 
-  Я хочу **спать**.  
+  *Я хочу **спать**.*  
   (I want to sleep)  
 
 # (Verbs) Verb Conjugations 
@@ -812,15 +812,16 @@ in front of the adjective
 - **-овать/-евать**  
   Drop the entire suffix and replace it with **у**. Then conjugate.    
 
-  Танц**евать** → Я танц**ую**   
+  *Танц**евать** → Я танц**ую***   
   (To dance)
 
 - **-ивать/-ывать/-нимать**  
   Keep the entire suffix and conjugate (change ть).  
 
-  Устра**ивать** → Я устра**иваю**  
+  *Устра**ивать** → Я устра**иваю***  
   (To arrange)  
-  За**нимать** → Я за**нимаю**
+
+  *За**нимать** → Я за**нимаю***
   (To occupy)
 
 ### Suffixes for perfective verbs
@@ -836,7 +837,7 @@ in front of the adjective
 ## Definition 
 - The sentence is **"completed"** at the reflexive verb, any phrases after that are just additional information about the action performed. 
 
-  Я учу**сь** **в университете**. (additional information)  
+  *Я учу**сь** **в университете**.* (additional information)  
   (I study in university.) 
 
   | Reflexive | Non-reflexive  
@@ -845,10 +846,10 @@ in front of the adjective
 
 - When used with "мы", it often refers to a **reciprocal action** (doing something to each other).  
    
-  Мы **встречаемся**.  
+  *Мы **встречаемся**.*  
   (We meet each other.)  
 
-  Скоро **увидимся**.  
+  *Скоро **увидимся**.*  
   (See each other soon.)
 
 
@@ -863,27 +864,27 @@ in front of the adjective
 ## Definition 
 - Verbs ending with **-ать, -ить or -еть** are normally the base case of the verb. 
 
-  Дел**ать**  
+  *Дел**ать***  
   (To do)  
-  Говор**ить**  
+  *Говор**ить***  
   (To speak)  
-  Вид**еть**  
+  *Вид**еть***  
   (To see)
 
 - **The action is on going and is a process**  
   You started the action, but not finished.  
 
-  Я читал книгу.  
+  *Я читал книгу.*  
   (I was **reading** a book.)
 
 - **Habit**  
-  Я обычно покупаю кофе.  
+  *Я **обычно** покупаю кофе.*  
   (I usually buy coffee.)
 
 - **A state of being**  
   **Mental states** (knowing, thinking, loving) because they don't have a clean start and stop point.  
 
-  Я не **знаю**, где мой телефон.  
+  *Я не **знаю**, где мой телефон.*  
   (I don't know where my phone is.)
 
 # (Verbs) Perfective Verbs
@@ -895,24 +896,24 @@ in front of the adjective
   You started the action, finished it, and there is a result 
   to show for it.  
 
-  Я **про**читал книгу.  
+  *Я **про**читал книгу.*  
   (I finished the book)
 
 - **A one-time, specific action**  
   The action happened once at a specific moment, rather than being a habit or a routine
 
-  Сегодня я **к**упил чай.  
+  *Сегодня я **к**упил чай.*  
   (Today, I bought tea)
 
 - **A sequence of completed actions (step-by-step)**   
   If you are telling a story where one action finishes and then the next one starts. 
 
-  Он **в**стал, **о**делся и **вы**шел.  
+  *Он **в**стал, **о**делся и **вы**шел.*  
   (He got up, got dressed, and left)
 
 - Adding **prefixes** to an imperfective verb create new perfective verbs with different meanings. However, there are irregulars
 
-  Говорить → Сказать  
+  *Говорить → Сказать*  
   (To speak/say (Imperfective) → To say/tell (Perfective))  
 
 # (Verbs) Bi-aspectual Verbs
@@ -925,22 +926,22 @@ in front of the adjective
 ### Foreign loanwords  
 - Add suffix **-ировать or -овать**
   
-  Тест**ировать**  
+  *Тест**ировать***  
   (To test)  
 
-  Организ**овать**  
+  *Организ**овать***  
   (To operate)  
 
-  Старт**овать**  
+  *Старт**овать***  
   (To start)
 
-  Копир**овать**  
+  *Копир**овать***  
   (To copy)
 
 ### Native words
 - **Just memorize it**
   
-  Жениться (for man)  
+  *Жениться (for man)*  
   Imperfective: State/process - married  
   Perfective: Sudden result - get married
 
@@ -948,15 +949,15 @@ in front of the adjective
 ## "To be" in present tense
 - The present tense of "to be" (am, is, are) is absent in Russian  
 
-  Я студент  
+  *Я студент*  
   (I am a student)  
 
-  Я студентка (fem.)  
+  *Я студентка* (fem.)  
   (I am a student)  
 
 - In writing, a dash is sometimes used in place of the verb "to be" when **both the subject and the predicate are nouns**  
 
-  Москва - русский город.  
+  *Москва - русский город.*  
   (Moscow - city of Russian.)
 
 # (Tenses) Past Tense

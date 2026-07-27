@@ -138,15 +138,16 @@
 # Word order 
 ## Adverbs
 - In Russian, adverbs are usually **preceding verbs**:  
-  Ты **хорошо** говоришь по-русски.  
+  
+  *Ты **хорошо** говоришь по-русски.*  
   (You speak Russian well)
 
 - **Answering**  
   In answering the question **как**, the adverb comes last.  
 
-  -Как вы говорите по-русски?  
+  *-Как вы говорите по-русски?*  
   (How do you speak Russian?)  
-  -Я говорю **хорошо**.  
+  *-Я говорю **хорошо**.*  
   (I speak it well.)  
 
 # (Expander) Conjunctions
@@ -161,13 +162,13 @@
 - When two things **are the same**. There is no contrast
 - The subject for the second clause is discarded to prevent duplication.  
 
-  Максим живёт **и** учится в Москве.  
+  *Максим живёт **и** учится в Москве.*  
   (Maxims lives and studies in Moscow.)  
 
 ## But (Но) 
 - **ONE contrast**. Two different comments are said about **ONE thing**.
 
-  Анна изучает русский язык, **но** говорит ещё плохо.  
+  *Анна изучает русский язык, **но** говорит ещё плохо.*  
   (Anna takes Russian, but she still speaks poorly.)  
 
 ## But/and (А) 
@@ -175,118 +176,117 @@
 ### But
 - With **TWO contrasts**. Two different comments are made about TWO different topics.
 
-  Анна изучает русский язык, **а** Лена изучает английский язык.   
+  *Анна изучает русский язык, **а** Лена изучает английский язык.*   
   (Anna takes Russian, and Lina takes English.)
 
 - When the first clause **is negated**, "а" is used for the replacement.  
 
-  Стёпа знает **не** испанский язык, **а** английский.  
+  *Стёпа знает **не** испанский язык, **а** английский.*  
   (Styopa does not know Spanish, but he knows English.)
 
 ### But rather
 
-- Это не Кира, **а Катя**.  
+- *Это не Кира, **а Катя**.*  
   (That's not Kira, but rather Katya) 
 
 ### Questions about additional information
 
 - Often corresponds to **"And what about...?"**
 
-  -В России я говорю по-русски.  
+  *-В России я говорю по-русски.*  
   (In Russia I speak Russian)  
-  -**А** в Америке?  
+  *-**А** в Америке?*  
   (And what about in America?)  
 
-  -Дома мы говорим по-украински.  
+  *-Дома мы говорим по-украински.*  
   (At home we speak Ukrainian.)  
-  -**А** откуда вы знаете украинский язык?  
+  *-**А** откуда вы знаете украинский язык?*  
   (And how do you know Ukrainian?)  
 
 ## Except that (Только)
 ### Expect that 
 - Used **similar to "но",** it introduces a contrast, reservation, or exception to the previous clause.  
 
-  Я бы с удовольствием пошёл **только** у меня совсем нет времени.  
+  *Я бы с удовольствием пошёл **только** у меня совсем нет времени.*  
   (I would gladly go, except I have absolutely no time.)
 
 ### As soon as 
 - **Often combined with как**  
 
-  Позвони мне, **как только** приедешь.  
+  *Позвони мне, **как только** приедешь.*  
   (Call me as soon as you arrive.)
 
 ## Although (Хотя) 
-
 ### Although
 - **Use on its own.**  
-  **Хотя** он устал, он работает.  
+  ***Хотя** он устал, он работает.*  
   (Although he is tired, he is working.)
 
 - **Paring with "Но."**  
   It is grammatically correct to put **"but" in the second half** in Russian, but not in English.  
 
-  **Хотя** он устал, **но** он работает.  
+  ***Хотя** он устал, **но** он работает.*  
   (Although he is tired, he is working.)
 
 ### At least
 - Add **бы** to the end. 
 
-  Дай мне **хотя бы** один день.  
+  *Дай мне **хотя бы** один день.*  
   (Give me at least one day.)  
 
 ## Because/Since
 - Followed by the **reason (dependent clause)**.  
 
 ### Потому что 
-- Он учится на филологическом факультете, **потому что** любит литературу.   
+- *Он учится на филологическом факультете, **потому что** любит литературу.*   
   (He studies in the department of languages and literature because he loves literature.)  
 
 ### Так как
 - **Similar to потому что**.
   
-  Я остался дома, **так как** шёл дождь.   
+  *Я остался дома, **так как** шёл дождь.*   
   (I stayed home since it was raining.)
 
 ### Ведь 
 - Explanation provided by this word is presented as something the **listener should easily understand or agree with**.
   
-  Я не пошёл гулять, **ведь** на улице дождь.  
+  *Я не пошёл гулять, **ведь** на улице дождь.*  
   (I didn't go for a walk, because/since it is raining outside.)
 
 ## That (Что) 
 - Used as a pure conjunction to introduce a **subordinate clause**.  
 - The use of что is **NOT optional**. It shows that the **two verbs** belong to the same thought process. 
 
-  Я думаю, **что** Иван учится здесь.  
+  *Я думаю, **что** Иван учится здесь.*  
   (I think that Ivan studies here.)
 
-  Я знаю, **что** он дома  
+  *Я знаю, **что** он дома.*  
   (I know that he is home.)
   
 ## Like (Как) 
 - **Used as a conjunction when making comparisons.** 
 
-  Он работает, **как** машина.  
+  *Он работает, **как** машина.*  
   (He works like a machine)
 
 ## Such as (Такие как)
 - **Listing examples**  
   The **category of the items** about to list can be added in between those two words.   
 
-  Студенты нашего филологического факультета **изучают такие языки, как** французский и испанский, а также экзотические, **как** урду или банту.  
+  *Студенты нашего филологического факультета **изучают такие языки, как** французский и испанский, а также экзотические, **как** урду или банту.*  
   (Students of our philosophy department studies language such as France and Spanish, and Urdu or Bantu for economic)
 
-  Я изучаю языки программирования, **такие как** Java и Python.  
+  *Я изучаю языки программирования, **такие как** Java и Python.*  
   (I study programming languages, such as Java and Python.)
   
 ## Neither (Ни) 
 - **Ни..., ни... meaning "neither... nor..."**  
   Usually goes **together with нет or не**.  
   
-  У меня **нет ни** времени, **ни** денег.  
+  *У меня **нет ни** времени, **ни** денег.*  
   (I have neither time nor money.)
 
-  Он **не** пьёт **ни** чай, **ни** кофе.  
+  *Он **не** пьёт **ни** чай, **ни** кофе.*  
   (HE drinks neither tea nor coffee.)
 
 ## Therefore, so
@@ -294,20 +294,18 @@
 - **More conversational** 
   Used for day to day speech 
 
-  Щёл дождь, **так что** я остался дома.  
+  *Щёл дождь, **так что** я остался дома.*  
   (It was raining, so I stayed home)
 
 ### Поэтому 
 - **In formal writing and everyday speech**  
   Equivalence to "Therefore," "for that reason," or "that is why."  
 
-  Я говорю совсем плохо. **Поэтому** занимаюсь много.  
+  *Я говорю совсем плохо. **Поэтому** занимаюсь много.*  
   (I speak quite poorly. That is why I study a lot.)
 
 
-
 # (Expander) Conjunctive Words 
-
 ## Definition
 - It glues two clauses together.   
 - Acts as **an actual part** of the sentence. 
@@ -317,35 +315,35 @@
 - **Acts as the location for the second clause**.  
 - Almost **always** a conjunctive word.    
 
-  Это дом, **где** я живу.  
+  *Это дом, **где** я живу.*  
   (This is the house where I live.)
 
-  Женя спрашивает, **где** учится Иван.  
+  *Женя спрашивает, **где** учится Иван.*  
   (Zhenya asks **where** Ivan goes to school.)
 
 ## Which/that (Что)
 - When it **replaces a noun**.  
 
-  Я читаю книгу, **что** лежит на столе.  
+  *Я читаю книгу, **что** лежит на столе.*  
   (I am reading the book that is lying on the table.)
 
 ## How (Как) 
 - When used to describe the **manner** in which something happened.   
 
-  Я видел, **как** она танцует.  
+  *Я видел, **как** она танцует.*  
   (I saw how she dances.)
 
-  Но я не знаю, **как** он учится.  
+  *Но я не знаю, **как** он учится.*  
   (But I don't know **how** he does in school.) 
 
 ## Than (Чем) 
 - Used with **comparative adjectives**
 - Often seen with тем.  
   
-  Москва больше, **чем** Эдинбург.  
+  *Москва больше, **чем** Эдинбург.*  
   (Moscow is bigger than Edinburgh)
 
-  **Чем** быстрее, **тем** лучше.  
+  ***Чем** быстрее, **тем** лучше.*  
   (The faster, the better.) 
 
 # (Expander) Emphatic Particles
@@ -357,7 +355,7 @@
 ## Also - adds objects (Тоже) 
 - The **same object** is shared among **different subjects**
 
-  Анна говорит по-русски. Её друг **Виктор** **тоже**.  
+  *Анна говорит по-русски. Её друг **Виктор** **тоже**.*  
   (Anna speaks Russian. Her friend Victor does too.)
 
 ## Also - adds subjects (Также) 
@@ -365,13 +363,13 @@
 
 - When connect two items in a list within the same sentence, "a" should be added.  
 
-  Анна говорит по-английски, **а также** по-русски.  
+  *Анна говорит по-английски, **а также** по-русски.*  
   (Anna speaks English, as well as Russian.)
 
 ## After all (Ведь)  
 - Translates roughly to **"after all," "you know," "isn't it so," or "you see."**
   
-  **Ведь** это правда!  
+  ***Ведь** это правда!*  
   (It is the truth, isn't it!)
 
 ## Even (Даже) 
@@ -379,35 +377,35 @@
 ### Even
 - When the word is embedded inside the sentence, it is used to **highlight specific words**.  
   
-  Он **даже** не посмотрел на меня.  
+  *Он **даже** не посмотрел на меня.*  
   (He didn't even look at me.)
 
 ### Even if
 - With comma, it often goes after **если (if)**. 
   
-  Я пойду гулять, **даже если** будет дождь.  
+  *Я пойду гулять, **даже если** будет дождь.*  
   (I will go for a walk, even if it rains.)
 
 ## Very (Уж)  
 ### Soften a negative
-- Не так **уж** плохо.  
+- *Не так **уж** плохо.*  
   (Not so bad.)
 
 ### Add strong emphasis
-- Я **уж** не знаю, что делать!  
+- *Я **уж** не знаю, что делать!*  
   (I really just don't know what to do!)
 
 ## Not a single (Ни)
-- На небе нет **ни** облачка.  
+- *На небе нет **ни** облачка.*  
   (There is not a single cloud in the sky.)
 
 ## Only (Только) 
 - **Limiting an amount/object/action**  
-  У меня есть **только** один вопрос.  
+  *У меня есть **только** один вопрос.*  
   (I only have one question.)
 
 - **Adding emphasis**  
-  Если бы **только** я знал!  
+  *Если бы **только** я знал!*  
   (If only I had known!)
 
 # Prepositions 
@@ -429,33 +427,31 @@
   У + [Genitive Case] + (есть) + [Nominative Case]
 
   - **With есть - Does it exist or not?**  
-    -**У** вас есть синий костюм?  
+    *-**У** вас есть синий костюм?*  
     (Do you have a blue suit (or not)?) 
-
-    -Да, есть.  
+    *-Да, есть.*  
     (Yes, I do.)    
 
   - **Without есть - We know it exists. Tell me more**  
-    -**У** вас синий костюм?  
+    *-**У** вас синий костюм?*  
     (Is the suit you have blue?) 
-      
-    -Да, синий.  
+    *-Да, синий.*  
     (Yes, it is)
 
 - **By/near/at**  
-  Кровать стоит **у** окна.   
+  *Кровать стоит **у** окна.*   
   (The bad is by the window.)  
 
 - **At someone's place**  
   Followed by a person, it means you are at that person's house, room, or place of work
 
-  Вчера я был **у** друга.  
+  *Вчера я был **у** друга.*  
   (Yesterday I was at a friend's place.)  
 
 - **Source or origin (from someone)**  
   From a person
 
-  Я взял эту книгу **у** брата.  
+  *Я взял эту книгу **у** брата.*  
   (I took this book from my brother.)
 
 ## Для
@@ -463,139 +459,135 @@
 - **For someone/something**  
   It can be some item for someone, or some item for some purpose.  
 
-  Подарок **для** мамы.  
+  *Подарок **для** мамы.*  
   (A present for mom.)
 
 ## Без
 ### + Genitive
-
 - **Without**  
   Can be followed by a person, object, or abstract concept.  
   
-  **Без** меня.  
+  ***Без** меня.*  
   (Without me.)  
 
-  Кофе **без** сахара.  
+  *Кофе **без** сахара.*  
   (Coffee without sugar.)
 
-  **Без** Проблем.  
+  ***Без** Проблем.*  
   (Without problems.)
 
 ## В/во
-
 ### В or во?
 - Во when the first letter of the preceding **word is ф followed by a consonant**. 
 
 ### + Prepositional
 - **Inside a physical space or container**  
-  Книга **в** этой маленькой комнате.  
+  *Книга **в** этой маленькой комнате.*  
   (The book is in the small room.)  
 
 - **Broad time period**  
   - **Months**  
-    Мой день рождения **в** августе.  
+    *Мой день рождения **в** августе.*  
     (My birthday is in August.)  
 
   - **Years**
-    Это было **в** 2026 году.  
+    *Это было **в** 2026 году.*  
     (That was in 2026.)
 
 ### + Accusative
 - **Moving into a physical space**  
-  Я иду **в** университет.  
+  *Я иду **в** университет.*  
   (I am going to the university.)  
 
-  Мы едем **в** ресторан.  
+  *Мы едем **в** ресторан.*  
   (We are going to a restaurant.)  
 
 - **Sports and games**  
-  Он играет **в** футбол.    
+  *Он играет **в** футбол.*    
   (He plays football.)
 
 - **Specific time expression**  
   When it will happen, and the duration of time.  
 
   - **Day of the time**  
-    **В** пятницу.  
+    ***В** пятницу.*  
     (On Friday.)  
 
   - **Clock time**  
-    Урок наминается **в** пять часов.  
+    *Урок наминается **в** пять часов.*  
     (The lesson starts at five o'clock)
 
 - **Frequency**  
   Meaning how many times per time period.
 
-  Пять дней в неделю 
+  *Пять дней в неделю* 
   (Five days a week)
 
 ## На 
 
 ### + Prepositional
 - **On a surface**  
-  **На** столе  
+  ***На** столе*  
   (on the table)
 
-  Книга **на** нашем большом столе.  
+  *Книга **на** нашем большом столе.*  
   (The book is on our big table.)   
 
 - **At an event/open space**  
-  **На** лекции  
+  ***На** лекции*  
   (In class)
 
-  **На** балете  
+  ***На** балете*  
   (At a ballet)
 
 - **Play musical instruments**  
-  Она играет **на** гитаре.  
+  *Она играет **на** гитаре.*  
   (She plays guitar.)  
 
 - **Specific weeks**  
-  Мы сделаем это **на** этой неделе.  
+  *Мы сделаем это **на** этой неделе.*  
   (We will do it this week)  
 
 - **Transportation**  
-  Я еду домой **на** автобусе.  
+  *Я еду домой **на** автобусе.*  
   (I am going home by bus)
 
 - **Medium or means of expression**  
-  **На** каком языке вы говорите?  
+  ***На** каком языке вы говорите?*  
   (What language do you speak?)
 
 - **Special cases**  
-  **На** факультете  
+  ***На** факультете*  
   (In the division (of a college))  
 
-  **На** кафедре  
+  ***На** кафедре*  
   (In the department (of a college))  
 
 ### + Accusative
 - **Moving onto a surface**  
-  Я положил книгу **на** стол.  
+  *Я положил книгу **на** стол.*  
   (I put the book onto the desk.)
 
 - **Heading to an event**  
-  Мы идём **на** концерт.  
+  *Мы идём **на** концерт.*  
   (We are going to the concert.)
   
 - **Intended duration**  
   Talking about the planned duration of a trip or action
 
-  Я еду Москву **на** неделю.  
+  *Я еду Москву **на** неделю.*  
   (I am going to Moscow for a week.)  
  
 ## О/об
-
 ### О or об?
-
 - Об before words **beginning with vowels а, э, и, о and у**. 
 
 ### + Prepositional
   - **About, more information about**  
-    -**О** новых европейских рынках.  
+    ****О** новых европейских рынках.**  
     (About new European markets.)  
 
-    -**О** чём вы читаете?  
+    ***О** чём вы читаете?*  
     (What are you reading about?)  
 
     :warning: When asking about what/whom, required phases should be in prepositional cases **(ком/чём)**.  
@@ -610,7 +602,7 @@
 ### + Instrumental
   - **Answering the question: where (Где?)**
 
-    Картина висит **над** диваном.  
+    *Картина висит **над** диваном.*  
     (The picture hans above the sofa.)  
 
 ## Под, за 
@@ -624,18 +616,18 @@
 
 - **Answering the question: where (Где?)**
 
-  Кот спит **под** столом.   
+  *Кот спит **под** столом.*   
   (The cat is sleeping under the table)
 
 ### + Accusative
 - **Answering the question: to where (Куда?).**
 
-  Кот прыгнул **под** стол.  
+  *Кот прыгнул **под** стол.*  
   (The cat jumped under the table.)
 
 - **Sometimes за is used as "for".**
 
-  Спасибо **за** помощь.  
+  *Спасибо **за** помощь.*  
   (Thanks for your help)
 
 ## С/со 
@@ -645,46 +637,45 @@
 - When the following word starts with certain double consonants, especially if the first consonant is **с, з, ш, ж or м.**
 
 ### + Instrumental
-  - **Together with something/somebody**  
-    :warning: ONLY use it when you mean **"accompanied by"**
+- **Together with something/somebody**  
+  :warning: ONLY use it when you mean **"accompanied by"**
 
-    Кофе **с** сахар.  
-    (Coffee with sugar.)  
+  *Кофе **с** сахар.*  
+  (Coffee with sugar.)  
 
 ### + Genitive
 
 - **From, off of**  
   Answering the question from where (Откуда?)
 
-  Он вернулся **с** работы.  
+  *Он вернулся **с** работы.*  
   (He returned from work.)  
 
 - **Since**  
   Answering the question Since when (С какие пор?)
 
-  Я работаю **с** утра.  
+  *Я работаю **с** утра.*  
   (I worked since morning.)
 
 ## По
 ### + Dative
-
-  - **Motion along or through a surface**  
-  Гулять по парку.  
+- **Motion along or through a surface**  
+  *Гулять **по** парку.*  
   (To walk around/through the park.)
 
-  - **Means of communication or transmission**  
-  Говорить по телефону.  
+- **Means of communication or transmission**  
+  *Говорить **по** телефону.*  
   (To speak on the phone)
 
-  - **A subject, field of study, or specialty**   
-  Экзамен по математике. 
+- **A subject, field of study, or specialty**   
+  *Экзамен **по** математике.* 
   (An exam in math.)
 
-  - **Repeated actions on certain day (always plural)**  
+- **Repeated actions on certain day (always plural)**  
   По субботам.  
   (On saturdays / Every saturday)
 
-  - **According to**  
+- **According to**  
   По моему мнению.  
   (In my opinion)
 
@@ -717,13 +708,13 @@
 - **From (the inside of)**  
   Add location
   
-  Этот хлеб **из** магазина не такой вкусный, как тот домашний.  
+  *Этот хлеб **из** магазина не такой вкусный, как тот домашний.*  
   (The bread from the shop is not as tasty as that homemade one.)
 
 - **Out of**  
   Add object 
 
-  Дом построен **из** дерева.  
+  *Дом построен **из** дерева.*  
   (The house is made out of timber.)
 
 ## От
@@ -731,38 +722,38 @@
 - **Away from something**  
   От + place 
 
-  Отодвинь кровать **от** стены.  
+  *Отодвинь кровать **от** стены.*  
   (Move the bed away from the wall)
 
 - **Part of a whole**  
   От + object 
 
-  Это рукав **от** рубашки.  
+  *Это рукав **от** рубашки.*  
   (It's a shirt's sleeve.)
 
 - **Cause, reason**  
   От + reason 
 
-  Он умер **от** диабета.  
+  *Он умер **от** диабета.*  
   (He died from diabetes.)
 
 - **From someone**  
   От + person
 
-  Это подарок от мамы.  
+  *Это подарок от мамы.*  
   (This gift is from mom.)
 
 - **Distance away from**  
   От + place.  
   Used with preposition **до (to)**  
 
-  **От** петербурга **до** Москвы около 650 км.  
+  ***От** петербурга **до** Москвы около 650 км.*  
   (It is about 650 km from Moscow to Saint Petersburg.)
 
 - **Range**  
   Used with preposition **до (to)**
 
-  Билеты стоят **от** 200 до 400 рублей.  
+  *Билеты стоят **от** 200 до 400 рублей.*  
   (The tickets cost from 200 to 400.)
 
 ## Насчёт
@@ -770,59 +761,58 @@
 - **As regards, concerning, about, of**  
    
 ## До
-
 ### + Genitive
 - **Direction to**  
   До + object 
 
-  Ты можешь дойти от дома **до** гаража за две минуты.  
+  *Ты можешь дойти от дома **до** гаража за две минуты.*  
   (you can walk from the house to the garage in under two minutes)
 
 - **Distance to**   
-  **От** петербурга **до** Москвы около 650 км.  
+  ***От** петербурга **до** Москвы около 650 км.*  
   (It is about 650 km from Moscow to Saint Petersburg.)
 
 - **Before/until**  
-  Вы можете позвонить мне **до** урока?  
+  *Вы можете позвонить мне **до** урока?*  
   (Could you call me before the lesson)
 
-  Я не спал **до** двух часов.  
+  *Я не спал **до** двух часов.*  
   (I was up until two o'clock)
 
 - **Up to (limit)**  
-  Магазин предлагает скидку **до** пятидесяти процентов.  
+  *Магазин предлагает скидку **до** пятидесяти процентов.*  
   (The store offers up to 50% discount)
   
 ## К 
 ### К or ко?  
 - When the following word starts with certain consonant combinations, particularly those **starting with "м" or "в"**
   
-  **Ко** мне.   
+  ***Ко** мне.*   
   (To me.)
 
 ### + Dative
 - **Spatial direction**  
   **Approaching a target**, moving toward a specific point, or going to see a person 
 
-  Он подошёл **к** окну.  
+  *Он подошёл **к** окну.*  
   (He walked up to the window.)  
 
-  Завтра я иду **к** врачу.  
+  *Завтра я иду **к** врачу.*  
   (Tomorrow I am going to the doctor.)  
 
 - **Time, deadline**  
   Indicates a **deadline or a point in time** by which an action will be completed or state will be reached
 
-  Я закончу работу **к** пяти часам.  
+  *Я закончу работу **к** пяти часам.*  
   (I will finish work by five o'clock.)
 
 - **Abstract relationships and attitudes**  
   Express **an attitude, a relationship, or an attachment toward someone or something.** It links a feeling or an action to its recipient.  
 
-  Как вы относитесь **к** этой идее?  
+  *Как вы относитесь **к** этой идее?*  
   (How do you feel about/relate to this idea?)  
 
-  Я привык **к** холодному климату.  
+  *Я привык **к** холодному климату.*  
   (I got used ot the cold climate)
   
 # (Pronouns) Personal Pronouns
@@ -839,37 +829,45 @@
 | They | они | У (н)их<br> | Им | О них 
 
 - **"Н-" when it is after a preposition.**  
-  Я смотрю на **н**его.  
+  *Я смотрю на **н**его.*  
   (I am looking at him.)
 
 - **Without "н-" when it is NOT after a preposition**  
-  Я вижу его.  
+  *Я вижу его.*  
   (I see him/it.)
 
 - **Special cases**  
   If the word indicates ownership, it **NEVER** takes an "н-" even if there is a preposition right next to it. 
 
-  Я смотрю на его(his) брата.  
+  *Я смотрю на его брата.*  
   (I am looking at his brother)
 
 ## Noun replacement (Nominative)
 - Means it or they according to the gender of that noun.  
 
 - **Masculine**  
-  Где чемодан? (Where is the suitcase?)  
-  Вот **он**. (There it is.)
+  *-Где чемодан?*  
+  (Where is the suitcase?)  
+  *-Вот **он**.*  
+  (There it is.)
 
 - **Neuter**  
-  Где окно?  (Where is the window?)  
-  Вот **оно**. (There it is.)
+  *-Где окно?*  
+  (Where is the window?)  
+  *-Вот **оно**.*  
+  (There it is.)
 
 - **Feminine**  
-  Где машина?  (Where is the car?)  
-  Вот **она**. (There it is.)  
+  *-Где машина?*  
+  (Where is the car?)  
+  *-Вот **она**.*  
+  (There it is.)  
 
 - **Plural**  
-  Где часы? (Where are the clocks?)  
-  Вот **они**. (There they are.)  
+  *-Где часы?*  
+  (Where are the clocks?)  
+  *-Вот **они**.*  
+  (There they are.)  
 
 # (Pronouns) Interrogative Pronouns
 ## Noun pronouns
@@ -886,13 +884,13 @@
 
 - Что never combines with another noun: что <del>чемодан</del>?
 
-  **Что** это?  
+  ***Что** это?*  
   (What is that?)  
 
-  **Что** в чемодане?  
+  ***Что** в чемодане?*  
   (What's in the case?)  
 
-  О **чём** ты думаешь?  
+  *О **чём** ты думаешь?*  
   (What are you thinking about?)
 
 ### Who (Кто) 
@@ -902,16 +900,16 @@
 
 - Used exclusively for **animate** objects (people and animals)
 
-  **Кто** это?  
+  ***Кто** это?*  
   (Who is this?) 
 
-  **Кого** ты видишь?  
+  ***Кого** ты видишь?*  
   (Whom do you see?)
 
 - Used to ask someone's profession  
   **Кто + [subject] + по + [dative case noun]**
 
-  Кто он по профессии?  
+  *Кто он по профессии?*  
   (What is his profession?)
 
 ## Adjective pronouns 
@@ -929,13 +927,13 @@
 
 - Combines with other nouns
   
-  **Какой** чемодан?  
+  ***Какой** чемодан?*  
   (What suitcase?)  
 
-  **Какая** книга!  
+  ***Какая** книга!*  
   (What a book!)
 
-  **Какое** место?  
+  ***Какое** место?*  
   (What(which) place?) 
 
 ### Whose (Чей) 
@@ -948,7 +946,7 @@
 | **Instrumental** | С которым | С которой | С которым | С которыми 
 | **Prepositional** | О котором | О которой | О котором | О которых 
 
-  **Чья** это машина?  
+  ***Чья** это машина?*  
   (Whose car is this?)
 
 ### Which one (Который)  
@@ -963,17 +961,17 @@
   
 - Used for point at specific things.  
 
-  **Который** час?  
+  ***Который** час?*  
   (What time is it?)
 
 ## Quantity pronoun 
 ### How much/many (Сколько) 
 - Usually forces the following noun into the **Genitive case**.  
 
-  **Сколько** это стоит?  
+  ***Сколько** это стоит?*  
   (How much does this cost?)  
 
-  **Сколько** у тебя братьев?  
+  ***Сколько** у тебя братьев?*  
   (How many brothers do you have?)
 
 # (Pronouns) Demonstrative Pronouns
@@ -988,16 +986,16 @@
   - These are 
   - Those are 
 
-  Это небольшой словарь.  
+  *Это небольшой словарь.*  
   (**This is** a small dictionary.)  
 
-  Это маленькое окно.  
+  *Это маленькое окно.*  
   (**This is** a small window.)  
 
-  Это интересная фотография.  
+  *Это интересная фотография.*  
   (**This is** an interesting photo.)  
 
-  Это красивые дома.  
+  *Это красивые дома.*  
   (**Those are** pretty houses.)  
 
 ### The adjective "This"
@@ -1020,23 +1018,23 @@
   - these or that 
   - those 
 
-  **Этот** словарь небольшой.  
+  ***Этот** словарь небольшой.*  
   (This dictionary is small.)  
 
-  **Это** окно маленькое.  
+  ***Это** окно маленькое.*  
   (This window is small.)  
 
-  **Эта** фотография интересная.  
+  ***Эта** фотография интересная.*  
   (This photo is interesting.)  
 
-  **Эти** дома красивые.  
+  ***Эти** дома красивые.*  
   (These houses are beautiful.)  
 
 ## Here is (Вот) 
 - Means **here is, here are, this is, there.**
 - Used to **draw attention** to certain items.  
   
-  Где Антон? А, **вот** он!  
+  *Где Антон? А, **вот** он!*  
   (Where is Anton? Ah, here/there he is!)
 
 ## That/Those (Тот) 
@@ -1051,7 +1049,7 @@
 
 - Often see it used with этот (this)
 
-  Я не хочу **эту** книгу, я хочу **ту**.  
+  *Я не хочу **эту** книгу, я хочу **ту**.*  
   (I don't want this book, I want that one.)
 
 ## Such a/That kind of (Такой) 
@@ -1066,13 +1064,13 @@
 
 - A quality or characteristics
 
-  Мои волосы **такие** грязные!  
+  *Мои волосы **такие** грязные!*  
   (My hair is so dirty!)  
 
 ## So much/So many (Столько)
 - Forces the noun that comes after it into the **Genitive case**  
 
-  У меня **столько** работы!  
+  *У меня **столько** работы!*  
   (I have so much work!)
 
 # (Pronouns) Possessive Pronouns  
@@ -1143,13 +1141,13 @@
   | :---: | :---: | :---:
   | себя | собой | себе  
 
-  Мы видим **себя**.  
+  *Мы видим **себя**.*  
   (We see ourselves.)
 
-  Мы берём это **с собой**.  
+  *Мы берём это **с собой**.*  
   (We are talking about ourselves.)
 
-  Вырази **себя** как можно более ясно.  
+  *Вырази **себя** как можно более ясно.*  
   (Express yourself as clearly as you can)
 
 # (Adverbs) Interrogative Adverbs  
@@ -1170,26 +1168,26 @@
 - **Specific but unknown**  
   Refers to something that is specific and real, but the speakers does not know (or cannot remember) exactly who, what, or where it is.  
 
-  **Кто-то** стучит в дверь.  
+  ***Кто-то** стучит в дверь.*  
   (Someone is knocking at the door.)
 
-  Она **почему-то** плачет.  
+  *Она **почему-то** плачет.*  
   (She is crying for some reason.)
 
-  Я **когда-то** изучал английский в университете.  
+  *Я **когда-то** изучал английский в университете.*  
   (I once studied English at the university.)
 
 - **The emphatic**  
   Used as an emphatic particle. It highlights a specific word, often to show contrast or add emotional weight.  
 
-  **Я-то** знаю правду, а они нет.  
+  ***Я-то** знаю правду, а они нет.*  
   (I know the truth, but they don't)
 
 ## Anything (-нибудь)
 - **Means "any", it deals with hypotheticals**  
   It is almost always used in the future tense, questions, or requests
 
-  Купи мне **что-нибудь**.  
+  *Купи мне **что-нибудь**.*  
   (Buy me anything.)  
 
 
