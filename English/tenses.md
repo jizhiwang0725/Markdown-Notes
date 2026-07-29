@@ -2,16 +2,10 @@
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
+
 <strong>Table of Contents</strong>
 
-- [Types of Clauses](#types-of-clauses)
-  - [Time clause](#time-clause)
-- [Verbs](#verbs)
-  - [State verbs](#state-verbs)
-    - [Definition](#definition)
-  - [Action verbs](#action-verbs)
-  - [Dual meaning verbs](#dual-meaning-verbs)
-- [(Tenses) Expressing States and Conditions](#tenses-expressing-states-and-conditions)
+- [Expressing States and Conditions](#expressing-states-and-conditions)
   - [Overview](#overview)
   - [Current, ongoing state](#current-ongoing-state)
     - [Present simple](#present-simple)
@@ -23,7 +17,7 @@
     - [Past simple](#past-simple)
   - [Past temporary physical condition](#past-temporary-physical-condition)
     - [Past simple continuous](#past-simple-continuous)
-- [(Tenses) Describing Habits and Repeated Actions](#tenses-describing-habits-and-repeated-actions)
+- [Describing Habits and Repeated Actions](#describing-habits-and-repeated-actions)
   - [Overview](#overview-1)
   - [Present habits](#present-habits)
     - [Present continuous](#present-continuous-1)
@@ -35,7 +29,7 @@
   - [Counting occurrences](#counting-occurrences)
     - [Present perfect](#present-perfect-1)
     - [Past perfect](#past-perfect)
-- [(Tenses) Actions in Progress](#tenses-actions-in-progress)
+- [Actions in Progress](#actions-in-progress)
   - [Overview](#overview-2)
   - [Temporary situations](#temporary-situations)
     - [Present continuous](#present-continuous-2)
@@ -44,7 +38,7 @@
   - [Ongoing past events](#ongoing-past-events)
     - [Past continuous](#past-continuous-1)
     - [Past perfect continuous](#past-perfect-continuous)
-- [(Tenses) Completed Events and Time Sequencing](#tenses-completed-events-and-time-sequencing)
+- [Completed Events and Time Sequencing](#completed-events-and-time-sequencing)
   - [Overview](#overview-3)
   - [Completed events with present results](#completed-events-with-present-results)
     - [Present perfect](#present-perfect-2)
@@ -56,9 +50,7 @@
   - [Order of past events](#order-of-past-events)
     - [Past continuous](#past-continuous-2)
     - [Past perfect](#past-perfect-1)
-  - [Using "since"](#using-since)
-    - [Past simple \& present perfect](#past-simple--present-perfect)
-- [(Tenses) Communication: Reporting, Storytelling, and Intentions](#tenses-communication-reporting-storytelling-and-intentions)
+- [Communication: Reporting, Storytelling, and Intentions](#communication-reporting-storytelling-and-intentions)
   - [Overview](#overview-4)
   - [Performative verbs](#performative-verbs)
     - [Present simple](#present-simple-1)
@@ -77,7 +69,7 @@
   - [Intentions](#intentions)
     - [Past simple \& past perfect](#past-simple--past-perfect)
     - [Past continuous](#past-continuous-3)
-- [(Tenses) Special Circumstances](#tenses-special-circumstances)
+- [Special Circumstances](#special-circumstances)
   - [Overview](#overview-5)
   - [First time of experiencing](#first-time-of-experiencing)
     - [Present perfect](#present-perfect-5)
@@ -85,34 +77,23 @@
     - [Present perfect continuous](#present-perfect-continuous-3)
   - [General circumstances](#general-circumstances)
     - [Present perfect](#present-perfect-6)
+- [Future Prediction and Decisions](#future-prediction-and-decisions)
+  - [Prediction based on opinion or experience](#prediction-based-on-opinion-or-experience)
+    - [Will](#will)
+    - [Be going to](#be-going-to)
+  - [Prediction based on present evidence](#prediction-based-on-present-evidence)
+    - [Be going to](#be-going-to-1)
+  - [Decision at moment of speaking](#decision-at-moment-of-speaking)
+    - [Will](#will-1)
+  - [Decision have already been made](#decision-have-already-been-made)
+    - [Be going to](#be-going-to-2)
+    - [Will](#will-2)
 
 </div>
 
 <div class="main-content">
 
-# Types of Clauses 
-## Time clause
-- Begin with a specific **time-related word.**  
-- For example words like:
-  - *When*
-  - *While*
-  - *Before*
-  - *Since*
-  - *By the time*
-  - *Until*
-
-# Verbs 
-## State verbs
-### Definition 
-- Describes a state of being, **a condition, a feeling, or a belief**, rather than a physical action.  
-
-## Action verbs 
-- 
-
-## Dual meaning verbs
-- Some verbs can act as **either a state verb or an action verb**, but their meaning changes depending on how they are used 
-
-# (Tenses) Expressing States and Conditions
+# Expressing States and Conditions
 ## Overview
 | Topic | Tense |
 | :--- | :--- |
@@ -172,7 +153,7 @@
   *We **had only owned** the car **for six weeks** when the clutch broke* 
 
 
-# (Tenses) Describing Habits and Repeated Actions 
+# Describing Habits and Repeated Actions 
 ## Overview
 | Topic | Tense |
 | :--- | :--- |
@@ -225,7 +206,7 @@
   
   *I **had stayed** in the hotel **twice** in the 1990s.*  
 
-# (Tenses) Actions in Progress
+# Actions in Progress
 ## Overview
 | Topic | Tense |
 | :--- | :--- |
@@ -267,7 +248,7 @@
   
   *When I last saw Omar, **he'd been running** and was out of breath*
 
-# (Tenses) Completed Events and Time Sequencing 
+# Completed Events and Time Sequencing 
 ## Overview 
 | Topic | Tense |
 | :--- | :--- |
@@ -330,17 +311,8 @@
   
   ***After** Ivan **had finished/finished** reading, he put out the light*
 
-## Using "since"
-### Past simple & present perfect
-- **Past simple** verb in the **time clause**, and a **present perfect** verb in the **main clause**. 
-  
-  *Since Mr Dodson **became** president unemployment **has increased**.*
 
-- When two situations in the main clause and time clause **extend until the present**, use **present perfect** for both.  
-  
-  ***Have** you **met** any of your neighbours since you **have lived** here?*
-
-# (Tenses) Communication: Reporting, Storytelling, and Intentions
+# Communication: Reporting, Storytelling, and Intentions
 ## Overview
 | Topic | Tense |
 | :--- | :--- |
@@ -446,7 +418,7 @@
     
   *We **meant/were meaning** to call in and see you, but Marc wasn't feeling well.*
 
-# (Tenses) Special Circumstances
+# Special Circumstances
 ## Overview
 | Topic | Tense |
 | :--- | :--- |
@@ -474,9 +446,6 @@
 - When we talk about situations (**general characteristics or circumstances**) that exist until the present.  
   
   ***We've been looking/We've looked** forward to this holiday for ages*
-
-
-
 
 
 </div>
