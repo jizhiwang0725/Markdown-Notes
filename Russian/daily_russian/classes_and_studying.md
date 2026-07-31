@@ -76,105 +76,105 @@
 ### Course/Year (Курс)
 - The **overarching curriculum or program of study** you enroll in for a semester or year.
   
-  Какие **курсы** ты слушаешь?  
-  (What courses are you enrolled in?)
+  > Какие **курсы** ты слушаешь?  
+  > (What courses are you enrolled in?)
 
 - **Year**   
-  *-На каком курсе?*
-  (Which year are you in?)
-  *-На третьем.*  
-  (Third year.)
+  > *-На каком курсе?*  
+  > (Which year are you in?)  
+  > *-На третьем.*   
+  > (Third year.)  
 
 ## Class session 
 ### Skill-base lessons (Урок)
 - Specific **skill-based sessions** (like a driving lesson or a language tutor session)
   
-  *Сейчас русский язык. **Урок** в 10 часов.*  
-  (Russian is now. The class is at 10:00)  
+  > *Сейчас русский язык. **Урок** в 10 часов.*  
+  > (Russian is now. The class is at 10:00)  
 
 ### Classes/studies (Занятие)
 - General term for being occupied with **academic work.** Normally without specifying the exact format 
 
-    *Я сегодня весь день на **занятиях**.*  
-    (I'm in class(es) all day.) 
+  > *Я сегодня весь день на **занятиях**.*  
+  > (I'm in class(es) all day.) 
 
 ### 90-min class (Пара)
 - **College class (90 min)**. Because a standard college block is two academic hours (45 x 2), it is called **a "pair".**  
   
-  *Первая **пара** в 9 часов.*  
-  (Our first class of the day is at 9:00.)
+  > *Первая **пара** в 9 часов.*  
+  > (Our first class of the day is at 9:00.)
 
 ### Lecture (Лекция)  
 - **University classes**  
-  *Когда наша первая лекция?*
-  (When is our first lecture?)  
+  > *Когда наша первая лекция?*
+  > (When is our first lecture?)  
 
 ## Logistics 
 ### College classroom (Аудитория)
 - The physical room on a **university campus**.  
   
-  *Почему мы в такой маленькой **аудитории**?*  
-  (Why are we in such a small classroom?)  
+  > *Почему мы в такой маленькой **аудитории**?*  
+  > (Why are we in such a small classroom?)  
 
 ### Section/Cohort (Группа)
 - Specific **group of student** you take your time with
   
-  *Мы в одной **группе**.*
-  (We are in the same section.) 
+  > *Мы в одной **группе**.*
+  > (We are in the same section.) 
 
 # Studying 
 ## Where (Учиться)
 - Focus on **where** one acquires knowledge  
 
-  *-Где вы учитесь?*  
-  (Where do you study?)  
-  *-В университете.*  
-  (At university.)  
+  > *-Где вы учитесь?*  
+  > (Where do you study?)  
+  > *-В университете.*  
+  > (At university.)  
 
-  *-В нашем **(prep.)** университете учитесь?*  
-  (Do you study at our university?)  
+  > *-В нашем **(prep.)** университете учитесь?*  
+  > (Do you study at our university?)  
 
 - **Performance at school.**  
 
-  *Вы изучаетесь хорошо в университете?*  
-  (Do you do well at university?)
+  > *Вы изучаетесь хорошо в университете?*  
+  > (Do you do well at university?)
 
 ## What 
 ### At university (Изучать)
 - Used to indicate the subject one is taking at university. Usually for **deep, academic study.**  
 
-  *-Что вы **изучаете**?*  
-  (What do you study?)  
-  *-Я **изучаю** информатику **(acc.)**.*  
-  (I study informatics.)
+  > *-Что вы **изучаете**?*  
+  > (What do you study?)  
+  > *-Я **изучаю** информатику **(acc.)**.*  
+  > (I study informatics.)
 
 ### Memorize (Учить)
 - When the goal is to commit specific **information to memory**, or when you are acquiring a **basic skill**.  
   
-  *Я **учу** новые слова.*  
-  (I am learning new words.)
+  > *Я **учу** новые слова.*  
+  > (I am learning new words.)
 
 ## Homework
 ### General (Занимать)
 - The meaning of this word is **to be occupied/to engage yourself**. Hence, this word can refer to **all kinds of tasks.**  
   
-  *Я не могу пойти гулять мне нужно **заниматься**.*  
-  (I can't go for a walk, I need to study/do homework)
+  > *Я не могу пойти гулять мне нужно **заниматься**.*  
+  > (I can't go for a walk, I need to study/do homework)
 
 ### For schoolchildren (Уроки)
 - **To do lesson**  
-  *Мой младший брат сейчас делает **уроки**.*  
-  (My little brother is doing his homework right now.)
+  > *Мой младший брат сейчас делает **уроки**.*  
+  > (My little brother is doing his homework right now.)
 
 ### Specific (Задания)
 - Meaning **to do tasks**. Usually used when you want to emphasize the **completion** of a specific task.
   
-  *Я весь вечер делал **задания** по математике.*  
-  (I spent the whole evening doing math assignments/problems)
+  > *Я весь вечер делал **задания** по математике.*  
+  > (I spent the whole evening doing math assignments/problems)
   
 ### University (Домашка) 
 - Short for домашнее задание
 
-  *Я делаю **домашку**.*  
-  (I am doing my homework)
+  > *Я делаю **домашку**.*  
+  > (I am doing my homework)
 </div>

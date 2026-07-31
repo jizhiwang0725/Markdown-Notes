@@ -83,7 +83,7 @@
 - It keeps the preceding consonant hard, even if it is followed by a soft vowel.  
 - Often seen it **between a prefix that ends in a consonant** and **a root that begins with е, ё, ю, or я**.
   
-  Под + езд = под**ъ**езд  
+  > *Под + езд = под**ъ**езд*  
   (Building entrance)
 
 ## Soft and hard vowels  
@@ -122,18 +122,18 @@
 
 - Any **'о'** that are **ONE syllabus** before the stress are pronounced 'a'.     
 
-  *We write: М**о**сква*  
-  *We say: М**а**сква*  
+  > *We write: М**о**сква*  
+  > *We say: М**а**сква*  
 
 - Any **'а'/'о'** that are **MORE than one** syllable before the stress and anywhere **AFTER** the stress are pronounced "uh".    
 
-  *We write: Колорадо*  
-  *We say: К **"uh"** л**а** ра&#769; д **"uh"***
+  > *We write: Колорадо*  
+  > *We say: К **"uh"** л**а** ра&#769; д **"uh"***
 
 - Any **'я'/'е'** that are **NOT at the end of a word and NOT stressed** are pronounced "I (ih)". Vowel **'я'** at the end of a word when **unstressed** is pronounced "yuh".  
 
-  *We write: Петербург, Япония*  
-  *We say: ПI тIр буг, YI по ни yuh*  
+  > *We write: Петербург, Япония*  
+  > *We say: ПI тIр буг, YI по ни yuh*  
 
 ## Voiced and voiceless consonants (Final devoicing)
 ### Voiced 
@@ -160,10 +160,10 @@
 - When voiced and voiceless consonants are adjacent to each other, the nature of the second consonant dictates the nature of the first.    
 
   Voiced + **voiceless** → voiceless + voiceless  
-  ***в К**иеве → **ф К**иеве*
+  > ***в К**иеве → **ф К**иеве*
 
   voiceless + **voiced** → voiced + voiced  
-  *баске**тб**ол → баске**дб**ол*
+  > *баске**тб**ол → баске**дб**ол*
 
 ## Labial consonants
 - A sound made with your lip
@@ -173,44 +173,44 @@ Letters **б, п, в, ф and м**
 ### Чт = шт
 - Mostly applies to "что" and its derivation. In regular words like "почта", it stays normal.   
 
-  ***Чт**о, **Чт**обы*   
+  > ***Чт**о, **Чт**обы*   
 
 ### Ого/его = ово/ево
-- *Нич**его**, С**его**дня, Красн**ого***  
+- > *Нич**его**, С**его**дня, Красн**ого***  
 
 ### Тся/ться = ца
 - Verb ending in -тся (he/she/it does).   
-  *Нрав**ится***  
+  > *Нрав**ится***  
 
 - Infinitive verbs ending in -ться.   
-  *Учи**ться***  
+  > *Учи**ться***  
 
 ### Сч/зч/жч = щ
-- ***Сч**астье, **Сч**ёт*
+- > ***Сч**астье, **Сч**ёт*
 
 ### Silent consonants
 
 - Вств - drops the first в.  
-  *Здра **(в)ств**уйте, Чу **(в)ств**о*
+  > *Здра **(в)ств**уйте, Чу **(в)ств**о*
 
 - Лнц - drops the л.  
-  *Со **(л)нц**е*  
+  > *Со **(л)нц**е*  
 
 - Стн - drops the т.  
-  *Изве**с(т)н**ый*  
+  > *Изве**с(т)н**ый*  
 
 ### Consonant clusters
 - Тс/дс = ц  
-  *Горо**дс**кой, Де**тс***кий
+  > *Горо**дс**кой, Де**тс***кий
 
 - Сш/зш = шш   
-  *Вы**сш**ий, Бе**з ш**ума*
+  > *Вы**сш**ий, Бе**з ш**ума*
 
 - Сж/зж = жж  
-  ***Сж**ечь, По**зж**е, Бе**з ж**ены*  
+  > ***Сж**ечь, По**зж**е, Бе**з ж**ены*  
 
 - Тч/дч = чч  
-  *Перево**дч**ик, Лё**тч**ик*  
+  > *Перево**дч**ик, Лё**тч**ик*  
 
 ### Double consonants 
 - Pronounce it for a bit **longer**.  
@@ -275,19 +275,19 @@ Letters **б, п, в, ф and м**
 
 ## Lightweight modifier (по-)
 - **A little / For a short time**  
-  ***По**спать*  
-  (To sleep for a little while) 
+  > ***По**спать*  
+  > (To sleep for a little while) 
 
-  ***По**работать*  
-  (To work for a little)  
+  > ***По**работать*  
+  > (To work for a little)  
 
 - **Starting an action (with motion verbs)**  
-  ***По**йти*  
-  (To set off / start walking)  
+  > ***По**йти*  
+  > (To set off / start walking)  
 
 - **Just completing the action**  
-  ***По**смотреть*  
-  (To watch / take a look)
+  > ***По**смотреть*  
+  > (To watch / take a look)
 
 ## Prepositions 
 - Can be used as suffixes for perfective verbs, and the meaning is also carried.  
@@ -308,8 +308,8 @@ Letters **б, п, в, ф and м**
 ## People, job (-тель)
 - **Like "er" in English**  
 
-  *Учить → Учи**тель***  
-  (To teach → Teacher)
+  > *Учить → Учи**тель***  
+  > (To teach → Teacher)
 
 ## Tools and objects (-лка/-льник)
 - Turned into a noun to name the **physical item** used to **perform that action**.
@@ -323,55 +323,55 @@ Letters **б, п, в, ф and м**
 ## Object, concept or felling (-н) 
 - Most common. Usually derived from **nouns**.  
   
-  *Вкус → Вкус**н**ый*  
-  (Taste → Tasty)
+  > *Вкус → Вкус**н**ый*  
+  > (Taste → Tasty)
 
-  *Холод → Холод**н**ый*  
-  (Cold (n.) → Cold (adj.))
+  > *Холод → Холод**н**ый*  
+  > (Cold (n.) → Cold (adj.))
 
 ## People, places, and professions (-ск)
 - To describe something as belonging to a **specific place, nationality, or type of person**.   
 
-  *Университет → Университет**ск**ий*  
-  (University(n.) → University(adj.))  
+  > *Университет → Университет**ск**ий*  
+  > (University(n.) → University(adj.))  
 
-  *Студент → Студенче**ск**ий*  
-  (Student(n.) → Student(adj.))
+  > *Студент → Студенче**ск**ий*  
+  > (Student(n.) → Student(adj.))
 
 ## Materials and categories (-ов/-ев)
 - For categorize **scientific** and **abstract concepts**.
 - -ев is used due to **spelling rule**
   
-  *Фрукт → Фрукт**ов**ый*  
-  (Fruit(n.) → Fruit(adj.))
+  > *Фрукт → Фрукт**ов**ый*  
+  > (Fruit(n.) → Fruit(adj.))
 
-  *База → Баз**ов**ый*  
-  (Base → Basic)
+  > *База → Баз**ов**ый*  
+  > (Base → Basic)
 
 ## Performing an action (-тельн)
 - Equivalent to the English **-ive, -able, or -ory**. It changes an action to an adjective that describes the action.  
 
-  *Удивить → Удиви**тельн**ый*
-  (To surprise → Surprising)
+  > *Удивить → Удиви**тельн**ый*
+  > (To surprise → Surprising)
 
-  *Внимать → Внима**тельн**ый* 
-  (To listen → Attentive)
+  > *Внимать → Внима**тельн**ый* 
+  > (To listen → Attentive)
 
 ## Traits and tendencies (-лив/-чив)
 - Attach to nouns or verbs to describe **a strong characteristic, tendency or personality trait**.  
 - Similar to the English **-ful or -y**
 
-  *Талант → Талант**лив**ый*  
-  (Talent → Talented)
+  > *Талант → Талант**лив**ый*  
+  > (Talent → Talented)
 
-  *Разговор → Разговор**чив**ый*  
-  (Conversation → Talkative)
+  > *Разговор → Разговор**чив**ый*  
+  > (Conversation → Talkative)
 
 ## Physical materials (-ян/янн)
 - When describing something is **made of this natural material**. 
  
-  *Серебро → Серебр**ян**ый*  
-  (Silver(n.) → Silver (adj.))
+  > *Серебро → Серебр**ян**ый*  
+  > (Silver(n.) → Silver (adj.))
 
 # (Suffixes) Imperfective Verbs
 ## From perfective verbs
@@ -385,18 +385,18 @@ Letters **б, п, в, ф and м**
 ## From noun (-овать/-евать/-ировать)
 - **Equivalent of adding "-ize" or "-ate" in English, or just converting a noun into a verb** 
 
-  *Совет → Совет**овать***  
-  (Advice → To advise)
+  > *Совет → Совет**овать***  
+  > (Advice → To advise)
 
-  *План → План**ировать***  
-  (Plan → To plan)
+  > *План → План**ировать***  
+  > (Plan → To plan)
 
 # (Suffixes) Perfective Verbs
 ## Sudden action (-нуть)
 - Adding this suffix to an imperfective verb squeezes an action into a **single sudden action.**  
   
-  *Прыгать → Прыг**нуть***  
-  (To be jumping up and down → To execute exactly one jump)
+  > *Прыгать → Прыг**нуть***  
+  > (To be jumping up and down → To execute exactly one jump)
 
 # (Suffixes) Adverbs
 ## Hard-stem adjectives (-о)  

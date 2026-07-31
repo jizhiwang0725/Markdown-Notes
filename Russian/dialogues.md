@@ -45,7 +45,7 @@
 ## Asking for a table and menu
 ### The restaurant is full
 
-- Здравствуйте! У вас есть свободные столики?
+- Здравствуйте! У вас есть свободные столики?  
   (Hello! Do you have any free tables?)
 
   - **Столик** - table at a restaurant 

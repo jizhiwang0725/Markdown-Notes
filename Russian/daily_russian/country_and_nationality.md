@@ -83,8 +83,8 @@
 
 # Nationality 
 ## Asking About Nationality 
-- *Кто вы по национальности?*  
-  (What is your nationality?)
+- > *Кто вы по национальности?*  
+  > (What is your nationality?)
 
 ## Class A (-ец, -ка, -цы)
 | Nationality | он | она | они
@@ -128,7 +128,7 @@
 
 - Use nouns of nationality when they stand alone. Use adjectives to modify another noun.  
 
-  *Джон **американец**.*   
-  *Джон **американский студент**.* 
+  > *Джон **американец**.*   
+  > *Джон **американский студент**.* 
 
 </div>

@@ -19,19 +19,20 @@
 
 # Weather
 ## Adverbs and corresponding adjectives
-**Adverbs are used because of the missing "it's"**
-| Russian<br>(Adverb) | Adjective (Masculine) | English<br>(Adverb) 
-| :---: | :---: | :--: 
-| Прохладно | Прохладный | It's cool 
-| Холодно | Холодный | It's cold 
-| Жарка | Жаркий | It's hot 
-| Тепло&#769; | Теплый | It's warm 
-| Моро&#769;зно | Морозный | It's freezing 
-| Ветрено | Ветреный | It's windy 
-| Облачно | Облачный | It's cloudy  
-| Дождь | - | It's raining 
-| Снег | - | It's snowing   
-| Солнечно | Солнечный | It's sunny 
+- **Adverbs are used because of the missing "it's"**
+  
+  | Adverb | Adjective | English
+  | :---: | :---: | :--: 
+  | Прохладно | Прохладный | It's cool 
+  | Холодно | Холодный | It's cold 
+  | Жарка | Жаркий | It's hot 
+  | Тепло&#769; | Теплый | It's warm 
+  | Моро&#769;зно | Морозный | It's freezing 
+  | Ветрено | Ветреный | It's windy 
+  | Облачно | Облачный | It's cloudy  
+  | Дождь | - | It's raining 
+  | Снег | - | It's snowing   
+  | Солнечно | Солнечный | It's sunny 
 
 ## Weather forecast 
 Заморозки - frost  
