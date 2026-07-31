@@ -13,15 +13,19 @@
   - [Past simple](#past-simple)
     - [Completed actions](#completed-actions)
   - [Future simple](#future-simple)
-    - [Prediction, promise, fact](#prediction-promise-fact)
+    - [Prediction or promises](#prediction-or-promises)
+    - [Less routine or fixed future arrangements](#less-routine-or-fixed-future-arrangements)
 - [The Continuous Aspect](#the-continuous-aspect)
   - [Present continuous](#present-continuous)
     - [Happening or changing right now](#happening-or-changing-right-now)
+    - [Planned recent actions](#planned-recent-actions)
   - [Past continuous](#past-continuous)
     - [During the past](#during-the-past)
     - [Repeated past activities (informal)](#repeated-past-activities-informal)
   - [Future continuous](#future-continuous)
     - [Future ongoing events](#future-ongoing-events)
+    - [Part of future events](#part-of-future-events)
+    - [Asking for intentions](#asking-for-intentions)
 - [The Perfect Aspect](#the-perfect-aspect)
   - [Present perfect](#present-perfect)
     - [Completed action with results](#completed-action-with-results)
@@ -48,9 +52,11 @@
 ## Present simple
 ### Truth or fact
 - **Action verbs**  
-  Telling facts.   
+  Telling formal facts, fixed upcoming events.   
 
-  > *Bolt **runs** very fast.* 
+  > *Bolt **runs** very fast.*  
+
+  > *We **get** our exam results on the 20th August.*   
 
 - **Stative verbs**  
   When describing **possession or status.**    
@@ -111,15 +117,21 @@
   > *The minute I **got** the news about Anna I **telephoned** my parents*  
 
 ## Future simple
-### Prediction, promise, fact
+### Prediction or promises
 - **Action verbs**  
-  A prediction, fact, or promise about the future.  
+  A prediction, fact about the future.  
   - *Tomorrow*
   - *Next*
   - *Soon*
   - *In [number] days*
 
   > *I **will write** the script tomorrow*
+
+### Less routine or fixed future arrangements 
+- **Action verbs**
+  An arrangement in the future that is less formal or less routine.  
+
+  > *It's only a problem in Britain now, but it **will affect** the rest of Europe soon*
 
 
 # The Continuous Aspect
@@ -154,6 +166,11 @@
   The negation.  
   
   > ***I don't deny/I'm not denying** taking the books, but Miguel said it would be okay*
+
+### Planned recent actions
+- Indicates that we have a firm intention or have made a **definite decision** to do something  
+
+  > ***Are you seeing** the doctor again next week?*
   
 ## Past continuous
 ### During the past 
@@ -180,14 +197,22 @@
 
 ## Future continuous 
 ### Future ongoing events
-- **Action verbs**
-  Will be in progress at a specific future moment.    
+- Will be in progress at a specific future moment.    
   - *At [exact time]*
   - *Tomorrow*
   - *This time next week*
 
   > *At 10 AM tomorrow, I **will be writing** the script.*
 
+### Part of future events
+- Can be a **part of the normal course of events** or that is **one of the repeated** or **regular series of events**
+
+  > *We **will be leaving** in an hour or so, so make sure your suitcase is packed*
+
+### Asking for intentions 
+- Asking about someone's plan, instead of inviting, or intending  
+
+  > ***Will** you **be staying** with us again tonight?*
 # The Perfect Aspect 
 - Acts like a checkpoint. It focuses on **looking back from a specific point in time to see what has already been completed**
 - Acts like a bridge between past a present.  
@@ -304,7 +329,6 @@
 
   > *By next week, I **will have been writing** this script for a month.*  
 
- 
 
 </div>
 
