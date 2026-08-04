@@ -15,8 +15,12 @@
   - [To highlight an event](#to-highlight-an-event)
 - [Reporting News \& Speech](#reporting-news--speech)
   - [Introducing news](#introducing-news)
+    - [Retelling](#retelling)
+    - [Background](#background)
   - [Giving details](#giving-details)
-  - [Reporting past statements](#reporting-past-statements)
+    - [Events happened](#events-happened)
+    - [Near future events](#near-future-events)
+  - [Reciting past statements](#reciting-past-statements)
   - [Describing Past Durations](#describing-past-durations)
 
 </div>
@@ -50,6 +54,7 @@
 
 # Reporting News & Speech
 ## Introducing news
+### Retelling
 - **Present simple**  
   To introduce news that we **have heard, read, seen, or being told.**
   - *It says here*
@@ -58,18 +63,25 @@
 
   > *I **gather** you're worried about Pedro.*
 
+### Background
 - **Present perfect**  
   Used to **give background knowledge.**  
 
   > *A Russian spacecraft **has returned** safely to Earth with its two passengers. US astronaut Scott Keane and Russian cosmonaut Olga Kaleri landed in the early hours of Wednesday.*  
 
 ## Giving details
-- **Past simple**  
-  Used to **give details** after introducing the news.
+### Events happened  
+- Used to **give details** after introducing the news.
 
   > *A Russian spacecraft has returned safely to Earth with its two passengers. US astronaut Scott Keane and Russian cosmonaut Olga Kaleri **landed** in the early hours of Wednesday.*
 
-## Reporting past statements
+### Near future events
+- **Be to + infinitive**  
+  To talk about events that **can be controlled by people** in the **near future**. 
+  
+  > *Police officers **are to visit** every home in the area.*
+
+## Reciting past statements
 - **Past perfect**  
   Often used in **reporting** what was originally **said or thought** in the **present perfect or past simple**.
   
@@ -82,5 +94,7 @@
   Occurs more often in written texts rather than daily speeches.
   
   > *The body of a climber who went missing in the Alps was finally found yesterday. Carl Sims **had been climbing** along near the Harz Waterfall, which has claimed many lives in the past.*
+
+
 
 </div>

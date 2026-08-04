@@ -3,6 +3,8 @@
 <strong>Other Files</strong>
 
 - <a href="complex_sentences.md"> Complex Sentences</a> 
+- <a href="future_actions.md"> Future Actions </a> 
+- <a href="modals.md"> Modals </a> 
 
 <strong>Table of Contents</strong>
 
@@ -18,7 +20,6 @@
 - [The Continuous Aspect](#the-continuous-aspect)
   - [Present continuous](#present-continuous)
     - [Happening or changing right now](#happening-or-changing-right-now)
-    - [Planned recent actions](#planned-recent-actions)
   - [Past continuous](#past-continuous)
     - [During the past](#during-the-past)
     - [Repeated past activities (informal)](#repeated-past-activities-informal)
@@ -31,7 +32,7 @@
     - [Completed action with results](#completed-action-with-results)
     - [Situations that are true and still true](#situations-that-are-true-and-still-true)
   - [Past perfect](#past-perfect)
-    - [Finished before another past action](#finished-before-another-past-action)
+    - [Finished before a past action](#finished-before-a-past-action)
   - [Future perfect](#future-perfect)
     - [Finished future events](#finished-future-events)
 - [The Perfect Continuous Aspect](#the-perfect-continuous-aspect)
@@ -51,43 +52,12 @@
 
 ## Present simple
 ### Truth or fact
-- **Action verbs**  
-  Telling formal facts, fixed upcoming events.   
-
-  > *Bolt **runs** very fast.*  
-
-  > *We **get** our exam results on the 20th August.*   
-
-- **Stative verbs**  
-  When describing **possession or status.**    
-  - *Consist of*  
-  - *Own* 
-  - *Belong*
-
-  > *The app doesn't **appear** to work on my phone.*  
-  (Meaning "seem.")
-  
-  When describing **preferences and mental states.**   
-  - *Agree*
-  - *Believe*
-  - *Conclude*
-  - *Know*
-  - *Prefer*
-  - *Doubt*
-  - *(Dis)like*
-  - *Understand*
-
-  > *I **believe** you now.* 
-
-- **Performative verbs**  
-  The act of **saying the word is the action itself.**  
-  - *Agree*
-  - *Congratulate* 
-  - *Permit* 
-  - *Refuse* 
-  
-  > *I **agree** with your plan.*  
-  (Saying the word "agree" is the act of agreeing)
+| Verb Category | Description | Common Verbs | Example Sentence(s) |
+| --- | --- | --- | --- |
+| **Action** | - Telling **formal facts** or<br> **fixed upcoming events.** | Run, get | - *Bolt **runs** very fast.*<br> - *We **get** our exam results on the 20th August.* |
+| **Stative** | - Describing possession,<br> status, or states of being. | Consist of, Own,<br> Belong, Appear | - *The app doesn't **appear** to work on my phone.* |
+|| - Describing **preferences and<br> mental** states. | Agree, Believe,<br> Conclude, Know,<br> Prefer, Doubt,<br> (Dis)like, Understand | - *I **believe** you now.* |
+| **Performative** | - The act of saying the word<br> **is the action itself.** | Agree, Congratulate,<br> Permit, Refuse | - *I **agree** with your plan.* |
  
 ### Routine or habit
 - **Action/Stative verbs**  
@@ -116,8 +86,10 @@
 
   > *The minute I **got** the news about Anna I **telephoned** my parents*  
 
+  > *Whenever we went to my uncle's house, we **would** play in the garden*
+
 ## Future simple
-### Prediction or promises
+### Prediction or promises  
 - **Action verbs**  
   A prediction, fact about the future.  
   - *Tomorrow*
@@ -128,8 +100,8 @@
   > *I **will write** the script tomorrow*
 
 ### Less routine or fixed future arrangements 
-- **Action verbs**
-  An arrangement in the future that is less formal or less routine.  
+- **Action verbs**  
+  An arrangement in the future that is **less formal or less routine.**  
 
   > *It's only a problem in Britain now, but it **will affect** the rest of Europe soon*
 
@@ -141,36 +113,12 @@
 
 ## Present continuous
 ### Happening or changing right now  
-- **Action verbs**  
-  To that describe an ongoing process or activity 
-  - *Now*
-  - *Right now*
-  - *At the moment*
-  - *Currently*
-  - *These days*
-
-  > *I am **writing** the script right now* 
-
-- **Stative verbs**  
-  To emphasize that we have recently **started to think about something** or that we are **not sure about something.**  
-
-  > *I'm **regretting** my decision to give her the job.*  
-  (I am **increasingly aware** that it was the wrong decision)
-
-  To emphasize that a situation is **temporary** or for a period of **time around the present**
-  
-  > *Ella stays with us quite often. The children **are loving** having her around.*  
-  (A time a round the present) 
-
-- **Performative verbs**   
-  The negation.  
-  
-  > ***I don't deny/I'm not denying** taking the books, but Miguel said it would be okay*
-
-### Planned recent actions
-- Indicates that we have a firm intention or have made a **definite decision** to do something  
-
-  > ***Are you seeing** the doctor again next week?*
+| Verb Category | Usage / Description | Example Sentence(s) |
+| --- | --- | --- |
+| **Action** | - To describe an **ongoing process** or activity | - *I am **writing** the script right now.* |
+| **Stative** | - To emphasize that we have **recently**<br> **started** to think about something or that<br> we are **not sure about** something. | - *I'm **regretting** my decision to give her the job.* |
+|| - To emphasize that a situation is **temporary**<br> or for a period of **time around the present**. | - *Ella stays with us quite<br> often. The children **are loving** having her around.* |
+| **Performative verbs** | - The **negation**. | - ***I don't deny/I'm not denying** taking the books,<br> but Miguel said it would be okay.* |
   
 ## Past continuous
 ### During the past 
@@ -186,7 +134,7 @@
   > *Karin met Lars when she **was going out** with his best friend.*  
 
 ### Repeated past activities (informal) 
-- **Action verbs**
+- **Action verbs**  
   To emphasize that repeated actions went on for a **limited and temporary period** of time. 
 
   > *When Kata was in hospital, we **were visiting** her twice a day.*
@@ -197,7 +145,7 @@
 
 ## Future continuous 
 ### Future ongoing events
-- Will be in progress at a specific future moment.    
+- **Will be in progress** at a specific future moment.    
   - *At [exact time]*
   - *Tomorrow*
   - *This time next week*
@@ -213,9 +161,10 @@
 - Asking about someone's plan, instead of inviting, or intending  
 
   > ***Will** you **be staying** with us again tonight?*
+
 # The Perfect Aspect 
 - Acts like a checkpoint. It focuses on **looking back from a specific point in time to see what has already been completed**
-- Acts like a bridge between past a present.  
+- Acts like a **bridge between past a present.**  
 
 ## Present perfect 
 ### Completed action with results
@@ -233,8 +182,9 @@
   - *Recently*
   - *So far*  
 
-  > *I **have just written** the script*  
-  *He **has played** for the national team in 65 matches so far*   
+  > *I **have just written** the script.*  
+
+  > *He **has played** for the national team in 65 matches so far.*   
 
 ### Situations that are true and still true
 - **Action verbs**  
@@ -248,7 +198,7 @@
 
   > *That's the first time **I've seen** Jan look embarrassed.*  
   
-- **Stative verbs**
+- **Stative verbs**  
   Express an **unchanging mental state and possession**   
     - *Belong*
     - *Know*
@@ -259,8 +209,8 @@
   > ***Have you known** each other long?* 
 
 ## Past perfect
-### Finished before another past action
-- **Action verbs**
+### Finished before a past action
+- **Action verbs**  
   (Repeated) actions completed before another past action 
   - *Before*
   - *By the time*
@@ -270,10 +220,9 @@
 
   > *I **had stayed** in the hotel **twice** in the 1990s.*  
 
-
 ## Future perfect 
 ### Finished future events
-- **Action verbs**
+- **Action verbs**  
   An action will be **100% complete** before a future deadline. 
   - *By [time/date]*
   - *By the time*
@@ -282,7 +231,7 @@
   > *I **will have written** the script by Friday*
 
 # The Perfect Continuous Aspect
-- Hybrid. It focuses on the **duration** of an **ongoing action** that leads right up to a **specific cut-off point**.  
+- It focuses on the **duration** of an **ongoing action** that leads right up to a **specific cut-off point**.  
 - Continuous is normally for action verbs
 
 ## Present perfect continuous
@@ -306,25 +255,16 @@
 
 ## Past perfect continuous 
 ### Ongoing until another event in the past 
-- To emphasize the **duration** of the interrupted process.   
-  - *For [amount of time] + before/when*
- 
-  > *I **had been writing** the script for hours when I finally found the logic error.*  
-
-- The action may be **just finished shortly**.  
-  - *When*
-
-  > *When I last saw Omar, **he'd been running** and was out of breath*
-
-- The action may be **continued** beyond that point in the past.  
-  - *Since*
-
-  > *She felt terrible during the interview because she **had been suffering** from flu **since** the previous day.*
+| Description | Common Expression | Example Sentence(s) |
+| --- | --- | --- |
+| - To emphasize the **duration** of the<br> interrupted process.| For [amount of time] + before/when | - *I **had been writing** the script for<br> hours **when** I finally found the logic error.* |
+| - The action may be **just finished shortly**. | When | - *When I last saw Omar, **he'd been running**<br> and was out of breath.* |
+| - The action may be **continued** **beyond**<br>  that point in the past. | Since | - *She felt terrible during the interview because<br> she **had been suffering** from flu **since**<br> the previous day.* |
 
 ## Future perfect continuous
 ### Duration of future events  
-- **How long something** will have been ongoing by the time a future milestone arrives.  
-  **Emphasize the duration.**   
+- Describes **how long something** will have been ongoing by the time a future milestone arrives to **emphasize the duration.**  
+   
   - *For [amount of time] + by [future date]*
 
   > *By next week, I **will have been writing** this script for a month.*  

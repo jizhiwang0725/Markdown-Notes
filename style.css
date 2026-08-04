@@ -4,7 +4,7 @@
 body {
   /* Background */
   background-color: #2A252A;
-  color: #F5F2EB;
+  color: #e0e0e0;
   padding: 20px;
 
   /* Font */
@@ -35,15 +35,20 @@ blockquote {
   margin-right: 5px;
   border-radius: 5px;
 }
+
+a {
+  color: #e0e0e0 !important;
+}
+
 /* =========================================
    Headings
    ========================================= */
 h1 {
   /* Background */
-  background-color: #171414; 
+  background-color: #1e1e1e; 
   padding: 20px;
   border-radius: 20px;
-  border: 5px dotted #FFFFFF; 
+  border: 3px dotted #555555 !important; 
 
   /* Text */
   text-decoration: none;
@@ -55,8 +60,8 @@ h2 {
   padding: 10px; 
 
   /* Border */
-  border-bottom: 2px solid #E9C46A !important;
-  border-top: 2px solid #E9C46A !important;
+  border-bottom: 3px solid #E9C46A !important;
+  border-top: 3px solid #E9C46A !important;
 }
 
 h3 {
@@ -67,35 +72,49 @@ h3 {
   padding: 5px 5px 5px 10px; /* Top, Right, Bottom, Left */
 
   /* Border */
-  border-top: 2px dashed #D5DAD5;
-  border-bottom: 2px dashed #D5DAD5;
+  border-top: 2px dashed #555555;
+  border-bottom: 2px dashed #555555;
 }
 
 /* =========================================
    Layout & Containers
    ========================================= */
 
-/* The main text area */
-.main-content {
-  /* Background */
-  width: 65%; 
-  margin-right: auto; 
+/* The Table of Contents (Left Side) */
+.toc-sidebar {
+  position: fixed; 
+  top: 20px;
+  left: 20px;
+  width: 30%; 
+  
+  /* Use calc() to keep the bottom border on screen */
+  height: calc(100vh - 40px); 
+  overflow-y: auto;
+  
+  padding: 20px 10px 20px 20px;
+  background-color: #1e1e1e;
+  border-radius: 20px;
+  border: 3px dotted #555555 !important;
+
+  /* Crucial: Prevents padding/borders from adding to the 30% width */
+  box-sizing: border-box; 
 }
 
-/* The Table of Contents */
-.toc-sidebar {
-  /* Position */
-  position: fixed; 
-  top: 0px;
+/* The Main Content (Right Side) */
+.main-content {
+  position: fixed;
+  top: 20px;
   right: 20px;
-  bottom: 0px;
-  z-index: 100;
+  width: 65%; 
   
-  /* Background */
-  width: 30%; 
-  max-height: 100vh; 
+  /* Use calc() to keep the container perfectly sized on screen */
+  height: calc(100vh - 40px); 
   overflow-y: auto;
-  padding: 20px;
+  padding-bottom: 20px;
+
+  
+  /* Crucial: Prevents padding from pushing the width beyond 65% */
+  box-sizing: border-box; 
 }
 
 /* =========================================
@@ -122,8 +141,7 @@ table {
   }
   
   .main-content {
-    width: 100%; /* Allows text to expand and prevents overlap */
-    padding-right: 20px !important; 
+    width: calc(100% - 40px); /* Allows text to expand and prevents overlap */
   }
 
 

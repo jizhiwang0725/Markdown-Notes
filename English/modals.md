@@ -11,6 +11,7 @@
 - [Modals](#modals)
   - [Pure modals](#pure-modals)
     - [Features](#features)
+    - [Past tense](#past-tense)
   - [Semi-modals](#semi-modals)
     - [Dual meaning](#dual-meaning)
     - [Common semi-modals](#common-semi-modals)
@@ -18,48 +19,50 @@
   - [Common question patterns](#common-question-patterns)
 - [Capability \& Permission](#capability--permission)
   - [General abilities](#general-abilities)
-    - [In action (can/could)](#in-action-cancould)
-    - [Capability (can/could/be able to)](#capability-cancouldbe-able-to)
-    - [Senses or feelings (can/could)](#senses-or-feelings-cancould)
-    - [Passive voice (can/could/be able to)](#passive-voice-cancouldbe-able-to)
-  - [Single past achievement (be able to)](#single-past-achievement-be-able-to)
-  - [Near misses (can/could)](#near-misses-cancould)
+    - [In action (can)](#in-action-can)
+    - [Capability (can/be able to)](#capability-canbe-able-to)
+    - [Senses or feelings (can)](#senses-or-feelings-can)
+    - [Passive voice (can)](#passive-voice-can)
+  - [Past ability](#past-ability)
+    - [Single past achievement (be able to)](#single-past-achievement-be-able-to)
+    - [General past ability (could)](#general-past-ability-could)
+    - [Negative past achievements (couldn't/wasn't able to)](#negative-past-achievements-couldntwasnt-able-to)
   - [Permission](#permission)
-    - [General action (can/could/be allowed to)](#general-action-cancouldbe-allowed-to)
+    - [General action (can/be allowed to)](#general-action-canbe-allowed-to)
     - [Particular action (be allowed to)](#particular-action-be-allowed-to)
-    - [Refusing permission/Prohibition (not/needn't)](#refusing-permissionprohibition-notneednt)
+    - [Prohibition (can't/be not allowed)](#prohibition-cantbe-not-allowed)
 - [Degree of Certainty \& Deduction](#degree-of-certainty--deduction)
-  - [Levels of uncertainty](#levels-of-uncertainty)
+  - [Degrees of certainty](#degrees-of-certainty)
     - [General truth (can)](#general-truth-can)
+    - [Theoretical possibility (could)](#theoretical-possibility-could)
+    - [Expectation (should/ought to)](#expectation-shouldought-to)
     - [Possible (may/might/could (have))](#possible-maymightcould-have)
-    - [Likely to happen (should/ought to)](#likely-to-happen-shouldought-to)
-    - [Less likely to happen (could)](#less-likely-to-happen-could)
-    - [Something impossible (not)](#something-impossible-not)
+    - [Impossible (can't/couldn't)](#impossible-cantcouldnt)
   - [Logical deduction](#logical-deduction)
-    - [Past events (must have)](#past-events-must-have)
-    - [Ongoing current events (must be/have (got) to be)](#ongoing-current-events-must-behave-got-to-be)
-    - [Future (must be going/must be)](#future-must-be-goingmust-be)
-    - [Theoretical possibility after something happened (could)](#theoretical-possibility-after-something-happened-could)
+    - [Strong deduction (must have)](#strong-deduction-must-have)
+    - [Present events (must be/have (got) to be)](#present-events-must-behave-got-to-be)
+    - [Future (must be going)](#future-must-be-going)
 - [Habits \& Truth](#habits--truth)
   - [General truths and habits](#general-truths-and-habits)
-    - [General behaviour or habits (will/would)](#general-behaviour-or-habits-willwould)
+    - [General behaviour or habits (will)](#general-behaviour-or-habits-will)
     - [Facts (will)](#facts-will)
     - [Facts that are not necessarily true (needn't/don't have to)](#facts-that-are-not-necessarily-true-needntdont-have-to)
-    - [Criticism in speech (will/would)](#criticism-in-speech-willwould)
+    - [Criticism in speech (will)](#criticism-in-speech-will)
   - [Past events/situations](#past-eventssituations)
     - [Clear time reference (would/used to)](#clear-time-reference-wouldused-to)
-    - [Past states/Without clear time reference (used to)](#past-stateswithout-clear-time-reference-used-to)
-    - [Past intention that didn't happen (would have)](#past-intention-that-didnt-happen-would-have)
-    - [Assuming past actions occurred (will have)](#assuming-past-actions-occurred-will-have)
+    - [Without clear time reference (used to)](#without-clear-time-reference-used-to)
+    - [The imagined past (would have)](#the-imagined-past-would-have)
+    - [The assumed past (will have)](#the-assumed-past-will-have)
 - [Obligation, Advice \& Reaction](#obligation-advice--reaction)
   - [Formal rules and warnings (must/must not)](#formal-rules-and-warnings-mustmust-not)
-  - [Inferred obligations (must have to/must have had to)](#inferred-obligations-must-have-tomust-have-had-to)
-  - [External obligation](#external-obligation)
-    - [Affirmative sentences (have (got) to/need to)](#affirmative-sentences-have-got-toneed-to)
-    - [Negative sentences (not have to)](#negative-sentences-not-have-to)
-  - [Internal necessity](#internal-necessity)
-    - [Personal necessity (need to/need)](#personal-necessity-need-toneed)
+  - [Inferred obligations (must have to)](#inferred-obligations-must-have-to)
+  - [Obligation](#obligation)
+    - [External obligation (have (got) to)](#external-obligation-have-got-to)
+    - [Lack of obligation (not have to)](#lack-of-obligation-not-have-to)
+  - [Necessity](#necessity)
+    - [Practical or internal necessity (need/need to)](#practical-or-internal-necessity-needneed-to)
     - [General necessity (need to)](#general-necessity-need-to)
+    - [Lack of necessity (needn't/not need to)](#lack-of-necessity-needntnot-need-to)
   - [Recommendations](#recommendations)
     - [General comments (should/ought to)](#general-comments-shouldought-to)
     - [Present, specific comments (had better)](#present-specific-comments-had-better)
@@ -78,7 +81,15 @@
 ### Features
 | Features | Common words |
 | --- | --- |
-| **No "s"** in the third-person singular.<br> Followed by a **bare verb.**<br> Direct **questions and negation**.<br> **NO -ing, -ed, or to** forms | *Can, Will, Would, Shall,<br> Should, May, Might, Must*
+| - **No "s"** in the third-person singular.<br> - Followed by a **bare verb.**<br> - Direct **questions and negation**.<br> - **NO -ing, -ed, or to** forms | *Can, Will, Would, Shall,<br> Should, May, Might, Must* 
+
+### Past tense 
+| Modal | Past Tense |
+| --- | --- |
+| Can | Could |
+| Will | Would 
+| May | Might |
+| Must | Had to | 
 
 ## Semi-modals
 ### Dual meaning
@@ -94,9 +105,8 @@
   - *Used to*
   - *Ought to*
 
-- **Phrasal**   
-  They **act like normal** verbs in grammar.  
-  - *Have to/Have got to*
+- **Phrasal**     
+  - *Have (got) to*
   - *Be able to*
   - *Be going to*
   - *Be supposed to*
@@ -115,8 +125,8 @@
 
 # Capability & Permission
 ## General abilities 
-### In action (can/could)
-- **Can/could**  
+### In action (can)
+- **Can**  
   When talking about something that **is/was happening as we speak**
   - *The only thing/place/time*
   - *All (means the only thing)*
@@ -127,19 +137,27 @@
 
   > *During the war, the police **could** arrest you for criticising the government.*
 
-### Capability (can/could/be able to)
-- **Can/could**  
-  Meaning 'know how to'.  
+### Capability (can/be able to)
+- **Can**  
+  Meaning 'know how to'. 
+
+  With **adverbs of degree:**
+  - *Almost*
+  - *Hardly*
+  - *Just*
+  - *Nearly*
   
-  >*I **can** cook.*  
+  > *I **can nearly** touch the ceiling.*
+  
+  > *I **can** cook.*  
 
 - **Be able to**  
   When confirming that you have the **time, physical means, or technical capacity to do something** in specific situations 
   
   >*I finished my homework early, so I **am able to** cook dinner tonight.*
 
-### Senses or feelings (can/could)
-- **Can/could**    
+### Senses or feelings (can)
+- **Can**    
   **Sense verbs:** 
   - *Feel*
   - *Hear*
@@ -154,29 +172,36 @@
   
   > *I **could** remember the crash, but nothing after that.*
 
-### Passive voice (can/could/be able to)
-- **Can/could**  
+### Passive voice (can)
+- **Can**  
 
   >*Films **can** now easily **be streamed** online.*
 
-## Single past achievement (be able to)
+## Past ability
+### Single past achievement (be able to)
 - **Be able to**
   
   > *She swam strongly and **was able to** cross the river easily even though it was swollen by the heavy rain.*  
-  (A specific achievement)
 
-## Near misses (can/could)
-- **Can/could**
-  - *Almost*
-  - *Hardly*
-  - *Just*
-  - *Nearly*
-  
-  > *I **could nearly** touch the ceiling.*
+### General past ability (could)
+- **Could**
+
+  > *When I was a teenage, I **could** hold my breath for two minutes*
+
+### Negative past achievements (couldn't/wasn't able to)
+- **Wasn't able to**   
+  Used in formal writing
+
+  > *The test was extremely hard, and I **wasn't able to** pass it.*
+
+- **Couldn't**  
+  Use in informal daily speeches
+
+  > *I **couldn't** finish the exam*
 
 ## Permission
-### General action (can/could/be allowed to)
-- **Can/could / Be allowed to**  
+### General action (can/be allowed to)
+- **Can/Be allowed to**  
   
   > *Anyone **could/was allowed** to fish in the lake when the council owned it.*
 
@@ -185,28 +210,41 @@
   
   > *Although he didn't have a ticket, Ned **was allowed to** come in.*
 
-### Refusing permission/Prohibition (not/needn't)
-- **Couldn't/Can't/ Be not allowed**
+### Prohibition (can't/be not allowed)
+- **Can't/Be not allowed**
 
-  > *You **are not allowed** to enter!*
-
-- **Needn't/don't need to**
-  
-  >*You **needn't cut** the grass, I'll do it later.*  
-
+  > *You **can't/are not allowed to** enter!*
 
 # Degree of Certainty & Deduction
-## Levels of uncertainty 
+## Degrees of certainty 
 ### General truth (can)  
 - **Can**  
-  It can be, and it **sometimes** is. Usually stating general facts.  
+  Usually stating **general facts**.  
+
+  :warning: Substituting "Could" will give a different meaning
   
   >*It **can** be expensive to keep a cat.*
   
   > *We **can** stay with Jake in Oslo*
 
-### Possible (may/might/could (have))
+### Theoretical possibility (could)
+- **Could**  
+  **If something happened**, it could, or it may not be.  
 
+  >*It **could** be expensive to keep a cat.*
+
+### Expectation (should/ought to)
+- **Should**  
+  More commonly used 
+  
+  >*You **should** be ready to read.*
+  
+- **Ought to**  
+  Mainly used in formal writings/speeches.  
+
+  >*You **ought to** be ready to begin.*
+
+### Possible (may/might/could (have))
 | Event Timeframe | Modal Construction | Context / Usage | Example(s) |
 | :--- | :--- | :--- | :--- |
 | **Present** | May | - In **academic or formal language** to talk about<br> characteristics or behaviours. | - *The seeds from the plant **may** grow up to 20 cm in length.* |
@@ -217,71 +255,50 @@
 | **Past<br> Typical** | Might + (bare infinitive) | - Used to talk about what was **typically**<br> the case in the **past** in **formal** or **literary** use. | - *During the war, the police **might** arrest you for<br> criticising the government.* |
 | **Future** | Present/Past expressions | - Use the expression for **present and past event**<br> with a **future deadline**. | - *His math **may/might/could have improved by the time**<br> the exam comes round.*<br> - ***When** I go to Vienna **I may/might/could be staying** with Max,<br> but I'm not sure yet.* |
 
-### Likely to happen (should/ought to)
-- **Should (common)** 
-  
-  >*You **should** be ready to read.*
-  
-- **Ought to (formal)**
-
-  >*You **ought to** be ready to begin.*
-
-### Less likely to happen (could)
-- **Could**  
-  There is some doubt about it.
-
-  > *We **could** stay with Jake in Oslo.*
-
-### Something impossible (not)
-- **Can't/Couldn't**  
-  Theoretically or actually impossible
+### Impossible (can't/couldn't)
+- **Can't**   
+  Imply a **strong, confident deduction** about reality. It means you are looking at the **facts right** now and concluding that something is impossible
   
   > *There **can't** be many people in the world who haven't watched television.*
 
+- **Couldn't**  
+  It makes the statement feel slightly more **theoretical, remote, or imagined**.  
+
+  > *That **couldn't** be the fastest route to Moscow; it adds ten hours to the travel time.*
+
 ## Logical deduction 
-### Past events (must have)
+### Strong deduction (must have)
 - **Must + have + (past participle)**  
 
   >*That's not Clara's car. She **must have borrowed** it from her parents*
 
-### Ongoing current events (must be/have (got) to be)
+### Present events (must be/have (got) to be)
 - **Must be + (-ing)**  
   Something happening at or around the time of speaking.  
 
   > *I can't hear a noise. You **must be imagining** things.*  
 
-- **Must be + (bare infinitive) / Have (got) to be**  
+- **Must be + (bare infinitive)/Have (got) to be**  
   Informal present situation
 
-  > *Their goalkeeper **has got to be** at least two metres tall!*  
+  > *Their goalkeeper **has got to be/must be** at least two metres tall!*  
 
-### Future (must be going/must be)
-- **Must be going/must be**
+### Future (must be going)
+- **Must be going**
   
   > *-What are the workmen doing?*  
   > *-I think they **must be going** to dig up the road.*  
 
-### Theoretical possibility after something happened (could)
-- **Could**  
-  **If something happened**, it could, or it may not be.  
-
-  >*It **could** be expensive to keep a cat.*
-
 # Habits & Truth 
 ## General truths and habits
-### General behaviour or habits (will/would)
-- **Would/Will**  
-  For past or present.  
+### General behaviour or habits (will)
+- **Will**  
+  Would for past.  
   :warning: **NOT for particular occasions**
 
   > ***Every day** Dan **will** come home from work and turn on the TV.*
 
   > ***Each time** I gave him a problem he **would** solve it for me.*
-
-- **Wouldn't/Won't**   
-  Can be used for **either general or particular occasions** 
-
-  >*He **wouldn't/won't** walk the five miles to his place of work.*
 
 ### Facts (will)
 - **Will**
@@ -295,7 +312,7 @@
 - **Needn't/Don't have to**
   > *Volcanoes **needn't/don't have to** erupt constantly to be classified as active.*
 
-### Criticism in speech (will/would)
+### Criticism in speech (will)
 - We can **stress will or would** to **criticise** people's characteristic behaviour or habits.  
 
 - Use **will** to express disapproval.
@@ -309,20 +326,21 @@
 
   >*Whenever we went to my uncle's house, we **would/used to** play in the garden.*
 
-### Past states/Without clear time reference (used to)
+### Without clear time reference (used to)
 - **Used to**
+  To describe a **past state**. 
 
   >*We **used to** play in the garden.*
   
   >*The factory **used to** be over there.*
  
-### Past intention that didn't happen (would have)
+### The imagined past (would have)
 - **Would have + (past participle)**  
   Imaginary situation or situation that **might have happened** in the past
 
   > *I **would have been happy** to see him, but I didn't have time*
 
-### Assuming past actions occurred (will have)
+### The assumed past (will have)
 - **Will have + (past participle)**  
   Think a past situation **actually happened**.   
 
@@ -334,19 +352,14 @@
 
   >*Bookings **must** be made at least seven days before departure*
 
-## Inferred obligations (must have to/must have had to)
+## Inferred obligations (must have to)
 - **Must have to**  
   Based on **current evidence** to make a **logical assumption** that someone else is forced or required to do something.  
   
   >*I can't access the database. You **must have to** put in a password.*
 
-- **Must have had to**  
-  Based on **past evidence**
-
-  >*Matt wasn't at home when I went round. He must have had to go out unexpectedly*
-
-## External obligation 
-### Affirmative sentences (have (got) to/need to)
+## Obligation 
+### External obligation (have (got) to)
 - **Have to (formal)**  
   When used with **frequency words.**
   - *Always*
@@ -366,23 +379,27 @@
 
   >*I need a new pair of shoes, and **they've got to** be blue.* 
 
-### Negative sentences (not have to)
+### Lack of obligation (not have to)
 - **Not have to**  
   When **somebody else** or **external rules** make something unnecessary
 
   > *We've been told that we **don't have to** be at work until ten tomorrow*
 
-## Internal necessity 
-### Personal necessity (need to/need)
-- **Affirmative sentences (ordinary verb)**
+## Necessity 
+### Practical or internal necessity (need/need to)
+- **Need to/need**
   Used in **informal language**
 
   > *I **needed to** leave early*
 
   > *She's thirsty. She **needs** a drink*
 
-- **Negative sentences (modal)**  
-  Often used in **formal language**. When it is the speaker who decides the lack of necessity 
+### General necessity (need to)
+- >*You **need to** be over 18 to get into a nightclub.*  
+
+### Lack of necessity (needn't/not need to) 
+- **Needn't**
+  Often used in **formal language**. When it is the **speaker** who decides the lack of necessity 
 
   Often used with:
   - *Apply*
@@ -394,12 +411,17 @@
 
   > *I was very nervous before the interview, but I **needn't** have worried - I got the job!*
 
-### General necessity (need to)
-- >*You **don't need to** be over 18 to get into a nightclub.*  
+  >*You **needn't cut** the grass, I'll do it later.* 
+
+- **Not need to** 
+  Often used in informal daily speeches.  
+
+  >*I **don't need** to wake up early tomorrow*
 
 ## Recommendations
 ### General comments (should/ought to)
-- **Should (common)**  
+- **Should**  
+  Commonly be used. 
 
   >*You **should** finish your homework before going out.*
 
@@ -411,7 +433,8 @@
 
   >*The manual says that the computer **should** be disconnected from the power supply before the cover is removed.*
 
-- **Ought to (formal)**
+- **Ought to**  
+  Formal writings or speeches
 
   >*You **ought to** finish your homework before you go out.*
 
@@ -437,7 +460,7 @@
 - **May/might not + (bare infinitive) ... but ...**  
   May/might not have + (past participle) ... but ... (past tense).  
 
-  We say that a person or thing **compensates** to some extent for a **limitation** or **weakness** by having **another characteristic**
+  We say that a person or thing **compensates** to some extent for a **limitation** or **weakness** by having **another characteristic.**
 
   >*The painting **may not be** a masterpiece, **but** the colours are remarkable.*
 
