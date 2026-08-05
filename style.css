@@ -82,6 +82,8 @@ h3 {
 
 /* The Table of Contents (Left Side) */
 .toc-sidebar {
+  font-size: 1.3rem;;
+
   position: fixed; 
   top: 20px;
   left: 20px;
@@ -100,12 +102,89 @@ h3 {
   box-sizing: border-box; 
 }
 
+.toc-sidebar a:hover {
+  color: #E9C46A !important;
+  text-decoration: underline; /* Optional: adds an underline on hover */
+}
+
+/* Sub-heading settings */
+.toc-sidebar > ul > li > ul {
+  padding-left: 0px !important;
+}
+
+/* Remove default bullets and set base alignment for ALL secondary/tertiary headings */
+.toc-sidebar > ul > li ul li {
+    list-style-type: none; 
+    position: relative;
+    padding-left: 20px; /* Creates permanent left gap for symbols so text wraps cleanly */
+}
+
+/* Hide sub-sub-headings by default with smooth transition */
+.toc-sidebar > ul > li > ul > li > ul {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding-left: 0px !important;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    /* Disappear transition */
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out, margin-top 0.3s ease-out;
+}
+
+/* Reveal the sub-sub-headings when the .is-open class is active */
+.toc-sidebar > ul > li > ul > li.is-open > ul {
+    max-height: 500px; /* Adjust if your lists are taller than this */
+    opacity: 1;
+    /* Appear transition */
+    transition: max-height 0.3s ease-in, opacity 0.3s ease-in, margin-top 0.3s ease-in;
+}
+
+/* Fixed-width container for BOTH symbols (Pinned to the left using absolute positioning) */
+.toc-sidebar > ul > li > ul > li::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block;
+    width: 20px;         /* Forces both symbols to take up exactly the same space */
+    text-align: center;  /* Centers the symbol inside that 20px space */
+    color: #888888;
+}
+
+/* Insert the arrow for items WITH hidden sub-sub-headings */
+.toc-sidebar > ul > li > ul > li:has(> ul)::before {
+    content: "›";        
+    transition: transform 0.5s ease;
+    transform-origin: center center;
+}
+
+/* Insert the hollow dot for items WITHOUT sub-sub-headings */
+.toc-sidebar > ul > li > ul > li:not(:has(> ul))::before {
+    content: "○";        
+}
+
+/* Rotate the arrow when the .is-open class is active */
+.toc-sidebar > ul > li > ul > li:has(> ul).is-open::before {
+    transform: rotate(90deg);
+}
+
+/* Insert a square dot for sub-sub-headings (tertiary level) */
+.toc-sidebar > ul > li > ul > li > ul > li::before {
+    content: "▪";    
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+}
+
 /* The Main Content (Right Side) */
 .main-content {
   position: fixed;
   top: 20px;
   right: 20px;
-  width: 65%; 
+  left: calc(30% + 40px);
   
   /* Use calc() to keep the container perfectly sized on screen */
   height: calc(100vh - 40px); 
@@ -141,8 +220,7 @@ table {
   }
   
   .main-content {
-    width: calc(100% - 40px); /* Allows text to expand and prevents overlap */
+    left: 20px !important; /* Allows text to expand and prevents overlap */
+    width: auto;    
   }
-
-
 }
