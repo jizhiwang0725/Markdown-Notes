@@ -1,10 +1,29 @@
 <link rel="stylesheet" href="../style.css">
+
+<script>
+  // A tiny delay ensures VS Code has finished rendering the HTML elements
+  setTimeout(() => {
+      const expandableItems = document.querySelectorAll('.toc-sidebar > ul > li > ul > li:has(> ul)');
+
+      expandableItems.forEach(item => {
+          item.addEventListener('click', function(event) {
+              // Ensure the click happened directly on the list item or arrow
+              if (event.target.tagName !== 'A' || event.target.parentElement === this) {
+                  this.classList.toggle('is-open');
+              }
+          });
+      });
+  }, 300); // Waits 300 milliseconds before attaching the clicks
+</script>
+
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
+- <a href="communication.md">Communication</a>
 - <a href="complex_sentences.md"> Complex Sentences</a> 
 - <a href="future_actions.md"> Future Actions</a> 
-- <a href="tenses.md"> Tenses</a> 
+- <a href="passive.md"> Passive Sentences </a> 
+- <a href="tenses.md"> Tenses </a> 
 
 <strong>Table of Contents</strong>
 
@@ -23,30 +42,30 @@
     - [Capability (can/be able to)](#capability-canbe-able-to)
     - [Senses or feelings (can)](#senses-or-feelings-can)
     - [Passive voice (can)](#passive-voice-can)
-  - [Past ability](#past-ability)
+  - [Past abilities](#past-abilities)
     - [Single past achievement (be able to)](#single-past-achievement-be-able-to)
-    - [General past ability (could)](#general-past-ability-could)
+    - [General past abilities (could)](#general-past-abilities-could)
     - [Negative past achievements (couldn't/wasn't able to)](#negative-past-achievements-couldntwasnt-able-to)
   - [Permission](#permission)
-    - [General action (can/be allowed to)](#general-action-canbe-allowed-to)
-    - [Particular action (be allowed to)](#particular-action-be-allowed-to)
-    - [Prohibition (can't/be not allowed)](#prohibition-cantbe-not-allowed)
-- [Degree of Certainty \& Deduction](#degree-of-certainty--deduction)
+    - [General actions (can/be allowed to)](#general-actions-canbe-allowed-to)
+    - [Particular actions (be allowed to)](#particular-actions-be-allowed-to)
+    - [Prohibitions (can't/be not allowed)](#prohibitions-cantbe-not-allowed)
+- [Degree of Certainty \& Deductions](#degree-of-certainty--deductions)
   - [Degrees of certainty](#degrees-of-certainty)
     - [General truth (can)](#general-truth-can)
-    - [Theoretical possibility (could)](#theoretical-possibility-could)
+    - [Theoretical possibilities (could)](#theoretical-possibilities-could)
     - [Expectation (should/ought to)](#expectation-shouldought-to)
     - [Possible (may/might/could (have))](#possible-maymightcould-have)
     - [Impossible (can't/couldn't)](#impossible-cantcouldnt)
-  - [Logical deduction](#logical-deduction)
-    - [Strong deduction (must have)](#strong-deduction-must-have)
+  - [Logical deductions](#logical-deductions)
+    - [Strong deductions (must have)](#strong-deductions-must-have)
     - [Present events (must be/have (got) to be)](#present-events-must-behave-got-to-be)
     - [Future (must be going)](#future-must-be-going)
 - [Habits \& Truth](#habits--truth)
   - [General truths and habits](#general-truths-and-habits)
     - [General behaviour or habits (will)](#general-behaviour-or-habits-will)
     - [Facts (will)](#facts-will)
-    - [Facts that are not necessarily true (needn't/don't have to)](#facts-that-are-not-necessarily-true-needntdont-have-to)
+    - [Non-essential criteria (needn't/don't have to)](#non-essential-criteria-needntdont-have-to)
     - [Criticism in speech (will)](#criticism-in-speech-will)
   - [Past events/situations](#past-eventssituations)
     - [Clear time reference (would/used to)](#clear-time-reference-wouldused-to)
@@ -55,9 +74,9 @@
     - [The assumed past (will have)](#the-assumed-past-will-have)
 - [Obligation, Advice \& Reaction](#obligation-advice--reaction)
   - [Formal rules and warnings (must/must not)](#formal-rules-and-warnings-mustmust-not)
-  - [Inferred obligations (must have to)](#inferred-obligations-must-have-to)
   - [Obligation](#obligation)
-    - [External obligation (have (got) to)](#external-obligation-have-got-to)
+    - [Inferred obligations (must have to)](#inferred-obligations-must-have-to)
+    - [External obligations (have (got) to)](#external-obligations-have-got-to)
     - [Lack of obligation (not have to)](#lack-of-obligation-not-have-to)
   - [Necessity](#necessity)
     - [Practical or internal necessity (need/need to)](#practical-or-internal-necessity-needneed-to)
@@ -127,15 +146,13 @@
 ## General abilities 
 ### In action (can)
 - **Can**  
-  When talking about something that **is/was happening as we speak**
+  When talking about something that **is happening as we speak**
   - *The only thing/place/time*
   - *All (means the only thing)*
 
   >*Watch me, Mum; I **can** stand on one leg.*
 
-  > ***All** we **could** see were his feet.*
-
-  > *During the war, the police **could** arrest you for criticising the government.*
+  > ***All** we **can** see are his feet.*
 
 ### Capability (can/be able to)
 - **Can**  
@@ -159,16 +176,10 @@
 ### Senses or feelings (can)
 - **Can**    
   **Sense verbs:** 
-  - *Feel*
-  - *Hear*
-  - *Smell*
-  - *Taste*
+  - *Feel, Hear, Smell, Taste*
 
   **Stative verbs:** 
-  - *Believe*
-  - *Decide*
-  - *Remember*
-  - *Understand*
+  - *Believe, Decide, Remember, Understand*
   
   > *I **could** remember the crash, but nothing after that.*
 
@@ -177,16 +188,18 @@
 
   >*Films **can** now easily **be streamed** online.*
 
-## Past ability
+## Past abilities
 ### Single past achievement (be able to)
 - **Be able to**
   
   > *She swam strongly and **was able to** cross the river easily even though it was swollen by the heavy rain.*  
 
-### General past ability (could)
+### General past abilities (could)
 - **Could**
 
   > *When I was a teenage, I **could** hold my breath for two minutes*
+
+  > *During the war, the police **could** arrest you for criticising the government.*
 
 ### Negative past achievements (couldn't/wasn't able to)
 - **Wasn't able to**   
@@ -200,22 +213,22 @@
   > *I **couldn't** finish the exam*
 
 ## Permission
-### General action (can/be allowed to)
+### General actions (can/be allowed to)
 - **Can/Be allowed to**  
   
   > *Anyone **could/was allowed** to fish in the lake when the council owned it.*
 
-### Particular action (be allowed to)
+### Particular actions (be allowed to)
 - **Be allowed to**
   
   > *Although he didn't have a ticket, Ned **was allowed to** come in.*
 
-### Prohibition (can't/be not allowed)
+### Prohibitions (can't/be not allowed)
 - **Can't/Be not allowed**
 
   > *You **can't/are not allowed to** enter!*
 
-# Degree of Certainty & Deduction
+# Degree of Certainty & Deductions
 ## Degrees of certainty 
 ### General truth (can)  
 - **Can**  
@@ -227,7 +240,7 @@
   
   > *We **can** stay with Jake in Oslo*
 
-### Theoretical possibility (could)
+### Theoretical possibilities (could)
 - **Could**  
   **If something happened**, it could, or it may not be.  
 
@@ -266,9 +279,10 @@
 
   > *That **couldn't** be the fastest route to Moscow; it adds ten hours to the travel time.*
 
-## Logical deduction 
-### Strong deduction (must have)
+## Logical deductions 
+### Strong deductions (must have)
 - **Must + have + (past participle)**  
+  A strong deduction based on evidences. 
 
   >*That's not Clara's car. She **must have borrowed** it from her parents*
 
@@ -308,7 +322,7 @@
 
   >*During the war, people **would** eat all kinds of things that we don't eat now.*
 
-### Facts that are not necessarily true (needn't/don't have to)
+### Non-essential criteria (needn't/don't have to)
 - **Needn't/Don't have to**
   > *Volcanoes **needn't/don't have to** erupt constantly to be classified as active.*
 
@@ -352,14 +366,14 @@
 
   >*Bookings **must** be made at least seven days before departure*
 
-## Inferred obligations (must have to)
+## Obligation 
+### Inferred obligations (must have to)
 - **Must have to**  
   Based on **current evidence** to make a **logical assumption** that someone else is forced or required to do something.  
   
   >*I can't access the database. You **must have to** put in a password.*
 
-## Obligation 
-### External obligation (have (got) to)
+### External obligations (have (got) to)
 - **Have to (formal)**  
   When used with **frequency words.**
   - *Always*
@@ -387,7 +401,7 @@
 
 ## Necessity 
 ### Practical or internal necessity (need/need to)
-- **Need to/need**
+- **Need to/need**  
   Used in **informal language**
 
   > *I **needed to** leave early*
@@ -398,7 +412,7 @@
 - >*You **need to** be over 18 to get into a nightclub.*  
 
 ### Lack of necessity (needn't/not need to) 
-- **Needn't**
+- **Needn't**  
   Often used in **formal language**. When it is the **speaker** who decides the lack of necessity 
 
   Often used with:

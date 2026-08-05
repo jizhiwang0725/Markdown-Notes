@@ -1,40 +1,52 @@
 <link rel="stylesheet" href="../style.css">
+
+<script>
+  // A tiny delay ensures VS Code has finished rendering the HTML elements
+  setTimeout(() => {
+      const expandableItems = document.querySelectorAll('.toc-sidebar > ul > li > ul > li:has(> ul)');
+
+      expandableItems.forEach(item => {
+          item.addEventListener('click', function(event) {
+              // Ensure the click happened directly on the list item or arrow
+              if (event.target.tagName !== 'A' || event.target.parentElement === this) {
+                  this.classList.toggle('is-open');
+              }
+          });
+      });
+  }, 300); // Waits 300 milliseconds before attaching the clicks
+</script>
+
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
-- <a href="complex_sentences.md"> Complex Sentences</a>
-- <a href="modals.md"> Modals </a>
-- <a href="tenses.md"> Tenses </a>
+- <a href="communication.md">Communication</a>
+- <a href="complex_sentences.md">Complex Sentences</a>
+- <a href="modals.md">Modals</a>
+- <a href="passive.md">Passive Sentences</a> 
+- <a href="tenses.md">Tenses</a>
 
 <strong>Table of Contents</strong>
 
 - [Intentions](#intentions)
   - [Planned intentions](#planned-intentions)
     - [Shall + (bare infinitive)](#shall--bare-infinitive)
-    - [Intentional verbs + infinitive](#intentional-verbs--infinitive)
+    - [Intentional verbs + (infinitive)](#intentional-verbs--infinitive)
     - [Present continuous](#present-continuous)
     - [Be going to/Will](#be-going-towill)
-  - [Spontaneous decisions](#spontaneous-decisions)
-    - [Will + (bare infinitive)](#will--bare-infinitive)
+  - [Spontaneous decisions (will)](#spontaneous-decisions-will)
 - [Predictions](#predictions)
-  - [Based on opinion or experience](#based-on-opinion-or-experience)
-    - [Will](#will)
-    - [Present continuous](#present-continuous-1)
-  - [Based on present evidence](#based-on-present-evidence)
-    - [Be going to](#be-going-to)
+  - [Based on opinion or experience (will/present continuous)](#based-on-opinion-or-experience-willpresent-continuous)
+  - [Base on resent evidence (be going to)](#base-on-resent-evidence-be-going-to)
 - [Expectations](#expectations)
   - [Commands (will)](#commands-will)
   - [Expected events (should)](#expected-events-should)
-  - [Fulfilled expectations](#fulfilled-expectations)
-    - [Was/were to + (infinitive)](#waswere-to--infinitive)
+  - [Fulfilled expectations (was/were to)](#fulfilled-expectations-waswere-to)
   - [High certainty](#high-certainty)
   - [Events still in the future (present/past tense)](#events-still-in-the-future-presentpast-tense)
 - [Unfulfilled Past](#unfulfilled-past)
-  - [Intension](#intension)
-  - [Predictions](#predictions-1)
-  - [Expectations](#expectations-1)
-    - [Was/were to have + (past participle)](#waswere-to-have--past-participle)
-    - [Be supposed to](#be-supposed-to)
+  - [Intension (past tense)](#intension-past-tense)
+  - [Predictions (past tense)](#predictions-past-tense)
+  - [Expectations (was/were to have)](#expectations-waswere-to-have)
 
 </div>
 
@@ -45,8 +57,8 @@
 ### Shall + (bare infinitive)
 - > *I **shall read** the script on the train tomorrow.*
 
-### Intentional verbs + infinitive
-| Tense / Structure | Verbs / Phrases | Usage | Example(s) |
+### Intentional verbs + (infinitive)
+| Tense/Structure | Verbs/Phrases | Usage | Example(s) |
 | :--- | :--- | :--- | :--- |
 | **Present Simple** | Agree to, Promise to,<br> Resolve to, Undertake to | - Expressing **firm** intentions. | *She **resolves to** complete her degree early.* |
 | **Present continuous** | Aiming to, Expecting to,<br> Hoping to, Intending to,<br> Wanting to, Proposing to | - Used to talk about **ongoing** intentions. | *I **am aiming to** finish my essay today.* |
@@ -71,16 +83,15 @@
 - **Formal**   
   > *The conference **will** start at 8 in the morning.*
 
-## Spontaneous decisions
-### Will + (bare infinitive)
+## Spontaneous decisions (will) 
 - Usually used as an **offer, request**
   
   > ***I'll** pick him up at eight.*
 
 # Predictions
-## Based on opinion or experience 
-### Will
-- Often be used with:
+## Based on opinion or experience (will/present continuous)
+- **Will**  
+  Often be used with:
   - *I bet (informal)*
   - *I reckon*
   - *I expect*
@@ -91,17 +102,15 @@
   
   > *Do you **reckon he'll** say yes?*
 
-### Present continuous
+- **Present continuous**
 - Can also be used with those phrases, particularly in **informal contexts**
   
   > *I **am expecting** him to say yes*
 
-## Based on present evidence 
-### Be going to
+## Base on resent evidence (be going to)
 - Prediction is based on **obvious evidence you just saw.** 
  
   > *The sky's gone really dark. **There's going to be** a storm.*
-
 
 # Expectations
 ## Commands (will)
@@ -115,13 +124,11 @@
   
   > *The train **should** arrive in ten minutes.*
 
-## Fulfilled expectations
-### Was/were to + (infinitive)
-- At the time, nobody knew what will happen, but looking back now, it was their fate.  
+## Fulfilled expectations (was/were to)
+- **Was/were to + (infinitive)**  
+  At the time, nobody knew what will happen, but looking back now, it was their fate.  
 
   > *At the time she was probably the best actor in the theatre company, but in fact some of her colleagues **were to become** much better known*
-
-
 
 ## High certainty
 | Timeframe | Phrase Construction | Context / Usage | Example(s) |
@@ -139,8 +146,8 @@
   > *It was announced this morning that there **is/was to be** a statement this evening.*
 
 # Unfulfilled Past
-## Intension 
-- Talk about things that we **intended** to do, but **didn't.**     
+## Intension (past tense)
+- Talk about things that we **intended** to do, but **didn't.**    
   Use **past tense** on those words: 
   - *Consider*
   - *Expect to*
@@ -153,7 +160,7 @@
 
   > *We **meant/were meaning** to call in and see you, but Marc wasn't feeling well.*
 
-## Predictions 
+## Predictions (past tense)
 - Talk about things that we **thought** it will happen, but didn't.  
   - *Thought*
   - *Said*
@@ -162,14 +169,15 @@
 
   > *I **thought** he would win, but he lost.*
 
-## Expectations 
-### Was/were to have + (past participle)
-- Normally in **formal** speeches.  
+## Expectations (was/were to have)
+- **Was/were to have + (past participle)**
+  Normally in **formal** speeches.  
 
   > *The boat, which **was to have taken** them to the island, failed to arrive.*
 
-### Be supposed to
-- Normally in **informal** daily speeches.  
+- **Be supposed to**
+  Normally in **informal** daily speeches.  
 
   > *I **was supposed to** help, but I was ill.*
+
 </div>

@@ -1,10 +1,30 @@
 <link rel="stylesheet" href="../style.css">
+<script src="../toc-script.js"></script>
+
+<script>
+  // A tiny delay ensures VS Code has finished rendering the HTML elements
+  setTimeout(() => {
+      const expandableItems = document.querySelectorAll('.toc-sidebar > ul > li > ul > li:has(> ul)');
+
+      expandableItems.forEach(item => {
+          item.addEventListener('click', function(event) {
+              // Ensure the click happened directly on the list item or arrow
+              if (event.target.tagName !== 'A' || event.target.parentElement === this) {
+                  this.classList.toggle('is-open');
+              }
+          });
+      });
+  }, 300); // Waits 300 milliseconds before attaching the clicks
+</script>
+
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
+- <a href="communication.md">Communication</a>
 - <a href="complex_sentences.md"> Complex Sentences</a> 
-- <a href="future_actions.md"> Future Actions </a> 
-- <a href="modals.md"> Modals </a> 
+- <a href="future_actions.md">Future Actions </a> 
+- <a href="passive.md">Passive Sentences</a> 
+- <a href="modals.md">Modals</a> 
 
 <strong>Table of Contents</strong>
 
@@ -268,6 +288,8 @@
   - *For [amount of time] + by [future date]*
 
   > *By next week, I **will have been writing** this script for a month.*  
+
+
 
 
 </div>

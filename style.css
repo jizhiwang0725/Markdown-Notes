@@ -148,7 +148,7 @@ h3 {
     display: inline-block;
     width: 20px;         /* Forces both symbols to take up exactly the same space */
     text-align: center;  /* Centers the symbol inside that 20px space */
-    color: #888888;
+    color: #888888 !important;
 }
 
 /* Insert the arrow for items WITH hidden sub-sub-headings */
@@ -170,7 +170,8 @@ h3 {
 
 /* Insert a square dot for sub-sub-headings (tertiary level) */
 .toc-sidebar > ul > li > ul > li > ul > li::before {
-    content: "▪";    
+    content: "▪";   
+    color:#888888; 
     position: absolute;
     left: 0;
     top: 0;
