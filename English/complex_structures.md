@@ -20,14 +20,35 @@
 
 <strong>Other Files</strong>  
 
+
+
+
+
+
+
+
 - <a href="communication.md">Communication</a>
-- <a href="future_actions.md">Future Actions</a> 
-- <a href="modals.md"> Modals </a>
-- <a href="passive.md">Passive Sentences</a>  
+- <a href="complements.md">Complements</a>
+- <a href="future_actions.md">Future Actions</a>
+- <a href="passive_voice.md">Passive Voice</a>
+- <a href="prepositions.md">Prepositions</a>
 - <a href="tenses.md">Tenses</a>
+- <a href="verbs.md">Verbs</a>
 
 <strong>Table of Contents</strong>
 
+- [(Verb) Complex Verb Chains](#verb-complex-verb-chains)
+  - [V + gerund phrase](#v--gerund-phrase)
+    - [Liking and Thinking](#liking-and-thinking)
+  - [V + to-infinitive + O](#v--to-infinitive--o)
+    - [Phase verbs](#phase-verbs)
+    - [Intention and decision](#intention-and-decision)
+    - [Desire](#desire)
+    - [Expectation](#expectation)
+  - [Special verb chains](#special-verb-chains)
+    - [V + to have + past participle](#v--to-have--past-participle)
+    - [V + having + past participle](#v--having--past-participle)
+    - ["Help" and "dare"](#help-and-dare)
 - [(Adverbial) Time clauses](#adverbial-time-clauses)
   - [Common time conjunctions](#common-time-conjunctions)
   - [Since](#since)
@@ -50,6 +71,77 @@
 </div>
 
 <div class="main-content">
+
+# (Verb) Complex Verb Chains
+
+
+## V + gerund phrase  
+### Liking and Thinking
+- Gerund phrase = Objective noun/possessive + gerund (-ing)
+
+  :warning: The **possessive** form is only used when talking about **a person or group of people**, and in **formal situations**.  
+
+  - *Detest, (Dis)approve of, (Dis)like, Hate, Love, Object to*
+  - *Forget, Imagine, Remember, Think of*
+  
+  > *I **resented** Tom/Tom's winning the prize.*
+
+
+## V + to-infinitive + O
+### Phase verbs 
+- These verbs describe the **beginning, middle or end of an action.**
+  - *Start, Begin, Continue, Cease*
+
+  > *Supermarket **started to sell** fresh pasta*
+
+### Intention and decision
+- These verbs describe **internal thoughts, personal commitments or individual capabilities.**  
+  - *Agree, Consent, Fail, Hope, Manage, Offer, Pretend, Refuse, Start, Threaten, Volunteer* 
+  
+  > *They **threatened to kill** him*
+
+### Desire
+- Express strong **preferences or wants** 
+  - *Love, Hate, Need, Prefer, Want, Wish, Bear*
+  
+  > *I **want to buy** a car*
+
+### Expectation 
+- Verbs dealing with what someone anticipates will happen 
+  - *Expect, Mean, Arrange, Aim*
+  
+  > *We **expect to win** the game.*
+
+
+## Special verb chains
+### V + to have + past participle
+- **Give an opinion**  
+  - *Seem, Appear*
+  
+  > *The accident **seems to have** happened at around 1 pm yesterday.*  
+
+### V + having + past participle
+- **Similar to verb + -ing**  
+  - *Admit, Deny, Forget, Recall, Regret, Remember*
+  
+  > *I now **regret having bought** the car.*  
+
+### "Help" and "dare"
+- **Help**  
+  "Help" can take either a **bare infinitive or a to-infinitive.**  
+  It can also be used **with or without an object.**    
+
+  > *I **helped** (her) **to carry** the boxes.*
+
+  > *I **helped** (her) **carry** the boxes.*
+
+- **Dare**  
+  When used as an action **challenging someone**, it **requires an object and a to-infinitive**.  
+  > *I **dared** him **to cross** the river.* 
+
+  When used **negatively to express fear or courage**, it **takes a bare infinitive.** 
+
+  > *I didn't **dare say** anything.* 
 
 # (Adverbial) Time clauses
 ## Common time conjunctions  

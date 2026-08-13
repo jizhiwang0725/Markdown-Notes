@@ -19,11 +19,20 @@
 <div class="toc-sidebar">
 <strong>Other Files</strong>
 
+
+
+
+
+
+
+
 - <a href="communication.md">Communication</a>
-- <a href="complex_sentences.md">Complex Sentences</a>
-- <a href="modals.md">Modals</a>
-- <a href="passive.md">Passive Sentences</a> 
+- <a href="complements.md">Complements</a>
+- <a href="complex_structures.md">Complex Structures</a>
+- <a href="passive_voice.md">Passive Voice</a>
+- <a href="prepositions.md">Prepositions</a>
 - <a href="tenses.md">Tenses</a>
+- <a href="verbs.md">Verbs</a>
 
 <strong>Table of Contents</strong>
 

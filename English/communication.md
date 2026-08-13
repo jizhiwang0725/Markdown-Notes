@@ -20,11 +20,21 @@
 
 <strong>Other Files</strong>
 
-- <a href="complex_sentences.md">Complex Sentences</a>
+
+
+
+
+
+
+
+
+- <a href="complements.md">Complements</a>
+- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
-- <a href="modals.md">Modals</a>
-- <a href="passive.md">Passive Sentences</a> 
+- <a href="passive_voice.md">Passive Voice</a>
+- <a href="prepositions.md">Prepositions</a>
 - <a href="tenses.md">Tenses</a>
+- <a href="verbs.md">Verbs</a>
 
 <strong>Table of Contents</strong>
 
@@ -54,6 +64,13 @@
   Use the **present perfect** to give **background knowledge** or introduce the lead, then switch to the **past simple** to provide specific **subsequent details.**
 
   > *A Russian spacecraft **has returned** safely to Earth with its two passengers. US astronaut Scott Keane and Russian cosmonaut Olga Kaleri **landed** in the early hours of Wednesday.*
+
+- **Object + passive verb + to have + past participle**  
+  To report what is or was said 
+  - *Alleged, Believed, Said, Thought*  
+  
+
+  > *Simmons **is alleged to have** assaulted a police officer*
 
 ### Near future announcements
 - **Be to + infinitive**  
