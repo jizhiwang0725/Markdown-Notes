@@ -21,16 +21,22 @@ setTimeout(() => {
 <strong>Other Files</strong>
 
 
+
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
 - <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
+- <a href="modals.md">Modals</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="tenses.md">Tenses</a>
-- <a href="verbs.md">Verbs</a>
+- <a href="verb_phrase.md">Verb Phrase</a>
 
 <strong>Table of Contents</strong>
 
+- [Prepositional Phrase](#prepositional-phrase)
+  - [Structure](#structure)
+  - [Adverbial phrase](#adverbial-phrase)
+  - [Adjectival phrase](#adjectival-phrase)
 - [Independent Prepositions](#independent-prepositions)
   - [Time](#time)
   - [Physical space](#physical-space)
@@ -63,6 +69,20 @@ setTimeout(() => {
 </div>
 
 <div class='main-content'>
+
+# Prepositional Phrase
+## Structure 
+- **[Preposition] + (Modifier) + [Object]**
+
+## Adverbial phrase 
+- Tells where, when, how, or to what extent an action happens.  
+  
+  > *We ate dinner **at a cozy Italian restaurant.***  
+
+## Adjectival phrase
+- Tells which one or what kind about a noun. It is always place directly after the noun it describes.  
+  
+  > *The laptop **on the kitchen counter** needs to be charged*
 
 # Independent Prepositions
 ## Time
@@ -243,11 +263,11 @@ setTimeout(() => {
 | **Intransitive prep. verbs** | Work, Speak, Serve,<br> Act, Qualify, Double | *- I currently **work as** a senior software engineer.* |
 | **Transitive prep. verbs** | Use, Describe, Regard,<br> See, Treat, Classify | *- Please **use** this rolled-up towel **as** a pillow.* |
 
+
 ### By (mechanisms)
 | Category | Trigger words | Examples |
 | --- | --- | --- |
 | **Intransitive prep. verbs** | Begin, Close, End,<br> Finish, Open, Start | *- Can you **begin by** cleaning the kitchen floor?* |
 | **Transitive prep. verbs** | Multiply, Divide, Judge,<br> Measure, Evaluate, Assess | *- You must **multiply** the first variable **by** ten.* |
-
 
 </div>

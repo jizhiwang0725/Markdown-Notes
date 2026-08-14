@@ -27,13 +27,15 @@
 
 
 
+
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
 - <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
+- <a href="modals.md">Modals</a>
 - <a href="passive_voice.md">Passive Voice</a>
-- <a href="prepositions.md">Prepositions</a>
-- <a href="verbs.md">Verbs</a>
+- <a href="prepositional_phrase.md">Prepositional Phrase</a>
+- <a href="verb_phrase.md">Verb Phrase</a>
 
 <strong>Table of Contents</strong>
 

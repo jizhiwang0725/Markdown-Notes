@@ -19,29 +19,34 @@
 <div class="toc-sidebar">
 
 <strong>Other Files</strong>
-
-
-
-
-
-
-
-
-
 - <a href="complements.md">Complements</a>
 - <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
+- <a href="modals.md">Modals</a>
 - <a href="passive_voice.md">Passive Voice</a>
-- <a href="prepositions.md">Prepositions</a>
+- <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
-- <a href="verbs.md">Verbs</a>
+- <a href="verb_phrase.md">Verb Phrase</a>
 
 <strong>Table of Contents</strong>
 
-- [News \& Reporting](#news--reporting)
+- [Reporting Verbs](#reporting-verbs)
+  - [Transitive](#transitive)
+    - [Monotransitive](#monotransitive)
+    - [Complex transitive](#complex-transitive)
+    - [Ditransitive](#ditransitive)
+- [Reporting](#reporting)
+  - [General](#general)
+    - [Reporting and reported clause](#reporting-and-reported-clause)
   - [News](#news)
-    - [Reporting](#reporting)
+    - [Reporting](#reporting-1)
     - [Near future announcements](#near-future-announcements)
+  - [Reporting questions](#reporting-questions)
+    - [General questions](#general-questions)
+    - [Binary questions](#binary-questions)
+  - [Negative reports](#negative-reports)
+    - [Thoughts](#thoughts)
+    - [Negative sentence](#negative-sentence)
 - [Storytelling \& Narratives](#storytelling--narratives)
   - [Storytelling](#storytelling)
   - [Narratives](#narratives)
@@ -56,7 +61,52 @@
 
 <div class="main-content">
 
-# News & Reporting
+# Reporting Verbs
+## Transitive 
+### Monotransitive 
+- **V + DO**
+  - **Th-/Wh- clause**
+
+    - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
+  
+  > *She **acknowledged that** she had been at fault.*
+
+### Complex transitive 
+- **V + DO + complement (to be)**  
+  - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
+  
+  > *I felt the results **to be** satisfactory*
+
+- **V + DO + complement (to infinitive)**  
+  Informally
+  - *Ask, Require*
+  
+  > *The club asks its members **to pay** their fees by 31st December*
+  
+### Ditransitive
+- **V + IO + DO (that-clause)**
+  - *Assure, Convince, Inform, Persuade, Reassure, Remind, Tell, Promise, Advice, Show, Teach, Warn*
+  
+  > *I **notified** the bank **that I had changed my address***
+
+- **V + IO (prepositional phrase) + DO (that-clause)**
+
+  | Preposition | Verbs | Example |
+  | --- | --- | --- | 
+  | **To** | Announce, Complain, Confess,<br> Explain, Indicate, Mention,<br> Propose, Recommend, Report,<br> Say, Suggest | *- She **admitted to** me that she was<br> seriously ill* |
+  | **With** | Argue, Check, Disagree,<br> Joke | *- We **agreed with** Ella that the information<br> should go no further* |
+  | **Of** | Ask, Demand, Require | *- The club **asks of** its members that they<br> pay their fees by 31st December* |
+
+# Reporting
+## General  
+### Reporting and reported clause 
+- **Reporting clause**  
+  When the subject is a pronoun, the verb always **goes after**.  
+  *Explain, Confess, Grumble, Suggest, Wonder, Boast, Chorus*
+
+  > *She explained/said/continued **(reporting)** she couldn't take the job until January **(reported)***
+
+
 ## News
 ### Reporting
 - **Present perfect & past simple**  
@@ -77,6 +127,42 @@
   To talk about planned events that **can be controlled by people** in the **near future**. 
 
   > *Police officers **are to visit** every home in the area.*
+
+## Reporting questions 
+### General questions
+- Use a reporting clause and a clause with a wh-word
+
+
+- **What, which, who**
+  When the question is followed by **be + complement**, put** the **complement** before or **after 'be' in the report**
+
+  > *She asked me **what** the problem **was**.*
+
+- **Otherwise**
+  'be' is not required
+
+  > *She asked me where I found it*
+
+### Binary questions
+- **Use if-/whether- clause**
+  Questions starting with **modals**
+  When the answer is expected to be a yes or no
+
+  >*She wanted to know **if/whether** I had seen Paul recently* 
+
+
+## Negative reports 
+### Thoughts
+- To report what somebody didn't say or think, we make the **reporting verb negative** 
+
+  > *'I can't ask my parents to help me again'*
+  > *He **didn't feel** that he could ask his parents to help him again.*
+
+### Negative sentence
+- If we want to report a **negative sentence**, then we usually report this in the **reported clause** 
+
+  > *You're right, it isn't a good idea.*
+  > *He agreed that it **wasn't** a good idea*
 
 # Storytelling & Narratives
 ## Storytelling

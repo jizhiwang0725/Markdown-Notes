@@ -26,35 +26,18 @@
 
 
 
+
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
 - <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="passive_voice.md">Passive Voice</a>
-- <a href="prepositions.md">Prepositions</a>
+- <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
+- <a href="verb_phrase.md">Verb Phrase</a>
 
 <strong>Table of Contents</strong>
 
-- [Transitive verbs](#transitive-verbs)
-  - [Monotransitive verbs](#monotransitive-verbs)
-    - [V + DO](#v--do)
-  - [Ditransitive verbs](#ditransitive-verbs)
-    - [V + IO + DO](#v--io--do)
-    - [V + DO + prep + IO](#v--do--prep--io)
-  - [Complex transitive verbs](#complex-transitive-verbs)
-    - [V + DO + object complement](#v--do--object-complement)
-  - [Transitive prepositional verbs](#transitive-prepositional-verbs)
-    - [V + DO + prepositional phrase](#v--do--prepositional-phrase)
-- [Intransitive verbs](#intransitive-verbs)
-  - [Unergative verbs](#unergative-verbs)
-  - [Unaccusative verbs](#unaccusative-verbs)
-  - [Linking Verbs](#linking-verbs)
-    - [V + subject complement](#v--subject-complement)
-  - [Intransitive prepositional verb](#intransitive-prepositional-verb)
-    - [V + preposition phrase](#v--preposition-phrase)
-- [Ambitransitive verbs](#ambitransitive-verbs)
-  - [Transitive/Intransitive verbs](#transitiveintransitive-verbs)
 - [Modals](#modals)
   - [Pure modals](#pure-modals)
     - [Features](#features)
@@ -63,7 +46,7 @@
     - [Dual meaning](#dual-meaning)
     - [Common semi-modals](#common-semi-modals)
   - [Common question patterns](#common-question-patterns)
-- [(Modals) Capability \& Permission](#modals-capability--permission)
+- [Capability \& Permission](#capability--permission)
   - [General abilities](#general-abilities)
     - [In action (can)](#in-action-can)
     - [Capability (can/be able to)](#capability-canbe-able-to)
@@ -77,7 +60,7 @@
     - [General actions (can/be allowed to)](#general-actions-canbe-allowed-to)
     - [Particular actions (be allowed to)](#particular-actions-be-allowed-to)
     - [Prohibitions (can't/be not allowed)](#prohibitions-cantbe-not-allowed)
-- [(Modals) Degree of Certainty \& Deductions](#modals-degree-of-certainty--deductions)
+- [Degree of Certainty \& Deductions](#degree-of-certainty--deductions)
   - [Degrees of certainty](#degrees-of-certainty)
     - [General truth (can)](#general-truth-can)
     - [Theoretical possibilities (could)](#theoretical-possibilities-could)
@@ -88,7 +71,7 @@
     - [Strong deductions (must have)](#strong-deductions-must-have)
     - [Present events (must be/have (got) to be)](#present-events-must-behave-got-to-be)
     - [Future (must be going)](#future-must-be-going)
-- [(Modals) Habits \& Truth](#modals-habits--truth)
+- [Habits \& Truth](#habits--truth)
   - [General truths and habits](#general-truths-and-habits)
     - [General behaviour or habits (will)](#general-behaviour-or-habits-will)
     - [Facts (will)](#facts-will)
@@ -99,7 +82,7 @@
     - [Without clear time reference (used to)](#without-clear-time-reference-used-to)
     - [The imagined past (would have)](#the-imagined-past-would-have)
     - [The assumed past (will have)](#the-assumed-past-will-have)
-- [(Modals) Obligation, Advice \& Reaction](#modals-obligation-advice--reaction)
+- [Obligation, Advice \& Reaction](#obligation-advice--reaction)
   - [Formal rules and warnings (must/must not)](#formal-rules-and-warnings-mustmust-not)
   - [Obligation](#obligation)
     - [Inferred obligations (must have to)](#inferred-obligations-must-have-to)
@@ -121,134 +104,6 @@
 </div>
 
 <div class="main-content">
-
-
-# Transitive verbs
-## Monotransitive verbs
-### V + DO
-- Follow by a **direct object**
-  An action that happens **to** something or someone.   
-  It requires a **direct object**, otherwise the sentence **feels incomplete**.  
-  - *Drink, Chase, Hunt*
-
-  > *She **closed** the **door.***
-  
-  Direct object is **NOT required** when it is clear from the **context**
-  - *Sing, Answer, Ask, Cook, Dance, Read, Smoke, Study, Wash, Wash up, Wave, Win*
-
-  > *She **plays** (the saxophone) beautifully.*
-
-## Ditransitive verbs
-### V + IO + DO
-- The indirect object goes **before** the direct object
-  > *Can you **bring** me **(IO)** some milk **(DO)** from the shop?* 
-
-- Preposition **can NOT be added** to verbs that describe an **abstract concept**
-  - *Allow, Ask, Cost, Deny, Forgive, Guarantee, Permit, Refuse* 
-
-  > *We all **envied** him his lifestyle.* 
-
-### V + DO + prep + IO 
-- As **an alternative** to the first structure
-  > *Can you **bring** some milk **(DO)** to me **(IO)** from the shop?*
-
-  To **focus particular attention** on the object after to/for
-  > *Give your documents to **the reception**.*
-
-  When the IO is a **lot longer** than the DO: 
-  > *Jasmin taught music to **a large number of children at the school**.*
-
-  If the DO is a **pronoun**: 
-  > *- I gave **them** to Isa.*
-
-  | Preposition | Core meaning / use case | Verbs | Examples |
-  | --- | --- | --- | --- | 
-  | **To** | - **Transfer**, direction, or communication.<br> - Action requires a **recipient**<br> to actively receive it. | Give, Send, Hand, Pass,<br> Show, Teach, Tell, Sell,<br> Lend, Offer, Bring | *- I **handed** him the shiny new access keys today.*<br> *- I **handed** the shiny new access keys **to** him.* |
-  | **For** | - **Benefaction**, creation, or doing a favor.<br> - Action can be done **alone**;<br> recipient benefits later. | Buy, Make, Build, Get,<br> Find, Cook, Save, Order,<br> Write, Leave | *- She **cooked** us a large, delicious, and healthy dinner.*<br> *- She **cooked** a large, delicious, healthy dinner **for** us.* |
-  | **Of** | - **Inquiry** or expectation.<br> - Asking for information or<br> **requiring** something from someone. | Ask, Require, Demand,<br> Expect, Beg | *- Can I **ask** you a very important favor today?*<br> *- Can I **ask** a very important favor **of** you?* |
-
-## Complex transitive verbs
-### V + DO + object complement
-- Some verbs requires an **object complement** to make the sentence complete 
-
-  **<a href="complements.md">See in note about complements</a>**
-
-## Transitive prepositional verbs 
-### V + DO + prepositional phrase
-- Some verbs requires a **preposition** and its corresponding **prepositional object**
-
-  **<a href="prepositions.md">See in note about prepositions</a>**
-
-# Intransitive verbs
-## Unergative verbs 
-- The subject is the **agent**. 
-  The subject is actively willfully and consciously **performing the action** 
-  - *Run, Swim, Sing, Jump, Work, Talk, Laugh, Sneeze*
-
-  > *The developer **laughed***
-
-## Unaccusative verbs
-- The action is **happening to the subject**, or the subject is experiencing a change of state, condition or location 
-  - *Fall, Die, Melt, Arrive, Disappear, Emerge, OCcur, Collapse*
-  
-  > *THe ice **melted***
-
-## Linking Verbs
-### V + subject complement
-- **Describing the state**
-  - *Be, Keep, Prove, Remain, Stay*
-  
-  > *- Clara **is** a doctor.* 
-    
-- **Sudden/State changes**  
-  | Linking verb | Description | Adjectives | Examples |
-  | --- | --- | --- | --- | 
-  | **Become** | - **Formal** speeches<br> - When talking about a more<br> **abstract or technical** process. | Apparent, Aware, Convinced,<br> Infected, Irrelevant, Obvious | *- I first **became** suspicious when he looked around*<br> *into all the parked cars on the busy street.*<br> *- He quickly **became** recognised as a technical expert.* | 
-  | **Get** | - **Less formal**<br> - In **imperatives**<br> - Emphasize a **sudden/unexpected event** | Difficult, Ill, Interested,<br> Pregnant, Suspicious, Unhappy,<br> Worried | *- I first **got** extremely suspicious when he looked away.*<br> *- Please do not **get** so upset about it today!*<br> *- He sadly **got bitten** by the angry stray dog.* |
-  | | - In **phrases** | Get Changed, Get Dressed,<br> Get Married, Get Divorced | *- Where exactly did you live before you **got married**?* |
-  | | - In certain **unwanted** situations | Get Ill, Get Old,<br> Get Tired | *- Some young people unfortunately **get ill** very easily nowadays.* | 
-  | **Go/Turn** | - **Colour** changing | Green, Red, Blue,<br> Dark, Pale, Yellow | *- The traffic lights quickly **turned** green right away,*<br> *and I safely pulled away from the busy intersection.* |
-  | **Go** | - **Unwanted** situation | Deaf, Blind, Bald,<br> Mad, Crazy, Wild,<br> Bad, Off, Mouldy,<br> Rotten, Bust, Dead,<br> Missing, Wrong | *- The small local tech company **went bust** last week.*<br> *- He quickly noticed the milk **went bad** this morning.* | 
-  | **Turn Out** | - **Final result**<br> - Often unexpected or after<br> a long sequential process. | Fine, Right, Well,<br> Badly, True, Perfect | *- The highly complicated software project **turned out** fine ultimately.*<br> *- His totally crazy prediction actually **turned out** perfectly true.* |
-  | **End Up** | - **Final state**<br> - Reaching a situation after<br> a long series of events. | Alone, Homeless, Rich,<br> Dead, Broken, Lost | *- He did not want to **end up** totally alone.*<br> *- The heavy lost package **ended up** completely ruined today.* |
-  | **Grow** | - **Gradual change**<br> - Developing slowly over a<br> specific period of time. | Old, Dark, Cold,<br> Impatient, Tired, Accustomed | *- The developer slowly **grew** accustomed to the Python syntax.*<br> *- The weather suddenly **grew** very cold and quite dark.* |
-  | **Come** | - **Positive realization**<br> - Evolving into a new<br> physical or mental state. | True, Alive, Loose,<br> Untied, Right, Awake | *- His childhood dream to travel finally **came** entirely true.*<br> *- The tight rope slowly **came** loose in the wind.* |
-
-  :warning: "Come" and "Grow" **CAN NOT** be **followed** by a **noun phrase**
-  
-- **Gradual changes**  
-  - *Come/Grow to*
-
-  >*I eventually **came/grew to** appreciate his work.* 
-
-- **Personal Guesses**  
-  These verbs are used to express an **observation or assumption**. 
-  - *Appear, Look, Seem, Sound, Prove*
-
-  | Usage | Context / use case | Trigger words | Examples |
-  | --- | --- | --- | --- |
-  | **Include "to be"** | - **Objective descriptions**<br> When describing a factual state<br> or physical object. || *- He walked into what seemed **to be** a cave.* |
-  || - **Before continuous verbs**<br> When connecting the linking verb<br> to an ongoing action. | Continuous (-ing) verbs | *- He seemed **to be** coming downstairs right now.* |
-  || - **Before specific adjectives**<br> Specifically before the condition<br> adjectives listed. | Alive, Along, Asleep, Awake | *- I did not go inside today because she*<br> *appeared **to be** asleep on the comfortable couch.* |
-  | **Omit "to be"** | - **Subjective opinions**<br> When stating a personal evaluation<br> or a judgement. || *- She seems a very efficient and capable salesperson.* |
-  || - **Without an object**<br> Actions that are purely<br> reflexive in nature. | Sleep, Run, Fly | *- The small blue bird quickly flew far away.* |
-
-## Intransitive prepositional verb  
-### V + preposition phrase
-- Some verbs are **followed straight by a preposition**.  
-
-  **<a href="prepositions.md">See in note about prepositions</a>**
-
-# Ambitransitive verbs 
-## Transitive/Intransitive verbs
-- **Words that can be either transitive or intransitive.**  
-  Words that relate to a **change**   
-  - *Bring, Bend, Break, Increase, Move, Open, Shut, Start, Vary, Weaken*
-  
-  > *She **closed** the door. (transitive)*  
-
-  > *The door **closed**. (intransitive)*  
-
 
 # Modals
 ## Pure modals
@@ -296,7 +151,7 @@
 | **Necessity** | Have | - Hope for or expect a **negative answer.** | - ***Do** we **have** to answer all the questions?* |
 | **Advice<br> Confirmation** | Should/Shall/Had better | - Seeking **advice or confirmation.** | - ***Should/Shall** I phone for a taxi for you?*<br> - ***Had** we **better** get a taxi?* |
 
-# (Modals) Capability & Permission
+# Capability & Permission
 ## General abilities 
 ### In action (can)
 - **Can**  
@@ -382,7 +237,7 @@
 
   > *You **can't/are not allowed to** enter!*
 
-# (Modals) Degree of Certainty & Deductions
+# Degree of Certainty & Deductions
 ## Degrees of certainty 
 ### General truth (can)  
 - **Can**  
@@ -457,7 +312,7 @@
   > *-What are the workmen doing?*  
   > *-I think they **must be going** to dig up the road.*  
 
-# (Modals) Habits & Truth 
+# Habits & Truth 
 ## General truths and habits
 ### General behaviour or habits (will)
 - **Will**  
@@ -514,7 +369,7 @@
 
   >*As it was cloudy, few people **will have seen** last night's lunar eclipse*
 
-# (Modals) Obligation, Advice & Reaction 
+# Obligation, Advice & Reaction 
 ## Formal rules and warnings (must/must not) 
 - **Must/Must not**
 

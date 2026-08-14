@@ -1,31 +1,71 @@
 import os
-from pathlib import Path
+import time
+import re
 
-def generate_markdown_links(directory_path):
-    target_dir = Path(directory_path)
-    
-    # Verify the provided directory exists
-    if not target_dir.is_dir():
-        print(f"Error: The directory '{directory_path}' does not exist.")
-        return
+def format_title(filename):
+    """Removes the extension, replaces underscores/hyphens with spaces, and capitalizes."""
+    name = filename.replace(".md", "").replace("_", " ").replace("-", " ")
+    return name.title()
 
-    # Find all .md files in the immediate directory (use rglob("*.md") if you want subfolders too)
-    md_files = sorted(target_dir.glob("*.md"), key=lambda x: x.name.lower())
+def get_other_files(current_file, all_files):
+    files_data = []
     
-    if not md_files:
-        print("No Markdown (.md) files found in this directory.")
-        return
-
-    print("\n--- Copy and paste this under 'Other Files' ---\n")
+    for filename in all_files:
+        # Excludes the file currently being updated so it doesn't link to itself
+        if filename != current_file:
+            title = format_title(filename)
+            files_data.append((title, filename))
+            
+    # Sort alphabetically by title
+    files_data.sort(key=lambda x: x[0].lower())
     
-    for file_path in md_files:
-        # Gets the filename without the .md extension for a cleaner look
-        display_name = file_path.stem.replace('_', ' ').title()
-        # Formats it as a Markdown link
-        print(f"- <a href='{file_path.name}'>{display_name}</a>")
+    new_list = ""
+    for title, filename in files_data:
+        new_list += f"- <a href=\"{filename}\">{title}</a>\n"
         
-    print("\n-----------------------------------------------\n")
+    return new_list
+
+def update_all_html_tocs():
+    # Gather all valid markdown files in the folder
+    all_md_files = [f for f in os.listdir(".") if f.endswith(".md")]
+    
+    pattern = r"(<strong>Other Files</strong>\s*\n+)(.*?)(<strong>Table of Contents</strong>)"
+    changed_any = False
+    
+    for md_file in all_md_files:
+        with open(md_file, "r", encoding="utf-8") as f:
+            content = f.read()
+            
+        # Only process files that actually contain your custom sidebar structure
+        if "<strong>Other Files</strong>" in content and "<strong>Table of Contents</strong>" in content:
+            new_links = get_other_files(md_file, all_md_files)
+            replacement = rf"\1\n{new_links}\n\3"
+            
+            new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+            
+            if new_content != content:
+                with open(md_file, "w", encoding="utf-8") as f:
+                    f.write(new_content)
+                print(f"Updated sidebar links in: {md_file}")
+                changed_any = True
+                
+    if changed_any:
+        print("Finished syncing all note files!")
+
+def watch_folder():
+    print("Watching folder for changes...")
+    last_state = set(os.listdir("."))
+    
+    try:
+        while True:
+            time.sleep(2)
+            current_state = set(os.listdir("."))
+            if current_state != last_state:
+                update_all_html_tocs()
+                last_state = current_state
+    except KeyboardInterrupt:
+        print("\nStopped watching.")
 
 if __name__ == "__main__":
-    folder_path = input("Enter the absolute path to your folder containing the Markdown notes: ")
-    generate_markdown_links(folder_path.strip())
+    update_all_html_tocs() # Run once on startup
+    watch_folder()
