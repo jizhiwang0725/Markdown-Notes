@@ -22,16 +22,11 @@
 
 
 
-
-
-
-
-
-
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -39,25 +34,26 @@
 
 <strong>Table of Contents</strong>
 
-- [(Verb) Complex Verb Chains](#verb-complex-verb-chains)
-  - [V + gerund phrase](#v--gerund-phrase)
-    - [Liking and Thinking](#liking-and-thinking)
-  - [V + to-infinitive + O](#v--to-infinitive--o)
-    - [Phase verbs](#phase-verbs)
-    - [Intention and decision](#intention-and-decision)
-    - [Desire](#desire)
-    - [Expectation](#expectation)
-  - [Special verb chains](#special-verb-chains)
-    - [V + to have + past participle](#v--to-have--past-participle)
-    - [V + having + past participle](#v--having--past-participle)
-    - ["Help" and "dare"](#help-and-dare)
-- [(Adverbial) Time clauses](#adverbial-time-clauses)
-  - [Common time conjunctions](#common-time-conjunctions)
+- [Dependent Clause](#dependent-clause)
+  - [Types of dependent clauses](#types-of-dependent-clauses)
+- [(Adjective) Relative Clause](#adjective-relative-clause)
+  - [Defining and non-defining](#defining-and-non-defining)
+    - [Definition](#definition)
+    - [For additional information](#for-additional-information)
+    - [Possession](#possession)
+    - [Preposition "of"](#preposition-of)
+    - [Quantity rule](#quantity-rule)
+    - [Relative word omission](#relative-word-omission)
+  - [Nominal](#nominal)
+    - [Definition](#definition-1)
+    - [Unknown and indefinite](#unknown-and-indefinite)
+- [(Adverb) Time Clause](#adverb-time-clause)
+  - [Time conjunctions](#time-conjunctions)
   - [Since](#since)
   - [Present simple refers to the future](#present-simple-refers-to-the-future)
   - [Reduced time clauses](#reduced-time-clauses)
-- [(Adverbial) Conditional clauses](#adverbial-conditional-clauses)
-  - [Common conditional conjunctions](#common-conditional-conjunctions)
+- [(Adverb) Conditional Clause](#adverb-conditional-clause)
+  - [Conditional conjunctions](#conditional-conjunctions)
   - [Zero conditional](#zero-conditional)
     - [Predicates](#predicates)
     - [Past habits](#past-habits)
@@ -74,79 +70,118 @@
 
 <div class="main-content">
 
-# (Verb) Complex Verb Chains
 
+# Dependent Clause 
+## Types of dependent clauses 
+- **Noun clause**  
+  Act as a noun 
 
-## V + gerund phrase  
-### Liking and Thinking
-- Gerund phrase = Objective noun/possessive + gerund (-ing)
+- **Adjective clause**  
+  Act as an adjective to modify a noun or pronoun 
 
-  :warning: The **possessive** form is only used when talking about **a person or group of people**, and in **formal situations**.  
+- **Adverb clause**  
+  Acts as an adverb to modify a verb
+  Answers how, when, where or why. 
 
-  - *Detest, (Dis)approve of, (Dis)like, Hate, Love, Object to*
-  - *Forget, Imagine, Remember, Think of*
+# (Adjective) Relative Clause
+## Defining and non-defining
+### Definition  
+- **Defining** 
+  - Gives **essential information** that **specifies or identifies** among which person, place, or thing you are talking about.  
+  - No comma.  
+
+- **Non-defining** 
+  - They act like a **parenthetical aside**, adding **bonus details to a noun we already recognize**
+  - Relative pronouns must be included
+  - With comma
+
+### For additional information
+- **About things**
+  | Relative Words | Usage | Example(s) |
+  | :--- | :--- | :--- |
+  | **That** | - After specific pronouns<br> (Something, Anything, All, Little, Much, None)<br> - Used in **informal context** | *- These walls are **all that** remain of the city*<br> *- Decorating is a job **(that)** I hate most* |
+  | **Which** | - Used in **formal** contexts | *- This is the drawing **(which)** I like the most* |
+
+- **About people**
+  | Relative Words | Usage | Example(s) |
+  | :--- | :--- | :--- |
+  | **That**<br> (Defining clauses) | - Used in **informal** contexts<br>- **Cannot** follow a **preposition**,<br> the preposition is usually **at the back** | - *The boy **(that)** Elena had shouted at smiled (passive)*<br> *- The office **that** Juan took us **to** was filled with books* |
+  | **Who** | - Used in **formal** contexts<br> - **Cannot** follow a **preposition**,<br> the preposition is usually **at the back** | *- He is the man **(who)** I met at Aisha's party*<br> *- He is the men **who** was in the party*<br> *- The playground wasn't used by the children **who** it was built **for*** |
+  | **Whom** | - Used in **formal** contexts **as an object**<br> - **Preposition** is usually **at the front**<br> | *- The boy **(whom)** Elena had shouted at smiled (passive)*<br> *- Professor Johnson, **whom** I have long admired,<br> is to visit the university next week*<br> *- There are 80 teachers in the Physics department,<br> **among whom** are 24 professors* |
+
+- **About events**
+  | Relative Words | "Which" Equivalent | Usage | Example |
+  | --- | --- | --- | --- |
+  | **When** | **At/On/By which** | - Referring to time | *- The camera records the time **when/at which** the photo is taken* |
+  | **Whereby** | **On/By which** | - Method or means | *- We need to develop a system **whereby/in/by which** workers<br> and management can communicate more effectively* |
+  | **Where** | **At/In which** | - Location |*- This was the place **where/at/in which** we first met* |
+
+### Possession 
+- **Whose + noun**  
+  In written English, when we talk about something belonging to or associated with a **person, animal or plant** 
+
+  > *Stevenson is an architect **whose designs** have won international praise*  
+
+  In academic writing, it is used to talk about a wide variety of **'belonging to' relationships** 
+
+  > *Students have to solve problem **whose solutions** require a knowledge of calculus*
   
-  > *I **resented** Tom/Tom's winning the prize.*
+  Talk about **towns, countries, or organisations** 
+
+  > *The film was made in Botswana, **whose wildlife parks** are larger than those in Kenya*
+
+  **"Whose"** can come **after a preposition**. Putting the preposition at the **end** of the clause is more **natural in informal and spoken English**
+
+  > *I now turn to Freud, **from whose** work the following quotation is taken (**whose** work the following quotation is taken **from**)*
+
+- **Noun + of which**  
+  A formal substitution
+
+  > *A huge amount of oil was spilled, **the effects of which** are still being felt.*
 
 
-## V + to-infinitive + O
-### Phase verbs 
-- These verbs describe the **beginning, middle or end of an action.**
-  - *Start, Begin, Continue, Cease*
+### Preposition "of"
+- **That/which ... of**  
+  Used in **less formal** contexts 
 
-  > *Supermarket **started to sell** fresh pasta*
+  > *The school **(that/which)** she is head **of** is closing*
 
-### Intention and decision
-- These verbs describe **internal thoughts, personal commitments or individual capabilities.**  
-  - *Agree, Consent, Fail, Hope, Manage, Offer, Pretend, Refuse, Start, Threaten, Volunteer* 
+- **Noun + of which**  
+  A formal substitution 
+
+  > ***The school of which** she is head is closed* 
+
+### Quantity rule 
+- **Of which/whom**  
+  When describing a portion or quantity of a large group 
+  - *All, Each, Many, Most, Neither, None, Part, Some, A number and superlative*
   
-  > *They **threatened to kill** him*
-
-### Desire
-- Express strong **preferences or wants** 
-  - *Love, Hate, Need, Prefer, Want, Wish, Bear*
+  > *Lotta was able to switch between German and Russian, **both of which** she spoke fluently*
   
-  > *I **want to buy** a car*
+### Relative word omission
+- **CAN omit**  
+  - If it acts as the **object** in a defining relative clause 
 
-### Expectation 
-- Verbs dealing with what someone anticipates will happen 
-  - *Expect, Mean, Arrange, Aim*
-  
-  > *We **expect to win** the game.*
+- **CANNOT omit**  
+  - If it acts as the **subject** in a defining relative clause 
+  - It is in a **non-defining relative clause**
+  - When a **preposition** is **present**. 
 
+## Nominal
+### Definition 
+- Used like a **noun phrase** in a sentence 
 
-## Special verb chains
-### V + to have + past participle
-- **Give an opinion**  
-  - *Seem, Appear*
-  
-  > *The accident **seems to have** happened at around 1 pm yesterday.*  
+### Unknown and indefinite 
+| Pronoun | Usage | Example | 
+| --- | --- | --- |
+| **What** | - The **thing** | *- I didn't know **what** I should do next* |
+| **Who** | - The **people** | *- Can you give me a list of **who** has been invited* | 
+| **Whatever** | - **Anything** or it doesn't matter what | *- I'm sure I'll enjoy eating **whatever** you cook* |
+| **Whichever** | - **One** thing or person from a limited number | *- **Whichever** one of you broke the window will have to pay for it* |
+| **Whoever** | - The **person/group** who or any **person/group who** | *- **Whoever** wins will go on to play Barcelona in the final* 
 
-### V + having + past participle
-- **Similar to verb + -ing**  
-  - *Admit, Deny, Forget, Recall, Regret, Remember*
-  
-  > *I now **regret having bought** the car.*  
-
-### "Help" and "dare"
-- **Help**  
-  "Help" can take either a **bare infinitive or a to-infinitive.**  
-  It can also be used **with or without an object.**    
-
-  > *I **helped** (her) **to carry** the boxes.*
-
-  > *I **helped** (her) **carry** the boxes.*
-
-- **Dare**  
-  When used as an action **challenging someone**, it **requires an object and a to-infinitive**.  
-  > *I **dared** him **to cross** the river.* 
-
-  When used **negatively to express fear or courage**, it **takes a bare infinitive.** 
-
-  > *I didn't **dare say** anything.* 
-
-# (Adverbial) Time clauses
-## Common time conjunctions  
+# (Adverb) Time Clause
+## Time conjunctions  
 | Conjunction | Meaning | 
 | --- | ---
 | When | Specific point in time
@@ -177,8 +212,8 @@
   > *Before **you sign** the contract, you should read it carefully.*  
   *Before **signing** the contract, you should read it carefully.*  
 
-# (Adverbial) Conditional clauses
-## Common conditional conjunctions
+# (Adverb) Conditional Clause
+## Conditional conjunctions
 - **All-rounders**
   | Conjunctions | Meaning |
   | --- | --- |

@@ -20,17 +20,11 @@
 <strong>Other Files</strong>
 
 
-
-
-
-
-
-
-
+- <a href="clause.md">Clause</a>
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -48,56 +42,56 @@
   - [Common question patterns](#common-question-patterns)
 - [Capability \& Permission](#capability--permission)
   - [General abilities](#general-abilities)
-    - [In action (can)](#in-action-can)
-    - [Capability (can/be able to)](#capability-canbe-able-to)
-    - [Senses or feelings (can)](#senses-or-feelings-can)
-    - [Passive voice (can)](#passive-voice-can)
+    - [In action](#in-action)
+    - [Capability](#capability)
+    - [Senses or feelings](#senses-or-feelings)
+    - [Passive voice](#passive-voice)
   - [Past abilities](#past-abilities)
-    - [Single past achievement (be able to)](#single-past-achievement-be-able-to)
-    - [General past abilities (could)](#general-past-abilities-could)
-    - [Negative past achievements (couldn't/wasn't able to)](#negative-past-achievements-couldntwasnt-able-to)
+    - [Single past achievement](#single-past-achievement)
+    - [General past abilities](#general-past-abilities)
+    - [Negative past achievements](#negative-past-achievements)
   - [Permission](#permission)
-    - [General actions (can/be allowed to)](#general-actions-canbe-allowed-to)
-    - [Particular actions (be allowed to)](#particular-actions-be-allowed-to)
-    - [Prohibitions (can't/be not allowed)](#prohibitions-cantbe-not-allowed)
+    - [General actions](#general-actions)
+    - [Particular actions](#particular-actions)
+    - [Prohibitions](#prohibitions)
 - [Degree of Certainty \& Deductions](#degree-of-certainty--deductions)
   - [Degrees of certainty](#degrees-of-certainty)
-    - [General truth (can)](#general-truth-can)
-    - [Theoretical possibilities (could)](#theoretical-possibilities-could)
-    - [Expectation (should/ought to)](#expectation-shouldought-to)
-    - [Possible (may/might/could (have))](#possible-maymightcould-have)
-    - [Impossible (can't/couldn't)](#impossible-cantcouldnt)
+    - [General truth](#general-truth)
+    - [Theoretical possibilities](#theoretical-possibilities)
+    - [Expectation](#expectation)
+    - [Possible](#possible)
+    - [Impossible](#impossible)
   - [Logical deductions](#logical-deductions)
-    - [Strong deductions (must have)](#strong-deductions-must-have)
-    - [Present events (must be/have (got) to be)](#present-events-must-behave-got-to-be)
-    - [Future (must be going)](#future-must-be-going)
+    - [Strong deductions](#strong-deductions)
+    - [Present events](#present-events)
+    - [Future](#future)
 - [Habits \& Truth](#habits--truth)
   - [General truths and habits](#general-truths-and-habits)
-    - [General behaviour or habits (will)](#general-behaviour-or-habits-will)
-    - [Facts (will)](#facts-will)
-    - [Non-essential criteria (needn't/don't have to)](#non-essential-criteria-needntdont-have-to)
-    - [Criticism in speech (will)](#criticism-in-speech-will)
+    - [General behaviour or habits](#general-behaviour-or-habits)
+    - [Facts](#facts)
+    - [Non-essential criteria](#non-essential-criteria)
+    - [Criticism in speech](#criticism-in-speech)
   - [Past events/situations](#past-eventssituations)
-    - [Clear time reference (would/used to)](#clear-time-reference-wouldused-to)
-    - [Without clear time reference (used to)](#without-clear-time-reference-used-to)
-    - [The imagined past (would have)](#the-imagined-past-would-have)
-    - [The assumed past (will have)](#the-assumed-past-will-have)
+    - [Clear time reference](#clear-time-reference)
+    - [Without clear time reference](#without-clear-time-reference)
+    - [The imagined past](#the-imagined-past)
+    - [The assumed past](#the-assumed-past)
 - [Obligation, Advice \& Reaction](#obligation-advice--reaction)
-  - [Formal rules and warnings (must/must not)](#formal-rules-and-warnings-mustmust-not)
+  - [Formal rules and warnings](#formal-rules-and-warnings)
   - [Obligation](#obligation)
-    - [Inferred obligations (must have to)](#inferred-obligations-must-have-to)
-    - [External obligations (have (got) to)](#external-obligations-have-got-to)
-    - [Lack of obligation (not have to)](#lack-of-obligation-not-have-to)
+    - [Inferred obligations](#inferred-obligations)
+    - [External obligations](#external-obligations)
+    - [Lack of obligation](#lack-of-obligation)
   - [Necessity](#necessity)
-    - [Practical or internal necessity (need/need to)](#practical-or-internal-necessity-needneed-to)
-    - [General necessity (need to)](#general-necessity-need-to)
-    - [Lack of necessity (needn't/not need to)](#lack-of-necessity-needntnot-need-to)
+    - [Practical or internal necessity](#practical-or-internal-necessity)
+    - [General necessity](#general-necessity)
+    - [Lack of necessity](#lack-of-necessity)
   - [Recommendations](#recommendations)
-    - [General comments (should/ought to)](#general-comments-shouldought-to)
-    - [Present, specific comments (had better)](#present-specific-comments-had-better)
+    - [General comments](#general-comments)
+    - [Present, specific comments](#present-specific-comments)
   - [Reaction to past events](#reaction-to-past-events)
-    - [Expressing regret (should/ought to have)](#expressing-regret-shouldought-to-have)
-    - [Expressing criticism (shouldn't/oughtn't to have)](#expressing-criticism-shouldntoughtnt-to-have)
+    - [Expressing regret](#expressing-regret)
+    - [Expressing criticism](#expressing-criticism)
 - [Advanced Syntactic Patterns](#advanced-syntactic-patterns)
   - [Compensation](#compensation)
 
@@ -153,7 +147,7 @@
 
 # Capability & Permission
 ## General abilities 
-### In action (can)
+### In action 
 - **Can**  
   When talking about something that **is happening as we speak**
   - *The only thing/place/time*
@@ -163,7 +157,7 @@
 
   > ***All** we **can** see are his feet.*
 
-### Capability (can/be able to)
+### Capability 
 - **Can**  
   Meaning 'know how to'. 
 
@@ -182,7 +176,7 @@
   
   >*I finished my homework early, so I **am able to** cook dinner tonight.*
 
-### Senses or feelings (can)
+### Senses or feelings
 - **Can**    
   **Sense verbs:** 
   - *Feel, Hear, Smell, Taste*
@@ -192,25 +186,25 @@
   
   > *I **could** remember the crash, but nothing after that.*
 
-### Passive voice (can)
+### Passive voice
 - **Can**  
 
   >*Films **can** now easily **be streamed** online.*
 
 ## Past abilities
-### Single past achievement (be able to)
+### Single past achievement
 - **Be able to**
   
   > *She swam strongly and **was able to** cross the river easily even though it was swollen by the heavy rain.*  
 
-### General past abilities (could)
+### General past abilities
 - **Could**
 
   > *When I was a teenage, I **could** hold my breath for two minutes*
 
   > *During the war, the police **could** arrest you for criticising the government.*
 
-### Negative past achievements (couldn't/wasn't able to)
+### Negative past achievements
 - **Wasn't able to**   
   Used in formal writing
 
@@ -222,24 +216,24 @@
   > *I **couldn't** finish the exam*
 
 ## Permission
-### General actions (can/be allowed to)
+### General actions 
 - **Can/Be allowed to**  
   
   > *Anyone **could/was allowed** to fish in the lake when the council owned it.*
 
-### Particular actions (be allowed to)
+### Particular actions 
 - **Be allowed to**
   
   > *Although he didn't have a ticket, Ned **was allowed to** come in.*
 
-### Prohibitions (can't/be not allowed)
+### Prohibitions
 - **Can't/Be not allowed**
 
   > *You **can't/are not allowed to** enter!*
 
 # Degree of Certainty & Deductions
 ## Degrees of certainty 
-### General truth (can)  
+### General truth  
 - **Can**  
   Usually stating **general facts**.  
 
@@ -249,13 +243,13 @@
   
   > *We **can** stay with Jake in Oslo*
 
-### Theoretical possibilities (could)
+### Theoretical possibilities
 - **Could**  
   **If something happened**, it could, or it may not be.  
 
   >*It **could** be expensive to keep a cat.*
 
-### Expectation (should/ought to)
+### Expectation 
 - **Should**  
   More commonly used 
   
@@ -266,7 +260,7 @@
 
   >*You **ought to** be ready to begin.*
 
-### Possible (may/might/could (have))
+### Possible 
 | Event Timeframe | Modal Construction | Context / Usage | Example(s) |
 | :--- | :--- | :--- | :--- |
 | **Present** | May | - In **academic or formal language** to talk about<br> characteristics or behaviours. | - *The seeds from the plant **may** grow up to 20 cm in length.* |
@@ -277,7 +271,7 @@
 | **Past<br> Typical** | Might + (bare infinitive) | - Used to talk about what was **typically**<br> the case in the **past** in **formal** or **literary** use. | - *During the war, the police **might** arrest you for<br> criticising the government.* |
 | **Future** | Present/Past expressions | - Use the expression for **present and past event**<br> with a **future deadline**. | - *His math **may/might/could have improved by the time**<br> the exam comes round.*<br> - ***When** I go to Vienna **I may/might/could be staying** with Max,<br> but I'm not sure yet.* |
 
-### Impossible (can't/couldn't)
+### Impossible 
 - **Can't**   
   Imply a **strong, confident deduction** about reality. It means you are looking at the **facts right** now and concluding that something is impossible
   
@@ -289,13 +283,13 @@
   > *That **couldn't** be the fastest route to Moscow; it adds ten hours to the travel time.*
 
 ## Logical deductions 
-### Strong deductions (must have)
+### Strong deductions 
 - **Must + have + (past participle)**  
   A strong deduction based on evidences. 
 
   >*That's not Clara's car. She **must have borrowed** it from her parents*
 
-### Present events (must be/have (got) to be)
+### Present events
 - **Must be + (-ing)**  
   Something happening at or around the time of speaking.  
 
@@ -306,7 +300,7 @@
 
   > *Their goalkeeper **has got to be/must be** at least two metres tall!*  
 
-### Future (must be going)
+### Future
 - **Must be going**
   
   > *-What are the workmen doing?*  
@@ -314,7 +308,7 @@
 
 # Habits & Truth 
 ## General truths and habits
-### General behaviour or habits (will)
+### General behaviour or habits
 - **Will**  
   Would for past.  
   :warning: **NOT for particular occasions**
@@ -323,19 +317,20 @@
 
   > ***Each time** I gave him a problem he **would** solve it for me.*
 
-### Facts (will)
-- **Will**
+### Facts 
+- **Will**  
   Things that are **always true**
   
   >*Cold weather **will** kill certain plants*
 
   >*During the war, people **would** eat all kinds of things that we don't eat now.*
 
-### Non-essential criteria (needn't/don't have to)
+### Non-essential criteria
 - **Needn't/Don't have to**
+
   > *Volcanoes **needn't/don't have to** erupt constantly to be classified as active.*
 
-### Criticism in speech (will)
+### Criticism in speech
 - We can **stress will or would** to **criticise** people's characteristic behaviour or habits.  
 
 - Use **will** to express disapproval.
@@ -344,45 +339,45 @@
   >*-If you **will** eat so much, I'm not surprised*
 
 ## Past events/situations
-### Clear time reference (would/used to)
+### Clear time reference 
 - **Would/Used to**  
 
   >*Whenever we went to my uncle's house, we **would/used to** play in the garden.*
 
-### Without clear time reference (used to)
-- **Used to**
+### Without clear time reference
+- **Used to**  
   To describe a **past state**. 
 
   >*We **used to** play in the garden.*
   
   >*The factory **used to** be over there.*
  
-### The imagined past (would have)
+### The imagined past 
 - **Would have + (past participle)**  
   Imaginary situation or situation that **might have happened** in the past
 
   > *I **would have been happy** to see him, but I didn't have time*
 
-### The assumed past (will have)
+### The assumed past
 - **Will have + (past participle)**  
   Think a past situation **actually happened**.   
 
   >*As it was cloudy, few people **will have seen** last night's lunar eclipse*
 
 # Obligation, Advice & Reaction 
-## Formal rules and warnings (must/must not) 
+## Formal rules and warnings
 - **Must/Must not**
 
   >*Bookings **must** be made at least seven days before departure*
 
 ## Obligation 
-### Inferred obligations (must have to)
+### Inferred obligations
 - **Must have to**  
   Based on **current evidence** to make a **logical assumption** that someone else is forced or required to do something.  
   
   >*I can't access the database. You **must have to** put in a password.*
 
-### External obligations (have (got) to)
+### External obligations
 - **Have to (formal)**  
   When used with **frequency words.**
   - *Always*
@@ -402,14 +397,14 @@
 
   >*I need a new pair of shoes, and **they've got to** be blue.* 
 
-### Lack of obligation (not have to)
+### Lack of obligation 
 - **Not have to**  
   When **somebody else** or **external rules** make something unnecessary
 
   > *We've been told that we **don't have to** be at work until ten tomorrow*
 
 ## Necessity 
-### Practical or internal necessity (need/need to)
+### Practical or internal necessity
 - **Need to/need**  
   Used in **informal language**
 
@@ -417,10 +412,10 @@
 
   > *She's thirsty. She **needs** a drink*
 
-### General necessity (need to)
+### General necessity
 - >*You **need to** be over 18 to get into a nightclub.*  
 
-### Lack of necessity (needn't/not need to) 
+### Lack of necessity
 - **Needn't**  
   Often used in **formal language**. When it is the **speaker** who decides the lack of necessity 
 
@@ -434,19 +429,19 @@
 
   > *I was very nervous before the interview, but I **needn't** have worried - I got the job!*
 
-  >*You **needn't cut** the grass, I'll do it later.* 
+  >*You **needn't** cut the grass, I'll do it later.* 
 
-- **Not need to** 
+- **Not need to**  
   Often used in informal daily speeches.  
 
   >*I **don't need** to wake up early tomorrow*
 
 ## Recommendations
-### General comments (should/ought to)
+### General comments
 - **Should**  
   Commonly be used. 
 
-  >*You **should** finish your homework before going out.*
+  > *You **should** finish your homework before going out.*
 
   Giving advice **with "I"**
 
@@ -456,24 +451,28 @@
 
   >*The manual says that the computer **should** be disconnected from the power supply before the cover is removed.*
 
+  For reporting advice, orders, requests, suggestions use that-clause with should.  
+
+  > *THey have proposed **that** Felix **should** move to their Munich office*
+
 - **Ought to**  
   Formal writings or speeches
 
-  >*You **ought to** finish your homework before you go out.*
+  > *You **ought to** finish your homework before you go out.*
 
-### Present, specific comments (had better)
+### Present, specific comments
 - **Had better (informal)**  
   To express particular **urgency or in demands and threats**
 
-  >*If you're not well, **you'd better** ask Clare to go instead.*
+  > *If you're not well, **you'd better** ask Clare to go instead.*
 
 ## Reaction to past events
-### Expressing regret (should/ought to have)
+### Expressing regret
 - **Should/Ought to have + (past participle)**
 
   >*We **should/ought to have** waited for the rain to stop.*
 
-### Expressing criticism (shouldn't/oughtn't to have)
+### Expressing criticism
 - **Shouldn't/Oughtn't to have + (past participle)**
 
   >*We **shouldn't/oughtn't to have** gone to that place.*

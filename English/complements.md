@@ -19,10 +19,13 @@ setTimeout(() => {
 <div class='toc-sidebar'>
 
 <strong>Other Files</strong>
+
+
+- <a href="clause.md">Clause</a>
 - <a href="communication.md">Communication</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -30,7 +33,8 @@ setTimeout(() => {
 
 <strong>Table of Contents</strong>
 
-- [Definition](#definition)
+- [Complements](#complements)
+  - [Definition](#definition)
 - [Subject Complements](#subject-complements)
   - [Definition](#definition-1)
   - [Noun](#noun)
@@ -62,6 +66,7 @@ setTimeout(() => {
     - [Future actions/states](#future-actionsstates)
     - [Experience](#experience)
     - [Thoughts and communication](#thoughts-and-communication)
+    - [Phase verbs](#phase-verbs)
   - [Prepositional phrase](#prepositional-phrase-2)
 - [Noun Complements](#noun-complements)
   - [Definition](#definition-4)
@@ -87,8 +92,9 @@ setTimeout(() => {
 
 <div class='main-content'>
 
-# Definition 
-- A complement is a word or clause that is legally required by the grammar of the sentence to complete a thought. If the complement is removed, the sentence will be broken or completely lost its sense
+# Complements
+## Definition 
+- A complement is a **word or clause that is LEGALLY REQUIRED by the grammar** of the sentence to complete a thought. If the complement is removed, the sentence will be broken or completely lost its sense
 
 # Subject Complements
 ## Definition 
@@ -251,9 +257,22 @@ setTimeout(() => {
 
 ### Future actions/states 
 - **To infinitive**  
-  Future plans, desires, or intentions
+  These verbs describe **internal thoughts, personal commitments or individual capabilities.**  
+   - *Agree, Consent, Fail, Hope, Manage, Offer, Pretend, Refuse, Start, Threaten, Volunteer* 
   
-  > *They decided **to refactor the entire module.***  
+  > *They decided **to refactor the entire module.*** 
+
+  > *They **threatened to kill** him* 
+
+  Express strong **preferences or wants** 
+  - *Love, Hate, Need, Prefer, Want, Wish, Bear*
+  
+  > *I **want to buy** a car*
+
+  Verbs dealing with what someone anticipates will happen 
+  - *Expect, Mean, Arrange, Aim*
+  
+  > *We **expect to win** the game.*
 
 ### Experience 
 - **Gerunds**  
@@ -261,11 +280,23 @@ setTimeout(() => {
 
   > *We must avoid **hardcoding the credentials***
 
+  **Having + past participle**  
+  - *Admit, Deny, Forget, Recall, Regret, Remember*
+  
+  > *I now **regret having bought** the car.*  
+
 ### Thoughts and communication 
 - **wh-/that - clause**
   To express a **complex idea**
 
   > *I don't understand **why the loop is failing*** 
+
+### Phase verbs 
+- **To infinitive**
+  These verbs describe the **beginning, middle or end of an action.**
+  - *Start, Begin, Continue, Cease*
+
+  > *Supermarket **started to sell** fresh pasta*
 
 ## Prepositional phrase 
 - **Dependent prepositions**  

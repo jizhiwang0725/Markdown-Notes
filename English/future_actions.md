@@ -27,10 +27,13 @@
 
 
 
+
+
+- <a href="clause.md">Clause</a>
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -44,20 +47,20 @@
     - [Intentional verbs + (infinitive)](#intentional-verbs--infinitive)
     - [Present continuous](#present-continuous)
     - [Be going to/Will](#be-going-towill)
-  - [Spontaneous decisions (will)](#spontaneous-decisions-will)
+  - [Spontaneous decisions](#spontaneous-decisions)
 - [Predictions](#predictions)
-  - [Based on opinion or experience (will/present continuous)](#based-on-opinion-or-experience-willpresent-continuous)
-  - [Base on resent evidence (be going to)](#base-on-resent-evidence-be-going-to)
+  - [Based on opinion or experience](#based-on-opinion-or-experience)
+  - [Base on resent evidence](#base-on-resent-evidence)
 - [Expectations](#expectations)
-  - [Commands (will)](#commands-will)
-  - [Expected events (should)](#expected-events-should)
-  - [Fulfilled expectations (was/were to)](#fulfilled-expectations-waswere-to)
+  - [Commands](#commands)
+  - [Expected events](#expected-events)
+  - [Fulfilled expectations](#fulfilled-expectations)
   - [High certainty](#high-certainty)
-  - [Events still in the future (present/past tense)](#events-still-in-the-future-presentpast-tense)
+  - [Events still in the future](#events-still-in-the-future)
 - [Unfulfilled Past](#unfulfilled-past)
-  - [Intension (past tense)](#intension-past-tense)
-  - [Predictions (past tense)](#predictions-past-tense)
-  - [Expectations (was/were to have)](#expectations-waswere-to-have)
+  - [Intension](#intension)
+  - [Predictions](#predictions-1)
+  - [Expectations](#expectations-1)
 
 </div>
 
@@ -94,13 +97,14 @@
 - **Formal**   
   > *The conference **will** start at 8 in the morning.*
 
-## Spontaneous decisions (will) 
-- Usually used as an **offer, request**
+## Spontaneous decisions
+- **Will**  
+  Usually used as an **offer, request**
   
   > ***I'll** pick him up at eight.*
 
 # Predictions
-## Based on opinion or experience (will/present continuous)
+## Based on opinion or experience 
 - **Will**  
   Often be used with:
   - *I bet (informal)*
@@ -113,29 +117,31 @@
   
   > *Do you **reckon he'll** say yes?*
 
-- **Present continuous**
-- Can also be used with those phrases, particularly in **informal contexts**
+- **Present continuous**  
+  Can also be used with those phrases, particularly in **informal contexts**
   
   > *I **am expecting** him to say yes*
 
-## Base on resent evidence (be going to)
-- Prediction is based on **obvious evidence you just saw.** 
+## Base on resent evidence 
+- **Be going to**  
+  Prediction is based on **obvious evidence you just saw.** 
  
   > *The sky's gone really dark. **There's going to be** a storm.*
 
 # Expectations
-## Commands (will)
-- A firm **expectation** for **someone's behaviour**
+## Commands 
+- **Will**  
+  A firm **expectation** for **someone's behaviour**
   
   > *You **will finish** your dinner before you leave this table.*
 
-## Expected events (should)
+## Expected events
 - **Should + (bare infinitive)**  
   When you expect something to happen soon because it makes logical sense or **follows a schedule.**
   
   > *The train **should** arrive in ten minutes.*
 
-## Fulfilled expectations (was/were to)
+## Fulfilled expectations
 - **Was/were to + (infinitive)**  
   At the time, nobody knew what will happen, but looking back now, it was their fate.  
 
@@ -151,28 +157,31 @@
 | **Particular time** | Be due to | - **Scheduled or expected** events. | *The company's chief executive **is due to** retire next week.* |
 | **Ready to happen** | Be set to || *Her new film **is set to** be a great success.* | 
   
-## Events still in the future (present/past tense) 
-- The future **seen from the past** is **still in the future** for the speaker.  
+## Events still in the future 
+- **Present/past tense**  
+  The future **seen from the past** is **still in the future** for the speaker.  
 
   > *It was announced this morning that there **is/was to be** a statement this evening.*
 
 # Unfulfilled Past
-## Intension (past tense)
-- Talk about things that we **intended** to do, but **didn't.**    
+## Intension 
+- **Past tense**  
+  Talk about things that we **intended** to do, but **didn't.**    
   Use **past tense** on those words: 
-  - *Consider*
-  - *Expect to*
-  - *Hope to*
-  - *Think about*
-  - *Want to*
-  - *Going to*
+    - *Consider*
+    - *Expect to*
+    - *Hope to*
+    - *Think about*
+    - *Want to*
+    - *Going to*
 
   > *I **had hoped/hoped/was hoping/had been hoping** to visit the gallery before I left Florence, but it's closed on Mondays*  
 
   > *We **meant/were meaning** to call in and see you, but Marc wasn't feeling well.*
 
-## Predictions (past tense)
-- Talk about things that we **thought** it will happen, but didn't.  
+## Predictions
+- **Past tense**  
+  Talk about things that we **thought** it will happen, but didn't.  
   - *Thought*
   - *Said*
   - *Would*
@@ -180,7 +189,7 @@
 
   > *I **thought** he would win, but he lost.*
 
-## Expectations (was/were to have)
+## Expectations
 - **Was/were to have + (past participle)**
   Normally in **formal** speeches.  
 

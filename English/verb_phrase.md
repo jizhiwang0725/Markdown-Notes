@@ -21,11 +21,12 @@ setTimeout(() => {
 <strong>Other Files</strong>
 
 
+- <a href="clause.md">Clause</a>
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -62,7 +63,7 @@ setTimeout(() => {
 
 # Verb Phrase (VP)
 ## Structural formula 
-- **[Auxiliaries] + HEAD VERB + [Complements/Objects] + [Adverbial Modifiers]**
+- **[Auxiliaries] + HEAD VERB + [Complements] + [Modifiers]**
 
 - **Auxiliaries**  
   **Primary** auxiliaries that dictate **tense** or mood and **modal** auxiliaries
@@ -126,10 +127,8 @@ setTimeout(() => {
 ## Complex transitive 
 ### V + DO + object complement
 - Some verbs requires an **object complement** to make the sentence complete 
-
+  
   **<a href="complements.md#object-complements">See in note about object complements</a>**
-
-
 
 # Intransitive Verb Patterns
 ## Unergative 

@@ -19,10 +19,13 @@
 <div class="toc-sidebar">
 
 <strong>Other Files</strong>
+
+
+- <a href="clause.md">Clause</a>
 - <a href="complements.md">Complements</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="tenses.md">Tenses</a>
@@ -30,11 +33,19 @@
 
 <strong>Table of Contents</strong>
 
-- [Reporting Verbs](#reporting-verbs)
-  - [Transitive](#transitive)
+- [Reporting Words](#reporting-words)
+  - [Transitive Verbs](#transitive-verbs)
     - [Monotransitive](#monotransitive)
     - [Complex transitive](#complex-transitive)
     - [Ditransitive](#ditransitive)
+  - [Nouns](#nouns)
+    - [Communication and declarations](#communication-and-declarations)
+    - [Inquiry and uncertainty](#inquiry-and-uncertainty)
+    - [Actions and intentions](#actions-and-intentions)
+  - [Adjectives](#adjectives)
+    - [Feelings and opinion](#feelings-and-opinion)
+    - [Uncertainty](#uncertainty)
+    - [Tone description](#tone-description)
 - [Reporting](#reporting)
   - [General](#general)
     - [Reporting and reported clause](#reporting-and-reported-clause)
@@ -61,27 +72,39 @@
 
 <div class="main-content">
 
-# Reporting Verbs
-## Transitive 
+# Reporting Words
+## Transitive Verbs
 ### Monotransitive 
-- **V + DO**
-  - **Th-/Wh- clause**
-
-    - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
+- **V + DO (th-/wh- clause)**  
+  With a that-clause, the **person referred** to in the **reported clause** may be **different**  
+  - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
+  - *Insist, Order, Suggest, Say*
   
   > *She **acknowledged that** she had been at fault.*
+
+- **V + DO (to infinitive)**
+  - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
+  - *Intend, Long, Offer, Refuse, Volunteer, Want*
+  
+  > *Carolyn **intends to** return to Dublin after a year in Canada*
+
+- **V + DO (participle)**  
+  Used for **recommendations**  
+  - *Advise, Propose, Recommend, Suggest*
+  
+  > *The lecturer **recommended reading** a number of books before the exam*
 
 ### Complex transitive 
 - **V + DO + complement (to be)**  
   - *Feel, Acknowledge, Assume, Believe, Consider, Declare, Expect, Find, Presume, Report, Think, Understand*
   
-  > *I felt the results **to be** satisfactory*
+  > *I **felt** the results **to be** satisfactory*
 
 - **V + DO + complement (to infinitive)**  
   Informally
-  - *Ask, Require*
+  - *Ask, Require, Call on, Command, Instruct, Invite, Order, Persuade, REcommend, Remind, Request, Urge, Warn, Tell*
   
-  > *The club asks its members **to pay** their fees by 31st December*
+  > *The club **asks** its members **to pay** their fees by 31st December*
   
 ### Ditransitive
 - **V + IO + DO (that-clause)**
@@ -96,6 +119,58 @@
   | **To** | Announce, Complain, Confess,<br> Explain, Indicate, Mention,<br> Propose, Recommend, Report,<br> Say, Suggest | *- She **admitted to** me that she was<br> seriously ill* |
   | **With** | Argue, Check, Disagree,<br> Joke | *- We **agreed with** Ella that the information<br> should go no further* |
   | **Of** | Ask, Demand, Require | *- The club **asks of** its members that they<br> pay their fees by 31st December* |
+
+## Nouns 
+- Most of these nouns are **related to reporting verbs**
+
+### Communication and declarations
+- **Noun + that clause**
+  - *Acknowledgement, Advice, Allegation, Announcement, Answer, Argument, Comment, Decision, Explanation, Forecast, Guarantee, Indication, Observation, Promise, Recommendation, Reply, Speculation, Statement, Suggestion, Threat, Warning*
+
+  > *The jury came to the **conclusion that** the woman was guilty*
+
+### Inquiry and uncertainty
+- **Noun + (as to) + of + wh- clause**  
+  - *Explanation, Discussion, Problem* 
+  
+  > *Juan raised the **question of when** the money would be collected*
+
+- **As to + wh- clause/As to + wh-word + to infinitive**  
+  - *Words listed in "Noun + that clause"*
+  
+  > *She asked my advice **as to/on what** subject she should study at university*  
+
+  > *There was some discussion **as to/of whether** the price included tax or not*  
+
+### Actions and intentions
+- **Noun + to infinitive**  
+  - *Decision, Instruction, Order, Promise, Recommendation, Refusal, Threat, Warning*
+
+  > *I accepted Luisa's **invitation to** visit her in Rome*
+
+## Adjectives
+### Feelings and opinion
+- **Adjective + that clause**  
+  - *Adamant, Agreed, Angry, Annoyed, Grateful, Insistent, Sure*
+  
+  > *The builders are **certain that** they'll finish by the end of next week*
+
+### Uncertainty 
+- **Adjective + wh- clause**  
+  - *Doubtful (+ whether), Uncertain, Not certain, Unsure*
+  
+  > *Scientists **aren't sure where** the remains of the satellite will land*
+
+### Tone description 
+- **Adjective + prep + noun**  
+  Usually to describe the **tone** of the report  
+  - *Apologetic, Complimentary, Insulting, Tactful (+ about)*
+  - *Dismissive, Scornful (+ of)*
+  - *Abusive, Sympathetic (+ to/toward)*
+  
+  > *Today's newspapers are very **critical of** the President's decision to appoint Mr Walters.* 
+
+
 
 # Reporting
 ## General  

@@ -28,11 +28,14 @@
 
 
 
+
+
+- <a href="clause.md">Clause</a>
 - <a href="communication.md">Communication</a>
 - <a href="complements.md">Complements</a>
-- <a href="complex_structures.md">Complex Structures</a>
 - <a href="future_actions.md">Future Actions</a>
 - <a href="modals.md">Modals</a>
+- <a href="noun_phrase.md">Noun Phrase</a>
 - <a href="passive_voice.md">Passive Voice</a>
 - <a href="prepositional_phrase.md">Prepositional Phrase</a>
 - <a href="verb_phrase.md">Verb Phrase</a>
